@@ -1,0 +1,802 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,The tournament has kicked off with 3 close-ish matches.,797,6,4,33.3036350424,0.0,0.0,0.0929465401097,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+1,"And here's an eerie fact: In all 3 games, the chasing team has required 39 runs off the final 3 overs.",796,16,9,88.4586828492,0.0929465401097,0.0,0.0,0.0215003710223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+2,That's quite mind-boggling actually.,795,5,1,15.6617549777,0.0,0.0,0.0,0.0683110281772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+3,"I mean, what are the odds?",794,4,4,26.1125170358,0.0,0.0215003710223,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+4,Can't see that happening again.,793,5,2,21.6891579954,0.0,0.0683110281772,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+5,"Anyway, a good win for Bangladesh.",792,6,2,25.7784303212,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+6,"As a team, you never want to go through the travails of a pressure game.",791,9,8,61.4397753256,0.0,0.0,0.130197001583,0.0812841193664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+7,But nothing beats the confidence derived when you successfully pull through one.,790,8,5,64.3890613189,0.130197001583,0.0,0.0137962934058,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+8,"Okay, the second game today is between Ireland and Oman and the toss is in under 10 minutes.",789,11,9,82.5445922582,0.0137962934058,0.0812841193664,0.0243956220316,0.0203816098184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.13668
+9,Switch tabs and join us there!,788,5,2,32.3725687187,0.0243956220316,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+10,"See you!Mortaza: ""They were in a good situation even after 14 overs.",787,11,6,63.1230983624,0.0,0.0203816098184,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+11,But the back-to-back wickets was the game-changer.,786,4,4,15.9336079796,0.0,0.0,0.0410430468715,0.154653451242,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+12,Last over is always the most difficult to bowl.,785,5,5,42.1173852059,0.0410430468715,0.0,0.0148302886038,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+13,But the way Taskin bowled was very pleasing.,784,5,4,34.4996086143,0.0148302886038,0.154653451242,0.153433859854,0.0454591870655,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+14,He's been practising very hard and I was confident in his yorker bowling abilities.,783,8,8,62.6812638236,0.153433859854,0.0,0.118381994105,0.0962070538563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+15,I was sure that he'll bowl at least 5 yorkers and he did it.,782,7,9,53.2945218398,0.118381994105,0.0454591870655,0.0594981544298,0.0159121431665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+16,"""Borren: ""Two places it got away from us - right at the end of our bowling innings.",781,15,6,71.2066918908,0.0594981544298,0.0962070538563,0.174082837263,0.0719617876802,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+17,And the same time in the batting innings.,780,4,5,30.9825677469,0.174082837263,0.0159121431665,0.0,0.113758312028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22815
+18,"4 overs to go with 10 an over required, we should have got there.",779,8,8,60.0510990335,0.0,0.0719617876802,0.0,0.110644637738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+19,van Meekeren is a young fellow who has pretty much produced [the goods] for us most of the time.,778,13,9,83.2083416224,0.0,0.113758312028,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+20,He dropped an easy catch at third man and came back with a wicket first ball.,777,11,6,64.9567144564,0.0,0.110644637738,0.0,0.0215857726146,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0.10345
+21,That shows character.,776,3,1,17.3199830543,0.0,0.0,0.054024598702,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+22,Bangladesh hit 6 sixes down the ground and we hit only 1 and that was the difference also.,775,10,9,67.1209476299,0.054024598702,0.0215857726146,0.0,0.0231903316567,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.123165
+23,"""""I've been playing quite a few domestic T20 tournaments.",774,9,4,41.9543316261,0.0,0.0,0.100092831712,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+24,Been working out the way how to bat.,773,4,5,33.1479206288,0.100092831712,0.0231903316567,0.0424861785031,0.0209395400775,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+25,Talking to the coaches and fellow players about the same.,772,5,6,44.9148884066,0.0424861785031,0.0,0.0330027244309,0.0773262196382,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+26,Being calm in the middle.,771,3,3,22.3789374028,0.0330027244309,0.0209395400775,0.0456427429927,0.0174361633432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.244755
+27,The wicket wasn't the easiest to bat on.,770,5,5,25.6057304793,0.0456427429927,0.0773262196382,0.0327792025757,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.257575
+28,They bowled well and even the spinners did a good job.,769,7,5,45.5861914037,0.0327792025757,0.0174361633432,0.0,0.0959829887625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.309805
+29,I thought we were 15 runs short.,768,5,3,31.9225151333,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.244755
+30,"But how our bowlers bowled, especially Taskin was amazing.",767,7,4,46.7223823755,0.0,0.0959829887625,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.066665
+31,"Slightly difficult to adapt to the conditions here coming from summer back home, and here it's a bit coldish.",766,13,9,83.6300289513,0.0,0.0,0.0130329077754,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20476
+32,Every time while running it feels you have a breathing problem.,765,7,5,54.2079175779,0.0130329077754,0.0,0.0,0.0391253667905,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+33,That's fine.,764,3,1,7.93187401632,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.226195
+34,"It was a very important game for us, and we won it.",763,5,9,45.6164028526,0.0,0.0391253667905,0.189677018938,0.0132604504033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.305185
+35,"We have a game day-after and we need to correct all we have done wrong here,"" says a relieved Tamim Iqbal who was quite brilliant in his 58-ball 83* and is rightly the Man of the Match.Earlier, Tamim Iqbal stood tall amidst the ruins to carry Bangladesh to a good enough total for the bowlers to defend.",762,34,27,224.09910632,0.189677018938,0.0,0.0393166279751,0.0553423783247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16555
+36,Paul van Meekeren and Timm van der Gugten put up sterling efforts with the ball.,761,12,4,65.038467734,0.0393166279751,0.0132604504033,0.0129212352247,0.11206828844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+37,"In the end, it went in vain.",760,5,4,27.5228562609,0.0129212352247,0.0553423783247,0.0812374978358,0.116044232649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+38,"The Dutch perhaps would ponder about Wesley Barresi missing a stumping chance off Roelof van der Merwe, with Tamim being the beneficiary in the 13th over.",759,18,10,118.233899433,0.0812374978358,0.11206828844,0.0483073950786,0.0169746692971,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09508
+39,We will have the presentations in a few minutes...,758,3,7,36.7060331357,0.0483073950786,0.116044232649,0.0314960322873,0.0588844190729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.235295
+40,"In fact, for a while, Borren seemed to be cajoling and willing his team to victory.",757,10,9,67.3197057225,0.0314960322873,0.0169746692971,0.121143131477,0.0357237760355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+41,"Shakib chugging down Borren in the 16th over though, proved to be the difference between the two sides.",756,11,9,80.0938876137,0.121143131477,0.0588844190729,0.0353283147529,0.0608084501619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.177525
+42,"Stephan Myburgh and Ben Cooper cracked handy knocks, and Mudassar Bukhari landed a few lusty blows in the slog overs.",755,16,6,93.4083287945,0.0353283147529,0.0357237760355,0.00675784352229,0.0302970263976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+43,"But with Taskin bowling a superb last over, they couldn't cross the finish line.",754,11,6,64.4960524305,0.00675784352229,0.0608084501619,0.0,0.029757993413,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+44,"In a game made up of twists and turns, Bangladesh showed their experience to overcome a spirited challenge from Netherlands.",753,13,9,90.2470570847,0.0,0.0302970263976,0.120230369434,0.148289427952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+45,"For long periods of the match, the Dutch were in the game.",752,7,7,47.4681441472,0.120230369434,0.029757993413,0.170634872891,0.0419673475558,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+46,"But, the old hands, Mashrafe Mortaza and Shakib Al Hasan, used their wisdom of experience to snare scalps at crucial junctures of the match.",751,19,9,113.873833096,0.170634872891,0.148289427952,0.0675365061384,0.0155443778193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+47,Al-Amin Hossain was also amongst the wickets.,750,6,2,27.3960952574,0.0675365061384,0.0419673475558,0.0148622416716,0.0132166078419,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+48,Bangladeshi players look placid enough on the field.,749,7,2,39.407797961,0.0148622416716,0.0155443778193,0.0119367383852,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.092865
+49,"No trademark chest pumping, no over-the-top celebrations.",748,7,2,33.5170273955,0.0119367383852,0.0132166078419,0.0,0.0121483993579,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+50,Tells you about their mindset.,747,3,3,29.2573366872,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+51,They want to go all the way in this tournament.,746,5,6,42.6674830894,0.0,0.0121483993579,0.0951237958719,0.0591934094753,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+52,This is just a step.,745,2,4,17.5847111506,0.0951237958719,0.0,0.361098525014,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181815
+53,But a vital step in the right direction.,744,5,4,31.8848730708,0.361098525014,0.0591934094753,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+54,"Netherlands gave them a good run for their money, make no mistake, and props to them too for a brilliant match.",743,13,11,90.6808171759,0.0,0.0,0.0,0.0249020861928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1683
+55,.,742,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+56,"Taskin Ahmed to van Beek, 1 run, Bangladesh have gotten out of jail!",741,12,4,48.4364580168,0.0,0.0249020861928,0.232058016609,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+57,Taskin Ahmed is the hero.,740,4,2,20.1026514033,0.232058016609,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+58,Look at his figures.,739,3,2,20.1306281909,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+59,.,738,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+60,- .,737,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+61,.,736,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+62,And he bowled all the difficult overs.,735,4,4,28.4895250458,0.0,0.0,0.0,0.191186227519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+63,Don't forget Mortaza's contribution too.,734,6,2,27.171758709,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+64,"Very full again, like he has been all the time, van Beek drills it to cover and saunters across for the single .",733,13,12,86.8324377751,0.0,0.191186227519,0.0372751688146,0.111352989844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+65,"Taskin Ahmed to Seelaar, leg byes, 1 run, that's it!",732,12,3,31.3141569313,0.0372751688146,0.0,0.085436393675,0.100701959081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+66,"Taskin has done the job, lest he bowls a no-ball or wide.",731,9,5,49.4781537061,0.085436393675,0.111352989844,0.0374527196949,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+67,"Sees Seelaar walking across for a scoop, follows him with a brisk length ball and hits the padTwo sixes needed now.",730,15,8,92.9474853524,0.0374527196949,0.100701959081,0.0,0.0395648989811,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.083335
+68,.,729,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+69,"Taskin Ahmed to van Beek, 1 run, fullish and following the batsman, slogged to deep mid-wicket for a single.",728,17,6,61.0998762827,0.0,0.0395648989811,0.0,0.249545060248,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+70,.,727,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+71,"Taskin Ahmed to van Beek, 2 runs, ah, amazing stuff!",726,13,1,41.613661832,0.0,0.249545060248,0.0,0.117009353607,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.0625
+72,"Full, fast and targetting the base of middle and leg, swatted off the inside half in front of long-on.",725,14,8,72.0625206649,0.0,0.0,0.09842782158,0.0183561078786,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+73,And then van Beek comes in between Soumya's throw and the keeper.,724,8,6,46.7074560246,0.09842782158,0.117009353607,0.195124870786,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+74,"Would have made it anywayLogan van Beek, right handed bat, comes to the crease .",723,13,4,56.0853341396,0.195124870786,0.0183561078786,0.0147000529475,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12708
+75,"Taskin Ahmed to Bukhari, out Bukhari Run Out!!",722,8,3,27.0492751345,0.0147000529475,0.0,0.0709371950424,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+76,1 run completed!,721,4,0,9.05862345002,0.0709371950424,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+77,"Now Soumya is much more agile, swoops in on the ball, gathers, and fires a bullet throw at the striker's end.",720,16,10,91.0619657285,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+78,Bukhari was always struggling.,719,4,1,20.3255511746,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+79,But what about Taskin!,718,2,3,18.3440500804,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+80,How good has he been!,717,2,4,22.2137798671,0.0,0.0,0.0,0.078653198121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25
+81,"Brilliant low full toss on leg, Bukhari can only hit it along the turf to long-on.",716,12,6,63.3049509859,0.0,0.0,0.0,0.0812305404534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.107145
+82,"If he keeps going this way, his team are home.",715,7,5,50.4056256478,0.0,0.078653198121,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+83,Bukhari run out (Soumya Sarkar/Rahim)  . ),714,8,1,14.3847660752,0.0,0.0812305404534,0.0,0.312115052935,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+84,[4s- .,713,3,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+85,"s-1]Taskin Ahmed to Bukhari, THAT'S OUT!!",712,9,3,20.5963830756,0.0,0.312115052935,0.325714292461,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+86,Run Out!!,711,3,1,5.93772803352,0.325714292461,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+87,.,710,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+88,"Taskin Ahmed to Bukhari, 2 runs, oh nice.",709,10,1,30.3150992308,0.0,0.0,0.0878818373829,0.0284914061963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+89,Very full and doesn't allow Bukhari to get under it as he tries to launch it downtown.,708,9,10,72.44700398,0.0878818373829,0.0,0.0355344192393,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2079
+90,Drilled to long-on.,707,3,1,8.27914818597,0.0355344192393,0.0284914061963,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10526
+91,"Clumsy work in the deep, should have been just a single17 needed off the final over.",706,8,10,67.1875245365,0.0,0.0,0.0418987837901,0.171326150627,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.201735
+92,Taskin is the bowler.,705,3,2,14.0615181928,0.0418987837901,0.0,0.0,0.128429595772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+93,He had conceded just 6 in his previous over.,704,4,6,35.588346808,0.0,0.171326150627,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+94,But the pressure is much more accentuated here.,703,4,5,35.9121261705,0.0,0.128429595772,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+95,.,702,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+96,"Al-Amin to Seelaar, no run, sees Seelaar backing away and fires a full toss wide of off.",701,14,6,60.2830672619,0.0,0.0,0.232506320454,0.303706970931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09091
+97,Seelaar's movement took him out of reach of the delivery .,700,7,5,42.5186504187,0.232506320454,0.0,0.110027995882,0.0165449474752,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+98,"Al-Amin to Seelaar, FOUR, haha, we are on folks.",699,9,4,36.9342493146,0.110027995882,0.303706970931,0.0,0.0919087654239,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14091
+99,16 off the over so far.,698,3,4,26.7848443531,0.0,0.0165449474752,0.0775825371933,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+100,"Seelaar walks well across the stumps, his back leg nearly stomped on the wide line, picks a full ball and scoops it over short fine leg .",697,21,8,104.34904643,0.0775825371933,0.0919087654239,0.0,0.0418986285902,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113205
+101,"Al-Amin to Bukhari, 1 run, great comeback.",696,9,1,21.3102742209,0.0,0.0,0.0539514422317,0.305656218365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+102,"Harpooned into the blockhole on off, Bukhari swings hard, chops it onto pad off an inside edge and runs like mad .",695,16,8,96.1372196941,0.0539514422317,0.0418986285902,0.0464728640328,0.0124378450227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+103,"Al-Amin to Bukhari, wide, now he's got him thinking.",694,9,4,34.4257521542,0.0464728640328,0.305656218365,0.1897747121,0.323425426805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+104,Gives the charge only to fine Al-Amin cowering away with a low full toss well wide of the tramlines .,693,13,7,75.4016225403,0.1897747121,0.0124378450227,0.157697690624,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.151315
+105,"Al-Amin to Bukhari, SIX, kaboom!",692,7,1,18.0254692118,0.157697690624,0.323425426805,0.101193658789,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.083335
+106,Netherlands have come roaring back through Bukhari.,691,6,2,32.9319989546,0.101193658789,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+107,10 off 2 balls and this was right off the screws.,690,6,6,39.2356188313,0.0,0.0,0.0201772420907,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+108,"Takes a couple of steps down, Al-Amin dishes a perfect length ball in the slot and finds himself pumped over wide long-on .",689,15,9,86.6957624588,0.0201772420907,0.0,0.120246490934,0.00861074635927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11845
+109,"Al-Amin to Bukhari, FOUR, now that will do.",688,6,5,27.6452702425,0.120246490934,0.0,0.0824944777937,0.00978305397211,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1
+110,Bukhari won't even bother looking at the replays.,687,8,2,33.4016942088,0.0824944777937,0.00861074635927,0.016749541665,0.0812791443237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.19551
+111,"Makes a bit of room to a short of length delivery on off, still gets cramped on the cut and runs it off a thick edge wide of the flying keeper.",686,18,15,108.258522623,0.016749541665,0.00978305397211,0.0908205912285,0.0106856610066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+112,"Just out of Rahim's reachMudassar Bukhari, right handed bat, comes to the crease .",685,12,5,51.0996476064,0.0908205912285,0.0812791443237,0.0880609106368,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+113,"Al-Amin to T Cooper, out Caught by A Sunny!!",684,7,5,22.7543893917,0.0880609106368,0.0106856610066,0.0,0.060382670558,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+114,Excellent variation in pace.,683,4,1,21.5727139116,0.0,0.0,0.115025032114,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+115,"Saw Cooper shaping for the reverse-scoop, took all the pace off the ball and delivered it on a back of a length.",682,12,12,70.8291212693,0.115025032114,0.060382670558,0.17803381702,0.0984031354461,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+116,Cooper has to manufacture all the power on his own.,681,4,7,41.2694879116,0.17803381702,0.0,0.0865276656089,0.118652945092,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+117,"Tries to hoick it over the infield, gets it high on the bat and spoons it to short third man who runs to his right, dives and takes it nicely with both hands.",680,19,17,130.056109425,0.0865276656089,0.0984031354461,0.0,0.0319727585132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116665
+118,T Cooper c A Sunny b Al-Amin  .,679,6,2,8.06422546781,0.0,0.118652945092,0.578703066012,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+119,"8) [4s-2]Al-Amin to T Cooper, THAT'S OUT!!",678,11,4,12.2108773256,0.578703066012,0.0319727585132,0.0,0.475783673964,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+120,Caught!,677,2,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+121,!Al-Amin Hossain [ .,676,5,0,4.01979929964,0.0,0.475783673964,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+122,- .,675,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+123,-1] is back into the attackSix balls and six singles.,674,8,4,39.0250600207,0.0,0.0,0.0125874456315,0.0139666721323,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.08108
+124,Bangladesh's pacers are coming to the fore when it matters.,673,7,5,47.5925658514,0.0125874456315,0.0,0.0120801146174,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15385
+125,The equation becomes even tricker for Netherlands.,672,6,2,36.4905571435,0.0120801146174,0.0139666721323,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+126,33 in two now.,671,3,2,19.652779249,0.0,0.0,0.0,0.0316677169223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+127,.,670,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+128,"Taskin Ahmed to T Cooper, 1 run, almost a yorker speared in just outside off, Cooper drills it through the point region and is restricted to a single by some quick work from sweeper cover .",669,23,16,130.35035576,0.0,0.0316677169223,0.156589290893,0.0453098275439,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+129,"Taskin Ahmed to Seelaar, 1 run, Seelaar is moving everywhere in the crease.",668,12,4,48.5964079961,0.156589290893,0.0,0.0690096974756,0.193305487958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+130,But Taskin hasn't been swayed yet.,667,5,3,29.9348811408,0.0690096974756,0.0453098275439,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26915
+131,Another pin-point yorker on the stumps as Seelaar was backing away.,666,8,4,42.0201193788,0.0,0.193305487958,0.0770501404586,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+132,Can't do much more than squeeze it towards backward point .,665,8,4,44.4440077582,0.0770501404586,0.0,0.0176818821671,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+133,"Taskin Ahmed to T Cooper, 1 run, fine leg brought up for Cooper and he tries to scoop it wide of him.",664,15,10,73.9378491847,0.0176818821671,0.0,0.067649344882,0.047351811386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+134,"But he hardly moved across, just reached out for the length ball with his hands.",663,9,8,64.0134725465,0.067649344882,0.0,0.0197844341656,0.114341829554,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+135,Couldn't get any power on the shot and glanced it straight to the fielder .,662,9,7,56.0855910284,0.0197844341656,0.047351811386,0.0397343230558,0.0782516295831,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+136,"Taskin Ahmed to Seelaar, leg byes, 1 run, Seelaar targetted that square leg region, walked well across the stumps looking to hit across the line, but Taskin is brilliant.",661,28,7,115.176436566,0.0397343230558,0.114341829554,0.114455775345,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08163
+137,Cannons it into the blockhole following the batsman and hits the boot againSquare leg being brought up to allow fine leg to go back.,660,15,10,105.151975469,0.114455775345,0.0782516295831,0.0,0.168082005445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+138,.,659,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+139,"Taskin Ahmed to T Cooper, leg byes, 1 run, fires in a yorker and smacks Cooper's boot as he is late on the flick.",658,19,10,84.1035649417,0.0,0.168082005445,0.101608331416,0.0899044610152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+140,No real appeal as the ball would have gone down leg.,657,7,5,47.5730883104,0.101608331416,0.0,0.0757296379217,0.0943981178505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+141,The duo sneak in a leg-bye .,656,4,3,17.7558472517,0.0757296379217,0.0899044610152,0.0611769405226,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+142,"Taskin Ahmed to Seelaar, 1 run, slips in a brisk length ball aiming for the top of off, Seelaar is already a foot outside leg as he shuffles across, lucky to get some bat and chop it wide of backward pointTaskin Ahmed [ .",655,32,16,163.876261972,0.0611769405226,0.0943981178505,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123445
+143,- .,654,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+144,. ],653,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+145,is back into the attackWhat a brilliant over from the Bangladeshi skipper.,652,6,7,47.386510642,0.0,0.0,0.0,0.0325875346444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+146,Just 3 runs off it and a wicket too.,651,4,6,23.5590793493,0.0,0.0,0.0,0.162075084425,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+147,That's turned the match decisively.,650,5,2,23.6658315988,0.0,0.0325875346444,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+148,It's now 39 off  .,649,3,3,16.4559479068,0.0,0.162075084425,0.0,0.0382282325293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+149,.,648,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+150,"Mortaza to Seelaar, 1 run, shortish just outside off, either side of backward point would have been a boundary but Seelaar blazes the cut close enough to him.",647,21,11,109.999931869,0.0,0.0382282325293,0.0,0.379112835266,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.155135
+151,Still a good diving stop .,646,5,1,22.1594922578,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+152,"Mortaza to Seelaar, no run, back of a length delivery very close to off, Seelaar tries to angle it down towards third man.",645,17,10,81.9843668581,0.0,0.379112835266,0.01895505758,0.193570281991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09302
+153,"But when you offer so little of the bat, chances are that you won't connect.",644,9,9,65.5822721621,0.01895505758,0.0,0.0575148095582,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.134575
+154,"And he doesn'tPieter Seelaar, right handed bat, comes to the crease .",643,10,4,35.2753983323,0.0575148095582,0.193570281991,0.0165511262458,0.0875600164669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+155,"Mortaza to van der Merwe, out Caught by Rahim!!",642,9,3,33.893178477,0.0165511262458,0.0,0.0,0.129602869559,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+156,This time he nicks it.,641,3,3,20.7028185178,0.0,0.0875600164669,0.0476435854867,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+157,"Almost a similar delivery to the previous one, this one rises higher, van der Merwe slashes hard, never in control of the extra bounce and gets a faint tickle.",640,24,9,125.64248081,0.0476435854867,0.129602869559,0.161332908391,0.17148057639,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144595
+158,van der Merwe c Rahim b Mortaza  .,639,8,0,19.2030145531,0.161332908391,0.0,0.673790339396,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+159,")Mortaza to van der Merwe, THAT'S OUT!!",638,9,3,22.790050623,0.673790339396,0.17148057639,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+160,Caught!!,637,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+161,.,636,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+162,"Mortaza to van der Merwe, no run, flashes at a shortish ball but the room isn't there, gets too cramped and the ball bounces over his flailing blade .",635,20,13,105.847332928,0.0,0.0,0.0936239148261,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125905
+163,"Mortaza to T Cooper, 1 run, oh drama.",634,9,2,24.1092288007,0.0936239148261,0.0,0.0,0.0550010398293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+164,I just don't believe what has transpired here.,633,4,6,38.5249633675,0.0,0.0,0.0536485997788,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+165,Cooper has chopped an attempted cut off the bottom edge onto the base of off-stump and the bails have remained unmoved.,632,13,9,90.523788949,0.0536485997788,0.0550010398293,0.0253558630727,0.0550389207144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+166,Talk about a slice of luck .,631,4,3,28.658805483,0.0253558630727,0.0,0.0232350791965,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+167,"Mortaza to van der Merwe, 1 run, stays leg-side to a back of a length delivery just outside off, stabs it down to third manvan der Merwe is the new man in42 from 24.",630,25,13,118.320713966,0.0232350791965,0.0550389207144,0.0,0.0195098695098,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+168,Wonder if Bangladesh's richer experience will come in handy here.,629,8,4,55.0846262065,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.105265
+169,"But don't forget, they were favourites for this one, so there is that added pressure too.",628,9,11,76.9375850776,0.0,0.0195098695098,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+170,Works both ways.. .,627,3,1,11.6290522732,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+171,"Shakib to Borren, out Caught by Nasir Hossain!!",626,8,3,30.2702561713,0.0,0.0,0.20114515957,0.0225881178241,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+172,Nasir Hossain makes immediate amends at deep mid-wicket.,625,8,1,36.5931610134,0.20114515957,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+173,"Almost a similar catch, this time running to his right, gets to the ball and cushions it in front of the chest while sliding on his knees.",624,16,14,104.919988998,0.0,0.0225881178241,0.0879387164974,0.08870672049,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.19338
+174,"For the gazillionth time, Borren had sliced the slog-sweep.",623,7,4,32.3697711199,0.0879387164974,0.0,0.152145184016,0.0438361883926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+175,"Had to reach out for the ball well outside off, and could only lob it off the toe-end.",622,9,11,60.97547411,0.152145184016,0.08870672049,0.0665374979511,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+176,Credit to Shakib here for tossing it wider.,621,5,4,36.1815086039,0.0665374979511,0.0438361883926,0.13450458997,0.138411047463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.13333
+177,Borren c Nasir Hossain b Shakib  .,620,7,0,15.5800922474,0.13450458997,0.0,0.384762602503,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+178,"8) [4s-3]Shakib to Borren, THAT'S OUT!!",619,11,3,15.8712478568,0.384762602503,0.138411047463,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+179,Caught!!,618,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+180,.,617,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+181,"Shakib to Borren, 2 runs, tossed up wide of off, Borren skates out, reaches out and smites it through mid-wicket.",616,16,9,71.8260367511,0.0,0.0,0.016967505808,0.31878944009,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.111115
+182,Mistimed again and another two .,615,4,2,23.1179910733,0.016967505808,0.0,0.0189440720735,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+183,"Shakib to Borren, 2 runs, Nasir Hossain runs across from deep mid-wicket, gets to the ball and puts it down.",614,17,7,64.149751637,0.0189440720735,0.31878944009,0.0283786523114,0.109027407129,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+184,"After covering all the ground, it should have been taken.",613,5,7,47.5402730567,0.0283786523114,0.0,0.0,0.0190588921139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+185,A mistimed slog-sweep from Borren fetches him a couple .,612,6,4,30.1881617866,0.0,0.109027407129,0.118342748842,0.272375194591,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+186,"Shakib to Borren, 2 runs, runs down the track, can't meet the pitch but that doesn't dampen him.",611,16,8,65.6146654339,0.118342748842,0.0190588921139,0.0199162236838,0.145250110421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+187,Goes through with the slog and drags it behind square for a couple .,610,7,7,49.2857231764,0.0199162236838,0.272375194591,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+188,"Shakib to Borren, FOUR, that's been scorched wide of long-on one-handed.",609,11,4,34.9549343523,0.0,0.145250110421,0.0,0.00889864192657,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.23718
+189,Brilliant shot.,608,3,0,11.1182266495,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+190,"Had to reach out for the slog, bent his knees a little while stretching and heaved it away along the carpet .",607,12,11,89.5210413787,0.0,0.00889864192657,0.111768726221,0.0163928710975,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+191,"Shakib to Borren, 2 runs, sits on his back knee looking for the slog-sweep, not in control of the bounce and slices it over mid-wicket, right between two deep fieldersThe required rate is nearly kissing 11 rpo.",606,28,14,152.627409018,0.111768726221,0.0,0.0545194839434,0.0557304040754,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15199
+192,"But with only 5 overs left, it's not far-fetched.",605,7,5,29.1819228299,0.0545194839434,0.0163928710975,0.0,0.0622909731567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+193,We are in for a thriller... .,604,3,5,22.255343122,0.0,0.0557304040754,0.0,0.0282894864987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+194,"Mortaza to Borren, 1 run, slower off-cutter on a good length on off, Borren stomps forward and defends it with a closed face towards mid-wicket .",603,20,9,77.8741834809,0.0,0.0622909731567,0.190514885028,0.085021751076,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.215475
+195,"Mortaza to T Cooper, leg byes, 1 run, looked like an off-cutter, Cooper is deceived for the lack of pace trying to work it through the on-side, deflects off the pads to the right of the bowler and a quick leg-bye is snatched.",602,29,20,139.449813469,0.190514885028,0.0282894864987,0.140291180353,0.302639182368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15246
+196,Mortaza turns around and clobbers the stumps with a throw but the Cooper was well home .,601,10,7,62.0916245556,0.140291180353,0.085021751076,0.133720508619,0.0530845137884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+197,"Mortaza to T Cooper, no run, back of a length delivery on the pads, tucked to mid-wicket .",600,13,8,46.0454214375,0.133720508619,0.302639182368,0.0930518823265,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+198,"Mortaza to Borren, byes, 1 run, another short ball and Borren can do nothing more than sway away.",599,16,6,72.6513666801,0.0930518823265,0.0530845137884,0.0,0.0129493345184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+199,Rahim gets some glove this time.,598,5,2,28.3726961133,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+200,Only a half-stop though and a bye is sneaked .,597,5,5,28.9747102383,0.0,0.0129493345184,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+201,"Mortaza to Borren, byes, FOUR, jeez, that's took off.",596,12,3,37.2792953517,0.0,0.0,0.0702784463319,0.119298156395,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.19549
+202,Banged in on a short of length trying to follow Borren who was backing away.,595,9,7,58.066448392,0.0702784463319,0.0,0.0578800523137,0.0114553593214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+203,Zooms off the pitch and Borren lets it go.,594,6,4,35.6257363181,0.0578800523137,0.119298156395,0.0147302385548,0.0644655478505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+204,The keeper couldn't get his mitts high enough to stop .,593,9,3,44.6440361793,0.0147302385548,0.0114553593214,0.00985586279922,0.0326426399027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+205,"Mortaza to Borren, no run, stoops down low looking for a scoop and Mortaza must have seen him.",592,13,8,71.5005062255,0.00985586279922,0.0644655478505,0.0193556310073,0.0886263230289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+206,"Bowls it slightly short, gets it to zoom over the top-edge and hit the arm.",591,10,7,52.5252980365,0.0193556310073,0.0326426399027,0.0747899343163,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+207,"Rahim thought it was an opportunity and dived forward, but it wasn'tMashrafe Mortaza [ .",590,10,6,51.1018570624,0.0747899343163,0.0886263230289,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+208,- .,589,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+209,. ],588,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+210,is back into the attack61 runs required off 36 balls.,587,7,4,44.6533838189,0.0,0.0,0.0691509720363,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+211,This is the partnership that needs to get the bulk of it.,586,5,8,45.735084333,0.0691509720363,0.0,0.0,0.0279546769315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+212,.,585,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+213,"Shakib to T Cooper, FOUR, full enough outside off, Cooper's eyes light up as he sees a drive through the covers.",584,17,9,82.291324581,0.0,0.0279546769315,0.0187746588563,0.0661893538336,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.190735
+214,Blazes it along the carpet and finds the gap .,583,6,4,39.7457634694,0.0187746588563,0.0,0.0583382993409,0.0611827922604,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+215,"Shakib to Borren, 1 run, the length is slightly short and drifting in towards middle and leg.",582,14,6,55.0201077744,0.0583382993409,0.0661893538336,0.163552855462,0.117803777891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+216,"As a result, Borren has to reach out for the sweep well in front of the body, his bottom hand comes off and he mistimes it to short fine .",581,16,16,108.391307029,0.163552855462,0.0611827922604,0.0827560078152,0.0845749691493,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18454
+217,"Shakib to T Cooper, 1 run, tossed up just outside off, driven to long-off .",580,12,6,41.3454155734,0.0827560078152,0.117803777891,0.194592180916,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.125
+218,"Shakib to T Cooper, FOUR, oh well played!",579,9,2,29.5013549423,0.194592180916,0.0845749691493,0.0,0.0602505864286,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.142855
+219,Much needed boundary.,578,4,0,16.8762967334,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.049995
+220,"Wasn't all that short outside off, Cooper allows it to come on, plays it from under his eyeline and laces the cut through the backward point region .",577,16,15,109.390301418,0.0,0.0602505864286,0.157373384786,0.170526038811,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163925
+221,"Shakib to T Cooper, no run, backs away to create his own room, arches his back looking to cut it hard.",576,16,9,81.9535054942,0.157373384786,0.0,0.0492582107468,0.195954101855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+222,The ball grips a little and Cooper slices it off a thick outside edge in front of short third man .,575,13,8,73.4508138158,0.0492582107468,0.170526038811,0.140576700658,0.0234593802344,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+223,"Shakib to T Cooper, no run, flatter delivery just outside off, driven to extra-cover .",574,12,6,42.9931407538,0.140576700658,0.195954101855,0.0957934360863,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+224,"A Sunny to Borren, no run, darted in quick, skids on from a fuller length to foil Borren's sweep.",573,16,8,69.8645338481,0.0957934360863,0.0234593802344,0.0271447397513,0.120851540516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+225,"There is a huge scream in appeal, but the ball was going down leg .",572,8,8,54.2260442227,0.0271447397513,0.0,0.0654544046109,0.0408755905571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+226,"A Sunny to T Cooper, 1 run, slightly slower through the air and eased down to long-off .",571,12,8,48.7057478947,0.0654544046109,0.120851540516,0.170357958901,0.333458201125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+227,"A Sunny to Borren, 1 run, skates out of the crease and Sunny fires it towards the pad, Borren manages an inside edge which deflects off the pad in front of point .",570,22,14,117.782193146,0.170357958901,0.0408755905571,0.19051175586,0.109964208509,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+228,"A Sunny to T Cooper, 1 run, allows the ball to slide on towards him and punches down to long-on .",569,13,10,57.4616873731,0.19051175586,0.333458201125,0.261686202055,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+229,"A Sunny to T Cooper, no run, quick and slightly short, slides on and beats Cooper for pace as he tries to cut.",568,16,11,80.9332808996,0.261686202055,0.109964208509,0.0,0.124763409487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13304
+230,Can't connect .,567,4,0,6.5847486571,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+231,"A Sunny to Borren, 1 run, fires in a full ball down leg, Borren - who was already looking to reverse sweep - has to reach out for it.",566,20,13,90.748702148,0.0,0.124763409487,0.0922281110127,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+232,No way he could have got any power behind it and guides it to short third manArafat Sunny [ .,565,12,8,78.379810117,0.0922281110127,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163475
+233,- .,564,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+234,-0] is back into the attack .,563,5,3,16.7433686828,0.0,0.0,0.0997052400229,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+235,"Shakib to T Cooper, no run, this time the length isn't short enough, nor is the room so great, chops it to backward point .",562,18,12,86.6293142894,0.0997052400229,0.0,0.303186414274,0.0861649202741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+236,"Shakib to T Cooper, no run, flatter, slightly short and Cooper sees a cut through point.",561,14,6,54.1585731322,0.303186414274,0.0,0.0317510642567,0.0663728311235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+237,The ball hurries on and he mistimes it to the fielder .,560,5,7,36.9689223865,0.0317510642567,0.0861649202741,0.010030242596,0.0703790695426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195515
+238,"Shakib to Borren, 1 run, plonks his front leg across, reaches out for a sweep, so much so that his bottom hand comes off.",559,19,10,91.9716640657,0.010030242596,0.0663728311235,0.00840695687064,0.0756374380265,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+239,But connects it nicely along the carpet to deep backward square .,558,8,4,47.1876382868,0.00840695687064,0.0703790695426,0.033840680197,0.0201382442868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+240,"Shakib to T Cooper, 1 run, looped up and slipping through from a length from round the wicket, Cooper leans forward and eases into a push down to long-offTom Cooper, right handed bat, comes to the crease .",557,27,16,124.868045268,0.033840680197,0.0756374380265,0.250853047714,0.111248457196,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.113205
+241,"Shakib to Ben Cooper, out Bowled!!",556,7,2,21.9422068272,0.250853047714,0.0201382442868,0.154833841964,0.0197507746827,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+242,"With the required rate jumping, Cooper feels obliged to do something out of the ordinary.",555,10,7,70.4821506852,0.154833841964,0.111248457196,0.00919086181771,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+243,Premeditates a slog-sweep to a ball which lands very full.,554,6,5,34.3293499825,0.00919086181771,0.0197507746827,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+244,It was pushed through quicker as well from Shakib making his job even tougher.,553,9,6,66.1979127685,0.0,0.0,0.0,0.115479923634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+245,Sneaks under the swinging bat and takes middle stump.,552,7,3,41.8584834267,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+246,Ben Cooper b Shakib  .,551,5,0,11.933806456,0.0,0.115479923634,0.681714529343,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+247,"5) [4s-3]Shakib to Ben Cooper, THAT'S OUT!!",550,12,3,20.4316147494,0.681714529343,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+248,Bowled!!,549,3,0,4.85014760171,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+249,.,548,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+250,"Shakib to Borren, 1 run, sliding in towards middle from round the wicket, Borren nurdles it behind square with the angle for a single .",547,19,9,85.3082820646,0.0,0.0,0.168006707525,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+251,"Mortaza to Ben Cooper, 2 runs, back of a length delivery pushed across with the over the wicket angle, Cooper doesn't move his feet much and laces the punch through extra-cover.",546,24,12,112.700410275,0.168006707525,0.0,0.0602331200149,0.0456736547496,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.132075
+252,Forces deep cover into a sprint and collects a couple .,545,7,4,40.4265369987,0.0602331200149,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+253,"Mortaza to Borren, leg byes, 1 run, keeper remains up for Borren too.",544,13,4,46.7297761562,0.0,0.0456736547496,0.226228911668,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+254,"Mortaza slants a length ball towards leg with fine leg up, risky.",543,11,3,48.5477782529,0.226228911668,0.0,0.0,0.0374395219167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+255,But gets away.,542,3,1,11.5545070107,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+256,Borren fails to lay bat on the glance and the ball deflects off the thigh pad behind square .,541,12,7,71.6782334534,0.0,0.0374395219167,0.0741271955616,0.0481193581884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+257,"Mortaza to Ben Cooper, 1 run, stands tall in the crease and punches it down to long-offThe keeper has come up to the stumps... .",540,17,11,81.0366628526,0.0741271955616,0.0,0.105213070451,0.139822831647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+258,"Mortaza to Borren, 1 run, back of a length delivery patted in front of backward point for a quick single .",539,16,7,63.8937315617,0.105213070451,0.0481193581884,0.208265348116,0.425691024992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+259,"Mortaza to Borren, no run, gives the charge too early and Mortaza cleverly shortens his length and forces Borren to defend .",538,16,8,85.2804634574,0.208265348116,0.139822831647,0.268798196861,0.0902623336967,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+260,"Mortaza to Borren, no run, tries to pick a back of a length delivery from off and work it through the on-side, closes the bat-face early and the leading edge pops in front of backward point.",537,23,17,116.927378103,0.268798196861,0.425691024992,0.078688645403,0.0324331840891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137935
+261,Borren charges down for a single which isn't there and is sent back.,536,7,8,50.3752001066,0.078688645403,0.0902623336967,0.0766438959818,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+262,Would have been well short had there been a direct-hitMashrafe Mortaza [ .,535,7,6,39.5030148972,0.0766438959818,0.0324331840891,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.273815
+263,- .,534,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+264,-0] is back into the attack .,533,5,3,16.7433686828,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+265,"Shakib to Borren, 1 run, defended to cover and a quick single on offer this time too .",532,13,7,56.3803892372,0.0,0.0,0.627281755837,0.236000808936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+266,"Shakib to Borren, no run, defended to cover .",531,8,3,27.3204784624,0.627281755837,0.0,0.215299165317,0.317919933224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+267,"Shakib to Ben Cooper, 1 run, flicked to deep mid wicket for a single .",530,13,4,44.3668362436,0.215299165317,0.236000808936,0.139550933166,0.0539026499902,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+268,"Shakib to Borren, leg byes, 1 run, this was a flatter delivery wide of off, Borren wanted to sweep it.",529,17,8,63.5941615385,0.139550933166,0.317919933224,0.0448142338464,0.17170220773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+269,Missed and the ball took the elbow to scoot to backward point.,528,8,5,46.0684766642,0.0448142338464,0.0539026499902,0.104495769068,0.0638244070611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+270,The fielder picks it and fires a throw as Borren looked to run to the other end.,527,9,9,59.5151923432,0.104495769068,0.17170220773,0.1591218359,0.0249225719083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+271,Ends up hitting Borren on the hips as he tried to get inside the crease.,526,9,7,63.1220651226,0.1591218359,0.0638244070611,0.0234762857046,0.0567743105036,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+272,Huge cry about obstructing the field.,525,5,2,32.6019555131,0.0234762857046,0.0249225719083,0.00988647510927,0.0146336783531,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+273,Tamim forced it to be sent upstairs but the third umpire reckoned that Borren hadn't changed direction.,524,12,7,78.3634427966,0.00988647510927,0.0567743105036,0.0883865664508,0.186722069724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18377
+274,Borren was looking at the ball but just ran in a straight line.,523,7,7,47.3937857458,0.0883865664508,0.0146336783531,0.0483398886797,0.0230010591471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+275,Chris Gaffaney the third umpire had a look and decided to go with the on-field callTamim is in talks with the umpire.,522,12,11,87.8430722545,0.0483398886797,0.186722069724,0.189147484263,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+276,Obstructing the field!,521,3,1,14.0292094903,0.189147484263,0.0230010591471,0.0,0.028453600496,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+277,Sent upstairs.,520,3,0,12.8818152417,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+278,"Shakib didn't want to actually but the umpire decided otherwise as Tamim kept on appealing, with the others joining in.",519,14,9,94.2856180849,0.0,0.028453600496,0.0595913403143,0.0690315076043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+279,"Borren is furious, he is having a heated word or two with Tamim.",518,8,7,59.471272629,0.0595913403143,0.0,0.143408530977,0.0540260732887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+280,"The third umpire is now looking at more replays...""No change of direction from Borren"" says Chris Gaffaney and hence Borren is not out .",517,16,12,108.907048514,0.143408530977,0.0690315076043,0.182145413001,0.0726941180291,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08642
+281,"Shakib to Borren, leg byes, FOUR, how's that not out?",516,10,5,38.1908843944,0.182145413001,0.0540260732887,0.0691306536507,0.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.136365
+282,Borren came down the pitch and had shuffled way too across trying to glance it fine.,515,10,7,66.9352036371,0.0691306536507,0.0726941180291,0.0532852219227,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+283,Was rapped on the pad and the keeper couldn't stop it either.,514,8,6,47.9235681997,0.0532852219227,0.0,0.0,0.0584941206798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+284,Looked plumbNo slips.. .,513,4,0,12.2756794382,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.027025
+285,"Shakib to Ben Cooper, 1 run, slower from Shakib on middle, Ben crouched and clipped a single round the cornerShakib Al Hasan, left-arm orthodox, comes into the attack .",512,26,8,104.200583816,0.0,0.0584941206798,0.0271168001182,0.00777127507022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.104165
+286,"Nasir Hossain to Borren, FOUR, and another.",511,8,2,24.5872724811,0.0271168001182,0.0,0.189299093108,0.123978673182,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.125
+287,Another one barreled down to third man with a reverse sweep.,510,8,4,45.3446035164,0.189299093108,0.00777127507022,0.012210432709,0.0131282645813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+288,The ball was outside off this time and Borren had the room to turn around more.,509,8,9,58.1841259453,0.012210432709,0.123978673182,0.0284316479662,0.0984535512196,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+289,"Placed it wide of backward point, to his right, and got a boundary .",508,10,6,47.2226679652,0.0284316479662,0.0131282645813,0.0577524126609,0.151030229818,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.14286
+290,"Nasir Hossain to Borren, no run, quicker on middle, Borren closed his bat face in a wristy defence to mid-wicket .",507,17,7,72.4193652251,0.0577524126609,0.0984535512196,0.165226888882,0.220685794958,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+291,"Nasir Hossain to Borren, FOUR, that was so cheeky that a backward point's half-stop proved lacking.",506,14,6,61.8874640787,0.165226888882,0.151030229818,0.0414019936502,0.0952059574204,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13793
+292,"Flatter on off, Borren crossed his bat in front of his pads and reverse swept it to third man .",505,12,9,74.6808287372,0.0414019936502,0.220685794958,0.0621427018083,0.181432079636,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+293,"Nasir Hossain to Ben Cooper, 1 run, round-armish and fired in on leg, Ben turned around with a clipped single to mid-wicket .",504,19,7,68.284071204,0.0621427018083,0.0952059574204,0.131753767123,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+294,"Nasir Hossain to Borren, 1 run, slowish outside off, Borren waited as he came forward and then tucked it away to mid-wicketPeter Borren, right handed bat, comes to the creaseNetherlands need a push..Does Borren have it in him?",503,29,15,134.035989569,0.131753767123,0.181432079636,0.0761055717393,0.151063518638,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.127955
+295,He can hit it big .,502,3,3,21.7343752943,0.0761055717393,0.0,0.0,0.263260672896,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+296,"Nasir Hossain to S Myburgh, out Bowled!!",501,7,3,21.8910808156,0.0,0.151063518638,0.0,0.0825683159702,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+297,"You miss, I hit.",500,4,2,16.9016145414,0.0,0.263260672896,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.052635
+298,The typical tailender theory that embarrassingly gobbles up Myburgh here.,499,7,4,52.7160250761,0.0,0.0825683159702,0.0480175829725,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+299,"Quicker ball sliding in on middle, Myburgh knelt and slog-swept.",498,9,3,37.6400266559,0.0480175829725,0.0,0.0175574183268,0.123635050706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+300,Missed and it was hara-kiri behind.,497,4,3,18.1924327827,0.0175574183268,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+301,S Myburgh b Nasir Hossain  .,496,5,1,11.8826804445,0.0,0.123635050706,0.679678683365,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+302,"9) [4s-5]Nasir Hossain to S Myburgh, THAT'S OUT!!",495,12,4,20.3804887378,0.679678683365,0.0,0.0,0.57420346515,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+303,Bowled!,494,2,0,4.85014760171,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+304,!Nasir Hossain [ .,493,5,0,8.20665268394,0.0,0.57420346515,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+305,- .,492,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+306,. ],491,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+307,is back into the attack .,490,3,3,16.7433686828,0.0,0.0,0.0882173370241,0.0913892465695,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+308,"Mortaza to Ben Cooper, no run, straight back at Mortaza but that was gunning for his head.",489,12,8,64.7400712057,0.0882173370241,0.0,0.158012907344,0.160143477913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+309,"Full ball drilled back, Mortaza did well to sway away and got a hand to it.",488,12,6,59.5099326736,0.158012907344,0.0913892465695,0.117145858212,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+310,The ball parried away towards mid-wicket but there was no run.,487,7,5,37.6828808247,0.117145858212,0.160143477913,0.0,0.0192386882655,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+311,Only cruel souls will call that a chance dropped .,486,6,4,45.2708313737,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.08333
+312,"Mortaza to Ben Cooper, FOUR, this time he uses his feet to get close to the pitch and renders the bounce rather impotent.",485,17,9,94.5185641899,0.0,0.0192386882655,0.0480345250168,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.163925
+313,Punches this length ball through extra cover and there was no stopping it.,484,7,7,52.6891357455,0.0480345250168,0.0,0.0,0.110278599371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+314,Bulleted away .,483,3,0,10.9359050927,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+315,"Mortaza to S Myburgh, 1 run, over a leaping cover!",482,9,4,26.8012875882,0.0,0.110278599371,0.0,0.129057916861,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+316,"Oh Dharamsala, this is a Kolkata pitch you've borrowed.",481,8,4,42.8375160104,0.0,0.0,0.0640628343978,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+317,"Length ball steaming off the pitch slow, Myburgh mistimed his loft off the toe-end and it evades cover's one-handed attempt .",480,16,7,76.8459238136,0.0640628343978,0.129057916861,0.0483525478604,0.0236181835226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+318,"Mortaza to Ben Cooper, 1 run, got forward and across, had his weight too forward to cut it.",479,15,7,64.4161433543,0.0483525478604,0.0,0.0488696904495,0.458954745707,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+319,Looked cramped and just forced it with an open blade to third man .,478,8,6,56.3543845862,0.0488696904495,0.0236181835226,0.044297791528,0.0143077752044,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+320,"Mortaza to Ben Cooper, no run, fuller on leg, Ben plonked his leg forward and bunted it back to Mortaza .",477,17,7,72.9114404006,0.044297791528,0.458954745707,0.451797475346,0.189133047543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+321,"Mortaza to Ben Cooper, no run, slower delivery on short of length.",476,11,4,40.6764055663,0.451797475346,0.0143077752044,0.177031023661,0.0749580783811,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+322,Cut away from Ben Cooper who was looking to guide it with an open bat.,475,9,7,62.15595342,0.177031023661,0.189133047543,0.00920440220057,0.105757718491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+323,"Played way too early to connectMashrafe Mortaza, right-arm fast medium, comes into the attack .",474,13,4,59.8189040499,0.00920440220057,0.0749580783811,0.0280802452949,0.0138612697037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+324,"Mahmudullah to S Myburgh, no run, slower and looped up delivery sliding across, Myburgh looked to cut but was beaten by the slowness and the angle .",473,18,12,97.4293460447,0.0280802452949,0.105757718491,0.28088528083,0.0271729296882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+325,"Mahmudullah to S Myburgh, no run, mayhem there.",472,7,4,27.1701809161,0.28088528083,0.0138612697037,0.0540543643101,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+326,A near run out chance.,471,4,2,19.0018648321,0.0540543643101,0.0271729296882,0.0849500709401,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+327,Would have been out if it was a direct hit.,470,4,7,40.1091970334,0.0849500709401,0.0,0.0,0.0484119515933,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.403845
+328,"Myburgh had plonked his front leg across looking to sweep, Mahmudullah followed him with a flatter delivery and he missed.",469,14,8,81.0125530432,0.0,0.0,0.00911786038767,0.0414611493712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+329,The ball scooted to backward point as Ben Cooper was halfway down the pitch.,468,9,6,55.7091103236,0.00911786038767,0.0484119515933,0.0,0.0138815650845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+330,"turned around and hurried back, thanking his luck that it wasn't a direct hit .",467,11,6,59.7289334394,0.0,0.0414611493712,0.0157889299723,0.0548936983638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+331,"Mahmudullah to S Myburgh, 2 runs, flatter and quicker, just outside off.",466,11,5,38.2081485191,0.0157889299723,0.0138815650845,0.0467530668272,0.254843201575,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+332,Not enough room but Stephan makes some of his own and crashes it square of the wicket on the off-side .,465,9,12,74.8951145858,0.0467530668272,0.0548936983638,0.0,0.055784630517,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+333,"Mahmudullah to S Myburgh, FOUR, that was thumped.",464,7,4,27.7153897518,0.0,0.254843201575,0.0905493044682,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.157895
+334,Had the width and Myburgh crashed it away through cover.,463,6,5,39.0966222183,0.0905493044682,0.055784630517,0.0927148603815,0.0945322010217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+335,Beats Arafat Sunny's one-handed dive and ran away .,462,9,1,35.5355007069,0.0927148603815,0.0,0.0,0.0145399191176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+336,"Mahmudullah to S Myburgh, no run, big shout but it was going down leg.",461,10,7,50.0458182098,0.0,0.0945322010217,0.100784612853,0.162166458453,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+337,"Straight delivery, hurrying off the turf and Myburgh was caught in two minds.",460,10,5,54.6206752003,0.100784612853,0.0145399191176,0.0,0.0990823999478,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+338,Stayed put there but had down well to stand outside leg-stump .,459,7,5,44.9161468433,0.0,0.162166458453,0.0119596023421,0.0126032976393,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+339,"Mahmudullah to S Myburgh, 2 runs, short and wide, Myburgh rocks back and flashes it through point for a couple of runsMahmudullah, right-arm off break, comes into the attackBreaking: India-Pakistan encounter has been shifted to the Eden Gardens.",458,29,16,141.477343409,0.0119596023421,0.0990823999478,0.0271983511139,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11724
+340,High-fives to all the Babu moshais!,457,4,3,22.0206756038,0.0271983511139,0.0126032976393,0.0,0.0342943976321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+341,.,456,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+342,"Nasir Hossain to Ben Cooper, FOUR, another good shot and the runs have started to sieve out.",455,14,6,67.5395216558,0.0,0.0342943976321,0.0895874055208,0.0363414516513,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.140525
+343,"Flighted, Ben kneels and sweeps it over mid-wicket.",454,7,3,32.6529142782,0.0895874055208,0.0,0.0604463611023,0.111362734767,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+344,Off the middle and it races away .,453,4,4,24.2018090906,0.0604463611023,0.0363414516513,0.043494072383,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+345,"Nasir Hossain to Ben Cooper, no run, slides back and across and pushes this delivery to cover .",452,14,6,61.8992400145,0.043494072383,0.111362734767,0.346846788332,0.0869056866845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+346,"Nasir Hossain to Ben Cooper, FOUR, that was tailored.",451,9,3,35.8821226663,0.346846788332,0.0,0.114508702446,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1
+347,"Flatter on off, Ben had made room already.",450,7,3,36.5250695524,0.114508702446,0.0869056866845,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+348,Just opened up and pierced the point-cover arc with a well-timed back foot punch.,449,9,6,51.2798782069,0.0,0.0,0.0920748948303,0.0488131078015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+349,Eluded the diving duo at point .,448,5,2,29.8479019587,0.0920748948303,0.0,0.0113327491898,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+350,"Nasir Hossain to S Myburgh, 1 run, quicker delivery on off, Myburgh stays back again and flat-bats it past the bowler.",447,17,8,66.9318417224,0.0113327491898,0.0488131078015,0.109486307806,0.231822328951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+351,Long-on runs across and cuts it off .,446,5,3,22.3072004403,0.109486307806,0.0,0.0478542444696,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+352,"Nasir Hossain to S Myburgh, FOUR, enough dragged down and just enough down the leg-side for Myburgh to kneel and sweep it through deep backward square leg.",445,18,12,93.9620634082,0.0478542444696,0.231822328951,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10811
+353,Top shot!,444,3,0,10.9846952569,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+354,.,443,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+355,"Nasir Hossain to Ben Cooper, 1 run, sliding in on leg from over the wicket.",442,12,6,48.4174930396,0.0,0.0,0.209375953163,0.0842517525916,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+356,"Flatter and Ben erred in staying back but adjusts to clip it round the cornerNasir Hossain, right-arm off break, comes into the attackSlow from Netherlands.",441,18,10,104.851906093,0.209375953163,0.0,0.0,0.0194487659046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+357,Better than a wicket fest.. .,440,4,2,16.594884274,0.0,0.0842517525916,0.0568760144371,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+358,"Al-Amin to S Myburgh, no run, leg-stump delivery on a length, Myburgh half-turned himself and clipped this ball straight to mid-wicket .",439,16,9,52.157262178,0.0568760144371,0.0194487659046,0.370005707189,0.260583514818,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+359,"Al-Amin to S Myburgh, no run, fullish delivery on off, Myburgh backed away and touch and timed the push to cover .",438,16,9,69.0607532936,0.370005707189,0.0,0.276051036423,0.0129958859501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+360,"Al-Amin to S Myburgh, FOUR, no timing and placement off late but this sees the ropes.",437,11,8,57.9346446199,0.276051036423,0.260583514818,0.0140326996949,0.0107860684506,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.107145
+361,"The good, old French cut.",436,6,1,24.1207364327,0.0140326996949,0.0129958859501,0.0,0.0101120113431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+362,"Only superior to Mankading in derision, perhaps.",435,6,3,36.7367153472,0.0,0.0107860684506,0.0310899111054,0.0167234424676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+363,"Length and just outside off, not enough room to flash it square and an under-edge runs close to off-stump to scoot behindBen Cooper, left handed bat, comes to the crease .",434,22,12,106.966396921,0.0310899111054,0.0101120113431,0.0399939470515,0.0418681123205,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09804
+364,"Al-Amin to Barresi, out Caught by S Rahman!!",433,7,4,23.5029524114,0.0399939470515,0.0167234424676,0.0149396649199,0.0967654273081,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+365,He perishes trying to take on the larger half of the ground.,432,7,6,51.4524022739,0.0149396649199,0.0418681123205,0.0275274764902,0.0256410733514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26935
+366,"Shortish delivery robbed of pace, Barresi pulled it alright but is deceived.",431,10,4,56.4495534019,0.0275274764902,0.0967654273081,0.0692298944788,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+367,Off the middle but doesn't get much power behind it.,430,7,5,41.068983142,0.0692298944788,0.0256410733514,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21978
+368,Deep square leg was in business straightaway and completed an easy catch.,429,9,4,55.329654133,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.136365
+369,Barresi c S Rahman b Al-Amin  .,428,6,1,8.81278848751,0.0,0.0,0.60118233387,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+370,"1) [4s-1]Al-Amin to Barresi, THAT'S OUT!!",427,11,3,12.8853323731,0.60118233387,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+371,Caught!!,426,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+372,.,425,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+373,"Al-Amin to Barresi, no run, Barresi should be thankful that he mistimed it or else a deepish mid-off was in business.",424,13,11,81.5569242108,0.0,0.0,0.139866886297,0.31509664937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+374,"Fullish in length and staying low, Barresi ends up lofting it off the lower half of the bat and it bounces in front of the fielder .",423,15,13,100.93172827,0.139866886297,0.0,0.196513677351,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+375,"Al-Amin to Barresi, no run, length outside off, Barresi slid across, raised his open bat and tapped it away.",422,18,6,71.7206566931,0.196513677351,0.31509664937,0.0770037410143,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+376,Straight to backward point on this occasionAl-Amin Hossain [ .,421,7,3,25.986561281,0.0770037410143,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+377,- .,420,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+378,-0] is back into the attack .,419,5,3,16.7433686828,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+379,"A Sunny to S Myburgh, no run, tossed up on middle and leg, Myburgh gets on his knee and sweeps.",418,14,10,66.8625044637,0.0,0.0,0.114304361921,0.189649045751,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.14634
+380,Straight to square leg to deny a run .,417,6,3,25.4106967354,0.114304361921,0.0,0.172879663174,0.185984771575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+381,"A Sunny to Barresi, 1 run, flat and full, Barresi was looking to work it to leg, Gets a leading edge that ran over to long-off .",416,20,11,81.7934069482,0.172879663174,0.189649045751,0.200337027679,0.120941413311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+382,"A Sunny to S Myburgh, leg byes, 1 run, unbelievable.",415,11,3,27.4876351469,0.200337027679,0.185984771575,0.063838696638,0.0689038970164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+383,Low full toss down leg that should have seen the clouds.,414,7,5,48.9320648629,0.063838696638,0.120941413311,0.010809666277,0.014999653189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.105265
+384,Myburgh instead is late as the ball dips and it ends up missing it.,413,8,7,58.8826833003,0.010809666277,0.0689038970164,0.0820163090273,0.101317185545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+385,Ball takes the right pad and scoots away .,412,7,2,32.899224937,0.0820163090273,0.014999653189,0.0,0.0679573445912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+386,"A Sunny to S Myburgh, FOUR, you earn it sometimes.",411,8,5,35.4350375369,0.0,0.101317185545,0.0903104891359,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2
+387,"Flighted ball on leg-stump, ample room for Myburgh to swivel and sweep it uppishly.",410,11,5,54.9084794959,0.0903104891359,0.0679573445912,0.0385207250496,0.0883666597581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+388,"Broomed away over backward square leg, one bounce over the ropes .",409,10,3,48.5104266514,0.0385207250496,0.0,0.0995886057015,0.0187558523302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+389,"A Sunny to Barresi, 1 run, flatter on off, Barresi gets forward and an inside edge runs to square leg.",408,17,7,66.299933711,0.0995886057015,0.0883666597581,0.0379729171499,0.325854817057,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+390,"Quick single, lots of pressure on the fielder to hurry up but all safe in the end .",407,10,9,72.035246042,0.0379729171499,0.0187558523302,0.0124763484952,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.168305
+391,"A Sunny to Barresi, no run, drama first ball.",406,9,3,31.792001419,0.0124763484952,0.325854817057,0.0,0.197651801137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+392,Over-egging okay.,405,3,0,6.5847486571,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+393,"Holds on the pitch, Barresi was forward to defend and the ball spoons to a vacant mid-wicketArafat Sunny, left-arm orthodox, comes into the attack .",404,18,10,83.9147108654,0.0,0.197651801137,0.0201834658882,0.0147341144263,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+394,"Taskin Ahmed to S Myburgh, no run, lovely line this.",403,9,4,34.6111381045,0.0201834658882,0.0,0.0140020210308,0.136207251611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+395,"Not any room to breathe, let alone playing a shot.",402,8,4,48.2963544926,0.0140020210308,0.0147341144263,0.0,0.0107662437912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+396,"Another early shuffle outside leg, exposes the cards early and Taskin Ahmed pounces on it.",401,13,4,67.8333324392,0.0,0.136207251611,0.027446013784,0.238348014954,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+397,Tucks him up with a back of a length delivery and Myburgh could just push it to cover .,400,9,10,60.7824566413,0.027446013784,0.0107662437912,0.0707597729546,0.353919407326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151515
+398,"Taskin Ahmed to S Myburgh, no run, exposes all the sticks trying to make the room.",399,12,7,59.121919162,0.0707597729546,0.238348014954,0.154248563002,0.236675184688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+399,Taskin Ahmed follows him with a shortish delivery and Myburgh could just open the bat face a touch in a cramped defence .,398,14,9,84.4589759083,0.154248563002,0.353919407326,0.136807275341,0.0196233272722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+400,"Taskin Ahmed to S Myburgh, no run, loud, loud appeal.",397,11,3,38.9895869178,0.136807275341,0.236675184688,0.0,0.0782102049527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+401,Pitching on a length on leg-stump and then hurrying onto the batsman.,396,7,6,43.4635776901,0.0,0.0196233272722,0.0696892889079,0.0356012156542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+402,Myburgh was on a hop looking to tuck it.,395,5,5,31.5248595505,0.0696892889079,0.0782102049527,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.208335
+403,Is late and hence the appeal.,394,4,3,24.7160108261,0.0,0.0356012156542,0.0305866628646,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+404,Looked high and going down leg.,393,5,2,25.2507207239,0.0305866628646,0.0,0.0806970221959,0.0282677528328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+405,"Pitched outside leg, says HawkEye .",392,7,0,27.3855345103,0.0806970221959,0.0,0.114718037534,0.107893526593,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+406,"Taskin Ahmed to Barresi, 1 run, and now an outside edge.",391,10,4,36.5349507977,0.114718037534,0.0282677528328,0.261591402921,0.122954542694,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+407,"Length outside off, Barresi reached out and poked.",390,7,3,33.8022627975,0.261591402921,0.107893526593,0.0541144549558,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+408,Couldn't cover for the scissor away and the edge was cut off at third man this time.,389,11,8,65.2227023042,0.0541144549558,0.122954542694,0.0,0.0142762130933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+409,With a slide.,388,2,2,10.4179620012,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+410,Al-Amin doing really well and redeemed himself .,387,5,3,32.5416450487,0.0,0.0142762130933,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+411,"Taskin Ahmed to Barresi, FOUR, that's lazy.",386,9,2,28.4994567639,0.0,0.0,0.397984865617,0.112352386866,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.21672
+412,Plain lazy.,385,3,0,13.5749624223,0.397984865617,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+413,"Length ball, Barresi skipped down the track and opened the bat face to drive it uppishly.",384,12,6,62.9935535938,0.0,0.112352386866,0.049618333158,0.0320990528979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+414,Wide of backward point and it runs away.,383,6,3,28.236114437,0.049618333158,0.0,0.0256346431651,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+415,"Third man had done well to run across, gets on his knee to collect but lets it burst through.",382,13,8,79.4647529058,0.0256346431651,0.0320990528979,0.119155389457,0.0670471263797,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+416,Al-Amin was the man .,381,3,2,9.39586842732,0.119155389457,0.0,0.0247375786153,0.0252733233066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+417,"Taskin Ahmed to S Myburgh, 1 run, a fist-fight with the bounce is on.",380,10,7,32.5678450777,0.0247375786153,0.0670471263797,0.0815066912679,0.0429152087641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+418,"Shortish ball, Myburgh pulled but mistimed off the splice.",379,8,3,39.3134009298,0.0815066912679,0.0252733233066,0.0395280337004,0.128435518065,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06977
+419,No power to run away and it's cut off by mid-wicket running across .,378,9,6,43.8838429213,0.0395280337004,0.0429152087641,0.104906068424,0.017400056193,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.20348
+420,"Al-Amin to Barresi, no run, came down the track and plonked his front leg forward but this fullish ball skidded off the pitch.",377,16,10,83.9866387661,0.104906068424,0.128435518065,0.117933998385,0.0924748905656,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09804
+421,Barresi was late on the flick and is rapped on the pad.,376,6,7,44.0102551908,0.117933998385,0.017400056193,0.0859663196877,0.143395477426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+422,Half-an-appeal but the impact was outside off?,375,4,4,22.359142655,0.0859663196877,0.0924748905656,0.160615041213,0.049450077847,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+423,"No it was umpire's call and was hitting, but too much doubt since the batsman was so far down the track .",374,12,12,91.6628835828,0.160615041213,0.143395477426,0.0287175567232,0.00736441755379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+424,"Al-Amin to S Myburgh, 1 run, angled across but not enough room to throw your bat.",373,13,6,52.5932579417,0.0287175567232,0.049450077847,0.0562465934518,0.267798380815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+425,Ended up closing his bat face while crouching and eked out a single to backward square legSlip comes out... .,372,13,8,84.6821556596,0.0562465934518,0.00736441755379,0.00990154009469,0.00734977052566,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+426,"Al-Amin to S Myburgh, no run, another one staying low.",371,10,3,31.9368527956,0.00990154009469,0.267798380815,0.0119790675273,0.205652069218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+427,Enough evidence to conclude about the two-paced nature of this pitch.,370,7,5,45.7902066498,0.0119790675273,0.00734977052566,0.0211114814042,0.0157477867721,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+428,"Length and Myburgh looked to drive, the ball stayed low and beat him .",369,10,5,49.9439697547,0.0211114814042,0.205652069218,0.0802278874126,0.0875689631288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+429,"Al-Amin to Barresi, 1 run, lovely full length on off, Barresi bends forward and caresses it to mid-on for a single .",368,17,8,64.8024753731,0.0802278874126,0.0157477867721,0.185499437402,0.0621808754609,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+430,"Al-Amin to S Myburgh, 1 run, no feet whatsoever.",367,9,3,23.9096685995,0.185499437402,0.0875689631288,0.0148460312034,0.0174685393373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+431,Was on a wheelchair as he looked to flog this through covers.,366,5,8,48.7778883698,0.0148460312034,0.0621808754609,0.0135978780969,0.145525860164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18815
+432,Off the inside edge and dragged to deep square leg for a single .,365,8,6,43.4307435115,0.0135978780969,0.0174685393373,0.0291944372809,0.0824066747836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+433,"Al-Amin to Barresi, 1 run, looked gentle in comparison to Taskin.",364,11,3,35.9844474184,0.0291944372809,0.145525860164,0.136316983377,0.150897562274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+434,"Fullish on middle, Barresi crouched to flick this through square legAl-Amin Hossain, right-arm fast medium, comes into the attack .",363,17,6,72.4084752184,0.136316983377,0.0824066747836,0.0238296226102,0.0274613520858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.075
+435,"Taskin Ahmed to S Myburgh, no run, Myburgh is on his leg-stump and Taskin Ahmed follows him with a shortish ball.",362,14,10,65.516502867,0.0238296226102,0.150897562274,0.0610243881129,0.375648997581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+436,Stands taller looking cramped and is hit on the thighOne slip now.. .,361,9,4,50.990108785,0.0610243881129,0.0274613520858,0.0470610722817,0.0236601570737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+437,"Taskin Ahmed to S Myburgh, no run, hurls it fullish from over the wicket, Myburgh saw an opportunity and drove on the up.",360,15,12,85.1007751196,0.0470610722817,0.375648997581,0.0397918638299,0.247975643084,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+438,Beaten as the ball scissors away a touch off the pitch .,359,7,5,41.2686706246,0.0397918638299,0.0236601570737,0.0551452681334,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+439,"Taskin Ahmed to S Myburgh, no run, stands taller this time and punches defensively into the off-side.",358,13,7,60.294440148,0.0551452681334,0.247975643084,0.0572178534562,0.298899053403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+440,No feet but just a high bat to play that .,357,5,6,36.7282039815,0.0572178534562,0.0,0.0217753594189,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+441,"Taskin Ahmed to S Myburgh, FOUR, short and wide.",356,9,3,27.8792893256,0.0217753594189,0.298899053403,0.0769766300346,0.0516619217883,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.11111
+442,"Immaterial of the bounce, Myburgh throws his hands all flat-footed.",355,8,4,40.7416675338,0.0769766300346,0.0,0.0121914550317,0.125184538563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+443,Top-edge and it bounces over the slips and runs away .,354,6,5,31.6909893419,0.0121914550317,0.0516619217883,0.0685748619358,0.207080849443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+444,"Taskin Ahmed to S Myburgh, no run, short of length this time, following a backing away Myburgh.",353,15,6,57.2083505688,0.0685748619358,0.125184538563,0.101642395378,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+445,Bounces more than required and hits Myburgh high on the glove.,352,7,5,50.8318676067,0.101642395378,0.207080849443,0.0617779471375,0.0698414255307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+446,Pops square on the off-side .,351,4,2,15.1380925028,0.0617779471375,0.0,0.0167007226384,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13126
+447,"Taskin Ahmed to S Myburgh, no run, and he brings the mid-pitch grass into play straightaway.",350,12,7,56.3735704737,0.0167007226384,0.0698414255307,0.0,0.0850192931804,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+448,Banged in but it stayed low for some reason.,349,5,5,40.8337499555,0.0,0.0,0.0595871735236,0.122800929533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+449,Myburgh had the width to flash but missed out.,348,5,5,35.9364631652,0.0595871735236,0.0850192931804,0.104610865837,0.131731605283,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+450,Low bounce the culpritS Myburgh and Barresi are at the crease.,347,7,5,43.6669070636,0.104610865837,0.122800929533,0.118073160967,0.133543650665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+451,S Myburgh is on strike.,346,3,3,15.2345313509,0.118073160967,0.131731605283,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+452,Taskin Ahmed will open the attackThe players are out and the sun has managed to diffuse out of the cloud cover.,345,11,11,90.4793441526,0.0,0.133543650665,0.0463426430094,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+453,The Himalayan peaks now stand clearer in the backdrop.,344,6,4,45.5778856585,0.0463426430094,0.0,0.0,0.0238979445623,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.18431
+454,Stunning.,343,2,0,6.99021376521,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+455,Openers trace Bangladesh's Tigers on the field.,342,7,2,35.7622112259,0.0,0.0238979445623,0.0,0.0130064612225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+456,All set.,341,2,1,11.2235871651,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+457,Taskin has 2 slips in place..Welcome back for the chase.,340,7,4,31.8681245509,0.0,0.0130064612225,0.0,0.0349505097726,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+458,.,339,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+459,- a total that plants doubts in your mind.,338,6,4,39.1550612304,0.0,0.0349505097726,0.0,0.0262808396287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+460,Can Netherlands feast on a jaded Bangaldeshi side to cause an upset?,337,8,5,56.5677864933,0.0,0.0,0.0601686452982,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+461,The very fact that Bangladesh have to fist it out with Netherlands (and Oman and Ireland) for a Super 10 spot is umm...let's say unfair to their recent form.,336,20,15,136.490269326,0.0601686452982,0.0262808396287,0.0354010459074,0.180374931377,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+462,But that's how the current cricket dynamics are.,335,5,5,38.2648610472,0.0354010459074,0.0,0.0,0.0512803749223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+463,"And life is unfair, mostly.",334,5,2,25.2425930111,0.0,0.180374931377,0.0546554730701,0.0658711804053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+464,"""I enjoyed it but I feel there is something in this wicket.",333,6,8,44.1748630857,0.0546554730701,0.0512803749223,0.0537637110834,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+465,The ball is not quite coming on nicely.,332,5,4,32.8924975534,0.0537637110834,0.0658711804053,0.0,0.0237847450903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+466,I hope our bowlers will do well.,331,4,4,32.992956545,0.0,0.0,0.0,0.0421848150645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+467,I needed to bat through the innings because we are losing wickets at the crucial moments.,330,8,9,70.7458872012,0.0,0.0237847450903,0.0221130597949,0.0161420977745,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.201735
+468,"Good fielding and spinners will be the key,"" reckons Tamim Iqbal who is huffing and puffing out after that 58-ball 83 knockvan der Gugten clamped down on the scoring rate and eventually, created enough pressure to prise out batsmen.",329,27,16,181.739400116,0.0221130597949,0.0421848150645,0.00956311112759,0.0666543106314,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09884
+469,"His pace colleague, Paul van Meekeren, extracted disconcerting bounce from the surface.",328,12,3,59.9840537145,0.00956311112759,0.0161420977745,0.039547741501,0.123433567744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+470,"Netherlands though, would rue the fact that Tamim was given a reprieve off van der Merwe in the 13th over.",327,14,8,82.3983226046,0.039547741501,0.0666543106314,0.0402574486395,0.0330158513561,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16993
+471,The track has good carry and bounce for the pacers.,326,6,5,40.3702347656,0.0402574486395,0.123433567744,0.154447295431,0.0422950189488,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17647
+472,"However, the batsmen, too, should enjoy the true bounce on offer.",325,10,5,52.9155485712,0.154447295431,0.0330158513561,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+473,We might be in for a nail-biter today.,324,4,5,27.0483323098,0.0,0.0422950189488,0.0424838982717,0.106048797862,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+474,Join us in a few minutes for Netherlands' innings...Tamim Iqbal harvested a well-constructed innings of 83 not out to propel Bangladesh to a substantial total.,323,18,11,107.736641419,0.0424838982717,0.0,0.0858912244095,0.044220704415,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+475,"In fact, it turned out to be more of a one-man show as rest of the batsmen struggled to chip in with useful knocks.",322,12,14,96.9006942324,0.0858912244095,0.106048797862,0.0496388250265,0.0567890743499,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.179845
+476,Tamim was particularly severe square of the wicket on both sides.,321,7,5,47.9674495869,0.0496388250265,0.044220704415,0.0567413340429,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+477,"For the Dutch, Timm van der Gugten gave a fine exhibition of pace bowling, and was rewarded for his unremitting discipline with three scalps.",320,18,9,108.153801963,0.0567413340429,0.0567890743499,0.0,0.0325067518607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138855
+478,.,319,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+479,"van Beek to A Sunny, 2 runs, excellent delivery to cap off the innings.",318,12,5,46.4598557337,0.0,0.0325067518607,0.0951308333846,0.0376891860229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+480,"Bowls a pinpoint yorker at the stumps, Sunny digs it to wide long-on and not sure who called for the second run.",317,14,10,85.3818873468,0.0951308333846,0.0,0.0761807402831,0.0969314744552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+481,Both batsmen were rushing through to their respective ends and the throw came in at the striker's end.,316,10,10,80.7568069497,0.0761807402831,0.0376891860229,0.0698131167602,0.111238867626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15936
+482,The keeper collects and dislodges the bails but Sunny was jusssssst in.,315,7,6,51.1744667632,0.0698131167602,0.0969314744552,0.220067174036,0.0801680352264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+483,Dragged his bat and by the time the bails came off his bat was grounded .,314,8,8,59.3582416356,0.220067174036,0.111238867626,0.0,0.0874585809334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+484,"van Beek to A Sunny, SIX, finally connects with one.",313,10,3,40.5966426883,0.0,0.0801680352264,0.0551887524804,0.33846653777,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.1
+485,"It was fuller and well wide of off, Sunny fetches the delivery from there and heaves it over the wide long-on fence for a 93-metre maximum .",312,14,14,87.9663480822,0.0551887524804,0.0874585809334,0.112674622951,0.160988100287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+486,"van Beek to A Sunny, no run, and again!",311,7,5,25.9742133654,0.112674622951,0.33846653777,0.211457615053,0.478568556412,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+487,"rolls his fingers over the ball and darts it well outside off, Sunny doesn't move his feet by much and yet again the ball beats the bashing blade .",310,18,13,122.537329462,0.211457615053,0.160988100287,0.107230463973,0.0533695606291,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+488,"van Beek to A Sunny, no run, slower delivery cut across the left-hander, Sunny tries to run it down to third man and misses .",309,19,9,76.3287345059,0.107230463973,0.478568556412,0.17839991812,0.141454278911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+489,"van Beek to Tamim, 1 run, full and Tamim drills it hard towards long-off .",308,14,3,42.4907431745,0.17839991812,0.0533695606291,0.294947754454,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+490,"van Beek to Tamim, SIX, looks like!",307,9,1,28.7417425932,0.294947754454,0.141454278911,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.11111
+491,Oh what a strike that is!,306,3,4,23.8676309626,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+492,Clean as a whistle.,305,3,2,18.1374279516,0.0,0.0,0.0713195603032,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+493,Uses his stubby arms to good effort as he sends this length delivery over the wide long-on fence with a huge mow.,304,14,9,93.0225802834,0.0713195603032,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+494,There's a crowd catch too!Logan van Beek [ .,303,9,3,34.8358359282,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.16409
+495,- .,302,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+496,. ],301,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+497,is back into the attackWill Tamim overhaul his previous highest score?,300,8,4,51.9904619785,0.0,0.0,0.0,0.0444526020957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+498,.,299,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+499,"van der Gugten to Tamim, 1 run, outside off, chopped in front of pointArafat Sunny, left handed bat, comes to the crease .",298,22,6,78.4079134913,0.0,0.0444526020957,0.208056634601,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+500,"van der Gugten to Mortaza, out Caught by T Cooper!!",297,9,4,32.6132371875,0.208056634601,0.0,0.0,0.0183698663109,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+501,And he perishes now.,296,2,3,16.8339965702,0.0,0.0,0.0,0.0213668978987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+502,"Looks to repeat the same, this time over long-on.",295,6,5,34.030170756,0.0,0.0183698663109,0.0217580286178,0.0652117077243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+503,The bowler cleverly darted it full and got it to dip under Mortaza's threatening blade.,294,11,6,66.4385405601,0.0217580286178,0.0213668978987,0.165018706386,0.0134478214785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+504,It was on the stumps and Mortaza lofted it off the toe-end.,293,5,8,33.788825836,0.165018706386,0.0652117077243,0.0527025406916,0.123374467426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18132
+505,"Long-on trundles forward and takes a good, low catch.",292,9,2,34.4413427686,0.0527025406916,0.0134478214785,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.20348
+506,Mortaza c T Cooper b van der Gugten  . ),291,9,1,17.9230732636,0.0,0.123374467426,0.565155109814,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+507,"[6s-1]van der Gugten to Mortaza, THAT'S OUT!!",290,11,3,22.7078125247,0.565155109814,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+508,Caught!!,289,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+509,.,288,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+510,"van der Gugten to Mortaza, SIX, this time he gets underneath this full delivery.",287,13,4,54.9871022236,0.0,0.0,0.0359737822262,0.211063608291,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.068965
+511,The bowler tried for a yorker but missed his length slightly and that SLIGHT error was enough for Mortaza who tonks it high and handsome over long-off .,286,15,13,108.902341976,0.0359737822262,0.0,0.108649048932,0.113194041833,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.10909
+512,"van der Gugten to Mortaza, no run, slower delivery, deceived the batsman for pace, Mortaza throws his bat at it, looking to clear mid-wicket, beaten by a coutry mile .",285,26,10,113.526325773,0.108649048932,0.211063608291,0.11527103972,0.224873212038,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+513,"van der Gugten to Tamim, 1 run, short and outside off, Tamim stays still and flat-bats it towards long-off .",284,18,5,54.7420175739,0.11527103972,0.113194041833,0.267672430984,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+514,"van der Gugten to Mortaza, 1 run, full and straight, a strong, bottom-hand biff down to long-offTimm van der Gugten [ .",283,21,5,59.3285650302,0.267672430984,0.224873212038,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+515,- .,282,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+516,. ],281,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+517,is back into the attack .,280,3,3,16.7433686828,0.0,0.0,0.0300922900049,0.127602134633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+518,"Meekeren to Mortaza, leg byes, 1 run, short and misdirected, down leg, Mortaza hops and fails to get bat on the glance, off the thigh pad and towards fine leg .",279,27,10,109.852079581,0.0300922900049,0.0,0.173725607753,0.0801262760567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118445
+519,"Meekeren to Tamim, 1 run, when it is pitched full Tamim is happy to drive and pick a single through coverMashrafe Mortaza, right handed bat, comes to the crease .",278,23,11,105.016428122,0.173725607753,0.127602134633,0.0975632457127,0.133493617014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+520,"Meekeren to Nasir Hossain, out Caught by Bukhari!!",277,8,3,30.8239791903,0.0975632457127,0.0801262760567,0.11321053284,0.16374236568,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+521,Second wicket for Meekeren and he is all ecstatic.,276,5,5,36.9885962417,0.11321053284,0.133493617014,0.0153623411362,0.0609908605675,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+522,"Bowled it on a back of a length and kept his lines around off, Nasir Hossain was way too ambitious.",275,12,10,73.4909221079,0.0153623411362,0.16374236568,0.113563072358,0.029813188706,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17143
+523,Looks to flick it uppishly over mid-wicket but was too early in doing so.,274,6,9,56.0652094635,0.113563072358,0.0609908605675,0.013129543303,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15385
+524,The ball catches the leading edge and swirls towards short third man who backtracks and snaffles it sans any fuss.,273,14,7,93.7530654627,0.013129543303,0.029813188706,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.085715
+525,Nasir Hossain c Bukhari b Meekeren  .,272,7,0,16.1338152663,0.0,0.0,0.713166746318,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+526,")Meekeren to Nasir Hossain, THAT'S OUT!!",271,8,3,20.7769040104,0.713166746318,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+527,Caught!!,270,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+528,.,269,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+529,"Meekeren to Tamim, 1 run, dug in short and angled across, around off, Tamim gets on top of the bounce and pulls it cleanly, picks the fielder at deep mid-wicket though .",268,26,11,113.982517791,0.0,0.0,0.237741173959,0.074152903554,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+530,"Meekeren to Tamim, no run, fraction short and around leg-stump, Tamim didn't get the desired room, ends up pushing it tamely back to the bowler .",267,22,9,97.423686687,0.237741173959,0.0,0.0949319164997,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188405
+531,"Meekeren to Nasir Hossain, 1 run, shortish and sat up nicely for the pull, Nasir Hossain plays a cross-batted slog down to long-onTamim's highest score in T20Is is 88.",266,24,10,109.83611369,0.0949319164997,0.074152903554,0.0,0.0170979134216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112615
+532,Will he make his maiden ton today?,265,5,3,37.2491446227,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.166665
+533,Not plenty of batting to come.,264,4,3,27.403992754,0.0,0.0170979134216,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+534,Only Mortaza left who can hit the ball a long way.,263,7,5,42.7678532269,0.0,0.0,0.159592102416,0.0677190381784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+535,Rest can falter... .,262,4,1,18.1374279516,0.159592102416,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+536,"van Beek to Tamim, 2 runs, length delivery on the stumps, Tamim clips wide of long-on and another easy double on offer .",261,20,6,75.422715627,0.0,0.0677190381784,0.115356985184,0.401311005503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10672
+537,"van Beek to Nasir Hossain, 1 run, full and around off, Nasir Hossain flicks it wide of mid-wicket, nearly off the inside halfFine leg and third man inside the circle for Nasir Hossain .",260,28,10,118.693680077,0.115356985184,0.0,0.0896992502964,0.175358708883,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08197
+538,"van Beek to Tamim, 1 run, driveable length and width on offer, Tamim obliges and strokes it through cover, easy pickings that .",259,20,7,85.8036953539,0.0896992502964,0.401311005503,0.200579309539,0.252348732724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+539,"van Beek to Tamim, 2 runs, looked like the slower delivery, around middle and leg, Tamim closes the bat face on the drive, wide of long-on and they sneak a double .",258,27,10,108.385555333,0.200579309539,0.175358708883,0.243289585399,0.265598459679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+540,"van Beek to Tamim, no run, on a length and slanted across, wide of off, Tamim glides but cannot get it past short third man .",257,20,11,95.3417394963,0.243289585399,0.252348732724,0.263035776331,0.189560233499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+541,"van Beek to Tamim, FOUR, poor delivery from van Beek.",256,11,2,36.7078637345,0.263035776331,0.265598459679,0.0788031373558,0.189219009541,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.0625
+542,Down leg and all Tamim needed to do was to get some bat on that.,255,6,10,54.214459603,0.0788031373558,0.189560233499,0.0670203040566,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20238
+543,"He does so with a gentle, little flick and off she goes to into the fine leg fenceLogan van Beek [ .",254,12,11,82.8914064762,0.0670203040566,0.189219009541,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+544,- .,253,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+545,. ],252,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+546,"is back into the attackSo, 4 overs left.",251,7,3,29.4775479258,0.0,0.0,0.0,0.0158712932157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+547,How much can Bangladesh get?,250,4,2,24.4399919813,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+548,With Tamim still at the crease I'm sure they will be aiming for a  .,249,7,9,51.4477130169,0.0,0.0158712932157,0.0,0.100538404392,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+549,plus target .,248,3,0,13.9804275304,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+550,"Meekeren to Tamim, 1 run, short and Tamim had so much time to pick his spot, went for the pull but dragged it off the toe-end towards deep mid-wicket .",247,21,12,98.9477824857,0.0,0.100538404392,0.105085017733,0.181842421413,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.190885
+551,"Meekeren to Nasir Hossain, 1 run, when the line is around the pads, the Bangladeshi batsmen are quite content to work singles square on the leg-side .",246,20,10,97.4463793963,0.105085017733,0.0,0.242947368466,0.315761401865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148935
+552,"Meekeren to Nasir Hossain, no run, hurls in the pacy bumper this time, on the stumps, Nasir Hossain was late on the hook/pull, beaten for sheer pace .",245,22,11,103.116793505,0.242947368466,0.181842421413,0.42461592151,0.068876703303,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+553,"Meekeren to Nasir Hossain, no run, fuller and pacy, drifting in towards middle and leg, Nasir Hossain looks it work it through the leg-side, hurried for pace.",244,23,10,101.680337632,0.42461592151,0.315761401865,0.116588067331,0.0960278468974,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11429
+554,"Misses and is rapped on the pads, no real appeal as it would have gone down leg .",243,10,9,71.8597898442,0.116588067331,0.068876703303,0.0,0.0477707935961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14632
+555,"Meekeren to Tamim, 1 run, swiped away to backward square .",242,11,2,32.8946538817,0.0,0.0960278468974,0.313607600149,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+556,"Meekeren to Tamim, no run, wide of off, Tamim runs it to the right of short third man who gets across to fieldPaul van Meekeren [ .",241,20,10,86.1805424691,0.313607600149,0.0477707935961,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+557,- .,240,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+558,. ],239,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+559,is back into the attack .,238,3,3,16.7433686828,0.0,0.0,0.0,0.117004064173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+560,"van der Gugten to Nasir Hossain, no run, well blocked!",237,11,2,37.0529357507,0.0,0.0,0.105136579515,0.20353208694,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+561,"Touch fuller around off and Nasir Hossain chops it into the off-side, opened the face and ensured he didn't go hard at the strokeCan he pick another?",236,18,12,112.803925993,0.105136579515,0.117004064173,0.114314082741,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+562,"Let's see...Nasir Hossain, right handed bat, comes to the crease .",235,14,2,45.3674039431,0.114314082741,0.20353208694,0.0199501684604,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+563,"van der Gugten to Rahim, out Bowled!!",234,8,2,25.377641513,0.0199501684604,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+564,Hooooooo!,233,2,0,6.99021376521,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+565,How about that?,232,1,3,14.1111575653,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+566,Two wickets in 3 balls.,231,5,1,19.7068464703,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+567,Rahim is beaten neck and crop.,230,5,2,29.4602180541,0.0,0.0,0.0,0.064556831913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+568,Hops like a school boy who just lost his lunch box.,229,8,4,59.0307161345,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.064515
+569,"Meanwhile, van der Gugten is jubilant.",228,7,1,27.6004688174,0.0,0.064556831913,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+570,Repeats the previous dismissal celebrations.,227,5,1,28.3461092573,0.0,0.0,0.0131327779425,0.0246016162684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+571,"Back of a length delivery, bowled with decent pace and Rahim was caught on the hop.",226,11,7,59.882678998,0.0131327779425,0.0,0.0327615513813,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16129
+572,The ball didn't rise as expected and sneaks through to hit the timber.,225,8,7,56.5416015472,0.0327615513813,0.0246016162684,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.209445
+573,Leg-stump goes for a walk.,224,4,2,15.1992001725,0.0,0.0,0.0,0.266777974099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+574,Replays show that Rahim got a thin inside edge.,223,8,2,42.0876624427,0.0,0.0,0.0598281013617,0.203097447801,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+575,That's why it took out the leg stump.,222,5,5,31.9793951507,0.0598281013617,0.266777974099,0.0,0.202014275785,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+576,Rahim b van der Gugten  .,221,6,0,15.3692411418,0.0,0.203097447801,0.837522302594,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+577,")van der Gugten to Rahim, THAT'S OUT!!",220,9,3,23.8670494352,0.837522302594,0.202014275785,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+578,Bowled!!,219,3,0,4.85014760171,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+579,.,218,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+580,"van der Gugten to Rahim, wide, slips this down leg, Rahim lets it be .",217,13,5,55.7076449425,0.0,0.0,0.271191348233,0.239779446433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+581,"van der Gugten to Rahim, no run, stays solid inside the crease and tries to drive, the ball rolls off the pad into the off-side after taking the inside edgeMushfiqur Rahim, right handed bat, comes to the crease .",216,30,14,143.209674198,0.271191348233,0.0,0.151970204954,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11924
+582,"van der Gugten to Mahmudullah, out Bowled!!",215,8,2,24.9313544104,0.151970204954,0.239779446433,0.0,0.249052721166,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+583,TIMBAAAAAH!,214,2,0,6.99021376521,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+584,"van der Gugten jumps high, pumps his fist and lets out a big sigh of excitement.",213,13,5,73.4873592918,0.0,0.249052721166,0.0418110066585,0.038630776586,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+585,"He had every reason to do so as he has nipped out Mahmudullah, arguably one of Bangladesh's best batsmen currently.",212,13,10,98.6987911711,0.0418110066585,0.0,0.0793026476808,0.0593652045352,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+586,It was slightly on a back of a length and Mahmudullah premeditated on the stroke.,211,7,9,47.4498139763,0.0793026476808,0.038630776586,0.073217009061,0.0764898559377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.235715
+587,Had a big cross-batted smite and failed to pick the length.,210,7,5,38.6494323023,0.073217009061,0.0593652045352,0.0395422847424,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+588,His head was falling all over the place and hears the death rattle as the wood misses the leather.,209,10,10,88.4097514584,0.0395422847424,0.0764898559377,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+589,Mahmudullah b van der Gugten  . ),208,7,0,14.9229540392,0.0,0.0,0.713328935071,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+590,"[4s-1]van der Gugten to Mahmudullah, THAT'S OUT!!",207,11,3,23.4207623326,0.713328935071,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+591,Bowled!!,206,3,0,4.85014760171,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+592,.,205,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+593,"van der Gugten to Tamim, 1 run, pulls the length back and cramps Tamim for room, he can only tap it flat-batted towards cover, only a single on offer .",204,23,11,102.115872276,0.0,0.0,0.158611668992,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+594,"van der Gugten to Mahmudullah, 1 run, seeks to bowl a yorker but serves up a very full ball on middle, Mahmudullah lunges forward and flicks it to fine legTimm van der Gugten [ .",203,27,11,123.846509211,0.158611668992,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+595,- .,202,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+596,-0] is back into the attack .,201,5,3,16.7433686828,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+597,"van Beek to Mahmudullah, 1 run, curled in around middle and leg, Mahmudullah uses his wrists to good effect as he tucks it behind square leg .",200,22,8,101.512064118,0.0,0.0,0.132889110253,0.0994653341327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123205
+598,"van Beek to Tamim, 1 run, advances and drills this fullish ball down to long-off .",199,13,5,46.9345315286,0.132889110253,0.0,0.16549555747,0.0651840130713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+599,"van Beek to Tamim, FOUR, you just need to time the ball here as the outfield here provides full value for your strokes.",198,15,11,99.3845289365,0.16549555747,0.0994653341327,0.0,0.0825601236173,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.16905
+600,This shot is a precise example of that.,197,4,5,31.821256351,0.0,0.0651840130713,0.0,0.0772816764421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+601,"Picked the fuller length delivery and just leant on the drive, scorched off the turf through cover .",196,11,8,68.023187677,0.0,0.0825601236173,0.0690508743783,0.274408033769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+602,"van Beek to Tamim, no run, ""That's come from the side of the hand"" informs Alan Wilkins on air.",195,17,8,76.3831988019,0.0690508743783,0.0772816764421,0.0,0.103936910353,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163515
+603,Well picked!,194,3,0,10.1196978194,0.0,0.274408033769,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+604,"The slower delivery angled across Tamim, he was early on the stroke.",193,9,5,47.0349419848,0.0,0.103936910353,0.103337256373,0.0932273520156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+605,Was looking to drive on the rise and is beaten for lack of pace .,192,7,8,53.7520799491,0.103337256373,0.0,0.0787837948182,0.0169489644642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+606,"van Beek to Tamim, no run, plenty of width on offer, Tamim crouches low and opens the bat face, short third man moves swiftly to his right and prevents a single .",191,26,10,123.905224786,0.0787837948182,0.0932273520156,0.194210133765,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+607,"van Beek to Tamim, FOUR, that's butchered!",190,9,2,26.626910447,0.194210133765,0.0169489644642,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.21672
+608,.,189,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+609,up for Bangladesh.,188,2,2,11.9475345248,0.0,0.0,0.0493665784233,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+610,"Tamim backed away slighly and got underneath this full delivery to bludgeon this back over the bowler's head for a one-bounce four, landed millimeters inside the ropeLogan van Beek [ .",187,24,9,119.332679005,0.0493665784233,0.0,0.0,0.0869064685152,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10345
+611,- .,186,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+612,-0] is back into the attack .,185,5,3,16.7433686828,0.0,0.0869064685152,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+613,"van der Merwe to Tamim, 1 run, fuller and wider of off, driven to sweeper cover .",184,15,5,55.9214241263,0.0,0.0,0.325140650717,0.0926183862164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+614,"van der Merwe to Tamim, 2 runs, fifty for Tamim!",183,11,2,32.8594507902,0.325140650717,0.0,0.119954565429,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+615,"Shortish and around middle and leg, Tamim tucks off his hip through mid-wicket and wanders back for an easy second.",182,14,8,78.0623996491,0.119954565429,0.0926183862164,0.0590864196884,0.0836238298305,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+616,Handshake from his partner and a good round of applause from the dug-out .,181,7,7,48.3593536117,0.0590864196884,0.0,0.0340381419721,0.0890720624355,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+617,"van der Merwe to Tamim, no run, floated full and went on with the arm, Tamim was looking to drive but the ball dipped in and went on with the angle, beaten .",180,22,15,116.680025528,0.0340381419721,0.0836238298305,0.165371918529,0.193384601204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13619
+618,"van der Merwe to Tamim, 2 runs, wristed away through mid-wicket and good running takes care of the rest .",179,17,5,69.9281449467,0.165371918529,0.0890720624355,0.176891866096,0.201810687,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15263
+619,"van der Merwe to Tamim, wide, to add insult to injury he sprays this down leg, Tamim glances and misses .",178,17,7,82.7899902685,0.176891866096,0.193384601204,0.239998315399,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+620,"van der Merwe to Tamim, no run, stumping chance missed!",177,11,2,39.3262524637,0.239998315399,0.201810687,0.0,0.168037261989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+621,How much will that cost?,176,3,3,25.1142019608,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+622,"Tamim came down the trying aiming for another biggie, van der Merwe fired it full and wide, sneaked under the bashing blade of Tamim and the keeper makes a mess of it.",175,22,13,128.890206631,0.0,0.168037261989,0.0950583469617,0.267954827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096155
+623,Fails to gather the ball cleanly and Tamim gets a life .,174,8,4,42.7298680001,0.0950583469617,0.0,0.128601302584,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+624,"van der Merwe to Tamim, SIX, that's Tamim for you!",173,10,4,35.8476084272,0.128601302584,0.267954827,0.0,0.153573495762,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.23182
+625,Such an elegant player of spin bowling.,172,5,3,39.4340873814,0.0,0.0,0.0246279674919,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+626,"Waltzes down the pitch, gets to the pitch of the delivery and smokes it over the long-on fenceRoelof van der Merwe [ .",171,14,10,72.4638090647,0.0246279674919,0.153573495762,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+627,- .,170,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+628,. ],169,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+629,is back into the attack .,168,3,3,16.7433686828,0.0,0.0,0.0499083352706,0.0274207301919,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+630,"Bukhari to Tamim, 1 run, at the hip, tucked away square on the on-side .",167,13,5,42.3219269436,0.0499083352706,0.0,0.172796631715,0.0214445750659,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+631,"Bukhari to Mahmudullah, 1 run, full and zooming in around off, Mahmudullah twirls his wrists on the flick, through mid-wicket and the fielder (van der Merwe) at deep mid-wicket did well to restrict it to a single.",166,28,16,125.233632803,0.172796631715,0.0274207301919,0.0267082034275,0.252582128188,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12131
+632,"Came rushing forward, picked the ball one-handed and fired an accurate throw .",165,11,3,52.6129008982,0.0267082034275,0.0214445750659,0.0269368638195,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+633,"Bukhari to Mahmudullah, 2 runs, strays this onto the pads and Mahmudullah flicks it behind square on the leg-side .",164,15,7,66.3050643312,0.0269368638195,0.252582128188,0.2016139108,0.288487154824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+634,"Bukhari to Mahmudullah, no run, pushed gently towards extra cover .",163,11,2,43.5659238093,0.2016139108,0.0,0.215659319278,0.0860803016558,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+635,"Bukhari to Mahmudullah, FOUR, in the air and a boundary!",162,8,5,32.7361619507,0.215659319278,0.288487154824,0.125277039115,0.1136056693,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.174975
+636,Mahmudullah stayed still and deposited this fullish length ball over mid-wicket.,161,9,3,44.728222746,0.125277039115,0.0860803016558,0.130255261895,0.130359158291,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+637,"It went towards the man at deep mid-wicket who was running in to snaffle the ball, covered good ground to his left but lost the ball in the sun .",160,17,14,110.717625775,0.130255261895,0.1136056693,0.158080167793,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.123445
+638,"Bukhari to Mahmudullah, no run, full and angled in around middle, Mahmudullah defends it down the ground off the inside halfMudassar Bukhari [ .",159,18,9,84.0701973894,0.158080167793,0.130359158291,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+639,- .,158,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+640,. ],157,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+641,is back into the attack .,156,3,3,16.7433686828,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+642,"Borren to Mahmudullah, 1 run, was that a drop?",155,8,4,25.8040892623,0.0,0.0,0.0,0.113505136258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.125
+643,I think so.,154,2,2,11.6290522732,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+644,"It was drifted down leg and Mahmudullah went for the tickle, the ball kissed the inside half and went past the keeper who got some glove but failed to cling onMahmudullah, right handed bat, comes to the crease .",153,26,16,158.923464818,0.0,0.113505136258,0.0187933548285,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11395
+645,"Borren to Shakib, out Caught by S Myburgh!!",152,7,4,25.7396312479,0.0187933548285,0.0,0.121252627805,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+646,Shakib's poor patch continues.,151,6,0,23.5510916712,0.121252627805,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+647,Couldn't get runs in the Asia Cup games and now here he is walking back for a mere 5 runs in 7 balls.,150,15,10,87.6049616734,0.0,0.0,0.0,0.0106237311376,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+648,This was a rubbish delivery to be honest.,149,4,5,30.8090329869,0.0,0.0,0.124485807575,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.221535
+649,"Short and ample width on offer, well wide of off to be precise.",148,9,6,53.1512436147,0.124485807575,0.0106237311376,0.0434163513872,0.0716235886917,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+650,Shakib reaches out for the cut and flashes his hands on the stroke.,147,7,7,51.1507840729,0.0434163513872,0.0,0.0142708943324,0.1469623579,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+651,Gets a thick top-edge and short third man gets a dolly.,146,9,3,36.5016246977,0.0142708943324,0.0716235886917,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+652,Shakib c S Myburgh b Borren  .,145,6,1,11.049467324,0.0,0.1469623579,0.584562843556,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+653,")Borren to Shakib, THAT'S OUT!!",144,7,3,15.8712478568,0.584562843556,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+654,Caught!!,143,3,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+655,.,142,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+656,"Borren to Tamim, 1 run, on middle and leg, clipped away behind square leg .",141,15,3,45.959414158,0.0,0.0,0.212957441588,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+657,"Borren to Tamim, FOUR, cannot bowl there to Tamim!",140,8,5,37.4677639152,0.212957441588,0.0,0.0,0.0989469376124,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13333
+658,He is such a good driver of a cricket ball.,139,5,6,35.8394778299,0.0,0.0,0.0,0.0403907665172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+659,"Full and Tamim had enough width to free his arms, leant on the front foot and caressed the drive through cover .",138,14,9,87.5454695353,0.0,0.0989469376124,0.16546726211,0.0766976366373,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+660,"Borren to Tamim, 2 runs, the line is too straight again and Tamim picks him off his pads through mid-wicket .",137,13,10,69.0100539949,0.16546726211,0.0403907665172,0.076220768744,0.0808642867646,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+661,"Borren to Shakib, 1 run, fullish at the stumps, Shakib makes some room and drives it to the left of extra cover who dives but only manages a half-stop, parries it away towards long-offPeter Borren, right-arm medium, comes into the attack .",136,32,16,146.006966273,0.076220768744,0.0766976366373,0.206675355651,0.141430318553,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125505
+662,"van Beek to Shakib, 1 run, fuller length outside off, Shakib gets the drive off the outer part of the bat to sweeper cover .",135,20,8,83.1622446864,0.206675355651,0.0808642867646,0.227157969611,0.453187028977,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160175
+663,"van Beek to Tamim, 1 run, slower delivery perhaps, Tamim does well to sight it early, eases the on-drive to the right of long-on .",134,21,8,77.0755774402,0.227157969611,0.141430318553,0.244845002758,0.330984805424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13142
+664,"van Beek to Shakib, 1 run, yorker length on off, Shakib squeezes it square of the wicket on the off-side .",133,16,8,59.3695325539,0.244845002758,0.453187028977,0.215571944796,0.425703903001,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+665,"van Beek to Tamim, 1 run, back of a length delivery and Tamim dabs it to the right of point for a single, the fielder hurls a throw at the striker's end but misses .",132,24,15,108.381622469,0.215571944796,0.330984805424,0.198541593551,0.284963953034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14614
+666,"van Beek to Shakib, 1 run, good length delivery and just outside off, Shakib drives it to sweeper cover .",131,17,6,63.6896110719,0.198541593551,0.425703903001,0.187766975616,0.244220222814,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+667,"van Beek to Tamim, 3 runs, he timed this one well, it was a low full toss and Tamim clipped it through mid-wicket and before the fielder could run across to his right to cut it off, he had sprinted three runsLogan van Beek, right-arm fast medium, comes into the attack .",130,37,21,184.843921292,0.187766975616,0.284963953034,0.286051769804,0.17887402321,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.118535
+668,"van der Merwe to Shakib, no run, very full and Shakib wants to wrist this one into the on-side, the ball was too close and all he could do was push it off the toe back to the bowler .",129,22,21,138.658683179,0.286051769804,0.244220222814,0.266157630553,0.275098122918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133905
+669,"van der Merwe to Tamim, leg byes, 1 run, some turn for Merwe once again, Tamim wanted to work it away into the on-side and wore it on the pad, the ball rolled away to square leg .",128,28,15,130.421953557,0.266157630553,0.17887402321,0.210006358403,0.216241456008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10733
+670,"van der Merwe to Shakib, 1 run, floater on the stumps, Shakib eases it down to long-onShakib Al Hasan, left handed bat, comes to the crease .",127,24,8,87.7786135217,0.210006358403,0.275098122918,0.197889950145,0.0181732583486,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107325
+671,"van der Merwe to S Rahman, out Lbw!!",126,8,3,26.4212907784,0.197889950145,0.216241456008,0.0,0.0676662493978,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+672,It could not have been more plumb.,125,3,5,33.0366055868,0.0,0.0181732583486,0.0256307776019,0.106128334803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163475
+673,"Gave this one some air perhaps, Rahman got a big stride, wanting to nudge it away, missed the ball as it came in with the arm, got struck right in front and the umpire raised his finger in a flash.",124,28,17,169.094499366,0.0256307776019,0.0676662493978,0.0785374766851,0.0633794072933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10229
+674,The ball would have hit the middle stump.,123,6,3,30.6105989695,0.0785374766851,0.106128334803,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+675,S Rahman lbw b van der Merwe  .,122,7,1,21.2630380089,0.0,0.0633794072933,0.0,0.637427031952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+676,5) [4s- .,121,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+677,"s-1]van der Merwe to S Rahman, THAT'S OUT!!",120,10,4,23.4637797177,0.0,0.637427031952,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+678,Lbw!!,119,3,0,6.29706658465,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+679,.,118,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+680,"van der Merwe to S Rahman, SIX, now those shots fetch maximum runs, tossed up delivery and Rahman comes down the track, flogs it over long-on and it goes deep into the stands .",117,24,14,132.375344516,0.0,0.0,0.170210299007,0.152368658577,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0.131145
+681,"van der Merwe to Tamim, 1 run, goes for the reverse sweep, would have wanted it fine, but gets it square of the wicket on the off-side for a single, too much risk for a single .",116,26,16,118.702521308,0.170210299007,0.0,0.16878188509,0.102203584194,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14113
+682,"Bukhari to Tamim, 1 run, similar delivery and Tamim drills it off the front foot to long-on .",115,14,6,50.3523373823,0.16878188509,0.152368658577,0.136056588605,0.168055860981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+683,"Bukhari to S Rahman, 1 run, Bukhari is not learning from his mistakes, bowling them way too straight, Rahman once again works it to fine leg .",114,19,12,105.764869549,0.136056588605,0.102203584194,0.292319773899,0.133874879086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+684,"Bukhari to S Rahman, FOUR, the keeper made a desperate dive to his left but did not get his hand to it, it was a poor delivery and Rahman got the tickle and it eluded the keeper into the fine leg fence .",113,24,22,151.613182177,0.292319773899,0.168055860981,0.0991103892315,0.198633780317,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14163
+685,"Bukhari to Tamim, 1 run, low full toss on off, Tamim eases it down to long-off .",112,14,6,48.4373545127,0.0991103892315,0.133874879086,0.174326254145,0.211338491407,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09375
+686,"Bukhari to Tamim, FOUR, that is cheeky from Tamim, third man was in the ring and he waited for this length delivery, steered it fine and fetched an easy four .",111,21,14,119.136742251,0.174326254145,0.198633780317,0.216754639209,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.125
+687,"Bukhari to S Rahman, leg byes, 1 run, Bukhari wanted the fine leg deep and it helped him, bowled it too straight and Rahman missed the clip, off the pad and down to fine leg for an extraMudassar Bukhari [ .",110,29,17,140.08027898,0.216754639209,0.211338491407,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08475
+688,- .,109,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+689,. ],108,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+690,is back into the attack .,107,3,3,16.7433686828,0.0,0.0,0.0712312560142,0.0171867543205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+691,"van der Merwe to Tamim, SIX, it's the altitude of Dharamsala that made this one go over the fence at wide long-off, Tamim came down the track and sliced the loft, the fielder was interested there but it carried over the fence.",106,28,20,163.053903397,0.0712312560142,0.0,0.251027386621,0.156289103065,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.10978
+692,"Spinners will have to be careful here for sure, mishits tend to go over the fence at this venue .",105,10,11,88.2565986669,0.251027386621,0.0171867543205,0.0313041017473,0.0616457119283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.202385
+693,"van der Merwe to Tamim, no run, tight lines from the bowler, he wants to nudge it away but cannot beat mid-wicket .",104,17,10,89.1215031271,0.0313041017473,0.156289103065,0.287252946595,0.201451741811,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.127075
+694,"van der Merwe to Tamim, no run, comes down the track this time but the bowler drags the length back, wears it on his front pad .",103,19,11,94.2297728486,0.287252946595,0.0616457119283,0.208316973512,0.203432554992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108695
+695,"van der Merwe to S Rahman, 1 run, on the stumps and Rahman closes the face of the bat to send it to deep mid-wicket for an easy single, the fielder came in quickly and denied the second run .",102,26,17,130.759749594,0.208316973512,0.201451741811,0.319333308163,0.244873294955,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+696,"van der Merwe to S Rahman, no run, this one turned a bit outside off and Rahman got the defence of the outer part to backward point .",101,19,11,96.1535632798,0.319333308163,0.203432554992,0.206772549063,0.273551507807,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14988
+697,"van der Merwe to Tamim, 1 run, flatter on the leg-stick, Tamim works it to short fine leg and gets to the other endRoelof van der Merwe, left-arm orthodox, comes into the attack .",100,28,11,106.314953381,0.206772549063,0.244873294955,0.0710712030096,0.231074024119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109775
+698,"Meekeren to S Rahman, no run, short of good length and aiming for the off-pole, Rahman drops in front of him but cannot steal a single .",99,17,14,92.2597743205,0.0710712030096,0.273551507807,0.111845538235,0.174717764874,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.111825
+699,"Meekeren to Tamim, 1 run, shortish this time and on the stumps, Tamim waits for it and swipes to deep backward square leg .",98,18,9,78.4276650523,0.111845538235,0.231074024119,0.269888787286,0.302431235543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+700,"Meekeren to Tamim, no run, similar delivery and Tamim tucks it off the inner part of the bat to the man at mid-wicket .",97,15,11,73.8234421832,0.269888787286,0.174717764874,0.413899336111,0.226236161717,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.183985
+701,"Meekeren to Tamim, no run, back of a length and Tamim tucks it into the on-side, Rahman wanted a single but Tamim was not interested .",96,17,12,78.2471086279,0.413899336111,0.302431235543,0.212700962862,0.251522262812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17073
+702,"Meekeren to Tamim, FOUR, this is nicely done, bent a little and punched this back of a length delivery through the point region, timed it well and the ball raced away to the fence .",95,24,15,125.432147483,0.212700962862,0.226236161717,0.138257974231,0.125651560932,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14886
+703,"Meekeren to S Rahman, 1 run, it was in the air for a while but away from the fielder at mid-wicket, Rahman was early on the tuck and it lobbed in in the air, luckily for him, the fielder could not get to it .",94,23,27,146.747745799,0.138257974231,0.251522262812,0.21040389698,0.245541479441,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.133915
+704,"Meekeren to S Rahman, wide, poor delivery, full and splayed down the leg-side, Rahman misses the flick and it has been adjudged as a wide .",93,18,12,88.1721036317,0.21040389698,0.125651560932,0.273013437811,0.210401673526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+705,"van der Gugten to S Rahman, 1 run, sliding on middle and leg, Rahman works it through square leg and will have the strike for the next over .",92,19,13,94.2621220702,0.273013437811,0.245541479441,0.295591016923,0.287574280654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+706,"van der Gugten to S Rahman, no run, back of a length delivery on off, Rahman slaps it to the fielder at short cover, he is struggling to get these shots in the gap .",91,22,17,119.246271325,0.295591016923,0.210401673526,0.433938375902,0.375755521613,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+707,"van der Gugten to S Rahman, no run, dishes this one at short of a good length and just outside off, Rahman opens the face of the bat on the punch, cannot beat the fielder at point .",90,24,19,135.21999506,0.433938375902,0.287574280654,0.327621611545,0.22727089737,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15539
+708,"van der Gugten to S Rahman, no run, slower delivery and right on the stumps, Rahman does well and defends it close to the body .",89,18,11,85.8484447586,0.327621611545,0.375755521613,0.294253777819,0.389845892838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+709,"van der Gugten to Tamim, 1 run, shortish aiming at the rib-cage area of Tamim, he does well to get across in the crease and works it behind square on the on-side .",88,23,13,104.607459661,0.294253777819,0.22727089737,0.262248155172,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+710,"van der Gugten to S Rahman, 1 run, too straight from Meekeren, Rahman moves across in the crease and clips it through mid-wicketTimm van der Gugten [ .",87,22,9,85.2110188871,0.262248155172,0.389845892838,0.0,0.0163261503289,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.109685
+711,- .,86,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+712,-0] is back into the attack .,85,5,3,16.7433686828,0.0,0.0163261503289,0.0,0.0918229584686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+713,"Meekeren to Tamim, 2 runs, slower bouncer and Tamim adjusts well, rolls his wrists and pulls it to mid-wicket for another couple .",84,19,7,82.3131336564,0.0,0.0,0.397764580032,0.175824691527,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+714,"Meekeren to Tamim, 2 runs, fraction short and Tamim rocks back in the crease, pulls it through mid-wicket, fielder in the deep runs across to his right and keeps it down to two .",83,24,14,112.466306231,0.397764580032,0.0918229584686,0.251448482328,0.178913522204,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11531
+715,"Meekeren to Tamim, no run, a slip has been brought in, this time Tamim comes down the track and mistimes this inside out drive to the man at mid-off, got it off the toe end of the bat .",82,23,20,132.928176254,0.251448482328,0.175824691527,0.338705313012,0.188163503807,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15373
+716,"Meekeren to Tamim, no run, poor shot from Tamim, goes for the drive on this length delivery and is beaten outside off .",81,16,10,79.2652456193,0.338705313012,0.178913522204,0.125411466345,0.0899998880592,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.143725
+717,"Meekeren to S Rahman, leg byes, gets across to flick this one, gets it off his thigh pad to short fine leg for an extra runSabbir Rahman, right handed bat, comes to the crease .",80,28,12,129.038644197,0.125411466345,0.188163503807,0.090758529768,0.0803820991495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093305
+718,"Meekeren to Soumya Sarkar, out Caught by Barresi!!",79,8,3,32.2903162591,0.090758529768,0.0899998880592,0.162853412509,0.0275648966199,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+719,"That is a poor shot from Sarkar and he has to pay the price for it, not wide enough to go for the cut but Sarkar had other ideas.",78,13,18,113.941699893,0.162853412509,0.0803820991495,0.189174410519,0.229240778257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.143515
+720,"The ball was pretty close to him and did not have enough space to flay the cut, got cramped for room and an outside edge carried to the keeper at a nice height.",77,18,17,134.871303735,0.189174410519,0.0275648966199,0.0771821023616,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+721,"Meekeren has made up for the catch he dropped earlier, Sarkar was the batsman then.",76,9,8,66.2983683758,0.0771821023616,0.229240778257,0.232008454083,0.191990581348,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.12121
+722,Soumya Sarkar c Barresi b Meekeren  .,75,7,0,17.6001523351,0.232008454083,0.0,0.622252461106,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+723,"3) [4s-2]Meekeren to Soumya Sarkar, THAT'S OUT!!",74,12,3,21.7104365487,0.622252461106,0.191990581348,0.0,0.111653640847,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+724,Caught!,73,2,0,4.7389219666,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+725,"!Paul van Meekeren, right-arm fast, comes into the attack .",72,11,2,33.3195229006,0.0,0.111653640847,0.019086690387,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+726,"Bukhari to Tamim, no run, good length delivery and Tamim gets his front foot in the line of the delivery and clips it to mid-wicket, cannot steal a single .",71,20,14,98.2885752867,0.019086690387,0.0,0.222077162531,0.160056823526,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16083
+727,"Bukhari to Soumya Sarkar, 1 run, shortish and Sarkar tucks it to mid-wicket .",70,12,4,38.2965438237,0.222077162531,0.0,0.404279140836,0.266765561807,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+728,"Bukhari to Soumya Sarkar, 2 runs, what a shot that is from Soumya Sarkar but he won't get a four for it, the ball slowed down as it neared the fence at widish long-on, Sarkar picked this length delivery and lofted it over mid-on, a great effort by the fielder (Ben Cooper) who ran back and slid head-first to keep it down to two .",69,43,30,230.126337932,0.404279140836,0.160056823526,0.121447688181,0.240379490931,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.094735
+729,"Bukhari to Tamim, 1 run, stump to stump line for Tamim, he gets across and tucks it to backward square leg .",68,18,7,69.9920458071,0.121447688181,0.266765561807,0.265404764002,0.243151359324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+730,"Bukhari to Tamim, no run, Tamim wanted a single but Soumya Sarkar sends him back, good length delivery on the stumps and Tamim clips it to short fine leg and set off, there was throw at the striker's end but Tamim was well in .",67,31,19,160.362378853,0.265404764002,0.240379490931,0.359150035871,0.242307028258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+731,"Bukhari to Tamim, no run, short of a fuller length and Tamim drives it off the inner part of the bat back to the bowler .",66,16,12,80.6913810114,0.359150035871,0.243151359324,0.204124068603,0.212305906085,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.202065
+732,"van der Gugten to Tamim, 1 run, similar line for Tamim as well, he tucks it to square leg and will retain the strike for the next over .",65,20,12,99.8670056198,0.204124068603,0.242307028258,0.234143220623,0.151155431803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+733,"van der Gugten to Soumya Sarkar, 1 run, good call by Tamim will get Sarkar off the strike, Sarkar almost chopped this back of a length delivery onto the stumps while trying to punch it, the ball rolled away behind the stumps .",64,33,14,160.35705597,0.234143220623,0.212305906085,0.394454680531,0.366911026861,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112905
+734,"van der Gugten to Soumya Sarkar, no run, short of a good length and on 4th stump, Sarkar is happy to defend it from the crease .",63,19,11,92.2820044038,0.394454680531,0.151155431803,0.455620620349,0.420296189471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+735,"van der Gugten to Soumya Sarkar, no run, fullish and outside off, Sarkar gets forward and drives it to cover-point .",62,17,7,66.9068202838,0.455620620349,0.366911026861,0.382019670955,0.175629943598,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+736,"van der Gugten to Soumya Sarkar, FOUR, short delivery and Sarkar has taken heavy toll of it, not that short in fact.",61,18,8,89.6022212747,0.382019670955,0.420296189471,0.141370358141,0.38428352576,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10811
+737,Sarkar went on the back foot and pulled it through mid-wicket with ease .,60,8,6,48.8839891777,0.141370358141,0.175629943598,0.192509161046,0.14569610004,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+738,"van der Gugten to Soumya Sarkar, no run, length delivery on the stumps, Sarkar defends it to mid-offTimm van der Gugten, right-arm medium, comes into the attack .",59,25,8,87.9701176066,0.192509161046,0.38428352576,0.306173020409,0.195806754904,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.091995
+739,"Bukhari to Soumya Sarkar, 1 run, length delivery on the middle and leg, clips it to short fine leg for a single .",58,18,8,67.3575603127,0.306173020409,0.14569610004,0.232475987617,0.359868663795,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+740,"Bukhari to Soumya Sarkar, FOUR, edged and dropped at third man, Sarkar threw the bat after coming down the track at this length delivery and got a thickish leading edge that flew to third man, the fielder tried to reverse cup it after going back but the ball bursts out his hand and landed before the ropes .",57,38,24,238.761060336,0.232475987617,0.195806754904,0.240835386899,0.278555446646,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.09091
+741,"Bukhari to Soumya Sarkar, 2 runs, too straight from Bukhari, keeps it on a length, Sarkar moves across and flicks it to deep backward square leg, the fielder moves to his left and keeps it down to two .",56,28,16,138.022744721,0.240835386899,0.359868663795,0.280453555548,0.314820514113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09508
+742,"Bukhari to Soumya Sarkar, no run, this time Bukhari comes closer to the stumps, Sarkar defends off the front foot, gets it off the inner part of the bat and the ball rolls away to the off-side .",55,26,16,128.33239255,0.280453555548,0.278555446646,0.608014895303,0.339345299935,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1564
+743,"Bukhari to Soumya Sarkar, no run, short of a good length around off, Sarkar gets on the front foot and defends .",54,17,8,73.1259197259,0.608014895303,0.314820514113,0.350597269425,0.0494517102968,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1683
+744,"Bukhari to Tamim, 1 run, back of a length delivery just outside off, Tamim goes for a defensive push, gets an edge to third man and is off the markTamim and Soumya Sarkar are at the crease.",53,25,17,126.753715788,0.350597269425,0.339345299935,0.166650007526,0.0860532264526,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.122805
+745,Tamim is on strike.,52,3,2,14.8474153814,0.166650007526,0.0494517102968,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+746,Bukhari will open the attackOne slip in placeThere are some Bangladeshi supporters in crowd.,51,9,6,70.9213745665,0.0,0.0860532264526,0.079025069382,0.058312321175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+747,I can see some dark clouds hovering around.,50,6,3,41.3265396266,0.079025069382,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+748,"Hopefully, they will stay away and allow us a full game.",49,9,4,49.3393422492,0.0,0.058312321175,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+749,"The players walk out into the middle for the national anthems of both teams.Pitch report: ""It looks like a good surface.",48,14,10,85.9500188063,0.0,0.0,0.013600587976,0.0652867859216,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+750,"Traditionally, it is a high scoring ground, there is no grass.",47,8,6,47.6621504784,0.013600587976,0.0,0.00626910839958,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+751,"It looks very bald, I am not sure spin can be a factor here,"" reckons Ian Bishop.Teams:Bangladesh (Playing XI): Tamim Iqbal, Soumya Sarkar, Sabbir Rahman, Mushfiqur Rahim(w), Shakib Al Hasan, Mahmudullah, Nasir Hossain, Mashrafe Mortaza(c), Taskin Ahmed, Arafat Sunny, Al-Amin HossainNetherlands (Playing XI): Stephan Myburgh, Wesley Barresi(w), Ben Cooper, Tom Cooper, Peter Borren(c), Roelof van der Merwe, Pieter Seelaar, Mudassar Bukhari, Logan van Beek, Timm van der Gugten, Paul van MeekerenMashrafe Mortaza: ""We would have bowled as well.",46,112,12,377.510231674,0.00626910839958,0.0652867859216,0.105959129531,0.00741905477322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078055
+752,"We have not played here much, our batsmen should have a look.",45,6,8,55.7781170416,0.105959129531,0.0,0.0,0.0658582605291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.31111
+753,"Obviously, it is a different challenge for us.",44,6,4,34.5086152802,0.0,0.00741905477322,0.0,0.037613656036,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+754,"The conditions are pretty similar, not Dharamsala of course.",43,7,4,44.2520780005,0.0,0.0658582605291,0.142422804548,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+755,We are looking forward to it.,42,3,4,23.0045493077,0.142422804548,0.037613656036,0.0615628532691,0.141584437652,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23077
+756,It looks to me a bit flatter here.,41,4,5,32.6390974596,0.0615628532691,0.0,0.0122730257809,0.0154217706285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+757,"Hopefully, our batters will get a good total and we have to bowl well.",40,9,7,60.5059913885,0.0122730257809,0.141584437652,0.0999805214267,0.16353092163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.28097
+758,"""Peter Borren: ""We are going to field first.",39,9,3,38.1193020675,0.0999805214267,0.0154217706285,0.148936340326,0.175557237973,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+759,"It is a good looking wicket, the wicket will last whole 40 overs and we are pretty keen to chase here.",38,13,10,90.820356774,0.148936340326,0.16353092163,0.262728122336,0.138306665903,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.281045
+760,"The boys are pretty excited, we have been here for quite a long time.",37,8,8,61.5046593193,0.262728122336,0.175557237973,0.0686505559935,0.129978119051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.231815
+761,Hopefully we can put up a good show against a very good side.,36,7,7,55.7188082094,0.0686505559935,0.138306665903,0.273455878241,0.0396726214034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18132
+762,We have seen Bangladesh play some very good cricket of late.,35,7,5,53.6985642169,0.273455878241,0.129978119051,0.059464167113,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+763,"""Netherlands have won the toss and have opted to fieldWith Myburgh, Barresi, Borren, the Coopers (Ben and Tom), Mudassar Bukhari, Roelof van der Merwe and Ahsan Malik in their ranks, the Dutch can cause a few flutters in the Bangladeshi camp.",34,34,17,183.215974095,0.059464167113,0.0396726214034,0.0224361583819,0.0559493549601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.133905
+764,"Michael Swart, who came into prominence with a buccaneering century against Western Australia in October  .",33,11,6,81.4719712673,0.0224361583819,0.0,0.0241718236617,0.0948677336203,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+765,"in the Sheffield Shield, has been surprisingly left out.",32,6,5,42.9097771832,0.0241718236617,0.0559493549601,0.153520169285,0.114588190825,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25893
+766,"Swart has also been a fulcrum of Netherlands' batting line-up, over the years.",31,10,6,54.8300644785,0.153520169285,0.0948677336203,0.183252829505,0.00597014875928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+767,"The Canterbury all-rounder, Logan van Beek, has replaced Swart in the squad.",30,11,4,50.868281863,0.183252829505,0.114588190825,0.0804045151803,0.0675343963677,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+768,"On an interesting note, van Beek's grandfather, Sammy Guillen, played Tests as a wicket-keeper for both West Indies and New Zealand in the  .",29,19,9,108.95654867,0.0804045151803,0.00597014875928,0.0644648821465,0.0248973808073,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+769,"s. Join us for the toss and teams in a while... 
+On the other hand, Netherlands don't get too many opportunities to prove their mettle in the T20 format.",28,18,15,125.241168436,0.0644648821465,0.0675343963677,0.104933276757,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.15917
+770,Since their famous triumph against England in the World T .,27,6,5,48.900253588,0.104933276757,0.0248973808073,0.0,0.139376219928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+771,.,26,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+772,", the Dutch have only competed in three bilateral T20I series and the World T20 Qualifiers.",25,11,6,76.2349982707,0.0,0.139376219928,0.0499051083322,0.0414695114695,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+773,The players now will dust off their backpacks and aim to put the wheels back in motion for today's game.,24,12,10,90.9078256123,0.0499051083322,0.0,0.0396575756315,0.0166649678871,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+774,"If Sabbir Rahman and Mahmudullah summoned free-wheeling knocks time and again in the Asia Cup, then Al Amin Hossain, Shakib Al Hasan and Mashrafe Mortaza snaffled crucial wickets.",23,23,8,127.099771428,0.0396575756315,0.0414695114695,0.00649661484617,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08424
+775,"However, they might miss the services of Mustafizur.",22,7,3,41.8901568387,0.00649661484617,0.0166649678871,0.0,0.0307587302124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+776,It is still not sure whether he has completely recovered from his side-strain injury.,21,8,7,64.0458499611,0.0,0.0,0.0244395855489,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+777,"The left-armer, with his repertoire of variations, will certainly be a potent force on Indian tracks.",20,11,8,72.3411686555,0.0244395855489,0.0307587302124,0.0611488017351,0.0650418832358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+778,"After a couple of keenly contested games on Day 1 of the World T20,  .",19,10,6,59.8822916224,0.0611488017351,0.0,0.0207141885515,0.0356103150428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+779,", today, Bangladesh will look to start their campaign on a high against Netherlands.",18,10,6,60.0734917502,0.0207141885515,0.0650418832358,0.0891564067456,0.00640920140173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+780,"Bangladesh, who were criticised for not pulling their weight in the international arena for long, have checked in a series of impressive performances, in recent times.",17,17,13,125.691378809,0.0891564067456,0.0356103150428,0.0199214111123,0.234516352821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+781,"Just a few days ago, they pipped formidable foes, Sri Lanka and Pakistan, to reach the final of the Asia Cup.",16,16,9,102.677631494,0.0199214111123,0.00640920140173,0.103948786762,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+782,"In short, they have not just survived, but are now thriving in the harsh world of international cricket.",15,10,11,83.5935668522,0.103948786762,0.234516352821,0.112079472009,0.043724480422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+783,"Preview:
+
+Given their recent performances in T20Is, Bangladesh's cricket is definitely on an upswing.",14,13,5,74.9021068719,0.112079472009,0.0,0.0,0.0479765763086,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+784,With that comes the pressure of expectations.,13,4,4,28.5726075101,0.0,0.043724480422,0.0108812277203,0.0177965523767,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+785,They will be playing their first game against Netherlands barely two days after losing the Asia Cup final.,12,12,7,95.4322128706,0.0108812277203,0.0479765763086,0.0785265899094,0.0950230044616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+786,"Neither have they had time to practice and acclimatise to the conditions, nor have they had the time to recover from a heart-wrenching loss.",11,11,15,97.225571159,0.0785265899094,0.0177965523767,0.100563452062,0.0080153041477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+787,But now they get into another important game and it is imperative for Mashrafe Mortaza to try and get the best out of his men.,10,12,14,104.602178206,0.100563452062,0.0950230044616,0.044360194088,0.0559447026394,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+788,The captain acknowledged that it wouldn't be an easy task at all but also seemed upbeat about doing well after a string of good performances.,9,14,13,119.183299426,0.044360194088,0.0080153041477,0.202376409156,0.0636676001815,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+789,Switching from underdogs to favourites in such quick time will not be an easy task but the squad contains a good mix of youngsters and experienced players suited to the format.,8,17,15,145.407874228,0.202376409156,0.0559447026394,0.0215318135337,0.129140554999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+790,"The conditions in Dharamsala might also favour their seamers, which boosts their chances further.",7,10,6,78.7229040842,0.0215318135337,0.0636676001815,0.0158085472258,0.0103685549953,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+791,A lot rides on the fitness of Mustafizur Rahman and it remains to be seen if he will be rushed back into the playing eleven after a side strain kept him out of the final stages of the Asia Cup.,6,19,22,172.889717197,0.0158085472258,0.129140554999,0.113566571821,0.0887773036352,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1656
+792,"Another team that has done appreciably well, and consistently so by making it to the final round of the ICC events is Peter Borren's Netherlands.",5,17,11,113.846530486,0.113566571821,0.0103685549953,0.0279791859106,0.165796934396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15415
+793,"While the captain was aggrieved at not getting to play a lot more, they cannot afford to think about the what-ifs right now.",4,11,15,103.586670884,0.0279791859106,0.0887773036352,0.0959449664499,0.118736444022,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136425
+794,"If they do make it to the final round, they will face tougher competition but this is motivation enough for them to do well.",3,11,15,108.27293253,0.0959449664499,0.165796934396,0.156040314761,0.0660043486179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+795,That they have raised their level amongst the peers is a good sign for cricket in the country and a good show here might well help them realise Borren's wish of not having to play such rounds in the future.,2,21,21,183.348701491,0.156040314761,0.118736444022,0.0606024037959,0.144015337978,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15057
+796,"For that to happen though, there is a definite need to change perceptions.",1,8,7,57.1090021965,0.0606024037959,0.0660043486179,0.0367186341617,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.164085
+797,"That might be easier said than done but for now they will be concentrating on the tougher task of playing a relatively stronger Bangladesh in their first game, and try and cause and upset.",0,18,18,159.341638471,0.0367186341617,0.144015337978,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13236

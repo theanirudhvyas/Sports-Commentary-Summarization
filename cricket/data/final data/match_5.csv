@@ -1,0 +1,771 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,It's working out for Zimbabwe.,759,4,3,20.292361355,0.0,0.0,0.046621579973,0.078919300422,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+1,"Bat first, implode only to let a Chigumbura cameo get you to a par score, and then choke the opposition out with spin.",758,15,11,98.2268377082,0.046621579973,0.0,0.0333938658186,0.0280603307468,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+2,They have won two out of two.,757,3,5,30.2536928228,0.0333938658186,0.078919300422,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.18714
+3,Sean Williams and Wellington Masakadza were the heroes tonight for a team that's starting to impress.,756,11,7,66.173035594,0.0,0.0280603307468,0.112618282621,0.00549743173686,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15373
+4,The Afghanistan-Zimbabwe game will be a cold-blooded knockout if Afghanistan win tonight.,755,8,5,46.4568695636,0.112618282621,0.0,0.12830172286,0.0194096614354,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.12083
+5,Hop tabs to watch out if Hong Kong are humbled or if they spine up a surprise.,754,9,9,88.9645366354,0.12830172286,0.00549743173686,0.0519710377194,0.0359287207028,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136675
+6,The preview and the build-up's waiting for you.,753,5,5,26.8760903233,0.0519710377194,0.0194096614354,0.0322481849501,0.0447215512135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12316
+7,"Ta-ta from here.Preston Mommsen: ""Difficult start for us, they bowled well upfront.",752,13,3,51.9408810663,0.0322481849501,0.0359287207028,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.12879
+8,We got into a position to have a crack in the end but unfortunately on the wrong side again.,751,8,12,71.6313835512,0.0,0.0447215512135,0.142445513262,0.0355714844534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.180875
+9,"We knew we had to be positive, hit boundaries and convert ones into twos.",750,9,7,71.1956571225,0.142445513262,0.0,0.0681724683709,0.18201765007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+10,Had that partnership gone on for  .,749,3,4,26.312737514,0.0681724683709,0.0355714844534,0.0984410588101,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+11,"overs more, we could have had a different result.",748,6,5,40.8427555749,0.0984410588101,0.18201765007,0.0,0.183992716944,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+12,"""Hamilton Masakadza: ""I think our guys are onto something.",747,10,3,44.0491010479,0.0,0.0,0.129014258608,0.117546749549,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0625
+13,The guys have gelled well and we have come out of two close games.,746,8,7,64.2991131151,0.129014258608,0.183992716944,0.0973083560783,0.0122383647798,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+14,The boys are believing a bit more now and they are going out and expressing themselves well.,745,7,11,77.449773219,0.0973083560783,0.117546749549,0.102711762812,0.0318188581089,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+15,Sibanda is going to be alright and it's looking positive with regards to him.,744,8,8,59.3890201425,0.102711762812,0.0122383647798,0.0323962271075,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.091995
+16,We will prefer to beat Afghanistan and avenge the defeat.,743,6,5,46.6099278522,0.0323962271075,0.0318188581089,0.158494444114,0.0817765018009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+17,We have been  .,742,1,3,13.4232272675,0.158494444114,0.0,0.263941668208,0.137472114167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+18,down in the last two T20 series we have played against them.,741,6,7,57.4858671482,0.263941668208,0.0817765018009,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.222915
+19,"""""It's been a little time coming and I am happy that it came on a stage like this, helping my team to qualify.",740,15,13,96.437664514,0.0,0.137472114167,0.0191779616875,0.125425306638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11321
+20,I just tried not to go for many and pick wickets.,739,6,6,43.6769518797,0.0191779616875,0.0,0.0204411640318,0.0608664338092,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+21,I have started the bowling and it's been good enough.,738,6,6,37.7204235208,0.0204411640318,0.125425306638,0.0960207403303,0.140000176255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101315
+22,"Richmond has been struggling a little but he did well today,"" says Wellington Masakadza who is the Man of the Match for his tally for  .",737,14,14,107.662071026,0.0960207403303,0.0608664338092,0.0995736204178,0.0522738761472,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.13282
+23,8Things could have been worse for Scotland had Zimbabwe not stepped off the pedal after sending half their side back by the 8th over.,736,13,12,114.075280496,0.0995736204178,0.140000176255,0.0732720760445,0.0243419319713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10294
+24,None of the Scotland wickets - except one blinder effected by Sikandar Raza at short cover - were result of exceptional stuff from the Zimbabweans.,735,18,8,110.286779662,0.0732720760445,0.0522738761472,0.0625324899134,0.0518398216144,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.157665
+25,Scottish batsmen played some unnecessary ugly shots to play into the hands of the opposition.,734,10,6,71.1714133805,0.0625324899134,0.0243419319713,0.0172787953816,0.0463028465383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16506
+26,"Having lost 5 wickets for 42, Richie Berrington and Preston Mommsen steadied the ship and showed their compatriots how to go about a chase.",733,16,10,107.951265043,0.0172787953816,0.0518398216144,0.020945928823,0.0535139127058,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0.133905
+27,"However, the hara kiri committed at the top was too glaring to be garbed by the pair's efforts.",732,12,9,85.0958444217,0.020945928823,0.0463028465383,0.0290101386492,0.0874163224816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+28,"Zimbabwe now have won both their matches, living up to the tag of favourites to qualify from this group.",731,9,12,88.1774687229,0.0290101386492,0.0535139127058,0.0575713633751,0.0296751823525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.140485
+29,"Scotland, on the other hand, are out of the tournament.While each and every match is a learning curve for cricketers across the world, this one deserves to be put in the coaching manual for two reasons.",730,21,19,151.651951321,0.0575713633751,0.0874163224816,0.0341768199415,0.101511443789,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.207025
+30,"First, how not to run between the wickets and second, how not to chase a target.",729,9,10,62.1106376781,0.0341768199415,0.0296751823525,0.0988271008811,0.101065529045,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+31,"While the first incident, which has already been talked about a lot, was an ugly exhibition by Vusi Sibanda and Hamilton Masakadza, Scotland top order's lack of application during the chase was a reflection of why it is necessary to have a qualifying round ahead of grand tournaments.",728,29,24,225.128225047,0.0988271008811,0.101511443789,0.0889646680866,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.139285
+32,"For it allows only the cream among minnows to travel to the next round, ensuring that the level of competition does not suffer a dent.",727,14,13,114.536599775,0.0889646680866,0.101065529045,0.0,0.0190450569313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+33,.,726,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+34,"Donald Tiripano to Alasdair Evans, out Bowled!!",725,8,2,25.887463628,0.0,0.0190450569313,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+35,Scotland remain ICC's forever bridesmaid.,724,7,0,30.6776248454,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.054055
+36,Lose another one and lose their 19th game - that across 3 World Cups and 3 World T20s.,723,15,4,73.5791542847,0.0,0.0,0.0,0.068026152624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+37,Slower ball undoing Evans to signal the deathknell.,722,7,2,36.0144087471,0.0,0.0,0.140566534208,0.124753154838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+38,Evans swung across the line and was fooled as the ball took the top of middle.,721,10,7,65.0067478695,0.140566534208,0.068026152624,0.0966573296687,0.0831181773756,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+39,R-A-T-T-L-E. Alasdair Evans b Donald Tiripano  .,720,7,0,16.1357963654,0.0966573296687,0.124753154838,0.859926274195,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+40,")Donald Tiripano to Alasdair Evans, THAT'S OUT!!",719,9,3,24.1181770146,0.859926274195,0.0831181773756,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+41,Bowled!!,718,3,0,4.92658315676,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+42,.,717,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+43,"Donald Tiripano to Mark Watt, 1 run, this is good bowling.",716,11,3,37.3272941746,0.0,0.0,0.0903116528675,0.159560055206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078315
+44,Stealing all the room that Watt's creating.,715,6,3,32.1764038088,0.0903116528675,0.0,0.0679773299184,0.0478083906785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+45,"Backed away for the nth time, Donald Tiripano bowled it short of length on say the fourth stump down leg, Watt whacks it off the bottom half and can only manage a single to long-on .",714,23,15,134.905426724,0.0679773299184,0.159560055206,0.31254364382,0.0892048160343,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.123075
+46,"Donald Tiripano to Mark Watt, 2 runs, had came down while backing away, Tiripano hurls it full on middle only to be tapped away to long-off.",713,20,10,97.4477094962,0.31254364382,0.0478083906785,0.112075040614,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+47,The fielder in the deep was quick and Watt had to let out a full-length dive to hurry back in A run-out has been referred upstairs now.,712,13,15,93.6713443226,0.112075040614,0.0892048160343,0.134905286556,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10818
+48,Looks in.,711,2,1,7.78209302151,0.134905286556,0.0,0.0,0.102785644046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+49,.,710,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+50,"Donald Tiripano to Mark Watt, FOUR, oh, there's life in this game.",709,13,4,50.737457849,0.0,0.102785644046,0.109885504912,0.00880500106402,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09091
+51,"No pace on this shortish ball angled away, Watt was looking to play to third man but not as fine.",708,13,9,79.1987791652,0.109885504912,0.0,0.0145215384985,0.112065605105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08424
+52,Ekes an outside edge while trying to upper-cut and it runs away19 off the last over.. .,707,10,7,56.1047824548,0.0145215384985,0.00880500106402,0.0437891933107,0.013832355154,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+53,"Panyangara to Mark Watt, 1 run, another slower ball banged in, Watt gets inside the line and dabs it towards point using soft handsAlasdair Evans, right handed bat, comes to the crease .",706,31,7,125.713419186,0.0437891933107,0.112065605105,0.0893009211688,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+54,"Panyangara to Davey, out Caught by S Raza!!",705,7,4,24.9975790087,0.0893009211688,0.013832355154,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+55,Just a wicket for Zimbabwe now.,704,3,4,21.2683713216,0.0,0.0,0.105277044593,0.0573507772468,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+56,It's all about hitting the pace accelerator just at the right time.,703,7,7,51.522198342,0.105277044593,0.0,0.0551810775349,0.0425059379231,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+57,"Slow outside off and it deceives, Davey was down the ground and way outside leg for the pull to be effected.",702,12,11,77.2297864533,0.0551810775349,0.0573507772468,0.0768305692618,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16083
+58,Protracted his hands to fetch but drags it off the toe-end to long-on.,701,7,7,40.5094174095,0.0768305692618,0.0425059379231,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11924
+59,Simple catch.,700,3,0,11.9734298497,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+60,Davey c S Raza b Panyangara  .,699,6,1,11.8229120371,0.0,0.0,0.0,0.604052584675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+61,3) [4s- .,698,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.030305
+62,"s-2]Panyangara to Davey, THAT'S OUT!!",697,8,3,15.7260073899,0.0,0.604052584675,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+63,Caught!!,696,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+64,.,695,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+65,"Panyangara to Davey, no run, too ambitious.",694,7,3,26.0039028633,0.0,0.0,0.075219688412,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+66,"A low dipping full toss, Davey reverses his bat while shuffling across trying to lap it over the keeper.",693,14,7,80.1576797174,0.075219688412,0.0,0.0,0.0239484787911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.106005
+67,Doesn't connect .,692,3,1,11.2619335305,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+68,"Panyangara to Mark Watt, 1 run, you will see the phrase ""comes down the track"" every ball.",691,16,6,64.9089803732,0.0,0.0239484787911,0.107900690794,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+69,"Does so again while making room, Panyangara bowls it short and slow down leg and Watt gets his bat high, fending it delicately to fine leg21 runs.",690,19,11,117.51339173,0.107900690794,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+70,10 balls.,689,3,0,12.7843600659,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02174
+71,Can they?,688,1,2,9.28785250447,0.0,0.0,1.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+72,Can't they?,687,3,1,4.5435909045,1.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+73,.,686,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+74,"Panyangara to Davey, 1 run, another short one, another pull but had to fetch it this time.",685,15,6,59.3721120627,0.0,0.0,0.0359027883831,0.1548463264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+75,Gets hold of it off the toe end and lobs it in front of long-on .,684,8,8,53.0392228735,0.0359027883831,0.0,0.0,0.0846573800335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+76,"Panyangara to Davey, 2 runs, should have gone over cover.",683,9,4,37.395308871,0.0,0.1548463264,0.0799869857903,0.0812514150689,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+77,Had made a lot of room and Panyangara follows him with a short ball.,682,8,7,52.9903515981,0.0799869857903,0.0846573800335,0.0170262940475,0.0830604746479,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+78,"Davey opts for the pull, is cramped and drags it to mid-wicket.",681,8,6,41.6753308395,0.0170262940475,0.0812514150689,0.0173666869228,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+79,Long legs and some intent means a twoTinashe Panyangara [ .,680,8,3,41.9794353957,0.0173666869228,0.0830604746479,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+80,- .,679,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+81,. ],678,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+82,"is back into the attackMark Watt, left handed bat, comes to the crease .",677,11,5,48.2201272988,0.0,0.0,0.0161228388768,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+83,"Donald Tiripano to Berrington, out Caught by Chatara!!",676,8,3,29.5122029798,0.0161228388768,0.0,0.0,0.0153729666563,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.100835
+84,"Tame, tame dismissal this.",675,5,1,23.0231888603,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+85,"Slower short ball outside off, a crying invitation to upper cut.",674,10,3,45.0244658546,0.0,0.0153729666563,0.0,0.0905884295306,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+86,Berrington waited and waited and then tapped it uppishly but still was beaten by pace.,673,9,7,68.4604285453,0.0,0.0,0.0224970641013,0.0781794766181,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.095235
+87,Played it straight to short third man.,672,6,2,27.3490914966,0.0224970641013,0.0905884295306,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+88,Berrington c Chatara b Donald Tiripano  .,671,7,0,16.3375360081,0.0,0.0781794766181,0.0,0.706012485961,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.105075
+89,9) [4s- .,670,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.030305
+90,"s-1]Donald Tiripano to Berrington, THAT'S OUT!!",669,9,3,20.0864806811,0.0,0.706012485961,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.079235
+91,Caught!!,668,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+92,.,667,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+93,"Donald Tiripano to Berrington, leg byes, 2 runs, very full delivery tailing in, Berrington was looking to flick, gets hit on the boot that's way outside leg to invite an LBW appeal.",666,29,10,130.124451485,0.0,0.0,0.126108975029,0.247784123188,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.13022
+94,Ball scoots to fine leg .,665,5,1,20.2797663072,0.126108975029,0.0,0.126100775265,0.0382014302393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+95,"Donald Tiripano to Davey, 1 run, had shuffled way outside leg, Tiripano follows him with a full ball and Davey lofts/ chips it off the inner half to long-on .",664,23,10,99.1906960892,0.126100775265,0.247784123188,0.170783877521,0.216444501406,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10406
+96,"Donald Tiripano to Berrington, 1 run, uses his feet looking to drive, ekes out an inside edge and it's a single to short mid-wicket .",663,20,9,80.4053020938,0.170783877521,0.0382014302393,0.258031526944,0.109916388513,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.11471
+97,"Donald Tiripano to Berrington, no run, good slower bouncer.",662,10,2,34.4881132135,0.258031526944,0.216444501406,0.0811780895927,0.0243373869587,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.079235
+98,Berrington was standing tall and then arched his back to sway.,661,7,5,50.4622259025,0.0811780895927,0.109916388513,0.117991185636,0.0222062606611,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.125
+99,Then saw the lack of pace on that and wanted to ramp it to third man.,660,8,9,61.9018469,0.117991185636,0.0243373869587,0.0214980873865,0.246391410266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+100,No bounce whatsoever and beaten .,659,4,2,23.2363696256,0.0214980873865,0.0222062606611,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+101,"Donald Tiripano to Berrington, wide, wanted to get the yorker right again, of course, had taken the pace off too but hurls it down leg.",658,18,12,98.9459046444,0.0,0.246391410266,0.130523377725,0.209247337257,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.129595
+102,Wide called .,657,3,0,10.3864647931,0.130523377725,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+103,"Donald Tiripano to Davey, 1 run, near yorker length on middle as the bowler followed the backing away Davey, he could only clip it round the cornerDonald Tiripano [ .",656,24,9,113.450071869,0.0,0.209247337257,0.0,0.0296524816525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+104,- .,655,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+105,-0] is back into the attack30 runs off 3 overs.,654,8,4,31.6557828678,0.0,0.0296524816525,0.0156658468614,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+106,The school children are making ample noise .,653,6,2,39.8317944536,0.0156658468614,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+107,"Chatara to Davey, 1 run, short of length delivery, Davey whacks it with a crossed bat but only as far as long-on .",652,17,9,76.0584731684,0.0,0.0,0.167375349856,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+108,"Chatara to Davey, SIX, parried over for a maximum!",651,8,4,36.2371414187,0.167375349856,0.0,0.0,0.0695607691086,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.11111
+109,That's almsgiving.,650,3,1,10.0987827207,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+110,"Chatara comes round the wicket and it's been powerfully hit to long-off with a shimmy, the fielder who was Sean Williams runs across and tries to cup it whilst running.",649,20,13,112.465428575,0.0,0.0695607691086,0.0476525656604,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+111,Couldn't stabilize himself and ends up tipping the ball over the fences.,648,8,6,54.5147671435,0.0476525656604,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26915
+112,Oh Zimbabwe!,647,3,0,10.7919299012,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+113,.,646,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+114,"Chatara to Davey, FOUR, down the ground!",645,7,3,24.3980870635,0.0,0.0,0.0467438249183,0.37616445515,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.117645
+115,This is the over.,644,1,4,12.4538568097,0.0467438249183,0.0,0.053854902098,0.0305267280121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+116,"Fullish delivery, Davey does well to get under the ball and launches it down the ground.",643,10,8,62.1012326628,0.053854902098,0.37616445515,0.0915167798124,0.0666129418838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+117,Dips inside the ropes and earns Davey only a four .,642,7,4,41.9281017231,0.0915167798124,0.0305267280121,0.0636159605948,0.041610483544,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1
+118,"Chatara to Davey, no run, showed his cards too early.",641,9,4,41.4610511572,0.0636159605948,0.0666129418838,0.0488997145461,0.219132773961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+119,Had his bat forward and facing the heavens for the reverse scoop.,640,7,6,50.303789632,0.0488997145461,0.041610483544,0.0,0.0465319509154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096155
+120,"Chatara bowls a slow full toss outside off, Davey was too much committed to turn around.",639,13,5,65.5452932503,0.0,0.219132773961,0.00999179539892,0.0151859210307,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.157055
+121,Does so for a tickle to third man but is late.,638,5,7,42.9741703338,0.00999179539892,0.0465319509154,0.0186876559306,0.015968068019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+122,Ball pootles to the keeper .,637,4,2,18.5146075198,0.0186876559306,0.0151859210307,0.0529792480297,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+123,"Chatara to Davey, SIX, all the way!",636,7,3,27.0611592693,0.0529792480297,0.015968068019,0.0,0.0961966422908,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.117645
+124,Is there hope?,635,2,2,14.372212436,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+125,"Short and quick delivery, Davey celebrates it with a pull.",634,8,4,35.8344922061,0.0,0.0961966422908,0.0776340113219,0.0752710291653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+126,Puts his all into it and muscles it over deep mid-wicket .,633,5,7,39.6195285419,0.0776340113219,0.0,0.0412013165513,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+127,"Chatara to Berrington, 1 run, slow delivery scissoring in at Nagpur bounce (read: low), Berrington gets low and clips it to long-onTendai Chatara [ .",632,25,6,85.5231577492,0.0412013165513,0.0752710291653,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.088235
+128,- .,631,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+129,-2] is back into the attack .,630,5,3,17.1088331018,0.0,0.0,0.0853680336963,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+130,"Sean Williams to Berrington, 1 run, the line is on and around off, Berrington stayed in his crease and stabbed it to long-off.",629,16,11,70.0853108139,0.0853680336963,0.0,0.0,0.283833353075,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.11765
+131,"With that Scotland bring their hundred up, finally .",628,6,4,38.8461077743,0.0,0.0,0.0951964958344,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.111115
+132,"Sean Williams to Berrington, no run, flatter and very full, Berrington had yorked himself with a shimmy and ends up tamely forcing it back to Williams .",627,18,12,100.858730403,0.0951964958344,0.283833353075,0.14166351693,0.175110463011,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.111825
+133,"Sean Williams to Davey, 1 run, brings the reverse sweep into play and gets a single to short third man .",626,17,6,67.0211396522,0.14166351693,0.0,0.301657788379,0.0684806018014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+134,"Sean Williams to Berrington, 1 run, a bullet throw from short third man but the batsmen were quicker.",625,15,6,65.0333725773,0.301657788379,0.175110463011,0.0436401201834,0.116773499047,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.107145
+135,"Eked out a bottom edge as he looked to late cut, saw the ball rolling behind and decided to go for the run .",624,15,10,93.8908399549,0.0436401201834,0.0684806018014,0.0559476488141,0.0449889433861,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11986
+136,"Sean Williams to Davey, 1 run, even slower, Davey gets forward and pushes it to long-off .",623,16,4,49.6031436697,0.0559476488141,0.116773499047,0.165790819491,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+137,"Sean Williams to Berrington, 1 run, bowls it quick but was a fraction short too, Berrington thumps it along the ground to deep coverSean Williams [ .",622,21,9,90.1341394145,0.165790819491,0.0449889433861,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.085715
+138,- .,621,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+139,. ],620,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+140,"is back into the attackJosh Davey, right handed bat, comes to the crease .",619,11,5,47.1133958857,0.0,0.0,0.0191764563053,0.0473137679162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+141,"W Masakadza to Safyaan Sharif, out Stumped!!",618,8,2,21.4744848394,0.0191764563053,0.0,0.0,0.0863256713823,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+142,Only fair that the captain's wicket has reopened the Scottish floodgates.,617,8,5,54.0016589499,0.0,0.0473137679162,0.0,0.0396727082575,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.096925
+143,"Used his feet and he had to, Masakadza cleverly bowls it slow and wide of off.",616,9,9,62.1125873959,0.0,0.0863256713823,0.041559628198,0.0657804238285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+144,"Sharif ends up creating too much room for that shot, fails to reach it for the ambitious tonk and is stumped behind.",615,14,10,97.5397377776,0.041559628198,0.0396727082575,0.0648327499785,0.148444670803,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1
+145,Safyaan Sharif st Mutumbami b W Masakadza  .,614,8,0,21.4508207474,0.0648327499785,0.0657804238285,0.522196259705,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+146,")W Masakadza to Safyaan Sharif, THAT'S OUT!!",613,9,3,19.0765895666,0.522196259705,0.148444670803,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+147,Stumped!!,612,3,0,5.55519181618,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+148,.,611,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+149,"W Masakadza to Berrington, 1 run, quick and straight on middle, Berrington forces it through mid-off and runs through .",610,16,7,58.2845982368,0.0,0.0,0.200293746485,0.106653908636,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.11628
+150,"W Masakadza to Safyaan Sharif, 1 run, slowish and drifting across middle, Sharif gets behind with a shuffle and pushes the ball to mid-wicket .",609,21,7,77.013357841,0.200293746485,0.0,0.307411413202,0.0648028141289,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+151,"W Masakadza to Safyaan Sharif, no run, fired full outside off, Sharif got forward and drills it to extra coverSafyaan Sharif, right handed bat, comes to the crease .",608,26,8,100.789757309,0.307411413202,0.106653908636,0.066373413133,0.0309331586566,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+152,"W Masakadza to Mommsen, out Caught by (sub)Chibhabha!!",607,11,3,32.3056354538,0.066373413133,0.0648028141289,0.0197463925476,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+153,What an anticlimax to that.,606,2,4,21.6058418083,0.0197463925476,0.0309331586566,0.0,0.0137169350007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+154,And a wicket off a good shot too.,605,4,5,22.4943869479,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+155,"Flatter delivery on middle, Mommsen had made the room to go inside-out over the infield.",604,11,6,56.4824181074,0.0,0.0137169350007,0.0257945033362,0.0224805220985,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157055
+156,Middled the loft but just found cover.,603,5,3,32.697908784,0.0257945033362,0.0,0.0147453202122,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+157,Simple catch and the end looks nigh for Scotland now.,602,7,4,45.1419698682,0.0147453202122,0.0224805220985,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.1
+158,Mommsen c (sub)Chibhabha b W Masakadza  .,601,10,0,19.1309684821,0.0,0.0,0.296177069859,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+159,"7) [4s-2]W Masakadza to Mommsen, THAT'S OUT!!",600,12,3,15.0629582405,0.296177069859,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+160,Caught!!,599,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+161,.,598,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+162,"W Masakadza to Mommsen, 2 runs, fifty partnership up.",597,10,2,29.7554413646,0.0,0.0,0.0,0.117260365681,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+163,The rearguard is on.,596,2,3,14.5784187867,0.0,0.0,0.0748305764698,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+164,"Fraction short outside off, Mommsen gets his hips side-on to the bowler and chips it over cover for a brace57 runs off the last 6 overs.",595,17,11,91.5707237235,0.0748305764698,0.117260365681,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147595
+165,Don't lose your hopes entirely.,594,5,2,33.0979929741,0.0,0.0,0.161503106622,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+166,T20s don't allow you that luxury .,593,5,3,34.3834873406,0.161503106622,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+167,"Panyangara to Mommsen, 1 run, full and slated in on off, Mommsen gets low and drills it to long-on .",592,15,8,56.9073894516,0.0,0.0,0.300380646769,0.0464008585363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109375
+168,"Panyangara to Mommsen, 2 runs, slower back of a length delivery, Mommsen bent his back knee a touch to compensate for the low bounce and swats it to fine leg.",591,23,11,105.51892738,0.300380646769,0.0,0.0784357600881,0.0845834256823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+169,"The fielder dives, parries the ball to deep square leg and saves a boundary .",590,11,5,52.7444129234,0.0784357600881,0.0464008585363,0.0703903020662,0.0611973962665,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.125
+170,"Panyangara to Berrington, 1 run, short ball hurrying onto Berrington who doesn't opt out of the pull.",589,15,6,64.8435861493,0.0703903020662,0.0845834256823,0.0522593356439,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15833
+171,Stands higher and drags it off the lower part of the bat.,588,7,6,49.0746640218,0.0522593356439,0.0611973962665,0.0198046701595,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15263
+172,Uppish over square leg and a single is effected .,587,6,4,34.5695886654,0.0198046701595,0.0,0.0,0.0235081527681,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+173,"Panyangara to Mommsen, 1 run, ""onederful shot"".",586,11,1,23.3468239291,0.0,0.0,0.0,0.0192565324593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+174,Gets across his stumps and fetches this with a scoop.,585,6,5,38.4556131468,0.0,0.0235081527681,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+175,Off the middle but fails to place it fine.,584,5,5,33.9289414787,0.0,0.0192565324593,0.256215679896,0.0225627822135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.174965
+176,Cut off by fine leg.,583,4,2,20.0888206914,0.256215679896,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02041
+177,Just a single for all the effort .,582,3,5,24.3511664244,0.0,0.0225627822135,0.0728980248113,0.0197672101021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+178,"Panyangara to Berrington, 1 run, short ball angled in but Berrington was way back to create room for the pull.",581,16,7,69.3062608112,0.0728980248113,0.0,0.0313887106564,0.215122038865,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.08
+179,Swipes with roll of the wrists to deep square leg .,580,7,4,41.4666682229,0.0313887106564,0.0197672101021,0.0446359458468,0.0183515503608,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+180,"Panyangara to Berrington, no run, comes down the track looking to flog it straight down the ground.",579,12,8,61.0332645821,0.0446359458468,0.215122038865,0.0612643570254,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.108695
+181,Was cramped and drags it off the inner half to short mid-wicketThe required run rate is an exact 9.,578,12,8,72.2019031119,0.0612643570254,0.0183515503608,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+182,Where's Scotland's Amir Ali?,577,6,1,23.671600147,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.054055
+183,.,576,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+184,"W Masakadza to Berrington, 1 run, slowish and on the stumps, Berrington waits on it and nudges it with soft hands through square leg.",575,18,10,81.9871796785,0.0,0.0,0.0753103364534,0.16800158119,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.133905
+185,Retains the strike with that .,574,3,3,21.4934641912,0.0753103364534,0.0,0.0982236784317,0.017160550679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+186,"W Masakadza to Mommsen, 1 run, fetches it with a sweep from off and gets a single round the corner .",573,14,9,58.5106965636,0.0982236784317,0.16800158119,0.277067803497,0.172209913705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+187,"W Masakadza to Mommsen, no run, tossed up on off, Mommsen stabs it into the off-side .",572,12,8,48.3540623617,0.277067803497,0.017160550679,0.248904296509,0.23025675776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.1
+188,"W Masakadza to Mommsen, FOUR, that's average.",571,9,2,23.0666890623,0.248904296509,0.172209913705,0.154157967078,0.110309355043,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.07143
+189,Masakadza sees Mommsen shuffling across off and bowls it full but way down leg.,570,10,5,56.5584524012,0.154157967078,0.23025675776,0.15687659589,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06977
+190,Mommsen adjusts and sweeps it off the toe end.,569,6,4,34.7053504497,0.15687659589,0.110309355043,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+191,Good enough for a boundary!,568,4,2,19.5410442028,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.07143
+192,.,567,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+193,"W Masakadza to Mommsen, no run, quicker and outside off, Mommsen opens the bat face, doesn't ride the bounce high and the slice rolls to short third man .",566,24,10,105.372062039,0.0,0.0,0.185112906813,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+194,"W Masakadza to Mommsen, 2 runs, slowish, wide and a touch dragged down, Mommsen waits on his back foot and crashes it to sweeper cover for a braceWellington Masakadza [ .",565,24,11,104.247315138,0.185112906813,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.086205
+195,- .,564,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+196,. ],563,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+197,is back into the attack71 runs off 48 balls looks improbable at the moment.. .,562,9,6,56.4081134941,0.0,0.0,0.0,0.0262031216975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+198,"Panyangara to Mommsen, 1 run, short ball that literally balloons up gently.",561,12,3,46.7562390363,0.0,0.0,0.087771534887,0.13479539305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+199,Mommsen had his bat high to execute the pull.,560,6,4,34.8986681299,0.087771534887,0.0262031216975,0.0434829190971,0.163807118428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+200,Ball arrived slowly and he mistimes the shot to the right of Panyangara .,559,8,6,50.0605668472,0.0434829190971,0.13479539305,0.0687606761264,0.0168690856228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+201,"Panyangara to Mommsen, no run, length outside off, Mommsen gets across with a stride and plays a protracted punch with an open bat.",558,18,9,87.7577305845,0.0687606761264,0.163807118428,0.0120999435211,0.27721074682,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11845
+202,Straight to point though .,557,4,1,17.8243909559,0.0120999435211,0.0168690856228,0.0208467962184,0.0149006170975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+203,"Panyangara to Mommsen, no run, goes full and on off, a score of  .",556,10,7,41.0206708296,0.0208467962184,0.27721074682,0.0934883394733,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.185185
+204,means that Mommsen had to get forward and execute a forward defence.,555,8,5,49.5643920916,0.0934883394733,0.0149006170975,0.0,0.09972772471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+205,Does so well .,554,2,2,15.0129433574,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+206,"Panyangara to Mommsen, wide, hurls it down leg, Mommsen turns around but cannot connect .",553,13,6,62.1833370369,0.0,0.09972772471,0.233726425885,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116275
+207,"Panyangara to Mommsen, no run, big shout.",552,8,2,28.0345151776,0.233726425885,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+208,Impact outside off?,551,3,1,12.6449783465,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02128
+209,Looks like.,550,3,0,10.4901432226,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02273
+210,"This length ball tailored in, Mommsen was looking to tuck it away, was late as the ball razored in a touch.",549,14,10,81.4821533517,0.0,0.0,0.0,0.0703195508478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+211,That looked close.,548,3,1,15.9416566093,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+212,"Impact was an on-field call, says HawkEye .",547,7,2,33.6081480694,0.0,0.0703195508478,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+213,"Panyangara to Mommsen, no run, length ball angled in a touch, Mommsen gets forward and defends it to extra cover .",546,17,7,70.8208699724,0.0,0.0,0.312565314525,0.214779304205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+214,"Panyangara to Mommsen, 2 runs, short of length but no bounce at all.",545,10,6,43.9194744756,0.312565314525,0.0,0.13041050468,0.0147406539805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+215,Mommsen wanted to late-dab it but gets it off the bottom edge.,544,7,6,38.2250017768,0.13041050468,0.214779304205,0.0123198126968,0.0142924161685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+216,To third man and then forces Berrington for another run.,543,7,4,38.5610270952,0.0123198126968,0.0147406539805,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.1
+217,Very good running between the wicketsTinashe Panyangara [ .,542,6,3,33.610577805,0.0,0.0142924161685,0.0,0.0142234652796,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+218,- .,541,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+219,-0] is back into the attackThe scores at this point are level.,540,8,6,49.1264936178,0.0,0.0142234652796,0.0,0.0601273657283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+220,Just that Scotland have lost a wicket more .,539,4,5,30.3765909592,0.0,0.0,0.0,0.0776994003132,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.128205
+221,"S Raza to Mommsen, 1 run, had made room with a shuffle across and was waiting with an open bat, Raza bowls it slow on middle allowing Mommsen to tap it towards point .",538,24,13,125.978811121,0.0,0.0601273657283,0.178221285107,0.131496986016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09892
+222,"S Raza to Berrington, 1 run, gets it flatter and on the pads finally, Berrington clips it to mid-wicket .",537,15,8,55.1573755667,0.178221285107,0.0776994003132,0.25200245033,0.213148336471,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.117645
+223,"S Raza to Berrington, FOUR, the radar's too defensive and it's way down leg.",536,12,7,50.3459012159,0.25200245033,0.131496986016,0.13721139657,0.208069458585,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.134365
+224,Berrington just had to turn around and tickle it away to the fences .,535,7,7,48.1721814408,0.13721139657,0.213148336471,0.138894256514,0.0537418092311,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.16786
+225,"S Raza to Mommsen, 1 run, down the leg-side, Mommsen knived his bat forward and paddled it away to short fine .",534,17,8,65.1078692918,0.138894256514,0.208069458585,0.206601222325,0.0994943575034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098035
+226,"S Raza to Mommsen, FOUR, comes down the track and digests the flight on this ball with a loft over mid-on.",533,13,11,69.2917103592,0.206601222325,0.0537418092311,0.183289809186,0.0829846161347,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.125
+227,"Uppishly to cow corner and the ball runs away, bisecting long-on and deep mid-wicket .",532,12,4,48.5817571502,0.183289809186,0.0994943575034,0.0982906022675,0.045455681807,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+228,"S Raza to Berrington, 1 run, slower delivery outside off, Berrington reverse-sweeps it to deep cover and gets a single .",531,17,7,52.2336209636,0.0982906022675,0.0829846161347,0.463849413674,0.168883725556,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.11602
+229,"Sean Williams to Berrington, 1 run, flatter delivery and Berrington cuts it to sweeper cover for a single .",530,15,6,57.8198566241,0.463849413674,0.045455681807,0.219482519044,0.389758955755,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.074075
+230,"Sean Williams to Berrington, SIX, he has got it right off the meat of the bat and will get rewards for it, light on feet, meets the pitch of the delivery and tonks it straight down the ground .",529,23,20,145.469493796,0.219482519044,0.168883725556,0.132568216748,0.22513381933,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.152465
+231,"Sean Williams to Berrington, no run, flatter and outside off, kept away towards point .",528,14,4,51.4794378838,0.132568216748,0.389758955755,0.0862003645896,0.121988544022,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.083335
+232,"Sean Williams to Mommsen, 1 run, in the air but falls short of an onrushing deep mid-wicket fielder, Mommsen got a top edge on the sweep once again and got it in the air .",527,23,15,119.476447206,0.0862003645896,0.22513381933,0.155399464154,0.313813860101,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.155745
+233,"Sean Williams to Mommsen, 2 runs, drills this tossed up delivery wide of long-off, has enough time to pinch in a brace .",526,18,8,77.8216131745,0.155399464154,0.121988544022,0.11020756126,0.137726112277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.090905
+234,"Sean Williams to Berrington, 1 run, top edge on the sweep but the luck smiles on Berrington and it goes over the man at short fine leg, the fielder from deep backward square leg runs across to field this one .",525,29,15,144.845460236,0.11020756126,0.313813860101,0.205694492785,0.277814527683,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.11878
+235,"S Raza to Mommsen, no run, fires this one on the stumps, Mommsen is courageous to defend it from the crease .",524,14,11,71.8299158563,0.205694492785,0.137726112277,0.1960920767,0.168112115602,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13126
+236,"S Raza to Mommsen, 2 runs, sinks down this time and sweeps it to deep backward square leg for a couple of runs, there was a fumble in the deep which allowed the second run .",523,22,17,120.163870878,0.1960920767,0.277814527683,0.143572434902,0.162990844318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+237,"S Raza to Berrington, 1 run, angled across Berrington, he drives it to the right of extra cover, who makes a diving stop to his right, the ball deflects off his hands and allows a single, the fielder had a shy at the stumps at the bowler's end but the batsman was well in .",522,35,27,185.330416558,0.143572434902,0.168112115602,0.192640880366,0.164493922471,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.13152
+238,"S Raza to Mommsen, 1 run, fuller delivery on off, Mommsen drives it off the front foot to long-off .",521,15,8,54.890093799,0.192640880366,0.162990844318,0.236693179855,0.346940186111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+239,"S Raza to Mommsen, wide, shortish, slow and down the leg, Mommsen had all the time to pull it but he missed, has been called a wide .",520,18,15,96.0541029501,0.236693179855,0.164493922471,0.263287450495,0.200848624729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+240,"S Raza to Mommsen, no run, throws this one on the stumps and Mommsen pats it to short cover .",519,13,9,62.0242831195,0.263287450495,0.346940186111,0.279750918382,0.367026569887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+241,"S Raza to Mommsen, 2 runs, laps this tossed up delivery to short fine leg, a tumbling stop by the fielder allows one extra run, that should have been only one but the fielder there fumbledSikandar Raza, right-arm off break, comes into the attack .",518,32,19,165.882223087,0.279750918382,0.200848624729,0.298583915919,0.0184353516047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.105265
+242,"Sean Williams to Mommsen, 1 run, Raza is a livewire in the field today, makes a diving stop to his left at short cover, Mommsen had driven this one off the meat of the bat and can only get a single for his effortPreston Mommsen, right handed bat, comes to the crease .",517,36,23,186.058066708,0.298583915919,0.367026569887,0.104210056942,0.126585899606,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15064
+243,"Sean Williams to M A Leask, out Stumped!!",516,7,4,20.6517251204,0.104210056942,0.0184353516047,0.0,0.11209977138,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+244,Half of the Scottish side is back in the hut after this wicket.,515,7,7,52.7284972617,0.0,0.126585899606,0.0655976777675,0.0655897206973,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+245,Leask did not even bother looking back.,514,6,2,34.7313726317,0.0655976777675,0.11209977138,0.200584976699,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+246,"He came down the track and was looking to muscle it over long-on, was completely beaten in flight and the keeper did not waste time to whip the bails off.",513,15,17,118.805196917,0.200584976699,0.0655897206973,0.0133524778735,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1337
+247,Scotland seem to have made a mess of this chase.,512,6,5,41.2839227536,0.0133524778735,0.0,0.0,0.0187091259556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+248,M A Leask st Mutumbami b Sean Williams  .,511,7,2,20.6280610284,0.0,0.0,0.403169587385,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.080835
+249,"3) [4s-1]Sean Williams to M A Leask, THAT'S OUT!!",510,12,5,18.2538298476,0.403169587385,0.0187091259556,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+250,Stumped!!,509,3,0,5.55519181618,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+251,.,508,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+252,"Sean Williams to Berrington, 1 run, another one which has been bowled teasingly around off, Berrington easily drives it to long-off .",507,18,7,77.7281823509,0.0,0.0,0.125303458551,0.390037269619,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.07863
+253,"Sean Williams to M A Leask, 1 run, not the delivery he should be sweeping, lucky that he got some bat on it, tossed up outside off and Leask sweeps it to deep mid-wicket for a single .",506,22,20,119.217741023,0.125303458551,0.0,0.197570628167,0.30290893952,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.136365
+254,"Sean Williams to Berrington, 1 run, flighted delivery and Berrington drills it down the ground to long-off .",505,14,6,49.7512617099,0.197570628167,0.390037269619,0.265897434784,0.104038584609,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.107145
+255,"Sean Williams to Berrington, 2 runs, tossed up from round the wicket, Berrington drives it to beat a diving extra cover fielder, he got a hand to it but could not prevent a coupleSean Williams, left-arm orthodox, comes into the attack .",504,32,16,145.770973631,0.265897434784,0.30290893952,0.0965004482563,0.149467823373,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.114705
+256,"Donald Tiripano to M A Leask, FOUR, finally someone has got hold off a pull shot, saw it early and pulled this short delivery into the deep backward square leg fence .",503,24,11,118.870670402,0.0965004482563,0.104038584609,0.185178979265,0.165387988855,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.07317
+257,"Donald Tiripano to M A Leask, 2 runs, just over the man at mid-wicket, fuller delivery on the stumps and Leask clipped it over the leaping mid-wicket fielder, gets two before it is fielded in the deep .",502,24,18,120.284181816,0.185178979265,0.149467823373,0.16996569506,0.156128938561,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12073
+258,"Donald Tiripano to Berrington, 1 run, fullish from Tiripano and Berrington eases it down to long-on .",501,13,6,49.8185011773,0.16996569506,0.165387988855,0.153593123341,0.0469788890477,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.108695
+259,"Donald Tiripano to M A Leask, leg byes, 1 run, he showed some dance moves in the crease this time, not sure whether it looked beautiful, rotated himself as he tried to work this length delivery into the on-side, was early again and the ball lobbed off his front pad towards point for an extra run.",500,38,25,221.897774878,0.153593123341,0.156128938561,0.100594792876,0.264464587737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10891
+260,The bowler had rolled his fingers on the ball to deceive him .,499,6,7,48.7519177216,0.100594792876,0.0469788890477,0.149439826343,0.0708440503243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+261,"Donald Tiripano to M A Leask, no run, takes his front leg out of the way of this slower delivery and swings across the line, does not connect and the keeper collects it on a bounce, the ball went just over the stumps .",498,25,23,151.385663058,0.149439826343,0.264464587737,0.234753395653,0.172848355861,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.149775
+262,"Donald Tiripano to Berrington, 1 run, veering on the stumps from a length, Berrington clips it to fine leg .",497,16,7,60.7509835766,0.234753395653,0.0708440503243,0.331325705504,0.239605098659,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.121215
+263,"Panyangara to Berrington, 1 run, slower ball and once again Berrington is early on the pull, waftly rotates his wrists to send it down to fine leg .",496,19,12,101.223671685,0.331325705504,0.172848355861,0.21087879584,0.101097856665,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.107145
+264,"Panyangara to Berrington, 2 runs, tucked this length delivery to deep square leg and called for the second run straightaway, had to dive at the striker's end to complete the run .",495,24,12,110.622079958,0.21087879584,0.239605098659,0.148166373567,0.303292514659,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.12024
+265,"Panyangara to M A Leask, 1 run, yorker length angling into Leask, he wanted to work it into the on-side, gets an inside edge onto his boot, gets a single anyway, was seen limping upon reaching the other end .",494,31,15,149.098530392,0.148166373567,0.101097856665,0.320460560678,0.0947292278256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11182
+266,"Panyangara to Berrington, 1 run, finally he gets to the other end, hedges this length delivery to cover and calls for a quick single, gets it comfortably .",493,21,11,96.8553806162,0.320460560678,0.303292514659,0.136172203428,0.277618713535,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.113085
+267,"Panyangara to Berrington, no run, Berrington is trying too much, dances down the track, the ball is angled down and all he could do is wear it on his pads, the ball would have slid down .",492,22,20,144.440807312,0.136172203428,0.0947292278256,0.20416131037,0.203256806806,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.118645
+268,"Panyangara to Berrington, no run, good length delivery zeroing on the stumps, Berrington gets his bat and pad together to defendTinashe Panyangara, right-arm fast medium, comes into the attack .",491,26,9,110.783230215,0.20416131037,0.277618713535,0.133980206906,0.177475233125,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.09434
+269,"Donald Tiripano to M A Leask, no run, slower and shortish once again, Leask is too early on the pull, gets hit near his triceps and the ball rolls away .",490,21,14,110.677204498,0.133980206906,0.203256806806,0.299024461523,0.114358671432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113945
+270,"Donald Tiripano to M A Leask, no run, ugly heave and as is the case often when the batsman is not set, he gets beaten, comes down the track and heaves across the line on a slower delivery, gets beaten and the keeper collects it on a bounce.",489,30,24,178.083881711,0.299024461523,0.177475233125,0.0525367199596,0.252080830495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+271,"Since Leask was out of his crease, Mutumbami threw at the stumps but missed .",488,9,7,58.3453949294,0.0525367199596,0.114358671432,0.0782031232473,0.149593644128,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+272,"Donald Tiripano to M A Leask, no run, slower delivery perhaps, Leask is watchful on that occasion and clips it softly to mid-wicket .",487,17,10,78.6519419225,0.0782031232473,0.252080830495,0.244525204893,0.224071398823,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09434
+273,"Donald Tiripano to M A Leask, no run, shortish and Leask wants to effect the pull shot, was too early this time and the ball rolls back to the bowler off the toe end of the bat .",486,23,18,125.888428031,0.244525204893,0.149593644128,0.231165254598,0.27036314547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14877
+274,"Donald Tiripano to Berrington, 1 run, nimbles down the track this time but the length is not there, adjusts with a tuck to mid-wicket .",485,16,12,79.6481343962,0.231165254598,0.224071398823,0.24014292672,0.143233117535,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.142855
+275,"Donald Tiripano to Berrington, no run, back of a length delivery and just outside off, Berrington punches it off the back towards coverDonald Tiripano, right-arm fast medium, comes into the attack .",484,25,12,107.621995661,0.24014292672,0.27036314547,0.201729685616,0.0410370760772,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.09836
+276,"Chatara to Berrington, 1 run, shortish and outside off, Berrington does well to keep his bat face down as he steers it to third man for a single.",483,19,13,97.9596689365,0.201729685616,0.143233117535,0.0245652021619,0.307892771469,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.11111
+277,Nicely adjusted in the crease to tackle the bounce .,482,6,4,37.6455034093,0.0245652021619,0.0410370760772,0.0580571857749,0.0130315982516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+278,"Chatara to Berrington, no run, fullish and on the stumps, Berrington nudges it towards the man at mid-wicket .",481,14,8,58.7939947962,0.0580571857749,0.307892771469,0.27436998817,0.161936919203,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.137935
+279,"Chatara to Berrington, no run, back of a length delivery outside off, left alone .",480,13,5,46.6254864393,0.27436998817,0.0130315982516,0.184820697402,0.236967434581,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.130435
+280,"Chatara to M A Leask, 1 run, some confusion between the two batsmen but they take a single anyway, Leask mistimed the cut to the right of point and set off, Berrington responded after a bit of hesitation .",479,25,18,141.223734842,0.184820697402,0.161936919203,0.294850582225,0.0793868257412,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.122255
+281,"Chatara to M A Leask, no run, short of a fuller length and Leask drives it to coverMichael Leask, right handed bat, comes to the crease .",478,20,11,79.859868464,0.294850582225,0.236967434581,0.120415882343,0.10876770023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+282,"Chatara to Coetzer, out Caught by S Raza!!",477,7,4,26.5570722447,0.120415882343,0.0793868257412,0.192278940341,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+283,"Raza will frame this catch and keep it in his drawing room, snatched this one out of nowhere, it was a good shot from Coetzer but he did not keep it down, drove it uppishly towards short cover, Raza flew to his right and grabbed it with one hand.",476,29,25,204.828195544,0.192278940341,0.10876770023,0.05089686632,0.211219813857,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.09008
+284,"Starts celebrating straightaway and why won't he, he has taken a blinder.",475,9,6,53.2176381596,0.05089686632,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.074075
+285,Coetzer c S Raza b Chatara  .,474,6,1,13.382405273,0.0,0.211219813857,0.688566413235,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+286,")Chatara to Coetzer, THAT'S OUT!!",473,7,3,17.2855006258,0.688566413235,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+287,Caught!!,472,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+288,.,471,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+289,"W Masakadza to Berrington, no run, nice riposte from Berrington this time, gets his front foot in line of the delivery and defends it towards cover .",470,20,10,96.1850820153,0.0,0.0,0.316787820138,0.0513987019975,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.126315
+290,"W Masakadza to Berrington, no run, quicker and flatter around off, Berrington pushes it from the creaseRichie Berrington, right handed bat, comes to the crease .",469,22,9,87.4391624852,0.316787820138,0.0,0.0597262948062,0.038146375605,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.14459
+291,"W Masakadza to Machan, out Caught by (sub)Chibhabha!!",468,11,3,33.4042477425,0.0597262948062,0.0513987019975,0.192373532268,0.102637294537,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+292,"One shot too many for Machan, used his feet this time but outsmarted by Masakadza, who dragged the length back.",467,15,8,88.4038169647,0.192373532268,0.038146375605,0.175611618787,0.00889655288449,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+293,"Machan was not to be bogged down, went with his shot and miscued it to the fielder at mid-on, who took it with ease.",466,12,15,92.6473036805,0.175611618787,0.102637294537,0.0543380892821,0.101869723369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+294,We are in the third over and Scotland are three down already.,465,5,8,49.1040309505,0.0543380892821,0.00889655288449,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+295,Machan c (sub)Chibhabha b W Masakadza  . ),464,11,0,20.2295807708,0.0,0.101869723369,0.366465889282,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.057145
+296,"[4s-2]W Masakadza to Machan, THAT'S OUT!!",463,10,3,16.1615705291,0.366465889282,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+297,Caught!!,462,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+298,.,461,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+299,"W Masakadza to Machan, FOUR, that is beautiful shot from Machan, did well with it, makes room and flogs it to wide long-on, the fielder was pushed to deep mid-wicket before this ball but he had no chance to cut it off .",460,26,22,150.438102948,0.0,0.0,0.288065007815,0.349467958097,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.113635
+300,"W Masakadza to Machan, FOUR, it was in the air for a while but in the gap between short fine leg and backward square leg, Machan went low on the sweep and connected with it, the ball races away to the fine leg fence .",459,28,21,156.434820079,0.288065007815,0.0,0.27067656872,0.0553015525814,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.16725
+301,"W Masakadza to Machan, no run, turns this one but the line is pretty flat from Masakadza, Machan punches it back to the bowler .",458,18,10,86.3613274317,0.27067656872,0.349467958097,0.17953810415,0.243575776748,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113945
+302,"Chatara to Coetzer, no run, length delivery around off, Coetzer punches it towards the cover region .",457,15,5,61.7459620559,0.17953810415,0.0553015525814,0.102722703037,0.154713697117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08889
+303,"Chatara to Machan, 1 run, throws his bat on the drive away from the body, ekes out an inside edge that rolls to the right of the keeper, Mutumbami was wrong-footed but did well to keep it down to one .",456,25,20,140.786335072,0.102722703037,0.243575776748,0.248866888192,0.169378187056,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+304,"Chatara to Machan, no run, pats this length delivery to backward point and wanted to steal a single, the fielder had a shy at the stumps, Machan had to dive in the end to make it, the fielder had missed the target anywayMatt Machan, left handed bat, comes to the crease .",455,36,23,186.985311067,0.248866888192,0.154713697117,0.0776959346383,0.0444033009725,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116245
+305,"Chatara to Matthew Cross, out Caught by Mutumbami!!",454,8,3,32.2747829903,0.0776959346383,0.169378187056,0.108943203271,0.262280635882,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+306,Smart bowling from Chatara and he is rewarded.,453,5,4,36.7162605199,0.108943203271,0.0444033009725,0.150166417519,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+307,"Scotland have lost their second wicket and it is a golden duck for Cross, Chatara went wide of the crease and angled it into Cross, he hung his bat from the crease at this one and the soft outside edge was gleefully accepted by Mutumbami behind the stumps.",452,28,23,192.949232881,0.150166417519,0.262280635882,0.0973415291497,0.275703104078,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.152555
+308,The Bagpipers seem out of tune at this moment.,451,5,5,41.6781063615,0.0973415291497,0.0,0.0,0.0704710563282,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+309,Matthew Cross c Mutumbami b Chatara  .,450,7,0,19.1001160187,0.0,0.275703104078,0.792625275913,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+310,")Chatara to Matthew Cross, THAT'S OUT!!",449,8,3,22.9742238346,0.792625275913,0.0704710563282,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+311,Caught!!,448,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+312,.,447,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+313,"Chatara to Coetzer, 1 run, prefers to stay back once again, gently tapped to third man to bring the new man on strike .",446,19,8,95.6251864825,0.0,0.0,0.156145525948,0.0473504283165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+314,"Chatara to Coetzer, 2 runs, Coetzer hops in his crease on this short of a good length delivery and works it away through mid-wicket, lazy effort from the fielder allows a coupleTendai Chatara, right-arm fast medium, comes into the attackMatthew Cross, right handed bat, comes to the crease .",445,39,17,177.937360801,0.156145525948,0.0,0.0168273205135,0.139624656081,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+315,"W Masakadza to Munsey, out Stumped!!",444,7,2,18.6929971946,0.0168273205135,0.0473504283165,0.123375372388,0.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+316,"Munsey for the first time in the over tried something different and perished, comes down the track and Masakadza drags back the length, he pokes at it but fails to get any bat, by the time he turned back, the keeper had done his job by whipping the bails off.",443,30,25,203.537215083,0.123375372388,0.139624656081,0.102704318283,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133585
+317,The bowler has the last laugh.,442,4,3,25.3344827747,0.102704318283,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+318,Avenged all those reverse sweeps.,441,4,2,28.7260166753,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02439
+319,Munsey st Mutumbami b W Masakadza  . ),440,8,0,18.6693331026,0.0,0.0,0.407769140246,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+320,"[4s-2]W Masakadza to Munsey, THAT'S OUT!!",439,10,3,16.2951019218,0.407769140246,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+321,Stumped!!,438,3,0,5.55519181618,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+322,.,437,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+323,"W Masakadza to Munsey, FOUR, seems like he only has this shot in his quiver, but he won't mind as long as they fetch him runs, gets a top edge on the reverse sweep and the ball lobs over the fielder at short third man .",436,30,21,176.252364115,0.0,0.0,0.301647859026,0.174513393497,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.117235
+324,"W Masakadza to Munsey, FOUR, finally gets some bat, from the upper part of the bat, reverse swept it over the man at short third man, a couple of bounces and into the fence .",435,25,15,128.686428708,0.301647859026,0.0,0.106140340178,0.38928002383,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.162365
+325,"W Masakadza to Munsey, no run, attempts the same shot again and this time does not even connect, the ball hits his elbow and deflects onto his pad .",434,19,13,116.392563979,0.106140340178,0.174513393497,0.143292475496,0.195553494058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+326,"W Masakadza to Munsey, no run, goes for the reverse sweep and connects with it, cannot beat the man inside the ring at short third man .",433,19,12,102.057289054,0.143292475496,0.38928002383,0.270397039001,0.123971364273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+327,"W Masakadza to Munsey, no run, over the wicket comes Masakadza and keeps it flat on the middle and leg, tucked to short fine legMunsey and Coetzer are at the crease.",432,21,14,107.372499232,0.270397039001,0.195553494058,0.161408651276,0.156870390185,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.173235
+328,Munsey is on strike.,431,3,2,16.9338673692,0.161408651276,0.123971364273,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+329,W Masakadza will open the attackSean Williams feels that Zimbabwe are a few runs short here.,430,10,7,63.5886786462,0.0,0.156870390185,0.0766625231651,0.0254555567166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+330,"Considering this, the bowlers will have to bring out their A game to defend this one.",429,8,10,62.6473420015,0.0766625231651,0.0,0.156443188473,0.0212912017352,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17116
+331,The players have walked out to the centre.,428,4,5,31.9696754884,0.156443188473,0.0254555567166,0.0148510752982,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+332,It is going to be an interesting chase.,427,4,5,33.9952395383,0.0148510752982,0.0212912017352,0.0,0.0689708353965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+333,These  .,426,1,1,6.24833899674,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+334,"ish totals turn out to be tricky ones as sometimes teams are not sure about how to approach the target.Sean Williams: ""Well, I think we were a few runs short personally.",425,20,15,139.635082537,0.0,0.0689708353965,0.0942985728373,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+335,It think it is tougher to chase a score of around  .,424,6,6,40.9324254192,0.0942985728373,0.0,0.0,0.167101449232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+336,60.,423,2,0,6.9414861773,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+337,I think we have lost wickets at the wrong time.,422,6,5,40.8367082232,0.0,0.167101449232,0.461406640249,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.205555
+338,"Even when we have tried to rebuild, we have lost wickets again.",421,7,7,58.356408682,0.461406640249,0.0,0.0,0.00798402511179,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.189585
+339,"Soft dismissals, I would say.",420,6,1,25.0578945081,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04
+340,"I had the chance to take some time and build the innings, today.",419,8,7,50.6621123877,0.0,0.00798402511179,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17391
+341,I think they bowled well.,418,4,2,19.6518444418,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.044445
+342,We are perhaps  .,417,2,2,15.2040576662,0.0,0.0,0.0,0.250628601782,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+343,5 runs short.,416,4,0,7.34158167011,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+344,"We have got our plans though, and we will stick to it.",415,6,8,54.0157884808,0.0,0.250628601782,0.0294929875861,0.0127365980122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+345,"""Zimbabwe tottered in the beginning, wandered around for a while and then Williams sprung the innings to life and has powered them to a competitive total.",414,15,14,110.801968826,0.0294929875861,0.0,0.0101327977169,0.0189868407181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129565
+346,It's an above par target if you go by Nick Knight's analysis at the pitch report where he thought  .,413,12,10,97.831658577,0.0101327977169,0.0127365980122,0.0728499659823,0.079876874529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+347,to be an excellent score.,412,3,3,22.1654575963,0.0728499659823,0.0189868407181,0.010282144688,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+348,Scotland started off well and were helped by a mid-pitch collision which saw Masakadza succumbing to his second farcical run-out in 2 matches.,411,15,9,89.980348566,0.010282144688,0.079876874529,0.126610794177,0.00771870089827,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10145
+349,The collision also injured Sibanda - who was cut on his chin.,410,8,5,50.5091087651,0.126610794177,0.0,0.0338637957678,0.0190134441365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+350,He decided to brave on but couldn't last long.,409,7,4,38.4865553701,0.0338637957678,0.00771870089827,0.0,0.0402768901684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21212
+351,That boosted Scotland as they started choking up the runs while chipping away at the wickets.,408,9,8,72.6692254776,0.0,0.0190134441365,0.0511745322979,0.0781708478708,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14988
+352,"But Williams found some form at the right time, breezed to his first international half-century of the year, off just 31 balls, and lifted Zimbabwe to a good score.",407,20,13,118.292948683,0.0511745322979,0.0402768901684,0.0800187965609,0.0420653445696,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+353,The change to include Leask in the lineup didn't work as the right arm spinner was taken for 36 in his 4 overs.,406,14,11,96.1652137921,0.0800187965609,0.0781708478708,0.0257609722825,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+354,His spin twin Mark Watt though returned with impressive figures of  .,405,9,3,58.3604481703,0.0257609722825,0.0420653445696,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+355,.,404,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+356,.,403,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+357,"Safyaan Sharif to Chigumbura, out Caught by Mommsen!!",402,8,3,28.948598968,0.0,0.0,0.0101932509725,0.0862927623909,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+358,Scotland have put in a good show today in the slog overs and they have restricted the opposition ranks to some extent.,401,12,11,95.0425559765,0.0101932509725,0.0,0.0427104674606,0.0952064377898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+359,"Low full toss and just outside off, Chigumbura clears his front leg and looks to bury it over the fielder at extra cover, but can't get the connection right.",400,21,12,108.254070275,0.0427104674606,0.0862927623909,0.0980369073095,0.100727260312,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.152635
+360,He gets it off the toe-end and Mommsen pouches the catch by leaping in the air.,399,8,9,55.0667200869,0.0980369073095,0.0952064377898,0.100923456757,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.136675
+361,Chigumbura c Mommsen b Safyaan Sharif  .,398,7,0,15.7739319963,0.100923456757,0.100727260312,0.0,0.72334977643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1489
+362,7) [4s- .,397,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+363,"s-1]Safyaan Sharif to Chigumbura, THAT'S OUT!!",396,9,3,19.9928802985,0.0,0.72334977643,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08263
+364,Caught!!,395,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+365,.,394,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+366,"Safyaan Sharif to Chigumbura, FOUR, this time, Chigumbura shuffles across and slogs this low full toss to the deep square leg boundary.",393,20,6,87.6869929554,0.0,0.0,0.127303166215,0.159811877671,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0.125
+367,Nice flow of hands from Chigumbura there .,392,5,3,33.7885983907,0.127303166215,0.0,0.241406357578,0.0546282083194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+368,"Safyaan Sharif to Chigumbura, no run, nice sportsmanship spirit shown by Cross there to say that he did not take it cleanly.",391,15,10,97.4718326948,0.241406357578,0.159811877671,0.0689726889452,0.178254105864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.080835
+369,"Full and just outside off, Chigumbura looks for an airy fairy drive and gets an outside edge to the keeper who dives forward to his right but can't get to it .",390,19,15,115.87276411,0.0689726889452,0.0546282083194,0.268930885877,0.034922323066,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11878
+370,"Safyaan Sharif to Chigumbura, 2 runs, full and just outside off, with a little shimmy Chigumbura drills it to cover and picks up a brace.",389,18,11,85.1548563285,0.268930885877,0.178254105864,0.0558618390884,0.314625720325,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133555
+371,"Poor throw from the fielder in the deep, and by then, the pair had sneaked in a couple of runs .",388,11,12,75.5977746417,0.0558618390884,0.034922323066,0.0599565615737,0.0769578582865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133905
+372,"Safyaan Sharif to Chigumbura, no run, why can't Chigumbura shuffle across the sticks and get to the ball?",387,15,7,62.5782146833,0.0599565615737,0.314625720325,0.0828089815469,0.119765287591,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+373,He stays slightly leg-side of the ball.,386,5,3,24.0830445627,0.0828089815469,0.0769578582865,0.0184787288083,0.00850637734382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+374,"Sharif bowls it full and outside off, left alone to the keeper .",385,9,5,42.6177037105,0.0184787288083,0.119765287591,0.177372328727,0.222167771859,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+375,"Safyaan Sharif to Chigumbura, 2 runs, low full toss and just outside off, Chigumbura drills it towards backward point, who puts in a desperate dive, but can't prevent Chigumbura from adding two more runs to the kitty .",384,31,13,142.70664644,0.177372328727,0.00850637734382,0.443805602948,0.0377766276117,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.11006
+376,"Davey to Chigumbura, 1 run, low full toss and just outside off, Chigumbura clubs it to long-off, but can't breach the gap there .",383,20,9,74.8528889222,0.443805602948,0.222167771859,0.102588427356,0.0487549430196,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09259
+377,"Davey to W Masakadza, 1 run, Masakadza tries to heave this delivery that is bowled a tad fuller, but mistimes.",382,17,7,67.5443208215,0.102588427356,0.0377766276117,0.0830549760111,0.190000833051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+378,The non-striker is alert to sneak in a run.,381,5,5,23.7600781035,0.0830549760111,0.0487549430196,0.0348563175748,0.0899708975392,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+379,Davey runs across and tries to flick the ball onto the stumps with his right boot but misses.,380,12,7,70.4433452007,0.0348563175748,0.190000833051,0.0340492058016,0.0818278226536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+380,"Anyway, the batsman was in .",379,4,3,20.0420987803,0.0340492058016,0.0899708975392,0.0593775214958,0.0824735332771,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+381,"Davey to Chigumbura, 1 run, shorter in length and just outside off, pulled to deep mid-wicket.",378,14,6,49.0425760218,0.0593775214958,0.0818278226536,0.08420294235,0.284738345356,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08197
+382,"With three fielders in the deep, this is pretty good bowling from the Somerset seamer .",377,10,7,66.3552261166,0.08420294235,0.0824735332771,0.0174966406627,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+383,"Davey to Chigumbura, no run, low full toss and just inside the tramline, Chigumbura lets it go by.",376,15,7,69.2050277085,0.0174966406627,0.284738345356,0.114842629028,0.0272252331429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.107145
+384,"Well, that was touch and go to be called as a wide.",375,7,7,44.2462720978,0.114842629028,0.0,0.0,0.0389040831598,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+385,"In the end, the right decision made .",374,6,3,27.8539318408,0.0,0.0272252331429,0.0,0.0236079897215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+386,"Davey to W Masakadza, 1 run, very full and this time, Davey shifts his line to outside off, Masakadza somehow squeezes it out to cover for a single .",373,21,12,91.6336875,0.0,0.0389040831598,0.316370524911,0.136161855406,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+387,"Davey to W Masakadza, no run, full and straight from Davey, Masakadza looks to slap it towards long-on, but gets an inside edge back down the pitch.",372,22,10,91.4037124243,0.316370524911,0.0236079897215,0.158838684694,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11151
+388,"He tries to sneak in a run, but it was not available thereJosh Davey [ .",371,9,8,52.277533631,0.158838684694,0.136161855406,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+389,- .,370,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+390,. ],369,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+391,is back into the attack .,368,3,3,17.1088331018,0.0,0.0,0.0,0.065045515025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+392,"Safyaan Sharif to W Masakadza, 1 run, very full and slanted away from Masakadza, tucked to long-on .",367,16,5,50.8711698448,0.0,0.0,0.209853067052,0.366276705744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+393,"Safyaan Sharif to W Masakadza, wide, short delivery that is bowled miles outside off, Masakadza aims to flat-bat it towards mid-wicket, but can't make the connection, declared as a wide .",366,27,10,99.2720731124,0.209853067052,0.065045515025,0.196012442135,0.401431262745,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09836
+394,"Safyaan Sharif to Chigumbura, 1 run, very full from Sharif, Chigumbura drills it to cover, but can't breach the gap .",365,19,7,67.7125807046,0.196012442135,0.366276705744,0.267834551225,0.0276081288328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+395,"Safyaan Sharif to Chigumbura, wide, yorker that is bowled wide of off, left alone to the keeper.",364,14,7,64.2465551105,0.267834551225,0.401431262745,0.292998724033,0.160947941875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+396,It is adjudged as a wide .,363,3,4,20.6964209815,0.292998724033,0.0276081288328,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+397,"Safyaan Sharif to W Masakadza, byes, 1 run, slower short one and outside off, Masakadza looks to pull, but misses.",362,21,5,64.4550881538,0.0,0.160947941875,0.0,0.225100342071,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.094255
+398,They sneak in a bye .,361,3,3,19.7490081902,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+399,"Safyaan Sharif to Chigumbura, 1 run, low full toss and on off-stump, Chigumbura drills it down to long-off .",360,16,6,50.8882261441,0.0,0.225100342071,0.334491147866,0.177307644332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12245
+400,"Safyaan Sharif to W Masakadza, 1 run, fuller length and on off-stump, Masakadza drives it out to long-offWellington Masakadza, left handed bat, comes to the crease .",359,24,8,72.5127975867,0.334491147866,0.0,0.200927748718,0.0101061716521,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.133045
+401,"Safyaan Sharif to Sean Williams, out Caught by Alasdair Evans!!",358,10,3,35.2933424575,0.200927748718,0.177307644332,0.0,0.0671668134187,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16082
+402,The big fish has been chugged down.,357,4,4,34.8235775404,0.0,0.0101061716521,0.0128448199854,0.0108029941638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+403,Williams walks back to the pavilion with a forlorn look on his face.,356,8,6,52.4836315498,0.0128448199854,0.0671668134187,0.0479671866056,0.0633009370314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22153
+404,"Sharif bowled a full toss, but it was outside off, Williams aimed to lap it around the corner after shuffling across.",355,15,9,81.3564050919,0.0479671866056,0.0108029941638,0.262409728249,0.0911023233902,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12083
+405,"However, as it was bowled outside off, Williams could not get enough wood on it.",354,11,7,61.5665962948,0.262409728249,0.0633009370314,0.144476209664,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147865
+406,"It hit high up on Williams's bat, too.",353,7,4,31.5517778918,0.144476209664,0.0911023233902,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+407,Relatively easy catch at backward square leg for Evans.,352,8,2,41.1980374515,0.0,0.0,0.0,0.110730612883,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.066665
+408,"The idea was right as there were only two fielders inside the circle, but not the execution.",351,9,10,75.6273116596,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+409,Sean Williams c Alasdair Evans b Safyaan Sharif  .,350,9,0,22.1186754858,0.0,0.110730612883,0.573031906326,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19771
+410,"6) [4s-6]Safyaan Sharif to Sean Williams, THAT'S OUT!!",349,13,3,22.3665520764,0.573031906326,0.0,0.0,0.547891580255,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078315
+411,Caught!,348,2,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+412,!Safyaan Sharif [ .,347,5,0,7.7770636731,0.0,0.547891580255,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102385
+413,- .,346,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+414,. ],345,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+415,is back into the attack .,344,3,3,17.1088331018,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+416,"Alasdair Evans to Chigumbura, no run, well, what happened there?",343,10,4,40.8522562031,0.0,0.0,0.114955442476,0.13178097247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+417,"Evans ushers in a short delivery and keeps it just outside off, but Chigumbura does not look to play any shot and lets it go by.",342,14,14,101.202628249,0.114955442476,0.0,0.0,0.304364880159,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.100425
+418,He had a brain freeze there .,341,3,4,26.288622597,0.0,0.13178097247,0.0,0.0725784429982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+419,"Alasdair Evans to Chigumbura, SIX, short of length delivery and just outside off, Chigumbura stays back and biffs it over deep extra for a maximum.",340,19,10,94.0390748436,0.0,0.304364880159,0.0877232245116,0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.09259
+420,He went deep in the crease and then muscled it all the way.,339,6,8,50.0270022795,0.0877232245116,0.0725784429982,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+421,Raw power from Chigu .,338,4,1,23.8741244111,0.0,0.0,0.0,0.0705266859821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+422,"Alasdair Evans to Sean Williams, 1 run, Sharif at short fine leg has put down a tough chance.",337,16,5,64.1764333929,0.0,0.0,0.224737666695,0.00590298744819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.087945
+423,"Williams lap sweeps it to short fine, but the ball kept running away from Sharif.",336,12,5,59.0011594423,0.224737666695,0.0705266859821,0.0373737562691,0.0277184787491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+424,"He ran backwards and tried to take the catch with his right-hand above his head, but these catches either stick or dont.",335,13,11,103.388287349,0.0373737562691,0.00590298744819,0.131035110545,0.0361904235717,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.12121
+425,"It did not stick, this time around .",334,5,4,30.0547997081,0.131035110545,0.0277184787491,0.0220999767596,0.0262432762748,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+426,"Alasdair Evans to Chigumbura, 1 run, yorker length and just outside off, Chigumbura uses the crease to stay back and squeezes it out to cover .",333,19,10,85.3539082967,0.0220999767596,0.0361904235717,0.289685000555,0.168359893711,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+427,"Alasdair Evans to Sean Williams, 1 run, juicy full toss and outside off, Williams drives it to sweeper cover .",332,18,5,64.6853133857,0.289685000555,0.0262432762748,0.269880557601,0.346161611236,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.068965
+428,"Alasdair Evans to Sean Williams, wide, miles outside off, left alone to the keeper, rightly signalled as a wide .",331,18,6,74.4789297211,0.269880557601,0.168359893711,0.231468633932,0.104795805076,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+429,"Alasdair Evans to Sean Williams, byes, FOUR, from round the wicket, Evans bowls a slower delivery and keeps it in the channel outside off, Williams aims to flay it to third man and is beaten.",330,27,14,127.619578784,0.231468633932,0.346161611236,0.0523508518881,0.138932684445,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.128645
+430,The keeper is a victim of low bounce.,329,5,4,29.4474385937,0.0523508518881,0.104795805076,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+431,"As a result, runs away for four byesAlasdair Evans [ .",328,9,3,36.2748269792,0.0,0.138932684445,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.066665
+432,- .,327,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+433,. ],326,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+434,is back into the attack .,325,3,3,17.1088331018,0.0,0.0,0.117419614463,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+435,"Davey to Chigumbura, no run, slower bouncer from Davey, Chigumbura was too early into the shot and misses .",324,14,8,68.2606210853,0.117419614463,0.0,0.123082515102,0.160043520626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+436,"Davey to Sean Williams, 1 run, low full toss and on leg-stump, Williams gets an inside edge and they sneak in a single .",323,19,8,72.8019281202,0.123082515102,0.0,0.21539542236,0.0343610875605,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.105265
+437,"Davey to Sean Williams, FOUR, Williams posts his fifty with a well-connected shot.",322,12,4,44.3811727723,0.21539542236,0.160043520626,0.0878999701781,0.0817788884796,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.125
+438,He raises his bat to acknowledge the crowd and his teammates.,321,6,6,47.0782081494,0.0878999701781,0.0343610875605,0.0396978631084,0.0539126772469,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+439,"Shorter in length and begging to be hammered, Williams pulls it to the deep backward square leg fence .",320,13,7,71.0843023331,0.0396978631084,0.0817788884796,0.137936557643,0.108204752714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+440,"Davey to Chigumbura, leg byes, 1 run, the slower short delivery and sliding down leg, Chigumbura looks to help it around the corner and misses.",319,22,8,88.6344174211,0.137936557643,0.0539126772469,0.10060003092,0.066465215066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+441,But Williams was very alert to steal a leg-bye.,318,5,5,28.969810547,0.10060003092,0.108204752714,0.0102615445028,0.187009207971,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+442,The keeper moved forward and underarmed the throw to effect a direct-hit.,317,8,5,42.4319481417,0.0102615445028,0.066465215066,0.0,0.0349156150189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+443,"By then, Williams was in .",316,3,4,18.350208843,0.0,0.187009207971,0.164356188623,0.146583204642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+444,"Davey to Sean Williams, 1 run, shortish and outside off, Williams pulls it to deep mid-wicket.",315,15,5,44.7892549522,0.164356188623,0.0349156150189,0.214031747901,0.347753935736,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08534
+445,But the fielder in the deep gets to the ball quickly and keeps Williams to just a single .,314,9,10,56.0359980083,0.214031747901,0.146583204642,0.106098783867,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153165
+446,"Davey to Sean Williams, no run, good length delivery that is angled away from Williams, punched to coverJosh Davey [ .",313,18,6,69.8318181554,0.106098783867,0.347753935736,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+447,- .,312,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+448,. ],311,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+449,is back into the attack .,310,3,3,17.1088331018,0.0,0.0,0.057517848387,0.0359843430817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+450,"Mark Watt to Sean Williams, 1 run, this time, Williams bends on one knee and sweeps this delivery that is speared down leg to deep square leg .",309,22,9,95.9260454109,0.057517848387,0.0,0.21942656837,0.0442250807056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.089285
+451,"Mark Watt to Sean Williams, no run, well, it pitched outside the line of off-stump there as Williams was looking to play the reverse sweep.",308,19,10,87.9887250375,0.21942656837,0.0359843430817,0.101357515187,0.227758729902,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16809
+452,"As a result, Watt's appeal for lbw not upheld.",307,8,4,41.4169244793,0.101357515187,0.0442250807056,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+453,"Williams tried to be inventive by using the reverse sweep, but failed to get any wood on it.",306,11,9,77.8463364649,0.0,0.227758729902,0.0788864328991,0.0526637342617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+454,The ball rolled away behind square on the on-side .,305,7,3,29.6954942369,0.0788864328991,0.0,0.0199855268607,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10968
+455,"Mark Watt to Chigumbura, 1 run, slower through and just outside off, Chigumbura dabs it to coverElton Chigumbura, right handed bat, comes to the crease .",304,22,9,87.5060928901,0.0199855268607,0.0526637342617,0.161166501214,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.14459
+456,"Mark Watt to M Waller, out Caught by M A Leask!!",303,8,6,29.1596629936,0.161166501214,0.0,0.0,0.138938409041,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+457,"Well, what a shame this is.",302,4,4,23.5301285188,0.0,0.0,0.122148106866,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+458,"Waller was going well, but he has thrown it away.",301,7,5,42.5544617697,0.122148106866,0.138938409041,0.11071500252,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1875
+459,"Slightly shorter in length, Waller aims to play the lofted stroke, but toe-ends it to Leask at long-off, who takes a few steps forward and snaffles it with both hands.",300,20,14,119.197582974,0.11071500252,0.0,0.00751163504194,0.160225312486,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134485
+460,The batsman also closed his bat face too early.,299,7,3,42.6483726163,0.00751163504194,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+461,M Waller c M A Leask b Mark Watt  .,298,7,3,15.9849960219,0.0,0.160225312486,0.635959347225,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109655
+462,"3) [4s-1]Mark Watt to M Waller, THAT'S OUT!!",297,12,4,20.3030352268,0.635959347225,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078315
+463,Caught!!,296,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+464,.,295,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+465,"Mark Watt to M Waller, FOUR, lovely shot from Waller.",294,10,3,37.6205192815,0.0,0.0,0.137201549634,0.337648614023,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08041
+466,"Slower through the air and just outside off, Waller makes room and then uses the lofted drive to collect a boundary to the deep extra cover fence .",293,17,12,106.610581656,0.137201549634,0.0,0.210253569391,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.12
+467,"Mark Watt to M Waller, 2 runs, pushed through and on off-stump, Waller drives it square on the off-side, where the fielder misfields and that allows the batsmen to sneak in another runMark Watt [ .",292,25,15,116.379156995,0.210253569391,0.337648614023,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153175
+468,- .,291,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+469,. ],290,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+470,is back into the attack .,289,3,3,17.1088331018,0.0,0.0,0.0283157444208,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+471,"M A Leask to Sean Williams, FOUR, drifting down leg, Williams sits on one knee and sweeps it to the deep square leg fence, where the fielder puts in a dive, but can't succeed in his endeavour .",288,28,16,130.872741721,0.0283157444208,0.0,0.232455518146,0.0846376910942,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.122255
+472,"M A Leask to Sean Williams, 2 runs, Williams flicks this delivery to long-on.",287,12,5,34.4386701354,0.232455518146,0.0,0.163728240468,0.100078646176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+473,Williams collects a brace .,286,4,1,15.2831949867,0.163728240468,0.0846376910942,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+474,"M A Leask to M Waller, 1 run, sliding down leg, Waller sweeps it to fine leg for a single .",285,15,9,54.838330239,0.0,0.100078646176,0.408944913393,0.0234310347143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+475,"M A Leask to M Waller, no run, Waller tries to flick this one, misses.",284,12,7,46.5081987036,0.408944913393,0.0,0.0,0.124188107105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+476,It hits him on the thigh pad .,283,4,4,31.7329616583,0.0,0.0234310347143,0.0666382431785,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+477,"M A Leask to Sean Williams, 1 run, on middle and leg, Williams works it to deep mid-wicket .",282,15,7,44.5176817487,0.0666382431785,0.124188107105,0.333888252862,0.0533903029988,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.10714
+478,"M A Leask to Sean Williams, FOUR, woof!",281,8,3,23.100264126,0.333888252862,0.0,0.0,0.106335482243,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.117645
+479,Dar is down on the ground.,280,3,4,22.214799997,0.0,0.0533903029988,0.021902853982,0.2206009267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+480,Williams used the reverse sweep to a flatter delivery to perfection.,279,8,4,39.8781397393,0.021902853982,0.106335482243,0.0237199434427,0.0522891634458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+481,Dar at backward point had to take evasive action.,278,7,3,43.4091555669,0.0237199434427,0.2206009267,0.0110763114013,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+482,"The fielder in the deep put in a dive, but to no availMichael Leask [ .",277,9,8,47.0025103139,0.0110763114013,0.0522891634458,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+483,- .,276,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+484,. ],275,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+485,is back into the attack .,274,3,3,17.1088331018,0.0,0.0,0.0187885893706,0.0442354287899,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+486,"Safyaan Sharif to M Waller, no run, short delivery and just outside off, Waller looks to ramp it over the keeper's head, but misses.",273,19,11,84.1313045633,0.0187885893706,0.0,0.114093303366,0.199558361799,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101885
+487,"In fact, the ball dips low on the keeper who does well to collect it .",272,9,8,59.5304127525,0.114093303366,0.0442354287899,0.13791931452,0.0956334710146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+488,"Safyaan Sharif to Sean Williams, 1 run, low full toss from Sharif, Williams wrists it to long-on.",271,17,4,51.9343746192,0.13791931452,0.199558361799,0.0,0.183703518533,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.06724
+489,Nice rotation by the batsmen in the middle .,270,5,4,32.8517780176,0.0,0.0956334710146,0.053386174419,0.0296352968109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.219775
+490,"Safyaan Sharif to M Waller, 1 run, the cross-seamer that is bowled just outside off, Waller taps it to cover and sneaks in an easy single .",269,18,12,84.6042881853,0.053386174419,0.183703518533,0.222274159004,0.115740922384,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112675
+491,"Safyaan Sharif to Sean Williams, 1 run, fuller length delivery and on the stumps, Williams pushes it to cover .",268,17,6,58.8688504548,0.222274159004,0.0296352968109,0.284885389803,0.226173601018,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.104165
+492,"Safyaan Sharif to Sean Williams, 2 runs, again excellent running between the wickets by the batsmen.",267,13,6,59.4667785732,0.284885389803,0.115740922384,0.159400549745,0.163410027996,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+493,"The off-cutter from Sharif, but it was drifting down leg, Williams neatly clips it to deep backward square leg and Williams puts pressure on the fielder near the boundary rope to collect a couple of runs .",266,24,15,133.735987653,0.159400549745,0.226173601018,0.106009642955,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.184485
+494,"Safyaan Sharif to M Waller, 1 run, fuller length delivery and outside off, Waller mistimes the push-drive to long-onSafyaan Sharif [ .",265,19,6,55.0548000161,0.106009642955,0.163410027996,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+495,- .,264,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+496,. ],263,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+497,is back into the attack .,262,3,3,17.1088331018,0.0,0.0,0.0331733131718,0.0671711119269,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+498,"Mark Watt to Sean Williams, 2 runs, low full toss from Watt, Williams skips out of the crease, rolls his wrists on the ball and works it to deep mid-wicket.",261,24,11,101.284747609,0.0331733131718,0.0,0.118785615305,0.254213294137,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.13034
+499,The pair put pressure on the fielder in the deep and that facilitates a brace .,260,8,8,54.7227292143,0.118785615305,0.0671711119269,0.03913470652,0.0699395830787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.239765
+500,"Mark Watt to M Waller, 1 run, on middle and leg, Waller clips it to mid-wicket for an easy single .",259,16,8,60.9585955531,0.03913470652,0.254213294137,0.299032561767,0.415208837853,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08197
+501,"Mark Watt to M Waller, no run, from wide of the crease, Watt creates that nice angles into Waller and then ball turns away from the right-hander to beat his tame poke .",258,22,14,122.21196014,0.299032561767,0.0699395830787,0.250610887897,0.1672903035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11741
+502,"Mark Watt to M Waller, no run, slower through and just outside off, Waller taps it to cover-point and looks for a quick single, but there was no single available there .",257,19,17,105.046013705,0.250610887897,0.415208837853,0.193996708141,0.174458261249,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+503,"Mark Watt to Sean Williams, 1 run, pushed through and on the stumps, clipped to long-on .",256,14,6,47.9077776733,0.193996708141,0.1672903035,0.336421698322,0.0374981167495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+504,"Mark Watt to Sean Williams, FOUR, from round the wicket, Watt bowls it slower through the air, Williams sinks on one knee, bends low and slog-sweeps it to the deep mid-wicket fence.",255,27,11,112.381985049,0.336421698322,0.174458261249,0.0796803258712,0.120370081192,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.122805
+505,He bisects two fielders in the deep to perfection.,254,6,4,38.0377809584,0.0796803258712,0.0374981167495,0.116304051511,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+506,"As he crouched low, he was able to play that stroke all along the groundMark Watt [ .",253,11,8,72.9288480561,0.116304051511,0.120370081192,0.0,0.0185693746059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+507,- .,252,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+508,-1] is back into the attack .,251,5,3,17.1088331018,0.0,0.0185693746059,0.0,0.0742847460245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+509,"Alasdair Evans to M Waller, 2 runs, too straight from Evans, Waller clips it to deep backward square leg.",250,17,6,64.7759971411,0.0,0.0,0.0404693583382,0.15580645489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06478
+510,"The fielder in the deep swoops down on the ball quickly, but by then, the duo steal in a brace .",249,11,12,74.7944021478,0.0404693583382,0.0742847460245,0.109090451024,0.0569793366315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.150575
+511,"Alasdair Evans to Sean Williams, 1 run, fullish and angling in, Williams drives it all along the carpet to long-on and jogs across to the other end .",248,20,11,94.0203872087,0.109090451024,0.15580645489,0.243081884254,0.29383808625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156755
+512,"Alasdair Evans to Sean Williams, wide, sliding down leg, Williams looks to tuck it around the corner and misses, adjudged as a wide .",247,20,8,86.8354381462,0.243081884254,0.0569793366315,0.416814431007,0.249568561377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+513,"Alasdair Evans to Sean Williams, wide, short delivery from Evans, Williams sits under it.",246,14,4,53.4760421167,0.416814431007,0.29383808625,0.13073077315,0.167358935778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07262
+514,It is signalled as a wide by Dar .,245,4,5,30.2355879142,0.13073077315,0.249568561377,0.0174756629785,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+515,"Alasdair Evans to M Waller, 1 run, good length delivery and just outside off, Waller camps back and taps it to cover for a quick singleMalcolm Waller, right handed bat, comes to the crease .",244,28,12,115.9655732,0.0174756629785,0.167358935778,0.161442481157,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+516,"Alasdair Evans to S Raza, out Bowled!!",243,7,3,21.5654566176,0.161442481157,0.0,0.0,0.0890044019947,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+517,"Well, that is a rather curious dismissal.",242,6,3,31.0610834472,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+518,"Fuller length delivery and on off-stump, Raza aims to go for the big shot through the off-side with cemented feet and connects thin air.",241,17,9,93.0009448614,0.0,0.0890044019947,0.181142002631,0.0728533563816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+519,It flicked the bail of the off-stump.,240,4,4,22.2973804051,0.181142002631,0.0,0.114097555213,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+520,It was a cross-seamer from Evans and it might have just moved away off the seam.,239,7,10,53.2215315171,0.114097555213,0.0728533563816,0.0673178588793,0.0752948793815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+521,Evans is delighted with that scalp.,238,4,3,27.5953475444,0.0673178588793,0.0,0.0606960545267,0.156362620395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+522,One of Evans's strengths in County circles was to bowl a stump-to-stump line.,237,10,5,51.1306143469,0.0606960545267,0.0752948793815,0.0,0.106611100472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+523,He is showcasing that today.,236,3,3,22.4643129693,0.0,0.156362620395,0.0,0.0963664430331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+524,S Raza b Alasdair Evans  . ),235,6,1,11.8137893551,0.0,0.106611100472,0.699240604202,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.092865
+525,"[4s-1]Alasdair Evans to S Raza, THAT'S OUT!!",234,10,4,19.7961700043,0.699240604202,0.0963664430331,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+526,Bowled!!,233,3,0,4.92658315676,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+527,.,232,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+528,"Alasdair Evans to Sean Williams, 1 run, a tad fuller and angled in, Williams ekes out an inside edge back down the pitch.",231,19,8,80.8687987429,0.0,0.0,0.0687341399257,0.258490415865,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093745
+529,The non-striker was alert to respond to the call and they sneak in a single .,230,7,9,49.1789848553,0.0687341399257,0.0,0.0997218520081,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157055
+530,"Alasdair Evans to Sean Williams, FOUR, shorter in length from round the wicket by the former Derbyshire seamer, Evans, Williams pulls it to deep backward square leg and it runs away to the fence.",229,27,12,127.012445738,0.0997218520081,0.258490415865,0.1379972738,0.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.112155
+531,Nice connection from WilliamsAlasdair Evans [ .,228,6,1,26.2512623969,0.1379972738,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0303
+532,- .,227,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+533,-1] is back into the attack .,226,5,3,17.1088331018,0.0,0.0,0.186067553147,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+534,"M A Leask to S Raza, no run, punched back to the bowler .",225,9,7,32.7786995376,0.186067553147,0.0,0.215066723858,0.242194194945,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+535,"M A Leask to S Raza, 2 runs, tucked away to deep backward square for a duo of runs .",224,14,8,53.9399321274,0.215066723858,0.0,0.193499110538,0.113064321575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.103445
+536,"M A Leask to S Raza, FOUR, shortish and outside off, Raza goes deep inside the crease and executes the late-cut to perfection, beating short third man's dive to his left .",223,25,12,104.529165202,0.193499110538,0.242194194945,0.204292333968,0.198474148515,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.11741
+537,"M A Leask to Sean Williams, 1 run, stood inside the crease and punched this wide of cover .",222,14,7,54.66994335,0.204292333968,0.113064321575,0.203023125559,0.113980761064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181315
+538,"M A Leask to S Raza, 1 run, dab-and-run cricket from Zimbabwe, Raza pushes this flighted delivery in front of cover and called his partner through for a quick single.",221,21,13,99.8498809649,0.203023125559,0.198474148515,0.0249274751524,0.249860445548,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+539,The fielder fires a perfect throw to the keeper who knocks the bails off but Sean Williams was well in .,220,11,10,75.2184574939,0.0249274751524,0.113980761064,0.0573842043933,0.0208719423431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145835
+540,"M A Leask to S Raza, no run, slower through the air, outside off, Raza runs it down to short third man with an open bat face .",219,19,13,88.1469133907,0.0573842043933,0.249860445548,0.198057558059,0.314293396107,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+541,"Mark Watt to S Raza, 1 run, full toss, driven to long-on .",218,13,3,31.8202595699,0.198057558059,0.0208719423431,0.432098150598,0.274024577935,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.07442
+542,"Mark Watt to S Raza, no run, punched to short cover .",217,10,4,33.9632983258,0.432098150598,0.314293396107,0.322510445008,0.391546668344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078315
+543,"Mark Watt to Sean Williams, 1 run, on the pads, Williams tickles it down to short fine .",216,15,6,54.6461873403,0.322510445008,0.274024577935,0.179061885791,0.215949600798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108695
+544,"Mark Watt to S Raza, 1 run, driven towards coverSikandar Raza, right handed bat, comes to the crease .",215,19,4,61.1971905942,0.179061885791,0.391546668344,0.193962758584,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+545,"Mark Watt to Mutumbami, out Caught by M A Leask!!",214,8,5,28.7243449224,0.193962758584,0.215949600798,0.0,0.0104517065399,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+546,Another YouTube moment ladies and gentlemen.,213,6,1,33.5353781211,0.0,0.0,0.0,0.013316094901,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+547,"If yesterday's catch in that Oman vs Ireland game was better, this was the best - According to me.",212,13,9,89.54925668,0.0,0.0104517065399,0.128341227032,0.0209176222079,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.149885
+548,"This was floated up nicely and Mutumbami was enticed by the drift, he wanted to go for a biggie over long-off.",211,11,12,82.5792850418,0.128341227032,0.013316094901,0.0225127928766,0.0961571387347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+549,Got the power but not the distance.,210,4,4,28.9913053866,0.0225127928766,0.0209176222079,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08571
+550,Smashes it straight towards long-off.,209,5,1,18.6547343031,0.0,0.0961571387347,0.0,0.027100340528,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+551,Now then!,208,1,2,10.3639919373,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+552,Here is the main part: The fielder had it covered for a fleeting moment.,207,8,8,58.6622689048,0.0,0.027100340528,0.0347915389321,0.0152779955415,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+553,Ran to his right and went for a reverse cup above his head - seemed a little causal in that approach and hence the ball bursts through his fingers.,206,16,14,120.562048738,0.0347915389321,0.0,0.142643678432,0.13776462474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+554,"Leask, however, was very quick to recover, leaps high and engulfs the ball with his right hand - All in one motion.",205,17,9,93.7271112778,0.142643678432,0.0152779955415,0.0276964582002,0.00796669332111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+555,His head wasn't quite still while doing so but jeez!,204,6,6,52.8068602037,0.0276964582002,0.13776462474,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+556,How did he manage to cling onto that?,203,4,5,38.4318375497,0.0,0.00796669332111,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+557,Absolute screamer!,202,3,0,13.4775072465,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+558,Mutumbami c M A Leask b Mark Watt  .,201,7,2,15.5496779507,0.0,0.0,0.0,0.723325170791,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+559,7) [4s- .,200,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+560,"s-1]Mark Watt to Mutumbami, THAT'S OUT!!",199,9,3,19.8677171556,0.0,0.723325170791,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08263
+561,Caught!!,198,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+562,.,197,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+563,"Mark Watt to Sean Williams, 1 run, tossed up on middle and leg, wristed through mid-wicketMark Watt [ .",196,17,5,56.6895834138,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.09756
+564,- .,195,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+565,-0] is back into the attack .,194,5,3,17.1088331018,0.0,0.0,0.0441799889316,0.0378926289698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+566,"M A Leask to Sean Williams, 1 run, driven on the rise but well wide of the man at short cover, the fielder anticipates and moves to his left but was well out of his reach .",193,22,18,121.879548947,0.0441799889316,0.0,0.196690271001,0.239840072694,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1651
+567,"M A Leask to Mutumbami, 1 run, allows the ball to turn in and flat-bats the pull wide of mid-on, mistimed stroke that .",192,17,10,64.837150086,0.196690271001,0.0378926289698,0.103447076976,0.148054014702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+568,"M A Leask to Sean Williams, 1 run, full and just outside off, driven towards long-off .",191,14,6,40.8452820712,0.103447076976,0.239840072694,0.198005172344,0.102863123752,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+569,"M A Leask to Mutumbami, 1 run, wanted to slog perhaps but didn't get to the pitch nicely, ends up drilling it hard towards long-on .",190,20,10,89.0088650363,0.198005172344,0.148054014702,0.152595499452,0.0764091888534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+570,"M A Leask to Mutumbami, SIX, that's a bonzer!",189,8,5,25.2991707895,0.152595499452,0.102863123752,0.0898494607271,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.105265
+571,"Flighted high and nice for Mutumbami, he drops to one knee and smokes it straight down the ground.",188,12,8,74.9580931634,0.0898494607271,0.0764091888534,0.03658995,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.107145
+572,Stand and admire stuff!,187,4,1,21.7473514947,0.03658995,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+573,.,186,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+574,"M A Leask to Sean Williams, 1 run, fullish around leg, clipped away to backward squareMichael Leask [ .",185,18,4,54.7553388525,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+575,- .,184,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+576,-0] is back into the attack .,183,5,3,17.1088331018,0.0,0.0,0.0327465659271,0.194941451285,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+577,"Davey to Mutumbami, no run, there's the sluggish nature of this pitch, the ball didn't rise as much as Mutumbami expected.",182,17,10,89.0387132954,0.0327465659271,0.0,0.158592610215,0.0476852080187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108105
+578,Short and slanted into Mutumbami.,181,4,2,19.7412049568,0.158592610215,0.194941451285,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+579,He wanted to pull but was taken aback by the lack of pace.,180,7,7,55.3440115068,0.0,0.0476852080187,0.0184889084181,0.00836577888505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+580,Hit around the shoulder .,179,4,1,18.1964057055,0.0184889084181,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+581,"Davey to Sean Williams, 1 run, length just outside off, Williams punches it towards mid-off and hustles for a quick single .",178,18,7,65.994930698,0.0,0.00836577888505,0.321781482919,0.204822655532,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+582,"Davey to Sean Williams, 2 runs, on and aroud leg-stump again, Williams clips it off his hip towards deep backward square .",177,18,7,72.7519575675,0.321781482919,0.0,0.230731234635,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07843
+583,"Davey to Sean Williams, FOUR, another one down leg and unlike his partner Williams takes full toll of it, helps it with a fine tickle down to fine leg, no need to run for those!",176,25,15,136.908928209,0.230731234635,0.204822655532,0.0,0.153317107891,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.111115
+584,.,175,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+585,"Davey to Mutumbami, leg byes, 1 run, short delivery around leg-stump, Mutumbami came down the track but took evasive action as he didn't get the desired length, the ball rolls away into the leg-side off the body .",174,31,13,136.648007913,0.0,0.153317107891,0.123970230847,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+586,"Davey to Sean Williams, 1 run, punched to the right of a diving cover who half-stops but cannot stop the singleJosh Davey [ .",173,17,10,75.0478396345,0.123970230847,0.0,0.0,0.0628046780241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+587,- .,172,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+588,-0] is back into the attackComing back to that run-out.,171,7,5,27.8451344061,0.0,0.0628046780241,0.0,0.011303080861,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+589,Let me tell you this.,170,3,3,28.2106558963,0.0,0.0,0.0434170154228,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+590,I've seen some hara-kiri running between the wickets but none worse than this.,169,8,7,55.145154963,0.0434170154228,0.011303080861,0.0,0.146237361555,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+591,I'm sure it will become a famous video on YouTube.,168,7,5,42.9625613404,0.0,0.0,0.0,0.015772233156,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+592,"KIDS if you want to know ""HOW NOT TO RUN BETWEEN THE WICKETS"" - WATCH THAT .",167,10,9,68.1010600156,0.0,0.146237361555,0.0836563498339,0.050168427022,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+593,"Safyaan Sharif to Mutumbami, FOUR, full toss outside off, Mutumbami says ""Thank you"" and bludgeons it back over the bowler's head.",166,21,7,86.9137253461,0.0836563498339,0.015772233156,0.0519247896096,0.105519296631,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.098035
+594,Sharif tried to get his hand but that was hit with some power .,165,7,7,53.8198281833,0.0519247896096,0.050168427022,0.0624521025767,0.105505558709,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+595,"Safyaan Sharif to Sean Williams, 1 run, on the stumps, clipped away wristily square on the on-side .",164,16,5,53.2214886937,0.0624521025767,0.105519296631,0.312737749586,0.102297398778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131055
+596,"Safyaan Sharif to Mutumbami, 1 run, Mutumbami was looking to slog again, the bat turned on impact, rolled away to long-on .",163,19,7,73.2778219337,0.312737749586,0.105505558709,0.220272101422,0.0914549283137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121685
+597,"Safyaan Sharif to Mutumbami, FOUR, length ball and with not much pace off the track, Mutumbami has decided to create his own pace by advancing down the track.",162,19,13,115.248635583,0.220272101422,0.102297398778,0.0222814588909,0.0815290500436,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08772
+598,"Goes for a flat-bat smite over mid-on and clears the fielder, jussssst.",161,9,5,41.2917359621,0.0222814588909,0.0914549283137,0.152571675552,0.0364324011032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+599,"The fielder at mid-on leapt full length to his right, but it was just past him.",160,9,9,57.5484849002,0.152571675552,0.0815290500436,0.117788178821,0.113267867318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13458
+600,Again focus on that word just .,159,3,4,28.4973833091,0.117788178821,0.0364324011032,0.0274681423531,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+601,"Safyaan Sharif to Sean Williams, 1 run, full and tailing in at leg-stump, Williams gets some toe-end on the attempted flick, rolled away towards backward square .",158,24,7,90.3414066384,0.0274681423531,0.113267867318,0.198973964252,0.0210920334312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107805
+602,"Safyaan Sharif to Sean Williams, no run, stays still inside the crease and drops this length ball towards cover and screams a loud ""no"" to his partnerSafyaan Sharif, right-arm fast medium, comes into the attack .",157,30,12,132.306856715,0.198973964252,0.0,0.0688006322953,0.13758519943,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.10968
+603,"Alasdair Evans to Mutumbami, no run, another just outside off, Mutumbami defends with soft hands .",156,14,5,59.9856574192,0.0688006322953,0.0210920334312,0.493437476844,0.308239190973,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+604,"Alasdair Evans to Mutumbami, no run, on a length and outside off, Mutumbami bunts it down the pitch .",155,13,9,57.9205985051,0.493437476844,0.13758519943,0.363638930866,0.185014380908,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12766
+605,"Alasdair Evans to Mutumbami, no run, fuller and curling in around off, Mutumbami clears his front leg and drives off the inside half towards mid-onSean Williams, left handed bat, comes to the crease .",154,28,11,120.391667174,0.363638930866,0.308239190973,0.126645647713,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+606,"Alasdair Evans to Sibanda, out Caught by Machan!!",153,8,3,29.8505009624,0.126645647713,0.185014380908,0.124688237069,0.0605970587125,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+607,Spare a thought for Vusi Sibanda.,152,5,2,26.5107012571,0.124688237069,0.0,0.0,0.0680736572201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+608,"The second ball he faced after that horrid collision, he picks out the fielder to perfection.",151,10,8,69.8966703764,0.0,0.0605970587125,0.0214993295031,0.0817043561042,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+609,"It was (cross-seam delivery) short and angled in at the batsman, Sibanda was trying to help it away with a pull.",150,14,11,70.2884650717,0.0214993295031,0.0680736572201,0.0279914951904,0.0996006748171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+610,Swivelled and timed the shot but couldn't have picked the fielder any better.,149,9,6,58.6712308538,0.0279914951904,0.0817043561042,0.0155418475973,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+611,Machan at deep backward square leg stays low and snaffles it.,148,9,3,46.334499417,0.0155418475973,0.0996006748171,0.156669902099,0.19298387062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+612,Good low catch that.,147,4,1,17.7284071486,0.156669902099,0.0,0.0,0.132607959103,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.1
+613,Sibanda c Machan b Alasdair Evans  .,146,7,0,16.6758339907,0.0,0.19298387062,0.666458032812,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1489
+614,"2)Alasdair Evans to Sibanda, THAT'S OUT!!",145,9,3,19.7961700043,0.666458032812,0.132607959103,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+615,Caught!!,144,3,0,4.49913914193,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+616,.,143,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+617,"Alasdair Evans to Sibanda, no run, bouncer angled in, Sibanda steps out and lets it go .",142,14,6,62.5101812001,0.0,0.0,0.116878470255,0.0135445754845,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+618,"Alasdair Evans to Mutumbami, 1 run, good length on and around middle, Mutumbami was nearly squared up by some away movement and ends up poking at it tamely.",141,21,11,114.239832872,0.116878470255,0.0,0.00958716713367,0.171253078236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.122805
+619,The outside edge runs down to third man .,140,6,3,28.153284468,0.00958716713367,0.0135445754845,0.0545311053011,0.0312412736535,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+620,"Mark Watt to Mutumbami, 1 run, full on the stumps, eased to long-on .",139,13,4,37.3387115581,0.0545311053011,0.171253078236,0.487764265292,0.220291975853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+621,"Mark Watt to Mutumbami, no run, yorker length on the stumps, Mutumbami squeezes it towards mid-off .",138,15,5,54.5237824281,0.487764265292,0.0312412736535,0.263361179251,0.347180048858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+622,"Mark Watt to Mutumbami, no run, similar delivery and a relatively similar stroke .",137,12,4,51.0581664261,0.263361179251,0.220291975853,0.196313670413,0.00950661684656,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+623,"Mark Watt to Mutumbami, no run, fuller and outside off, tapped with an open face towards pointOkay dokey!",136,16,6,75.7938922368,0.196313670413,0.347180048858,0.00941076274752,0.0609746283856,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.080645
+624,"Unlike predictions, Sibanda is ready to bat again.",135,7,3,37.1460012264,0.00941076274752,0.00950661684656,0.0711382730907,0.130987352872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06452
+625,"Although he seems to be in pain, looks okay to go nowRichmond Mutumbami, right handed bat, comes to the crease .",134,17,7,85.7672661615,0.0711382730907,0.0609746283856,0.0343577760112,0.0368860675804,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+626,"Mark Watt to Sibanda, out H Masakadza Run Out!!",133,9,3,25.6263718085,0.0343577760112,0.130987352872,0.0926850466132,0.245983404685,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093745
+627,Two in two for Masakadza.,132,4,2,19.5541558139,0.0926850466132,0.0368860675804,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.044445
+628,He has run himself out again.,131,2,5,24.5951325472,0.0,0.245983404685,0.143940149298,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+629,Yet again school-boy esque.,130,4,1,18.5218734389,0.143940149298,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+630,Sibanda backed away and cut this shortish ball to cover-point where the fielder ran to his right and dived full length.,129,14,8,78.2964382968,0.0,0.0,0.011854225885,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+631,The batsmen rammed into each other.,128,3,4,28.6418130342,0.011854225885,0.0,0.0,0.330802994593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+632,Absolutely mindless running.,127,4,0,19.1662304553,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+633,None of them are watching each other.,126,3,5,37.2864226081,0.0,0.330802994593,0.214756814199,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+634,Collided into each other and can someone feel the pain Sibanda is going through?,125,7,8,67.4596449573,0.214756814199,0.0,0.0744845356734,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108105
+635,He is on the floor.,124,2,4,18.242760231,0.0744845356734,0.0,0.0,0.126966169604,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+636,Getting some medical attention.,123,4,1,25.5146529106,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+637,Looks like he might go off.,122,5,2,27.8035491286,0.0,0.126966169604,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+638,"Coming back to the run-out, by the time the batsmen recovered the throw was rifled at the keeper's end who catches Masakadza short.",121,16,10,88.0622119878,0.0,0.0,0.0352912569531,0.0321530161953,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.14459
+639,Masakadza's left shoulder slammed into Sibanda's chin.,120,9,1,35.7903133809,0.0352912569531,0.0,0.134886322746,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+640,He's got a cut on his chin now and that area is being sealed by a white plaster.,119,9,11,78.2179637441,0.134886322746,0.0321530161953,0.00986876160963,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106385
+641,Both batsmen lost their bats during the collision and still ran through - Good committment.,118,10,6,71.8341280595,0.00986876160963,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.09524
+642,H Masakadza run out (Coetzer/Matthew Cross)  .,117,8,1,14.0146227336,0.0,0.0,0.101944838426,0.382077766929,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116015
+643,"0) [4s-3]Mark Watt to Sibanda, THAT'S OUT!!",116,12,3,19.8387296187,0.101944838426,0.0,0.26681698662,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+644,Run Out!!,115,3,1,5.62779348889,0.26681698662,0.382077766929,0.0,0.0746978397374,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+645,.,114,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+646,"Mark Watt to Sibanda, no run, tucked to mid-wicketMark Watt, left-arm orthodox, comes into the attack .",113,16,5,51.2401722118,0.0,0.0746978397374,0.0258962302476,0.0204290344473,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+647,"Alasdair Evans to H Masakadza, FOUR, brilliant!",112,9,1,23.4749991225,0.0258962302476,0.0,0.0639989283865,0.261607682285,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08745
+648,"Masakadza had enough room to throw his bat at this, backed away and crunched the drive past a diving extra cover .",111,15,8,87.1916179063,0.0639989283865,0.0204290344473,0.154940294798,0.0391452730921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+649,"Alasdair Evans to H Masakadza, no run, bouncer slanted at the batsman, Masakadza comes forward slightly and sways away from the line .",110,19,7,83.8107228485,0.154940294798,0.261607682285,0.224607317523,0.0284110429402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+650,"Alasdair Evans to H Masakadza, no run, TV umpire please: For a run-out check.",109,14,4,48.4969652129,0.224607317523,0.0391452730921,0.0,0.0476947776435,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+651,Sibanda is the man in question.,108,4,3,23.2478150032,0.0,0.0284110429402,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+652,He looks safe and NOT OUT it should be.,107,3,7,37.2077601718,0.0,0.0476947776435,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+653,TV UMP.,106,3,0,13.4775072465,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+654,confirms the same.,105,2,2,14.9136618879,0.0,0.0,0.032614706386,0.023737547361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+655,"Masakadza wanted to repeat the previous shot, but this time he drags the stroke in front of mid-wicket.",104,12,8,69.5020364036,0.032614706386,0.0,0.106139382573,0.0561162492989,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.137935
+656,Sibanda was keen on the single but Masakadza ain't.,103,7,4,29.576022334,0.106139382573,0.023737547361,0.0357989016779,0.123658923631,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+657,The fielder picks up and fires a precise throw to the bowler who disturbs the bails.,102,9,8,64.8056772426,0.0357989016779,0.0561162492989,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157055
+658,"A good, long, desperate, air-borne full-length dive was needed from Sibanda.",101,12,3,38.1501579165,0.0,0.123658923631,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+659,Would have been out had it not been for that effort .,100,3,9,46.6127227941,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120235
+660,"Alasdair Evans to H Masakadza, FOUR, shot!",99,9,1,21.5290889735,0.0,0.0,0.0,0.292163130406,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08745
+661,"Picked the length early, got down on one knee and directed the ball behind backward square, with a lovely flat-bat scoop .",98,17,7,83.4442966797,0.0,0.0,0.0151121249059,0.0999767269384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140835
+662,"Alasdair Evans to H Masakadza, no run, solidly punched back to the bowler who bends low to field that .",97,15,7,69.3317916699,0.0151121249059,0.292163130406,0.153842925272,0.00915372381231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+663,"Alasdair Evans to Sibanda, leg byes, 1 run, sprays this length ball onto the pads, Sibanda fails to put bat to ball, was trying to work it through the leg-side but it takes the padAlasdair Evans, right-arm fast medium, comes into the attackAleem Dar stills seems to have some cricket left.",96,41,18,199.530642641,0.153842925272,0.0999767269384,0.110359420886,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10526
+664,Telly visuals show Dar advancing and hitting the ball a long way.,95,10,3,55.4769886598,0.110359420886,0.00915372381231,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+665,Oh!,94,2,0,6.24833899674,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+666,What a sight!,93,2,2,12.6302093861,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+667,.,92,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+668,"Davey to H Masakadza, no run, very full, nearly an yorker outside off, Masakadza cleverly opens the bat face and taps it straight to backward point .",91,22,9,99.6531314032,0.0,0.0,0.151884317719,0.157816147702,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+669,"Davey to Sibanda, 1 run, a little too straight from Davey and Sibanda is content with a modest push-drive down to long-on .",90,15,10,66.2241338305,0.151884317719,0.0,0.410053684775,0.122171714221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116155
+670,"Davey to Sibanda, no run, this is much better from Davey.",89,9,5,40.5174070587,0.410053684775,0.157816147702,0.0541565139619,0.228843714565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+671,"On a back of a length and in the outside off zone, Sibanda jumps down the track aiming to loft one over the bowler, beaten by the extra bounceThird man and fine leg are up... .",88,21,18,131.147930434,0.0541565139619,0.122171714221,0.128081812049,0.144100316914,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14125
+672,"Davey to Sibanda, 2 runs, errs in line this time, keeps it full around leg-stump, Sibanda whips it off his toes and deep square had to run a long way to his right to prevent a couple of runs .",87,28,16,135.064479142,0.128081812049,0.228843714565,0.269182439797,0.192118816336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+673,"Davey to Sibanda, no run, pulls his length back slightly, Sibanda wrists it towards mid-wicket .",86,15,4,54.2394092981,0.269182439797,0.144100316914,0.242538807946,0.145301739105,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+674,"Davey to Sibanda, no run, we've seen this in the last game too!",85,10,7,48.3305937915,0.242538807946,0.192118816336,0.0991129660699,0.127167273883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+675,Sibanda stepping down the track to fast bowlers that is.,84,6,5,41.484325814,0.0991129660699,0.145301739105,0.0408177918931,0.019831277903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+676,"He skips out to a full delivery and drills the drive straight to mid-onJosh Davey, right-arm medium, comes into the attackNo slips for the pacer too... .",83,18,12,92.6174418157,0.0408177918931,0.127167273883,0.0476803424478,0.0531573016922,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107805
+677,"M A Leask to H Masakadza, no run, another one on and around off-stump line, Masakadza drives and finds the same man again .",82,17,10,71.8717816584,0.0476803424478,0.019831277903,0.337936103909,0.16300855052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131575
+678,"M A Leask to H Masakadza, no run, floated fuller and just outside off, Masakadza drives neatly, but mid-off is in situ .",81,17,10,69.4185701656,0.337936103909,0.0531573016922,0.164117187138,0.151744321396,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07843
+679,"M A Leask to H Masakadza, FOUR, don't bowl there!",80,9,5,30.1202263323,0.164117187138,0.16300855052,0.0533470961365,0.145724018042,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12
+680,"Full and around middle and leg, Masakadza sinks to one knee and slots the sweep behind backward square, off the mark in style .",79,18,8,90.1912651079,0.0533470961365,0.151744321396,0.106779638764,0.110288573717,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+681,"M A Leask to H Masakadza, no run, fullish and straight, flicked in front of short mid-wicket .",78,14,7,48.293220331,0.106779638764,0.145724018042,0.205254713741,0.131229628489,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+682,"M A Leask to Sibanda, 1 run, short again, Sibanda rocks back and pulls it through mid-wicket, not off the middle but that will get him going with a single .",77,19,16,97.1923183117,0.205254713741,0.110288573717,0.255443294184,0.180108528075,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.153135
+683,"M A Leask to Sibanda, no run, poor delivery first up, shortish and at the hip, Sibanda tucks but cannot it get it past backward squareSibanda and H Masakadza are at the crease.",76,22,17,123.270671968,0.255443294184,0.131229628489,0.155767471737,0.0524450490385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16506
+684,Sibanda is on strike.,75,3,2,16.0175766373,0.155767471737,0.180108528075,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+685,"M A Leask will open the attackThe stadium announcer yells out ""Please welcome the onfield umpires Aleem Dar and Marais Erasmus.""",74,17,7,102.754619176,0.0,0.0524450490385,0.0144898953927,0.0550609213184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+686,- So now you have an idea of the inspectors for this game.,73,5,9,53.902369548,0.0144898953927,0.0,0.0152754630902,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+687,Out come the Zimbabwean openers.,72,4,2,24.5720841246,0.0152754630902,0.0550609213184,0.0,0.0160099452314,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+688,Masakadza practicing a few shadow-strokes.,71,4,2,16.1015053103,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+689,The Scots take their respective fielding positions.,70,6,2,39.3166304282,0.0,0.0160099452314,0.0412629822683,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+690,The keeper is up to the stumps.,69,3,5,21.6923115934,0.0412629822683,0.0,0.0,0.130112177177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+691,No slips.,68,2,1,9.78862779238,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+692,Michael Leask to open...The players are ready in the centre for the National Anthems of both the countries.,67,11,10,83.2278672485,0.0,0.130112177177,0.0478525241157,0.167843209148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+693,I can see some school kids in the stadium - A very good initiative I must say.,66,10,8,68.8448656365,0.0478525241157,0.0,0.0165389013121,0.00666110454218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+694,First up the Zimbabwean national anthem which is followed by the Scots.,65,7,6,58.2702133509,0.0165389013121,0.167843209148,0.119517650018,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+695,The Scottish players join together and sing aloud as their trumpet-dominant anthem rings out.,64,10,5,68.8095358178,0.119517650018,0.00666110454218,0.0,0.00612064904567,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+696,Right then!,63,2,1,8.82354689634,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+697,"we are done with the anthems...Pitch report: ""A very, very different looking pitch.",62,12,7,65.9916972939,0.0,0.00612064904567,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+698,You can see it is virtually devoid of any grass.,61,5,6,50.6192050773,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+699,.,60,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+700,was a pretty decent score in the last game.,59,6,4,36.8882116639,0.0,0.0,0.0,0.193958963481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+701,.,58,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+702,is an excellent score here.,57,3,3,25.0258376659,0.0,0.193958963481,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+703,No problem with Zimbabwe winning the toss and having to bat first.,56,7,6,50.228885141,0.0,0.0,0.0488491210165,0.0126296223214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.144585
+704,"Good toss to win,"" reckons Nick Knight.Teams:Scotland (Playing XI): Kyle Coetzer, George Munsey, Matthew Cross(w), Matt Machan, Richie Berrington, Preston Mommsen(c), Michael Leask, Josh Davey, Safyaan Sharif, Mark Watt, Alasdair EvansZimbabwe (Playing XI): Hamilton Masakadza(c), Vusi Sibanda, Richmond Mutumbami(w), Sean Williams, Malcolm Waller, Sikandar Raza, Elton Chigumbura, Donald Tiripano, Tinashe Panyangara, Wellington Masakadza, Tendai ChataraMommsen: ""We could have batted too and try and get some runs on the board but probably we can restrict them to a good total.",55,109,15,385.799194955,0.0488491210165,0.0,0.0832389735753,0.0852450445759,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.3726
+705,"Looking at that, probably should have won the last game.",54,6,6,45.2731544903,0.0832389735753,0.0126296223214,0.0804412639317,0.0774278039073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.170735
+706,"However, we have had our moments.",53,4,4,31.4706427268,0.0804412639317,0.0852450445759,0.313221980888,0.0747433256734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+707,We still have 2 more games in our hand (including this) and hopefully we will make that count.,52,11,10,84.6658557533,0.313221980888,0.0774278039073,0.0881581117664,0.160181314293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+708,Assessing the conditions we felt the extra spinner could do the job for us.,51,9,6,68.7972131795,0.0881581117664,0.0747433256734,0.0883315438635,0.136261238173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+709,"""Masakadza: ""We are going to bat first.",50,8,3,28.1660292723,0.0883315438635,0.160181314293,0.105093273452,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+710,There is a little bit of grass on it so hopefully you will get the advantage of the conditions first up.,49,9,13,89.9796064678,0.105093273452,0.136261238173,0.134870090497,0.10194465094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173165
+711,Definitely lot of improvement and there is still a lot of scope for improvement.,48,8,7,64.7685112653,0.134870090497,0.0,0.028116376451,0.028334718525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+712,The most important thing is we won the first game and we gotta win today too.,47,9,9,80.6046001773,0.028116376451,0.10194465094,0.138991764373,0.00734769443703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.13889
+713,"""Zimbabwe have won the toss and have opted to batNumbers don't lie: Numbers should first exist for that.",46,12,10,85.3180984443,0.138991764373,0.028334718525,0.0612087215766,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.12
+714,These two teams have never played each other - across formats and over 22 years of shared cricketing years.,45,13,7,99.9107228981,0.0612087215766,0.00734769443703,0.0,0.0859955330907,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102905
+715,Go figure.,44,3,0,11.7429061911,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+716,Current form pits Zimbabwe as slight favourites - Scotland have lost 4 of their last 5 T20I games in contrast to Zimbabwe's two out of five.,43,20,8,115.608697143,0.0,0.0859955330907,0.139110229546,0.0506559278994,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.14099
+717,The fun part is that Scotland are ranked two places higher on the ICC's T20I ranking table.,42,13,6,85.7883988562,0.139110229546,0.0,0.0398976054754,0.0480339603827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11344
+718,Watch out for a contest!Both teams were on the opposite ends of a 14-run outcome the other day.,41,10,11,77.3732748025,0.0398976054754,0.0506559278994,0.0,0.096406811253,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14418
+719,Scotland came second to Afghanistan while Zimbabwe choked Hong Kong.,40,9,2,51.0715256798,0.0,0.0480339603827,0.0534060650121,0.0720420115691,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+720,"Losing one out of the three ""qualifying"" matches makes the equation tough already for Scotland.",39,13,5,72.2793338245,0.0534060650121,0.096406811253,0.0154081947102,0.0416853548045,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17589
+721,"Zimbabwe, on the other hand, are placed better but unfortunately aren't favourites to go through.",38,11,8,67.7230729923,0.0154081947102,0.0720420115691,0.0054190842377,0.050899351743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+722,Beating Scotland convincingly today might earn them a few more fans and empower them with the much lacking self-belief.Hello and welcome.,37,13,9,101.336496729,0.0054190842377,0.0416853548045,0.0,0.0468400904931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+723,Eighteen near consecutive losses in global ICC tournaments are soul-shattering.,36,9,2,53.4267037108,0.0,0.050899351743,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+724,And the fact that Scotland haven't managed a single win across three World Cups and three World T20s is an absolute consolation-killer.,35,16,8,94.8790882967,0.0,0.0468400904931,0.0455565020471,0.0322441008438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165015
+725,It's like Scotland exist but they also don't.,34,7,4,38.5000736023,0.0455565020471,0.0,0.100893243439,0.0800023560139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+726,Their journey roars of perpetual motivation but it's about time for Scotland to stop being the international door mat.,33,12,9,94.5782815488,0.100893243439,0.0322441008438,0.0965917512819,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+727,"On the other end are Zimbabwe, perilously hanging to the Test thread and forever under pressure to reiterate their credibility - like an office intern eyeing a permanent payroll.Preview:
+
+Zimbabwe and Scotland face-off in Nagpur on Thursday (10 March) fully aware that a defeat could well put an end to their chances of progressing to the main stage of the ICC World T .",32,42,26,279.357532826,0.0965917512819,0.0800023560139,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.65391
+728,.,31,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+729,.,30,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+730,"Scotland will surely be out of the fray should they lose, and the likelihood of that happening remains high considering they have never won a game at the World T20 before.",29,15,18,143.485669624,0.0,0.0,0.130006199936,0.11811961214,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0
+731,"They almost ended that jinx with a superb batting display in their opener against Afghanistan, but they could not capitalise on the performance and notch up a win.",28,15,15,131.069815747,0.130006199936,0.0,0.226822558155,0.241506413532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+732,"Zimbabwe, on the other hand, have shown their might in the opener against Hong Kong and will be confident of adding another win to their tally and tightening their grip on the all-important top spot.",27,20,18,157.005820347,0.226822558155,0.11811961214,0.173276993159,0.0496634904443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+733,"They needed some superb performances against Hong Kong on Tuesday, and it was thanks to the performance of Elton Chigumbura lower down that helped them turn the game around.",26,17,14,135.68522578,0.173276993159,0.241506413532,0.0,0.016120067235,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0
+734,"When: Scotland vs Zimbabwe, Group B -  .",25,9,1,28.0974080158,0.0,0.0496634904443,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.305025
+735,"0 AM GMT, 3 PM IST
+Where: Vidarbha Cricket Association Stadium, Nagpur
+What to expect: A searingly hot day with a high of 38.",24,21,8,119.049449359,0.0,0.016120067235,0.0636684074318,0.00354852041783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.83328
+736,A slow wicket with plenty of help to the spinners.,23,6,5,39.5644629377,0.0636684074318,0.0,0.00672968683575,0.0561297867689,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+737,"Team News:
+
+Zimbabwe: Zimbabwe will see no reason to change their line-up after their clinical performance against Hong Kong.",22,15,7,95.8209332842,0.00672968683575,0.00354852041783,0.13050824512,0.0853533830007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+738,"Vusi Sibanda, Malcolm Waller and Elton Chigumbura all came well for Zimbabwe in the opener with the bat, but they will hope that the other batters do not throw away their wickets in the manner that they did on Tuesday.",21,21,22,174.315589416,0.13050824512,0.0561297867689,0.185928591745,0.170074192257,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.0
+739,"Team: Hamilton Masakadza (c), Vusi Sibanda, Richmond Mutumbami (wk), Sean Williams, Malcolm Waller, Sikandar Raza, Elton Chigumbura, Donald Tiripano, Tinashe Panyangara, Wellington Masakadza, Tendai Chatara
+
+Scotland: Scotland could look at adding another spinner to their ranks considering the helpful wicket at Nagpur.",20,54,5,201.166533065,0.185928591745,0.0853533830007,0.0422788334734,0.0768474652934,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.0
+740,"In that case, Con de Lange, who can be effective with the bat as well, could get to play the game in favour of one of the pacers.",19,18,14,122.768937516,0.0422788334734,0.170074192257,0.174901050421,0.103717606455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+741,"Team: Kyle Coetzer, George Munsey, Calum MacLeod, Matt Machan, Richie Berrington, Preston Mommsen (c), Matthew Cross (wk), Josh Davey, Safyaan Sharif/Con de Lange, Mark Watt, Alasdair Evans.",18,43,0,133.005093229,0.174901050421,0.0768474652934,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0
+742,"What they said: 
+
+""We have to address the middle overs, where we absolutely lost it (in the game against Afghanistan).",17,14,12,91.3216196507,0.0,0.103717606455,0.022159065779,0.0221010230931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.0
+743,The opening stand was brilliant.,16,4,2,24.4447447022,0.022159065779,0.0,0.0149861444811,0.106003689651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+744,"Unfortunately, one of the openers couldn't go on to get a big one.",15,11,5,50.3193214729,0.0149861444811,0.0221010230931,0.216940088819,0.391012154089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+745,It was one that got away.,14,4,3,22.0614102401,0.216940088819,0.106003689651,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+746,"Unfortunately, we couldn't get over the line"" - Preston Mommsen.",13,11,3,40.4116831554,0.0,0.391012154089,0.0,0.0139326733001,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.0
+747,"""Wickets here are a lot different to back home.",12,7,4,39.7312870615,0.0,0.0,0.0113762167688,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+748,Need to try and spend more time at the crease.,11,6,5,43.1547740587,0.0113762167688,0.0139326733001,0.0,0.0411577898205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+749,Wasn't so easy out there.,10,3,4,22.7935096611,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+750,"Without putting pressure on ourselves - myself, Hami (Masakadza) and the rest of the senior guys have to carry the team through"" - Vusi Sibanda.",9,19,11,109.216786319,0.0,0.0411577898205,0.0,0.0423102288401,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0
+751,Did you know?,8,2,2,16.7554317777,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.023255
+752,# The 84-run stand between Kyle Coetzer and George Munsey in the last game against Afghanistan is the highest opening stand in Twenty20 Internationals in India.,7,17,10,115.361095103,0.0,0.0423102288401,0.093993781889,0.0769141665196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198615
+753,# Scotland has played most matches in WT20 without winning a single game - 5.,6,12,4,59.0903733975,0.093993781889,0.0,0.118711245983,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+754,Their record in 50-over World Cups also looks equally unimpressive - 14 losses in as many matches.,5,14,4,83.4252255954,0.118711245983,0.0769141665196,0.0393659353906,0.0974861141416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+755,# Zimbabwe will be playing their 50th T20I tomorrow and they become the 11th team to do so.,4,10,9,85.3574355738,0.0393659353906,0.0,0.106527959898,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+756,Their W/L ratio of  .,3,3,2,14.5553622482,0.106527959898,0.0974861141416,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+757,97 is only above Canada ( .,2,4,3,28.0497408164,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+758,85) and Bermuda ( .,1,5,1,15.9044776061,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+759,).,0,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

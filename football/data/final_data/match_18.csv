@@ -1,0 +1,240 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Evening all!,6.46pm,2,1,10.3222205171,0.0,0.0,0.0,0.0,0,0.01786,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live Champions League coverage continues from Camp Nou and it is a very special match as Pep Guardiola brings his Manchester City team to Barcelona in Group C. Tonight is so much more than just a football match due to the emotions involved.,6.46pm,29,18,172.554866552,0.0,0.0,0.0842057985493,0.0956854668566,0,0.248475,0,0,0,0,0,0,0,0,0,0
+2,Can Guardiola upset his former club here?,6.46pm,5,3,32.4285350544,0.0842057985493,0.0,0.0,0.0,0,0.029415,0,0,0,0,0,0,0,0,0,0
+3,Let's hope for a pulsating night of Champions League action from Spain!,6.46pm,10,4,46.7434929003,0.0,0.0956854668566,0.0,0.0138287866144,0,0.12121,0,0,0,0,0,0,0,0,0,0
+4,Tonight will be the fourth time that these two sides have clashed in European competition and Barcelona have triumphed on each occasion.,6.49pm,12,11,87.9862177486,0.0,0.0,0.088288190407,0.0546837964164,0,0.107145,0,0,0,0,0,0,0,0,0,0
+5,"Their first ever clash occurred in the round of 16 during the 2013-14 campaign and it was Barcelona that emerged 4-1 winners on aggregate, which included a 2-1 victory in this stadium after a 2-0 success in Manchester one month previous.© Getty Images",6.49pm,26,18,150.268093703,0.088288190407,0.0138287866144,0.195848896812,0.0700642318098,0,0.156915,0,1,0,0,0,0,0,0,0,0
+6,They then locked horns in the quarter-finals of the 2014-15 campaign and Barcelona recorded a 2-1 victory in Manchester before winning 1-0 at home courtesy of a sole strike from Ivan Rakitic.,6.52pm,19,14,103.303929141,0.195848896812,0.0546837964164,0.0730295359872,0.0348392900534,0,0.16556,0,1,0,0,0,0,0,0,0,0
+7,"Despite Barcelona's strong form against Man City, they have only beaten the English club by a one-goal margin in both meetings at Camp Nou.",6.52pm,17,10,91.4644879321,0.0730295359872,0.0700642318098,0.020185342591,0.0,1,0.15482,0,0,0,0,0,0,0,0,0,0
+8,Could it be third time lucky in this stadium?,6.52pm,6,4,35.4984020275,0.020185342591,0.0348392900534,0.0,0.0,0,0.08,0,0,0,0,0,0,0,0,0,0
+9,We shall find out!,6.52pm,3,2,18.3136850642,0.0,0.0,0.0,0.0,0,0.02128,0,0,0,0,0,0,0,0,0,0
+10,"Right, let me bring you up-to-speed with the all-important team news.",6.55pm,9,4,40.1626306643,0.0,0.0,0.0253734124012,0.112724455547,0,0.135715,0,0,0,0,0,0,0,0,0,0
+11,Has Lionel Messi made the Barcelona XI after returning off the bench at the weekend?,6.55pm,9,7,55.5385648981,0.0253734124012,0.0,0.0435116335176,0.0,0,0.33216,0,0,0,0,0,0,0,0,0,0
+12,Is Sergio Aguero back in the Man City team?,6.55pm,7,3,28.7058641128,0.0435116335176,0.112724455547,0.136638821311,0.0,0,0.165005,0,0,0,0,0,0,0,0,0,0
+13,Is Guardiola playing one roaming centre-back and nine forwards?,6.55pm,8,2,34.8113267849,0.136638821311,0.0,0.0,0.0,0,0.06383,0,0,0,0,0,0,0,0,0,0
+14,Let's have a look shall we...,6.55pm,5,3,22.0791563186,0.0,0.0,0.0,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+15,"TEAMS!FCB: Ter Stegen; Mascherano, Pique, Umtiti, Alba; Busquets, Iniesta, Rakitic; Neymar, Suarez, MessiCITY: Bravo; Zabaleta, Stones, Otamendi, Kolarov; Fernandinho, Gundogan; Sterling, Silva, Nolito; De Bruyne",6.58pm,49,0,123.391911117,0.0,0.0,0.0,0.18630784926,0,0.097615,0,0,0,0,0,0,0,0,0,0
+16,"Messi, as expected, returns to the Barcelona XI tonight after making his comeback from a groin injury off the bench at the weekend.",7.02pm,15,11,83.5735897989,0.0,0.0,0.0319012835277,0.16503445053,0,0.393255,0,0,0,0,0,0,0,0,0,0
+17,"The Argentine joins Luis Suarez and Neymar in the final third, while Ivan Rakitic and Andres Iniesta start in central midfield alongside Sergio Busquets.",7.02pm,19,7,102.446913349,0.0319012835277,0.18630784926,0.0362777109797,0.0130182986235,0,0.150635,0,0,0,0,0,0,0,0,0,0
+18,"There is a big call at the back though, with Sergi Roberto left out, which allows Samuel Umtiti, who is himself only just back from injury, named in the XI.",7.02pm,19,16,119.484968832,0.0362777109797,0.16503445053,0.081941127081,0.195958165037,0,0.1782,0,0,0,0,0,0,0,0,0,0
+19,Javier Mascherano will seemingly switch to right-back for the Spanish side.© SilverHub,7.02pm,8,4,42.3616773503,0.081941127081,0.0130182986235,0.0517885898338,0.0608222189168,0,0.08,0,0,0,0,0,0,0,0,0,0
+20,"The big team news comes from Man City, however, as Sergio Aguero is left on the bench for the visitors.",7.05pm,15,8,71.3806881789,0.0517885898338,0.195958165037,0.167292516684,0.0453044807895,0,0.44508,0,0,0,0,0,0,0,0,0,0
+21,"The Argentine was expected to return after starting on the bench against Everton at the weekend, but the forward fails to win a spot in the XI.",7.05pm,14,15,97.3843928088,0.167292516684,0.0608222189168,0.0457960450766,0.0540853415992,0,0.22511,0,1,0,0,0,0,0,0,0,0
+22,"As a result, Kevin de Bruyne will operate at the head of an attack which also includes former Barcelona B player Nolito.",7.05pm,16,8,85.5310167902,0.0457960450766,0.0453044807895,0.025017446599,0.0,0,0.16265,0,0,0,0,0,0,0,0,0,0
+23,"Further back, Guardiola has switched to a back four as Pablo Zabaleta and Aleksandar Kolarov line up in the full-back positions.",7.05pm,14,9,79.5414835117,0.025017446599,0.0540853415992,0.0,0.0361846568168,0,0.116375,0,0,0,0,0,0,1,0,0,0
+24,So there we have it.,7.08pm,1,5,18.5264572653,0.0,0.0,0.108405457386,0.0564809887396,0,0.04762,0,0,0,0,0,0,0,0,0,0
+25,The two teams are in and we are now just about 40 minutes from kickoff at Camp Nou.,7.08pm,8,11,67.9371259626,0.108405457386,0.0361846568168,0.0623156788503,0.0291564476414,0,0.111115,0,0,0,0,0,0,0,0,0,0
+26,"It would not be right to talk about this match without first mentioning Guardiola, who makes an emotional return to Barcelona tonight.",7.08pm,15,9,90.7380678217,0.0623156788503,0.0564809887396,0.0,0.114808224074,0,0.116805,0,0,0,0,0,0,0,0,0,0
+27,He is still regarded as a hero in these parts and indeed still has a wonderful relationship with those players that thrived under his leadership.,7.08pm,12,14,102.472424602,0.0,0.0291564476414,0.0303462585941,0.0912338428591,0,0.097225,1,0,0,0,0,0,0,0,0,0
+28,"Guardiola first joined Barcelona's youth system in 1984 and went on to represent their B team on 59 occasions, before stepping into the first team in 1990.",7.12pm,20,10,107.470270208,0.0303462585941,0.114808224074,0.254241884404,0.0437534633957,0,0.11006,0,0,0,0,0,0,0,0,0,0
+29,"He spent eleven seasons in the first team at Camp Nou before leaving in 2001, but he was back at the club in 2007 to take charge of the B team.",7.12pm,18,15,114.354857249,0.254241884404,0.0912338428591,0.0654964881414,0.103595680381,0,0.1782,0,0,0,0,0,0,0,0,0,0
+30,Then came the incedible moment of being named Barcelona's head coach in 2008.© SilverHub,7.12pm,10,5,55.7708134923,0.0654964881414,0.0437534633957,0.00591573735683,0.0,0,0.12245,0,0,0,0,0,0,0,0,0,0
+31,The 45-year-old won 14 trophies during his time at Camp Nou – including three La Liga titles and two Champions League crowns.,7.15pm,17,6,88.2239076534,0.00591573735683,0.103595680381,0.0426879781915,0.0440354164527,0,0.130645,1,0,0,0,0,0,0,0,0,0
+32,"He has since spent time with Bayern Munich, but this will always be Guardiola's home, that is for sure.",7.15pm,13,10,76.3652853199,0.0426879781915,0.0,0.172172626571,0.041312393705,0,0.09001,0,0,0,0,0,0,0,0,0,0
+33,"It is a big night for the Spaniard, who suffered a 3-0 defeat when he took his Bayern team to this stadium in the semi-finals of the 2014-15 campaign.",7.15pm,15,16,90.5770163428,0.172172626571,0.0440354164527,0.0718194658822,0.0,0,0.175245,0,0,0,0,0,0,0,0,0,0
+34,"As mentioned, Barcelona currently sit top of Group C after opening their campaign with two victories.",7.18pm,13,5,64.4220573147,0.0718194658822,0.041312393705,0.0,0.0444209596029,0,0.091595,0,0,0,0,0,0,0,0,0,0
+35,"They thumped Scottish champions Celtic 7-0 on September 13, before recording an impressive 2-1 victory at Gladbach last time out.",7.18pm,16,6,81.6090425752,0.0,0.0,0.218912524898,0.0,0,0.06557,0,0,0,0,0,0,0,0,0,0
+36,"Indeed, the Celtic result means that Barcelona have won their last 12 Champions League games at home and they are unbeaten in 17 European fixtures at Camp Nou, which is a run that stretches back to September 2013.",7.18pm,25,16,147.149145439,0.218912524898,0.0444209596029,0.15860598451,0.186024680593,0,0.156885,1,0,0,0,0,0,0,0,0,0
+37,Some run of form that!,7.18pm,3,3,19.5716542393,0.15860598451,0.0,0.0798330631846,0.0616190113623,0,0.04762,0,0,0,0,0,0,0,0,0,0
+38,"Incredibly, Barcelona have actually only lost two of their 31 European fixtures against English opposition and they dumped Arsenal out of the competition in the round of 16 last season.",7.22pm,19,13,120.138914895,0.0798330631846,0.186024680593,0.106907327921,0.0531112581942,0,0.14163,0,0,0,1,0,0,1,0,0,0
+39,This match is the start of a double-header with Man City as they prepare to travel to England at the start of next month.,7.22pm,12,13,75.7080584577,0.106907327921,0.0616190113623,0.028843726087,0.154674625279,0,0.210755,0,0,0,0,0,0,0,0,1,0
+40,"Group C's other participants Celtic and Gladbach will be watching the two results closely, that is for sure.© SilverHub",7.22pm,13,8,70.5479139291,0.028843726087,0.0531112581942,0.0560794043822,0.0552820780456,0,0.08955,0,0,1,0,0,0,0,0,0,0
+41,"In terms of recent form, Barcelona will enter this match off the back of a 4-0 win over Deportivo La Coruna in the league at the weekend.",7.25pm,16,13,93.8440045963,0.0560794043822,0.154674625279,0.0998749922914,0.121667181777,0,0.274805,0,1,0,0,0,0,0,0,0,0
+42,"That result moved Luis Enrique's side onto 16 points from eight matches, but they are actually down in fourth position in the table – two points off the leaders Atletico Madrid.",7.25pm,23,11,126.841394012,0.0998749922914,0.0552820780456,0.0884847311954,0.0530316031685,0,0.113145,0,0,0,0,0,0,1,0,0,0
+43,"This season, they have already suffered two defeats in the league (Alaves, Celta Vigo).",7.25pm,14,5,57.6229601322,0.0884847311954,0.121667181777,0.134619888321,0.10303108574,0,0.09884,0,0,0,0,0,0,0,0,0,0
+44,"Incredibly, Barcelona have won the Champions League in four of the last 11 seasons.",7.28pm,10,6,50.5128036187,0.134619888321,0.0530316031685,0.223149527734,0.247720610026,0,0.147595,1,0,0,0,0,0,0,0,0,0
+45,"No other team has won it more times in the same period, although Real Madrid have lifted the title in two of the last three campaigns.",7.28pm,14,14,102.980199501,0.223149527734,0.10303108574,0.16581610064,0.0648439582638,0,0.15242,1,0,0,0,0,0,0,0,0,0
+46,"What's more, Barcelona have reached at least the semi-finals of this competition in seven of the last nine seasons, which is a stunning record at this level of football.",7.28pm,17,16,102.328866173,0.16581610064,0.247720610026,0.0416119518618,0.0,0,0.123075,0,0,0,0,0,0,0,0,0,0
+47,"As for Man City, they have just had a wobble in recent weeks after an explosive start to the season.",7.32pm,10,12,70.2739055435,0.0416119518618,0.0648439582638,0.0501435320763,0.0735535897648,0,0.158535,0,0,0,0,0,0,0,0,0,0
+48,"They actually won their first 10 competitive matches under Guardiola, but that run ended when they drew with Celtic on matchday two.",7.32pm,14,10,94.7914583107,0.0501435320763,0.0,0.0531961319159,0.0279908804358,0,0.093335,1,0,0,0,0,0,0,0,0,0
+49,"Since then, they have lost 2-0 at Tottenham Hotspur in the Premier League and were held at home by Ronald Koeman's Everton in the league on Saturday afternoon.© SilverHub",7.32pm,18,13,111.679856477,0.0531961319159,0.0735535897648,0.195112962404,0.0315444946406,0,0.192955,0,0,0,1,0,0,0,0,0,0
+50,The 2-0 defeat to Spurs was Man City's first loss in any competition since going down 1-0 at Real Madrid in the semi-finals of the 2015-16 Champions League.,7.35pm,19,11,88.956732655,0.195112962404,0.0279908804358,0.0125439656853,0.0857618818829,0,0.17212,0,0,0,0,0,0,0,0,0,0
+51,"They have been very impressive under Guardiola this term, but a run of three games without a win is slightly concerning entering this match.",7.35pm,14,12,90.7663531474,0.0125439656853,0.0315444946406,0.100729268621,0.0580124534975,0,0.074075,0,1,0,0,0,0,0,0,0,0
+52,It is not exactly the fixture that Man City would have handpicked at this stage.,7.35pm,8,8,54.1984681173,0.100729268621,0.0857618818829,0.123019928857,0.045842710673,0,0.10291,0,0,0,0,0,0,0,0,0,0
+53,Guardiola has just told BT Sport that Aguero is not injured tonight and the decision to name the Argentine on the bench is a 'tactical decision'.,7.36pm,15,13,92.398450624,0.123019928857,0.0580124534975,0.0144118818211,0.0483844668729,0,0.16746,0,0,0,0,0,0,0,0,0,0
+54,It does seem a quite incredible call to make here!,7.36pm,6,5,41.1306991957,0.0144118818211,0.045842710673,0.029247794648,0.0193958283352,0,0.079885,0,0,0,0,0,0,0,0,0,0
+55,Man City have actually only won on two of their nine visits to Spain in European competition and they had mixed fortunes away to La Liga clubs last season.,7.38pm,18,12,116.579857662,0.029247794648,0.0483844668729,0.123359191882,0.07368633917,0,0.16761,1,0,0,0,0,0,0,0,0,0
+56,"Indeed, they won 3-1 at Sevilla in the group stage, but lost 1-0 to Real Madrid in the semi-finals.",7.38pm,13,9,57.7093829854,0.123359191882,0.0193958283352,0.0254743888018,0.0385141477415,0,0.126325,1,0,0,1,0,0,0,0,0,0
+57,"That said, regardless of what happens tonight, they will still fancy their chances of making it through this particular section.© SilverHub",7.38pm,13,10,85.3461016671,0.0254743888018,0.07368633917,0.129147779098,0.097897533874,0,0.08146,0,0,0,0,0,0,0,0,0,0
+58,They will also enter this match as the Premier League leaders having collected 19 points from their eight fixtures this term.,7.42pm,13,9,89.5707957032,0.129147779098,0.0385141477415,0.223146026892,0.0555605420844,0,0.121925,0,0,0,0,0,0,0,0,0,0
+59,"Arsenal have joined Guardiola's side on 19 points, but they are where they want to be at this stage of the campaign.",7.42pm,12,13,82.4470838291,0.223146026892,0.097897533874,0.112864800484,0.0717811569783,0,0.123675,0,0,0,0,0,0,0,0,0,0
+60,"Reaching the semi-finals of the Champions League last season was a big step in the right direction, but Guardiola was brought to the club to land the crown.",7.42pm,17,13,96.3235474556,0.112864800484,0.0555605420844,0.0502542997326,0.0327990343348,0,0.20883,0,0,0,0,0,0,0,0,0,0
+61,Here we go then - the pre-match handshakes have been undertaken and the flags have been exchanged at Camp Nou.,7.45pm,10,11,69.9005890308,0.0502542997326,0.0717811569783,0.0155275325057,0.151914059298,0,0.08593,0,0,0,0,0,0,0,0,0,0
+62,"As expected, there is a wonderful atmosphere inside the stadium for this European affair.",7.45pm,9,7,52.0279194645,0.0155275325057,0.0327990343348,0.018025115451,0.0,0,0.119485,1,0,0,0,0,0,0,0,0,0
+63,Let's just hope that the actual football lives up to all of the pre-match talk!,7.45pm,9,8,54.6482014864,0.018025115451,0.151914059298,0.0,0.0,0,0.15347,0,0,0,0,0,0,0,0,0,0
+64,KICKOFF!,0 min,2,0,5.38202663467,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+65,"A few minutes late, Man City kick things off in Spain...",0 min,9,4,38.9488190633,0.0,0.0,0.0,0.0718801116638,0,0.111825,0,0,0,0,0,0,0,0,0,0
+66,... you just get the feeling that the first goal tonight - if there indeed is one - could be crucial.,2 min,13,9,70.6903453331,0.0,0.0,0.118995614347,0.0206050204152,1,0.088235,0,0,0,0,0,0,0,0,0,0
+67,"De Bruyne has indeed started through the middle for Man City tonight, while Mascherano has slotted in at right-back for the home side.",2 min,15,10,81.4166098789,0.118995614347,0.0718801116638,0.10128930759,0.0675195162166,0,0.248125,0,0,0,0,0,0,0,0,0,0
+68,Already a bit of nervy football at the back from Barcelona here.,2 min,7,6,39.8734649161,0.10128930759,0.0206050204152,0.0498857146277,0.149213209414,0,0.1446,0,0,0,0,0,0,0,0,0,0
+69,"Neymar is allowed to drive into the Man City box after escaping the attention of Nolito, but the Brazilian cannot pick out a teammate.",3 min,14,13,91.1050976213,0.0498857146277,0.0675195162166,0.0293068306629,0.128917827504,0,0.17807,0,0,0,0,0,0,0,0,0,0
+70,Already a dangerous moment for the away side's defence.,3 min,8,3,32.2211779697,0.0293068306629,0.149213209414,0.0169515067351,0.0,0,0.142135,0,0,0,0,0,0,0,0,0,0
+71,"Silva delivers a low cross into De Bruyne as Man City threaten on the counter-attack, but Ter Stegen is on hand to claim before Messi breaks down the other end.",4 min,19,13,107.152666884,0.0169515067351,0.128917827504,0.0189126154063,0.315951583505,0,0.22237,0,0,0,0,0,0,0,0,0,0
+72,Nice lively start to this one.,4 min,5,2,25.4774588191,0.0189126154063,0.0,0.0277322592449,0.107255884555,0,0.045455,0,0,0,0,0,0,0,0,0,0
+73,Mascherano has to head behind as De Bruyne delivers a dangerous cross into the Barcelona box.,6 min,11,6,58.1022195447,0.0277322592449,0.315951583505,0.0529175027811,0.07600819716,0,0.11395,0,0,0,0,0,0,0,0,0,0
+74,"It has been a pretty good start from the visitors, who are already causing problems when they have possession of the ball.",6 min,11,13,81.3194354347,0.0529175027811,0.107255884555,0.0964600282233,0.283101684658,0,0.338095,0,0,0,0,0,0,0,0,0,0
+75,Neither side has been able to really threaten in the early minutes though.,6 min,9,5,51.5314091839,0.0964600282233,0.07600819716,0.116693470898,0.0281888136697,0,0.128605,0,0,0,0,0,0,0,0,0,0
+76,"Sterling has seen plenty of the ball inside the opening eight minutes of this match, while Man City are actually enjoying themselves at the moment as they continue to enjoy good possession in the final third.",8 min,22,16,133.783146977,0.116693470898,0.283101684658,0.0637386497276,0.0,0,0.252645,0,0,0,0,0,0,0,0,0,0
+77,"We are yet to see too much from the front three that is Messi, Suarez and Neymar here.",8 min,10,10,67.1565068258,0.0637386497276,0.0281888136697,0.0,0.0513454868282,0,0.117645,0,0,0,0,0,0,0,0,0,0
+78,BARCELONA SUB!,9 min,3,0,7.24096607008,0.0,0.0,0.0536528748232,0.0,0,0.031245,0,0,0,0,0,0,0,0,0,0
+79,"Barcelona are forced into an early change as Lucas Digne takes the place of Alba, who limps off the field.",9 min,13,9,81.8028790635,0.0536528748232,0.0513454868282,0.0,0.0609562472725,0,0.425835,0,0,0,0,0,0,0,0,0,0
+80,Might well have aggravated a previous hamstring problem!,9 min,7,2,34.2419264691,0.0,0.0,0.0,0.0,0,0.24269,0,0,0,0,0,0,0,0,0,0
+81,Man City are pressing very high at the moment and that is forcing Barcelona to concede possession inside their own half.,11 min,12,10,80.7657078762,0.0,0.0609562472725,0.103048506612,0.0,0,0.121925,0,0,0,0,0,0,0,0,0,0
+82,"It has been a positive opening 12 minutes from the visitors, but all it takes is one moment for Neymar, Messi and Suarez to burst into life.",11 min,16,14,97.0568324998,0.103048506612,0.0,0.174200057569,0.15881906868,0,0.23688,0,0,0,0,0,0,0,0,0,0
+83,Just takes a second.,11 min,3,2,12.5462340723,0.174200057569,0.0,0.0,0.0933439177971,0,0.079235,0,0,0,0,0,0,0,0,0,0
+84,Barcelona have been very low-key in the opening 13 minutes of this match.,13 min,7,7,38.1227523098,0.0,0.15881906868,0.0833506318168,0.0644841490679,0,0.180145,0,0,0,0,0,0,0,0,0,0
+85,"Not too much of an atmosphere at the moment, meanwhile, which is a reflection on a match that is just simmering here.",13 min,10,15,76.6437945984,0.0833506318168,0.0933439177971,0.0848667840191,0.0416790772037,0,0.10818,0,0,0,0,0,0,0,0,0,0
+86,It is very interesting to watch a game where both goalkeepers are not allowed to kick the ball long!,16 min,9,11,74.141910394,0.0848667840191,0.0644841490679,0.0906736845753,0.0374146046495,1,0.114285,0,0,0,0,0,0,0,0,0,0
+87,Everything is short into a defender and both have already had problems thus far tonight.,16 min,9,7,60.8273748771,0.0906736845753,0.0416790772037,0.0243109675077,0.0,0,0.08992,0,0,0,0,0,0,0,0,0,0
+88,"Man City have another chance to break with Nolito, but the Spaniard cannot squeeze a cross past Pique.",16 min,13,8,70.2599424068,0.0243109675077,0.0374146046495,0.0,0.14092178771,0,0.131705,0,0,0,0,0,0,0,0,0,0
+89,GOAL!,17 min,2,0,3.77258872224,0.0,0.0,0.0,0.0,1,0.035715,0,0,0,0,0,0,0,0,0,0
+90,Barcelona 1-0 Man City (Messi),17 min,7,0,11.0121062521,0.0,0.14092178771,0.0936548855282,0.12864251206,0,0.095085,0,0,0,0,0,0,0,0,0,0
+91,"And just like that, Barcelona take the lead.",18 min,6,4,28.360868515,0.0936548855282,0.0,0.0799682115909,0.0,0,0.170455,0,0,0,0,0,0,0,0,0,0
+92,It is a fortunate break for the home side though as Fernandinho slips inside the Barcelona box and Messi is first on the scene to tempt Bravo into a save before slipping the ball past his former teammate.,18 min,22,17,135.698879656,0.0799682115909,0.12864251206,0.0280157802809,0.068942797001,0,0.22675,0,0,0,0,0,0,0,0,0,0
+93,Big blow for Man City at this stage!,18 min,6,3,28.3597072434,0.0280157802809,0.0,0.0940357187922,0.0,0,0.093305,0,0,0,0,0,0,0,0,0,0
+94,Man City have played very well in the early exchanges of this match and it is important that their heads do not drop after conceding that unfortunate opening goal.,21 min,15,15,112.077405627,0.0940357187922,0.068942797001,0.172223002021,0.114365759155,1,0.15896,0,0,0,0,0,0,0,0,0,0
+95,"The problem, though, is that another Barcelona goal could mean game, set and match.",21 min,14,4,55.264196949,0.172223002021,0.0,0.034595769448,0.0458630513349,1,0.09524,0,0,0,0,0,0,0,0,0,0
+96,It is very delicately poised at Camp Nou.,21 min,5,4,32.2435381515,0.034595769448,0.114365759155,0.022119365842,0.042879499442,0,0.108275,0,0,0,0,0,0,0,0,0,0
+97,"More danger for Man City as Suarez finds himself free in a wide position before delivering into Messi, but the visitors get bodies in the way and Suarez is eventually flagged offside.",22 min,20,14,123.265590593,0.022119365842,0.0458630513349,0.0544099862322,0.0357114912584,0,0.180545,0,0,0,0,0,0,1,0,0,1
+98,It has been a busy last couple of minutes for the referee as late challenges continue to occur all over the park.,24 min,11,12,81.9494427053,0.0544099862322,0.042879499442,0.0401439288901,0.110880832682,0,0.14286,0,0,0,0,0,0,0,0,0,0
+99,"Indeed, Zabaleta is fortunate to escape a booking for what was a rash challenge on Neymar.",24 min,10,8,56.7677505322,0.0401439288901,0.0357114912584,0.0,0.0155703661643,0,0.129415,0,0,0,0,0,0,0,0,0,0
+100,"Barcelona might be ahead, but they have not exactly been impressive in the opening 26 minutes of this match.",26 min,11,10,68.7237387871,0.0,0.110880832682,0.14538020664,0.156627239539,0,0.15662,0,0,0,0,0,0,0,0,0,0
+101,"In fact, I am struggling to think of the last time that they were this sloppy in the final third of the field.",26 min,11,14,79.8575622091,0.14538020664,0.0155703661643,0.0486465075633,0.0325720194967,0,0.19922,0,0,0,0,0,0,0,0,0,0
+102,"Man City continue to impress, but they have not created a serious chance here.",26 min,9,7,50.043328539,0.0486465075633,0.156627239539,0.0174258504308,0.173367827954,0,0.11845,0,0,0,0,0,0,0,0,0,0
+103,"Silva is the latest player to escape a booking for a late challenge on Pique, which was late and from behind.",28 min,12,11,73.001526316,0.0174258504308,0.0325720194967,0.0878958077617,0.285872335566,0,0.16983,0,0,0,0,0,0,0,0,0,0
+104,"Not quite sure how that was not a yellow card, but the referee was not interested.",28 min,8,10,61.4275018362,0.0878958077617,0.173367827954,0.0338241655724,0.0333051306566,0,0.09375,0,0,0,0,0,0,0,0,0,0
+105,Pique is still down following that terrible challenge from Silva.,29 min,7,4,41.2144535917,0.0338241655724,0.285872335566,0.111432598162,0.0888475033892,0,0.10115,0,1,0,0,0,0,0,0,0,0
+106,"Pique is trying to run the injury off, but Mathieu has been sent to warm-up.",30 min,9,8,51.1654370655,0.111432598162,0.0333051306566,0.00968102767235,0.0,0,0.15625,0,0,0,0,0,0,0,0,0,0
+107,Surely the next late challenge will see a yellow card awarded.,30 min,9,3,44.7053276082,0.00968102767235,0.0888475033892,0.0,0.0,0,0.083335,0,0,0,0,0,0,0,0,0,0
+108,Man City could have had a couple of bookings here.,30 min,6,5,33.7636789503,0.0,0.0,0.0,0.053744072363,0,0.11472,0,0,0,0,0,0,0,0,0,0
+109,SAVE!,31 min,2,0,3.84158159373,0.0,0.0,0.0,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+110,"Super goalkeeping from Bravo as the Man City stopper comes out to deny Neymar, who looked favourite to meet a pass from Umtiti.",31 min,16,9,90.0372901009,0.0,0.053744072363,0.218343194446,0.0,1,0.186555,0,0,0,0,0,0,0,0,0,0
+111,Strong goalkeeping from the Chilean.,31 min,4,2,20.7728061673,0.218343194446,0.0,0.0,0.0669785835171,1,0.123475,0,0,0,0,0,0,0,0,0,0
+112,CHANCE!,32 min,2,0,4.68887945411,0.0,0.0,0.0,0.0,0,0.02,0,0,0,0,0,0,0,0,0,0
+113,Rakitic heads a Messi free kick wide of the post from close range!,32 min,10,4,47.5431152786,0.0,0.0669785835171,0.0357043174577,0.0,0,0.393015,0,0,1,0,0,0,0,0,0,0
+114,It must be said that the opening 34 minutes of this match have just flown past.,34 min,9,8,60.6404742539,0.0357043174577,0.0,0.0306376767717,0.0516165519454,0,0.19771,0,0,0,0,0,0,0,0,0,0
+115,"Barcelona lead, but clear chances have been few and far between.",34 min,7,6,44.9147074156,0.0306376767717,0.0,0.0,0.0,0,0.1,0,0,0,0,0,0,0,0,0,0
+116,The home side might well be forced into another change here as Mathieu receives some instructions.,34 min,11,6,66.7658898299,0.0,0.0516165519454,0.0549026705072,0.0574576835131,0,0.24479,0,0,0,0,0,0,0,0,0,0
+117,Pique does not look capable of continuing here.,34 min,5,4,36.2698027256,0.0549026705072,0.0,0.0,0.0,0,0.047615,0,0,0,0,0,0,0,0,0,0
+118,"Zabaleta flies into Suarez, but still no booking!",35 min,7,3,34.1604819841,0.0,0.0574576835131,0.0,0.0,0,0.035715,0,0,0,0,0,0,0,0,0,0
+119,Busquets has something to say to the referee and it must be said that the Argentine has got away with another one there.,35 min,12,12,88.5292099257,0.0,0.0,0.106550390221,0.0559735515295,0,0.153845,0,0,0,0,0,0,0,0,0,0
+120,Very lenient referee here.,35 min,3,2,17.4974777909,0.106550390221,0.0,0.0,0.0,0,0.01887,0,0,0,0,0,0,0,0,0,0
+121,"De Bruyne finds space in a wide position before attempting to thread a low cross into the box, but Ter Stegen is on hand to claim.",38 min,17,11,96.0501980512,0.0,0.0559735515295,0.0273986184235,0.110845549292,0,0.169565,0,0,0,0,0,0,1,0,0,0
+122,Surely Guardiola will be thinking about Aguero in the second period.,38 min,7,5,42.582844629,0.0273986184235,0.0,0.0102304704231,0.0,0,0.13978,0,0,0,0,0,0,0,0,0,0
+123,"Moments later, Nolito breaks down the other side and brings a decent stop from Ter Stegen.",38 min,12,6,63.5443718524,0.0102304704231,0.110845549292,0.0,0.174345176389,0,0.18763,0,0,0,0,0,0,0,0,0,0
+124,SAVE!,39 min,2,0,3.84158159373,0.0,0.0,0.259160092519,0.237213044339,0,0.02273,0,0,0,0,0,0,0,0,0,0
+125,Stunning save from Ter Stegen to keep out Gundogan's close-range effort.,39 min,10,3,40.9363231096,0.259160092519,0.174345176389,0.0614761545176,0.0,0,0.180555,0,0,1,0,0,0,0,0,0,0
+126,"The German broke into the Barcelona box, but was denied by a really brilliant save.",39 min,10,7,56.4780403949,0.0614761545176,0.237213044339,0.0640142376021,0.0841945047471,0,0.176165,0,0,0,0,0,0,0,0,0,0
+127,BARCELONA SUB!,39 min,3,0,7.24096607008,0.0640142376021,0.0,0.0795887217126,0.0766556765896,0,0.031245,0,0,0,0,0,0,0,0,0,0
+128,Barcelona are forced into another change as Mathieu replaces Pique.,39 min,8,3,40.2729828023,0.0795887217126,0.0841945047471,0.166580717782,0.0,0,0.184485,0,0,0,0,0,0,0,0,0,0
+129,Second enforced change in the Barcelona back four in this opening period.,39 min,9,4,42.9207622512,0.166580717782,0.0766556765896,0.0,0.0,0,0.148655,0,0,0,0,0,0,0,0,0,0
+130,BOOKING!,40 min,2,0,4.53472877429,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+131,Fernandinho (Man City) is booked for a late challenge on Neymar.,40 min,10,4,35.9193681537,0.0,0.0,0.0,0.0672114288172,0,0.14674,0,0,0,0,0,0,0,0,0,0
+132,"Well, this has been a very strange first period.",43 min,6,5,30.8919505688,0.0,0.0,0.0632663416305,0.0594173888165,0,0.08534,0,0,0,0,0,0,0,0,0,0
+133,"Barcelona have actually been quite poor, but they lead due to Man City's struggles in the final third of the field.",43 min,15,9,71.8489436781,0.0632663416305,0.0672114288172,0.0356217697043,0.0245724522568,0,0.249085,0,0,0,0,0,0,0,0,0,0
+134,"Neither team has produced their best performance in the opening 43 minutes, that is for sure.",43 min,11,7,62.8818992433,0.0356217697043,0.0594173888165,0.0515513215303,0.025640071784,0,0.12406,0,0,0,0,0,0,0,0,0,0
+135,Let's hope for improvement after the break.,43 min,6,3,28.1889065695,0.0515513215303,0.0245724522568,0.0933133514341,0.0178881715269,0,0.07273,0,0,0,0,0,0,0,0,0,0
+136,"Gundogan attempts to pick out the far post after collecting a short corner from Nolito, but the German's effort lands on the top of the net.",44 min,17,12,99.6414566539,0.0933133514341,0.025640071784,0.0367196150221,0.0,0,0.20084,0,0,0,0,0,0,0,0,0,0
+137,The quality in this first half has been poor!,44 min,5,5,32.6860953683,0.0367196150221,0.0178881715269,0.0,0.019895746767,0,0.08836,0,0,0,0,0,0,0,0,0,0
+138,CHANCE!,45 min,2,0,4.68887945411,0.0,0.0,0.23159821209,0.0,0,0.02,0,0,0,0,0,0,0,0,0,0
+139,"Super chance for Stones as the England centre-back meets a brilliant free kick from Silva, but his header is wide of the post.",45 min,15,10,83.1257107245,0.23159821209,0.019895746767,0.113815661071,0.0,0,0.22381,0,0,0,0,0,0,0,0,1,0
+140,He just had to find the back of the net there!,45 min,4,8,37.6664535036,0.113815661071,0.0,0.0,0.0832237562417,0,0.242695,0,0,0,0,0,0,0,0,0,0
+141,SAVE!,45 min+1,2,0,3.84158159373,0.0,0.0,0.168085953088,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+142,"Barcelona break down the other end and Bravo has to produce a double save to keep out Suarez, first using his leg before punching the ball over the crossbar!",45 min+1,17,14,111.753158942,0.168085953088,0.0832237562417,0.0316952120744,0.0,0,0.26147,0,0,0,0,0,0,0,0,0,0
+143,HALF-TIME: Barcelona 1-0 Man City,45 min+3,6,0,7.52719960231,0.0316952120744,0.0,0.0,0.0353494026262,0,0.09199,0,0,0,0,0,0,0,0,0,0
+144,So there we have it.,8.35pm,1,5,18.5264572653,0.0,0.0,0.0,0.0546189052976,0,0.04762,0,0,0,0,0,0,0,0,0,0
+145,The referee brings the first period to a close with Barcelona leading 1-0 at the interval courtesy of a strike from Messi in the 17th minute of action.,8.35pm,16,13,90.1488483469,0.0,0.0353494026262,0.145731432468,0.205990749907,0,0.263645,0,0,1,0,0,0,0,0,0,0
+146,"The home side, however, have actually been very disappointing in the final third of the field.",8.35pm,11,8,54.4502877824,0.145731432468,0.0546189052976,0.177030025235,0.0333539627686,0,0.21157,0,0,0,0,0,0,0,0,0,0
+147,"The same can be said for Man City, although they did come to life in the final moments of the first period.",8.35pm,12,12,79.7235549755,0.177030025235,0.205990749907,0.0880340615152,0.0,0,0.29524,0,0,0,0,0,0,0,0,0,0
+148,Still all to play for in this one!,8.35pm,4,5,28.4011991051,0.0880340615152,0.0333539627686,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+149,STATISTICS!,8.40pm,2,0,5.78749174278,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+150,"Barcelona have only just shaded the possession with 53%, while they have hit the target with two of their three attempts.",8.40pm,12,12,80.3897590501,0.0,0.0,0.307544585671,0.138072992544,0,0.10417,0,0,0,0,0,0,0,0,0,0
+151,"Man City, meanwhile, have managed seven attempts - three of which were on target.",8.40pm,12,5,53.5358787916,0.307544585671,0.0,0.0302845191518,0.0,0,0.10733,0,0,0,0,0,0,0,0,0,0
+152,Two yellow cards to report and they have both come for the visitors here.,8.40pm,7,8,52.0400642437,0.0302845191518,0.138072992544,0.0,0.138505479938,0,0.135705,0,0,0,0,0,0,0,0,0,0
+153,BENCH WATCH!,8.45pm,3,0,9.78322401634,0.0,0.0,0.0,0.164999157007,0,0.020835,0,0,0,0,0,0,0,0,0,0
+154,"Barcelona have already been forced into two defensive changes tonight - Digne and Mathieu replacing Pique and Alba, which is a big blow for the home side.",8.45pm,19,10,96.850571992,0.0,0.138505479938,0.0714601176158,0.0569747842631,0,0.251775,0,0,0,0,0,0,0,0,0,0
+155,"Rafinha, Gomes, Alcacer and Turan, however, remain on the bench for the Spanish champions.",8.45pm,14,5,58.7532837824,0.0714601176158,0.164999157007,0.0346442476465,0.0231718456904,0,0.134475,0,0,0,0,0,0,0,0,0,0
+156,"Man City, meanwhile, have a certain Aguero in reserve and it would be very surprising not to see him in the second period.",8.45pm,14,12,82.4068582629,0.0346442476465,0.0569747842631,0.034126460821,0.0,0,0.201685,0,0,0,0,0,0,0,0,0,0
+157,"At the break Barça lead 1-0 thanks a to goal from Leo Messi after 17 minutes - Jordi Alba and Piqué both replaced due to injury #FCBCity pic.twitter.com/RCrwGvCHNG— FC Barcelona (@FCBarcelona) October 19, 2016",8.50pm,30,9,122.239532951,0.034126460821,0.0231718456904,0.0,0.0238498850592,1,0.147995,0,0,0,0,0,0,0,0,0,0
+158,RESTART!,46 min,2,0,5.78749174278,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+159,Barcelona resume the action on home soil here...,46 min,6,3,31.2091802838,0.0,0.0238498850592,0.0121632023198,0.012194845535,0,0.078945,0,0,0,0,0,0,0,0,0,0
+160,"... no changes from either side at the interval, which is not too much of a surprise.",47 min,9,10,59.7024004798,0.0121632023198,0.0,0.0408929392488,0.0,0,0.13731,0,0,0,0,0,0,0,0,0,0
+161,"However, you suspect that Aguero will feature at some point in the second period.",47 min,9,7,57.7503654286,0.0408929392488,0.012194845535,0.0,0.020443554357,0,0.132815,0,0,0,0,0,0,0,0,0,0
+162,Big 45 minutes coming up!,47 min,5,1,23.6957116989,0.0,0.0,0.0,0.0,0,0.076925,0,0,0,0,0,0,0,0,0,0
+163,"Super cross from De Bruyne as the Belgian attacker finds space down the right before delivering, but Mascherano is on hand to make the clearance.",49 min,16,11,98.1888335211,0.0,0.020443554357,0.152277839424,0.0754334948127,0,0.171645,0,0,0,0,0,0,0,0,0,0
+164,"Moments later, De Bruyne stings the palms of Ter Stegen as Barcelona are fast asleep at the back.",49 min,14,6,71.083561688,0.152277839424,0.0,0.0217561292773,0.0176889303239,0,0.38799,0,0,0,0,0,0,0,0,0,0
+165,It has has to be better from the home side.,49 min,4,7,32.9831143459,0.0217561292773,0.0754334948127,0.0807872258576,0.00975622398856,0,0.195515,0,0,0,0,0,0,0,0,0,0
+166,The next goal in this match - if there indeed is one - will be massive.,51 min,9,8,52.4857341197,0.0807872258576,0.0176889303239,0.00793234697947,0.0871159754097,1,0.09881,0,0,0,0,0,0,0,0,0,0
+167,"A second for Barcelona would make things very difficult for Man City, but an equaliser and the visitors might well fancy a shock win.",51 min,17,9,87.6690585104,0.00793234697947,0.00975622398856,0.0674894282848,0.0,0,0.16983,0,1,0,0,0,0,0,0,0,0
+168,"We have seen little from Neymar tonight, but there is still plenty of time for him to shine.",51 min,10,10,69.0445569405,0.0674894282848,0.0871159754097,0.0,0.0449675501447,0,0.106725,0,0,0,0,0,0,0,0,0,0
+169,CLOSE!,52 min,2,0,4.40119738166,0.0,0.0,0.0,0.0,0,0.035715,0,0,1,0,0,0,0,0,0,0
+170,Umtiti heads just wide of the Man City goal after a good run and connection from the French defender.,52 min,12,8,67.5135331045,0.0,0.0449675501447,0.0868070813867,0.0,1,0.1749,0,0,0,0,0,0,0,0,0,0
+171,First sign of life from Barcelona in the second period here.,52 min,7,5,37.261995543,0.0868070813867,0.0,0.0,0.0,0,0.169385,0,0,0,0,0,0,0,0,0,0
+172,RED CARD!,53 min,3,0,9.96554557313,0.0,0.0,0.0,0.0,0,0.054235,0,0,0,0,0,0,0,0,0,0
+173,BRAVO!,53 min,2,0,4.28341434601,0.0,0.0,0.0,0.393592268588,0,0.020835,0,0,0,0,0,0,0,0,0,0
+174,Oh my word!,54 min,3,1,17.3624752283,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+175,Bravo has just been sent off for Man City!,54 min,5,5,31.7899586096,0.0,0.393592268588,0.0,0.0843028078363,0,0.10847,0,0,0,0,0,0,0,0,0,0
+176,The referee had no option.,54 min,3,3,20.5804342746,0.0,0.0,0.0358541396229,0.134327119007,0,0.04762,0,0,0,0,0,0,0,0,0,0
+177,"Bravo came out and cleared the ball straight to Suarez, before hand-balling the striker's effort outside the penalty box.",54 min,15,7,72.1345824916,0.0358541396229,0.0843028078363,0.0354664485957,0.0612261671989,0,0.268495,0,0,0,0,0,1,0,0,0,0
+178,"It is tough to take, but he had to go there.",54 min,5,8,41.1285615171,0.0354664485957,0.134327119007,0.0,0.113981393407,0,0.18815,0,0,0,0,0,0,0,0,0,0
+179,Stoppage in play here as Zabaleta hits the deck and the stretcher has been called.,55 min,8,8,59.4144006612,0.0,0.0612261671989,0.115485109734,0.0339842037562,0,0.09836,0,0,0,0,0,0,0,0,0,0
+180,Zabaleta took a late challenge from Digne and he dropped to the field some two minutes after the initial incident.,56 min,12,9,75.0206359446,0.115485109734,0.113981393407,0.0610605470368,0.0,0,0.18661,0,0,0,0,0,0,0,0,0,0
+181,Man City are going to be forced into two changes as they still need a goalkeeper!,56 min,10,7,57.5270306598,0.0610605470368,0.0339842037562,0.125809268564,0.0,1,0.17589,0,0,0,0,0,0,0,0,0,0
+182,MAN CITY SUBS!,57 min,4,0,10.9449262859,0.125809268564,0.0,0.0,0.139469547552,0,0.08262,0,0,0,0,0,0,0,0,0,0
+183,Caballero and Clichy replace Nolito and Zabaleta for the away side.,57 min,8,4,41.8353164407,0.0,0.0,0.0121247590505,0.0,0,0.133335,0,0,0,0,0,0,0,0,0,0
+184,"Eventually, Messi curls the resulting free kick over Man City's goal.",58 min,12,2,43.9983093674,0.0121247590505,0.139469547552,0.0,0.0592132558507,1,0.102565,0,0,0,0,0,0,0,0,0,0
+185,"Well, that was a crazy few minutes!",60 min,5,4,25.4758702564,0.0,0.0,0.0638001885807,0.0,0,0.15111,0,0,0,0,0,0,0,0,0,0
+186,Barcelona still lead 1-0 and they are now playing against the 10 men of Man City after Bravo was sent from the field for handling a Suarez effort outside his box.,60 min,18,14,111.200192561,0.0638001885807,0.0592132558507,0.0535042194022,0.0,0,0.245575,0,0,0,0,0,0,0,0,0,0
+187,It is going to be very tough for the visitors to turn things around from this position.,60 min,8,10,62.9714295031,0.0535042194022,0.0,0.0,0.0,0,0.183775,0,0,0,0,0,0,1,0,0,0
+188,GOAL!,61 min,2,0,3.77258872224,0.0,0.0,0.0,0.180628648819,1,0.035715,0,0,0,0,0,0,0,0,0,0
+189,Barcelona 2-0 Man City (Messi),61 min,7,0,11.0121062521,0.0,0.0,0.266838695263,0.189075409693,0,0.095085,0,0,0,0,0,0,0,0,0,0
+190,"Barcelona have a killer second goal at Camp Nou as Iniesta feeds Messi and the Argentine, from just inside the Man City box, curls one into the bottom corner.",62 min,21,11,102.68775313,0.266838695263,0.180628648819,0.0806581387936,0.0631487679056,1,0.26494,0,0,0,0,0,0,0,0,0,0
+191,Super finish from Messi once again.,62 min,4,3,27.4217804055,0.0806581387936,0.189075409693,0.0,0.0340419211819,0,0.09091,0,0,0,0,0,0,0,0,0,0
+192,"This could get ugly for Man City in the final 25 minutes, which is the last thing that they need after an impressive first-half performance.",64 min,16,11,90.9062170872,0.0,0.0631487679056,0.0602417533902,0.0219799599627,0,0.17521,0,0,0,0,0,0,0,0,0,0
+193,"Barcelona have been far from their best tonight, but they lead 2-0 and are well on course to a third win in this particular section.",64 min,14,13,85.29733514,0.0602417533902,0.0340419211819,0.0622193275451,0.0,0,0.120365,0,1,0,0,0,0,0,0,0,0
+194,The hosts are now comfortable.,64 min,3,3,21.4071128478,0.0622193275451,0.0219799599627,0.0,0.0,0,0.04762,0,0,0,0,0,0,0,0,0,0
+195,SAVE!,65 min,2,0,3.84158159373,0.0,0.0,0.256148869996,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+196,De Bruyne forces a smart save from Ter Stegen as Man City hit back.,65 min,12,3,52.1771158773,0.256148869996,0.0,0.0,0.0,0,0.26699,0,0,0,0,0,0,0,0,0,0
+197,Clichy handles and Barcelona have a free kick in a dangerous area here...,66 min,8,6,43.9386514414,0.0,0.0,0.149547752241,0.0690965510198,0,0.09892,0,0,0,0,0,0,0,0,0,0
+198,... Clichy heads behind under no pressure.,66 min,6,2,30.4074623432,0.149547752241,0.0,0.0,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+199,Little over 20 minutes of football remaining and Man City have started to offer a threat in the last few minutes.,68 min,13,9,77.9719964826,0.0,0.0690965510198,0.0344733439228,0.0,0,0.18528,0,0,0,0,0,0,0,0,0,0
+200,It will be very interesting to see whether Aguero is introduced in the latter stages or whether he is saved for the Premier League clash with Southampton at the weekend.,68 min,15,16,121.64918085,0.0344733439228,0.0,0.0,0.0,0,0.18048,0,0,0,0,0,0,0,0,0,0
+201,GOAL!,69 min,2,0,3.77258872224,0.0,0.0,0.0,0.0,1,0.035715,0,0,0,0,0,0,0,0,0,0
+202,Barcelona 3-0 Man City (Messi),69 min,7,0,11.0121062521,0.0,0.0,0.100546540154,0.0,0,0.095085,0,0,0,0,0,0,0,0,0,0
+203,"Hat-trick for Messi as Suarez makes use of a poor pass from Gundogan before squaring for the Argentine, who finishes from close range.",70 min,15,10,84.6844722344,0.100546540154,0.0,0.0749391101123,0.0,0,0.22379,0,0,1,0,0,0,0,0,0,0
+204,Three of the best for this sensational talent once again.,70 min,5,6,41.4132197321,0.0749391101123,0.0,0.0,0.0453800145662,0,0.105895,0,0,0,0,0,0,0,0,0,0
+205,BOOKING!,71 min,2,0,4.53472877429,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+206,Mathieu (Barcelona) is booked for a late challenge on Sterling.,71 min,9,4,33.3548422211,0.0,0.0453800145662,0.0,0.0405292906563,0,0.160175,0,0,0,0,0,0,0,0,0,0
+207,SAVE!,72 min,2,0,3.84158159373,0.0,0.0,0.0,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+208,Ter Stegen is down to keep out Kolarov's low free kick.,72 min,9,4,44.5418577472,0.0,0.0405292906563,0.0,0.0,0,0.11046,0,0,0,0,0,0,0,0,0,0
+209,RED CARD!,73 min,3,0,9.96554557313,0.0,0.0,0.0,0.0,0,0.054235,0,0,0,0,0,0,0,0,0,0
+210,MATHIEU!,73 min,2,0,4.40119738166,0.0,0.0,0.227396556223,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+211,Barcelona are now down to 10 men as Mathieu picks up his second yellow for lunging into a tackle with Sterling.,74 min,11,11,83.7415223407,0.227396556223,0.0,0.0,0.0620276209425,0,0.27547,0,0,0,0,0,0,0,0,0,0
+212,Not sure what the centre-back was thinking in that moment!,74 min,5,6,33.2228600559,0.0,0.0,0.0969233637311,0.045463379134,0,0.11111,0,0,0,0,0,0,0,0,0,0
+213,"Not too much happened in the first period, but we have had two goals and two red cards in the second and we are far from finished here.",76 min,14,16,104.077916651,0.0969233637311,0.0620276209425,0.159727715939,0.0,1,0.199225,0,0,0,0,0,0,0,0,0,0
+214,"Barcelona sense more goals as they continue to commit players in the final third of the field, but Man City are threatening on the counter-attack.",76 min,15,12,84.714186643,0.159727715939,0.045463379134,0.107207993074,0.0326590798677,1,0.21956,0,0,0,0,0,0,0,0,0,0
+215,MAN CITY SUB!,79 min,4,0,10.0286355541,0.107207993074,0.0,0.0,0.719850482544,0,0.08262,0,0,0,0,0,0,0,0,0,0
+216,Aguero replaces Gundogan for the away side.,79 min,6,2,26.4700538711,0.0,0.0326590798677,0.0,0.283619435505,0,0.116415,0,0,0,0,0,0,0,0,0,0
+217,BARCELONA SUB!,80 min,3,0,7.24096607008,0.0,0.719850482544,0.092713498033,0.0,0,0.031245,0,0,0,0,0,0,0,0,0,0
+218,Andre Gomes replaces Iniesta for Barcelona.,80 min,6,1,26.2012782992,0.092713498033,0.283619435505,0.0,0.0553434209119,0,0.0709,0,0,0,0,0,0,0,0,0,0
+219,"Man City have had plenty of good moments in this match, but have just been unable to find that pass in the final third of the field.",82 min,14,15,92.0614026986,0.0,0.0,0.130258054505,0.0,0,0.23067,0,0,0,0,0,0,0,0,0,0
+220,There have been some positives for the visitors though.,82 min,4,6,33.4980728455,0.130258054505,0.0553434209119,0.0,0.0124426014729,0,0.140485,0,0,0,0,0,0,0,0,0,0
+221,SAVE!,83 min,2,0,3.84158159373,0.0,0.0,0.241547271533,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+222,Rakitic finds Neymar with a super cross and Caballero has to get down to make the save.,83 min,10,8,59.9915483555,0.241547271533,0.0124426014729,0.268966434472,0.0,0,0.151515,0,0,0,0,0,0,0,0,0,0
+223,"It was a wonderful cross and indeed run from Neymar, but Caballero made the stop.",83 min,10,7,54.0083761491,0.268966434472,0.0,0.0,0.011069684516,0,0.20346,1,0,0,0,0,0,0,0,0,0
+224,PENALTY BARCELONA!,86 min,3,0,7.46410962139,0.0,0.0,0.402169775699,0.0,0,0.055555,0,0,0,0,0,1,0,0,0,0
+225,Barcelona have a penalty as Kolarov brings Messi to the deck with a poor challenge.,87 min,9,7,47.8168007938,0.402169775699,0.011069684516,0.0,0.0258798706369,0,0.28298,0,0,0,0,0,1,0,0,0,0
+226,SAVE!,87 min,2,0,3.84158159373,0.0,0.0,0.0,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+227,Caballero gets down to keep out Neymar's spot kick.,87 min,8,3,38.3940245,0.0,0.0258798706369,0.0,0.188660375018,0,0.115385,0,0,0,0,0,0,0,0,0,0
+228,GOAL!,89 min,2,0,3.77258872224,0.0,0.0,0.0,0.195090482979,1,0.035715,0,0,0,0,0,0,0,0,0,0
+229,Barcelona 4-0 Man City (Neymar),89 min,7,0,11.2997883246,0.0,0.188660375018,0.247291345568,0.0,0,0.112145,0,0,0,0,0,0,0,0,0,0
+230,Neymar gets his goal as the Brazilian combines with Messi inside the Man City box before finishing past Caballero from close range.,90 min,16,7,86.1197065992,0.247291345568,0.195090482979,0.0678306228113,0.0207158973344,1,0.372555,0,0,1,0,0,0,0,0,0,0
+231,Not sure about the defending from the away side though.,90 min,6,5,37.0485749284,0.0678306228113,0.0,0.031709284992,0.0,0,0.135715,0,0,0,0,0,0,0,0,0,0
+232,We are into the second of two additional minutes here.,90 min+2,5,6,35.2105171166,0.031709284992,0.0207158973344,0.0,0.0,0,0.185065,0,0,0,0,0,0,0,0,0,0
+233,BOOKING!,90 min+3,2,0,4.53472877429,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+234,Sterling (Man City) is booked for a late challenge on Digne.,90 min+3,10,4,36.6125153343,0.0,0.0,0.137050881187,0.0,0,0.14674,0,0,0,0,0,0,0,0,0,0
+235,FULL-TIME: Barcelona 4-0 Man City,90 min+4,6,0,7.52719960231,0.137050881187,0.0,0.0,0.0317994644012,0,0.109685,0,0,0,0,0,0,0,0,0,0
+236,So there we have it.,9.41pm,1,5,18.5264572653,0.0,0.0,0.0,0.061005985662,0,0.04762,0,0,0,0,0,0,0,0,0,0
+237,The referee brings the second period to a close with Barcelona running out 4-0 winners on the night to move onto nine points in Group C. What a strange game!,9.41pm,19,12,102.566133851,0.0,0.0317994644012,0.0401102254387,0.0,0,0.177805,0,1,1,0,0,0,0,0,0,0
+238,"That is just about it from me tonight, but be sure to stick around for the reaction from tonight's matches!",9.41pm,10,13,74.4936609792,0.0401102254387,0.061005985662,0.0,0.0,0,0.135135,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,748 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,"So, there was no Gaylestorm in Bengaluru.",730,4,5,31.0359560293,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+1,"However, West Indies showed that they can win games even without Gayle's contribution.",729,13,3,67.7824367219,0.0,0.0,0.0409652736909,0.0371778577377,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+2,"Sri Lanka, on the other hand, have to sort out their batting woes if they have to qualify for the knockout stages.",728,12,13,95.4716578049,0.0409652736909,0.0,0.0376445985695,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18226
+3,"On that note, it is time to take leave.",727,6,5,37.4851833731,0.0376445985695,0.0371778577377,0.0668502018888,0.0174129387806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+4,It is a single-header tomorrow - Australia vs. Bangladesh.,726,7,3,26.1138565162,0.0668502018888,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+5,Don't forget to tune in.,725,4,3,23.9157509889,0.0,0.0174129387806,0.0,0.0531735643796,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+6,"For now, good night and take care!Mathews: ""I thought we were  .",724,11,6,53.1967130706,0.0,0.0,0.161205264231,0.0557995430742,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+7,0 runs short and were horrible in the field.,723,6,4,32.819569742,0.161205264231,0.0531735643796,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+8,"If we had taken our chances, it would have been a close game.",722,7,8,59.3776865246,0.0,0.0557995430742,0.0876563479093,0.0577183128091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+9,"Unfortunately, we did not.",721,3,3,21.0884405354,0.0876563479093,0.0,0.0941668633931,0.100798144167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03333
+10,"In the middle order, we kept losing wicket after wicket.",720,8,4,45.9660164397,0.0941668633931,0.0577183128091,0.198273677221,0.115030492949,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.174975
+11,It was really difficult and we started to reassess the wicket.,719,6,6,45.3725082489,0.198273677221,0.100798144167,0.143839057439,0.117144405348,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+12,We wanted to get  .,718,3,2,16.4990187064,0.143839057439,0.115030492949,0.203026038975,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+13,", but we fell short.",717,4,2,17.889894977,0.203026038975,0.117144405348,0.0,0.122898669623,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+14,Winning an ICC tournament is always special.,716,6,2,38.6582760962,0.0,0.0,0.0911437600173,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+15,We have quite an inexperienced team compared to  .,715,5,4,39.0332627757,0.0911437600173,0.122898669623,0.0,0.072216405143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05714
+16,", the seniors are doing their job by teaching the youngsters.",714,6,6,49.8034102292,0.0,0.0,0.0,0.0245368189025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+17,"""Sammy: ""We always had some close battles with Sri Lanka.",713,10,4,48.8627334263,0.0,0.072216405143,0.0397067134456,0.0440951180387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+18,"The record in World Cups is not good for us, but it was good to see the way we came out and bowled, restricted them to a total that almost became competitive.",712,18,17,131.991278379,0.0397067134456,0.0245368189025,0.10282933677,0.22946854614,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+19,"Fletcher coming in for his first game was just brilliant, I am happy with the way he batted.",711,10,10,73.00655376,0.10282933677,0.0440951180387,0.127478708257,0.347141959954,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+20,"He was picked in the original squad, but was left out because of Charles's form, but today he came good.",710,13,11,86.8765493709,0.127478708257,0.22946854614,0.0,0.0810059498998,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+21,I am really happy for him.,709,3,4,25.6879007135,0.0,0.347141959954,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+22,"Look at the games played at Nagpur and here today, the spinners seem to be the only ones getting the wickets.",708,12,11,91.8577524067,0.0,0.0810059498998,0.195150378136,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12766
+23,"My spinners, Badree and Benn bowled in the powerplay and came back and continued to take wickets, especially Badree who came back to pick three wickets.",707,20,9,115.848531988,0.195150378136,0.0,0.0,0.0158913165126,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.135135
+24,This World Cup is very special.,706,4,3,28.5166801793,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+25,"We had a few difficulties before the tournament, but we are here to win it.",705,5,12,61.7639764125,0.0,0.0158913165126,0.0,0.152990190137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+26,Hope so (talking about Gayle's injury).,704,8,2,33.3896298055,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+27,We showed that it was not a one man show.,703,5,6,39.3332303484,0.0,0.152990190137,0.0792740356137,0.086099687098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+28,"It was a bit shaky in the middle, but Fletcher stepped up.",702,7,7,44.5251593074,0.0792740356137,0.0,0.0,0.0364121435135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+29,We have 15 potential match-winners.,701,4,2,21.8869482317,0.0,0.086099687098,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+30,It is always a great experience.,700,4,3,23.4058063151,0.0,0.0364121435135,0.0,0.0370131274334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+31,The only thing missing was the red flags (referring to RCB's flag).,699,11,5,60.3738007298,0.0,0.0,0.0400747439338,0.047328014217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+32,"Chris is like a local, hopefully for the rest of the tournament, they come out and support us in the same way.",698,13,12,89.8197379161,0.0400747439338,0.0370131274334,0.0280169382651,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20924
+33,"""Fletcher: ""It was a bit easy to bat earlier and it got a little tough when the ball became old.",697,15,9,77.9308905107,0.0280169382651,0.047328014217,0.065909050193,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+34,So I tried my best to bat through.,696,4,5,33.7810287124,0.065909050193,0.0,0.204861326874,0.0746822668073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106
+35,Chris is my mentor in T20s.,695,4,3,28.7008215728,0.204861326874,0.0,0.0,0.0310215795032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+36,"Before I went to bat, he told me that I would have a big day today.",694,9,9,61.541578823,0.0,0.0746822668073,0.159745591009,0.0239344081489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+37,So I want to thank him for having that confidence in me and I am happy that I did well.,693,6,15,77.5398817111,0.159745591009,0.0310215795032,0.0,0.0108584529025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+38,"I don't think anyone could take Chris Gayle's job (smiles, when asked if he had taken Gayle's job with this knock).",692,20,8,105.633476293,0.0,0.0239344081489,0.0,0.167359368399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098845
+39,I always back myself to be positive.,691,4,4,28.4767586801,0.0,0.0108584529025,0.0143661073894,0.0223162134041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+40,"Good to see the likes of Bravo, Carlos do the job.",690,8,5,46.2788018879,0.0143661073894,0.167359368399,0.142330016511,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+41,It's good to have another win.,689,5,3,22.938679851,0.142330016511,0.0223162134041,0.0,0.0227405751056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+42,We are gelling well as team.,688,4,3,28.0186510731,0.0,0.0,0.11472612516,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+43,We don't want to get complacent.,687,5,3,28.7638403323,0.11472612516,0.0227405751056,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+44,"""Fletcher is the Man of the MatchSpin is now an endemic in India.",686,7,8,51.3022100715,0.0,0.0,0.0,0.0248190994301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.31731
+45,Bengaluru spun too.,685,3,1,16.3463950013,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+46,"Andre Fletcher - batting with a Root intent, on a Kohli pitch and employing a Gayle bat - survived through it courtesy some luck.",684,17,9,93.0374322142,0.0,0.0248190994301,0.0679663977251,0.025937201962,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08745
+47,"Caught behind by Chandimal, the Third Umpire overturned the decision and Fletcher then lived through to down Sri Lanka in a match much more competitive than anticipated.",683,17,12,117.128145426,0.0679663977251,0.0,0.0139529677608,0.0976262308715,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15132
+48,"""We want Gayle"" crowd chants failed to beckon the batsman busy serving a time ban after skipping fielding duties.",682,17,5,98.966160898,0.0139529677608,0.025937201962,0.0,0.00407254562915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+49,"Vandersay, on comeback, and Siriwardene evoked short-lived hopes with combined figures of  .",681,11,4,55.2001277142,0.0,0.0976262308715,0.014644822496,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+50,"4 but butterfingers, Herath's earlier inefficacy and Fletcher's continued charge - alternating between big hits and deft singles - effected a win that the scorecard will suggest as easy.",680,24,9,130.996687246,0.014644822496,0.00407254562915,0.0239490720788,0.0466458911411,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+51,That didn't look like the case when Windies threatened a spin capitulation.,679,9,5,60.0955021228,0.0239490720788,0.0,0.0124527877778,0.0111162816204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+52,Not to be and they sit pretty at the top now.Andre Fletcher points his bat towards the sky and then hugs his partner!,678,12,12,94.2989196655,0.0124527877778,0.0466458911411,0.0435982498644,0.0888034024851,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+53,This is unfair and so bad for the crowd.,677,4,6,35.9640104985,0.0435982498644,0.0111162816204,0.0804226962785,0.142166677673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+54,"After scoring a hundred at the Wankhede, Gayle was so excited when he said he was going to his home (Bengaluru) to play Sri Lanka.",676,16,13,106.693091192,0.0804226962785,0.0888034024851,0.0827038456827,0.0656736912,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.14957
+55,"The crowd came to watch their hero, but the left-handed batsman tweaked his hamstring while fielding and was off the field for a long time.",675,14,13,97.7941867773,0.0827038456827,0.142166677673,0.0971621154249,0.134218857456,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11429
+56,"That meant he couldn't open and eventually West Indies did not need him, much to the disappointment of the crowd.",674,13,10,86.0746054468,0.0971621154249,0.0656736912,0.138788018519,0.0390101327394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20956
+57,"Well, Chris Gayle comes out and waves to the crowd.",673,8,4,36.9421596316,0.138788018519,0.134218857456,0.104911342135,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.253785
+58,He poses for a few selfies as well.,672,4,5,33.8277939553,0.104911342135,0.0390101327394,0.0,0.0249831370619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+59,.,671,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+60,"T Perera to A Russell, SIX, Russell finishes off in style and it's two in two for West Indies in the  .",670,14,11,69.1645182096,0.0,0.0249831370619,0.0,0.11579286648,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.293865
+61,World T20.,669,3,0,10.5094298008,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196425
+62,"Very full and outside off stump, Russell muscles the lofted-drive flat over sweeper cover .",668,11,5,51.3054218554,0.0,0.11579286648,0.200007792345,0.0576398188322,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+63,"T Perera to A Russell, wide, that is way outside off stump, left alone .",667,12,6,44.5125867711,0.200007792345,0.0,0.166843111961,0.091172673384,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+64,"T Perera to A Russell, FOUR, West Indies are just a hit away now.",666,10,7,43.3953223783,0.166843111961,0.0576398188322,0.0736416822179,0.031800366707,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.135715
+65,"Slower delivery on the stumps, Russell slogs, doesn't get the middle of the bat, but manages to get enough wood on it, almost went all the wayThisara Perera, right-arm medium, comes into the attackSeven needed off 12 balls .",665,31,15,156.977792992,0.0736416822179,0.091172673384,0.0523081917934,0.177269576495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12032
+66,"Chameera to Andre Fletcher, 2 runs, again short and wide with this slower ball, Fletcher cuts it to deep backward point and moves to  .",664,19,9,83.7488134999,0.0523081917934,0.031800366707,0.369408732343,0.136475304662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096925
+67,"Chameera to Andre Fletcher, 2 runs, slower delivery outside off stump, Fletcher slaps it past point, the crowd cheer as Fletcher is in trouble to get back to the second run, but Fletcher is just home .",663,29,13,128.113112971,0.369408732343,0.177269576495,0.0969217154531,0.102838272698,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14623
+68,"Chameera to A Russell, 1 run, a wild swing across the line, he's mistimed this.",662,14,6,48.3550380239,0.0969217154531,0.136475304662,0.022588643689,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+69,"The crowd gets excited and cheers as if India had won the World Cup, but Kula trolls everyone by dropping the catch.",661,14,10,106.025227101,0.022588643689,0.102838272698,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0.119045
+70,That was comical.,660,2,2,13.2090302662,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+71,"Gee, Bengaluru loves Gayle so much.",659,7,1,32.7527223432,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+72,They want to see him bat.,658,4,3,25.6862570323,0.0,0.0,0.0,0.0730576914923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+73,Maybe Russell or Andre Fletcher can retire hurt!,657,7,2,40.8004310436,0.0,0.0,0.0,0.0725470317341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+74,"Anyway, the ball took the toe-end of the bat and went to third man, it was a dolly and Kula was in position to reverse cup it but it popped out .",656,17,17,110.276667768,0.0,0.0730576914923,0.307583983441,0.0204845442841,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170685
+75,"Chameera to Andre Fletcher, 1 run, low full toss outside off stump, Fletcher guides it to third man, Kula cuts it off at third man, but he slipped while trying to field the ball.",655,28,12,126.610301887,0.307583983441,0.0725470317341,0.00662403148373,0.300244864433,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.128605
+76,Could have so easily tweaked the ankle over there .,654,5,5,45.1853007016,0.00662403148373,0.0204845442841,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+77,"Chameera to Andre Fletcher, no run, slower delivery wide outside off stump, Fletcher swings and misses .",653,16,4,55.2671718539,0.0,0.300244864433,0.376290456951,0.0378758814462,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+78,"Chameera to Andre Fletcher, no run, very full and outside off stump, Fletcher tries to reach out and squeeze but missesJust a matter of time for West Indies now.",652,20,13,106.082454081,0.376290456951,0.0,0.0256048023582,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21786
+79,13 needed off 18 balls.,651,5,1,27.7132750339,0.0256048023582,0.0378758814462,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04545
+80,.,650,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+81,"Kulasekara to Andre Fletcher, 1 run, drilled to long-on again .",649,10,3,27.4663372944,0.0,0.0,0.303359858394,0.166007878272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+82,"Kulasekara to Andre Fletcher, FOUR, oh dear!",648,9,1,29.2337715079,0.303359858394,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.155555
+83,The man at long-on slowed down thinking Kapugedera would put in the dive running from long-off.,647,11,6,62.7712154514,0.0,0.166007878272,0.033556082606,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+84,But the latter too left it for his team-mate and the ball escaped.,646,6,8,43.0405321776,0.033556082606,0.0,0.0,0.0600128596645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+85,Should have been a maximum of two runs.,645,4,5,33.1582441812,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+86,"Very full, drilled to long-on for a boundary in the end .",644,7,6,32.6121602467,0.0,0.0600128596645,0.147260314173,0.028319801538,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.18378
+87,"Kulasekara to A Russell, 1 run, Kula takes pace off as he bowls very full, driven to sweeper cover .",643,16,7,70.565331451,0.147260314173,0.0,0.172941230197,0.113877548287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.065215
+88,"Kulasekara to A Russell, FOUR, freebie and Russell muscles it down the ground.",642,10,6,46.2126114984,0.172941230197,0.028319801538,0.122285020175,0.206000547918,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12
+89,"Full toss outside off stump, Russell goes straight back over the bowler's head for a boundary .",641,14,5,57.6288885271,0.122285020175,0.113877548287,0.171757738739,0.00997422004123,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.160175
+90,"Kulasekara to Andre Fletcher, 1 run, the full toss is driven down to long-on .",640,12,5,37.4226802307,0.171757738739,0.206000547918,0.247210868583,0.10331172951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.145605
+91,"Kulasekara to Andre Fletcher, no run, oh he's kicked that ball away from the stumps to avoid being bowled.",639,15,8,72.0117806023,0.247210868583,0.00997422004123,0.193228277238,0.110749913532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14764
+92,"Yorker on the stumps, Fletcher digs it out, the ball bounces off the turf, went behind, but not sure if it would have disturbed the stumps, Fletcher wants to be very sure and he kicks it away with his right leg.",638,26,21,165.333636884,0.193228277238,0.10331172951,0.0664134880684,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1194
+93,"Russell was keen for a run, but he was sent back by his partnerNuwan Kulasekara [ .",637,10,8,57.226884925,0.0664134880684,0.110749913532,0.0,0.0424367632896,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+94,- .,636,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+95,-0] is back into the attack24 needed off 24 balls now .,635,8,5,44.6288089363,0.0,0.0424367632896,0.0416605537703,0.0387602360196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+96,"Chameera to Andre Fletcher, 1 run, full toss outside off stump, Fletcher lofts it over the bowler's head .",634,18,5,59.8509972588,0.0416605537703,0.0,0.264898065526,0.286786242469,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.127085
+97,"Chameera to Andre Fletcher, wide, the leg-cutting slower delivery that is very full, Fletcher fails to dig it out, it actually spun after pitching went to the keeper's right .",633,23,12,108.418382476,0.264898065526,0.0387602360196,0.239915846962,0.224998357859,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123445
+98,"Chameera to Andre Fletcher, no run, very full and just inside the tramline, left alone .",632,13,6,55.1944398374,0.239915846962,0.286786242469,0.283779536225,0.289211709914,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+99,"Chameera to Andre Fletcher, no run, a wild swing from Fletcher and he misses it completely .",631,12,7,54.3407956876,0.283779536225,0.224998357859,0.447972176026,0.10984856354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+100,"Chameera to Andre Fletcher, no run, shortish and slowish outside off stump, Fletcher cuts and misses .",630,15,5,57.1699898599,0.447972176026,0.289211709914,0.230604178131,0.670722522301,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+101,"Chameera to A Russell, 2 wides, this is way outside off stump, the keeper fumbles and allows an extra run .",629,16,8,71.2234325745,0.230604178131,0.10984856354,0.226830903688,0.145509419585,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+102,"Chameera to Andre Fletcher, 1 run, shortish and outside off stump, Fletcher reaches out and cuts to sweeper cover .",628,17,6,63.8526572294,0.226830903688,0.670722522301,0.265340404906,0.0666835121444,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+103,"Chameera to Andre Fletcher, no run, Maybe Sri Lanka are still not out of this.",627,11,7,56.1908543673,0.265340404906,0.145509419585,0.0560332107814,0.0682045816952,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17323
+104,"Meanwhile, the crowd cheer as they see Gayle getting ready to walk out to the middle.",626,11,7,68.5579054409,0.0560332107814,0.0666835121444,0.0175331663429,0.0850062827744,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+105,"Hang on, the umpires are checking if it was a clean catch.",625,7,7,51.3630115226,0.0175331663429,0.0682045816952,0.0165682540702,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.11111
+106,The soft signal is out.,624,3,3,20.3796812426,0.0165682540702,0.0850062827744,0.0958914426489,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+107,Oh this is close.,623,3,2,17.8688480557,0.0958914426489,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+108,I think that has bounced in Chandimal's gloves.,622,6,4,32.7103252204,0.0,0.0,0.303472974751,0.0747078585588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+109,"However, third umpire Simon Fry reckons, ""that has bounced.""",621,12,2,49.5834233139,0.303472974751,0.0,0.0568776023011,0.234647550318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+110,That's surely out for me.,620,3,4,21.502886351,0.0568776023011,0.0747078585588,0.0731988469845,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095835
+111,"but Fry says ""that's been grounded.""",619,7,3,30.9043759937,0.0731988469845,0.234647550318,0.0,0.0425565238379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+112,"Anyway, my verdict won't count.",618,7,1,25.190165205,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.0
+113,"Interestingly, as Fletcher was beginning to walk, Russell gestured to him that it bounced.",617,10,7,59.9505866746,0.0,0.0425565238379,0.0306627589946,0.200132571027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+114,"Well, well, Not Out it is!",616,5,4,21.7149492165,0.0306627589946,0.0,0.0370903636635,0.0643674889163,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147865
+115,But I will maintain that it bounced in the keeper's gloves.,615,6,7,42.6925002485,0.0370903636635,0.200132571027,0.025070469261,0.0548265931979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+116,Even the soft signal from the on-field umpires was OUT.,614,6,5,37.2882081641,0.025070469261,0.0643674889163,0.137561991059,0.0284016115269,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+117,"It was the widish slower ball from the bowler, the batsman swings hard and gets a thick edge.",613,12,8,65.729613883,0.137561991059,0.0548265931979,0.10731713578,0.0616491830924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+118,Chandimal dives forward and low to collect the ball.,612,7,3,35.0974104261,0.10731713578,0.0284016115269,0.0282634497834,0.0386900084937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+119,"Meanwhile, the crowd boo as they see the verdict.",611,7,4,41.7196985905,0.0282634497834,0.0616491830924,0.0886017043843,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+120,They want Gayle to come out and bat.Dushmantha Chameera [ .,610,7,4,30.5029463531,0.0886017043843,0.0386900084937,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+121,- .,609,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+122,-0] is back into the attack .,608,5,3,16.4529103805,0.0,0.0,0.174747120643,0.0457794659071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+123,"Siriwardana to A Russell, FOUR, oh that is smashed off the back foot and a great way to open the account.",607,14,10,73.6327758521,0.174747120643,0.0,0.114196961597,0.109902675662,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.114285
+124,"Short and on the leg stump, Russell pulls fiercely to the deep mid-wicket boundary .",606,11,5,47.5045012291,0.114196961597,0.0457794659071,0.0849058940703,0.145740810846,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.13793
+125,"Siriwardana to Andre Fletcher, 1 run, deft touch, Fletcher shows that he's not all about muscle, allows the flighted delivery to come and dabs it late to short third man .",605,25,11,120.683065266,0.0849058940703,0.109902675662,0.183229163754,0.352810830002,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+126,"Siriwardana to Andre Fletcher, 2 runs, this time Fletcher works it into the vacant mid-wicket region .",604,14,5,55.1991397865,0.183229163754,0.145740810846,0.303671105712,0.225561063691,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+127,"Siriwardana to Andre Fletcher, no run, flighted delivery on the stumps, Fletcher defends .",603,13,4,41.8774574052,0.303671105712,0.352810830002,0.225129045731,0.110932608198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+128,"Siriwardana to Andre Fletcher, SIX, now this is high up in the air, but it has gone all the way.",602,12,12,75.7640323824,0.225129045731,0.225561063691,0.114187017217,0.0793735585543,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.153465
+129,"A mis-hit from Fletcher, but he gets away with it.",601,6,6,26.7862539825,0.114187017217,0.110932608198,0.114348057209,0.145826178128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+130,"Flighted delivery on the stumps, Fletcher backs away and swings hard as he lofts, went off the bottom of the bat and managed to clear the long-on boundary .",600,19,12,103.859861097,0.114348057209,0.0793735585543,0.13646080949,0.0430448735601,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.17989
+131,"Siriwardana to Andre Fletcher, SIX, ""caaaatch,"" is the shout from the keeper, long-on goes back but it sails over his head.",599,19,9,78.8203215386,0.13646080949,0.145826178128,0.0150088652355,0.124564689105,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.147645
+132,What a timely blow and that will ease some nerves in the West Indies dug-out.,598,8,8,59.0038454804,0.0150088652355,0.0430448735601,0.101417097392,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+133,"Siriwardana will not like the fact that he went too full for this flighted delivery, Fletcher got under it and lofted it over the fenceSo Sri Lanka's frontline spinners have both bowled out.",597,19,17,138.946819729,0.101417097392,0.124564689105,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14754
+134,.,596,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+135,- .,595,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+136,reads Vandersay's figures.,594,5,0,16.5529308162,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098995
+137,West Indies need 48 more from 36 balls.,593,7,2,41.7103268651,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+138,.,592,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+139,"Jeffrey Vandersay to A Russell, no run, flighted delivery just outside off stump, Russell defends off the back footSlip and gully in .",591,17,9,75.4663829192,0.0,0.0,0.209598162898,0.240856042985,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123315
+140,"Jeffrey Vandersay to Andre Fletcher, 1 run, Fletcher goes back and works it to backward square leg .",590,16,4,54.1111871589,0.209598162898,0.0,0.36591842145,0.417744039015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+141,"Jeffrey Vandersay to Andre Fletcher, 2 runs, way too short and outside off stump, Fletcher easily cuts it away to sweeper cover .",589,20,6,77.6162416237,0.36591842145,0.240856042985,0.408477823805,0.36653500081,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.100835
+142,"Jeffrey Vandersay to Andre Fletcher, no run, goes deep in the crease and cuts it just in front of the off stump to point .",588,15,12,77.7378907603,0.408477823805,0.417744039015,0.308313933616,0.505883379161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19228
+143,"Jeffrey Vandersay to Andre Fletcher, no run, this one spins away outside off stump, Fletcher manages to keep it out despite being squared-up .",587,19,8,84.3312150836,0.308313933616,0.36653500081,0.399602888035,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.082625
+144,"Jeffrey Vandersay to Andre Fletcher, no run, shortish and outside off stump, Fletcher cuts and missesJeffrey Vandersay [ .",586,17,5,60.2705266673,0.399602888035,0.505883379161,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+145,- .,585,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+146,-1] is back into the attack .,584,5,3,16.4529103805,0.0,0.0,0.0338271438525,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+147,"Siriwardana to A Russell, no run, flighted delivery outside the off stump, Russell manages to defendAndre Russell, right handed bat, comes to the creaseDrama!",583,22,8,83.1151405262,0.0338271438525,0.0,0.113350621269,0.0143101178496,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+148,Gayle ran down to bat.,582,4,2,20.0544051729,0.113350621269,0.0,0.0,0.123363748578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+149,But 4th umpire Ian Gould stops him near the sightscreen.,581,8,3,54.9161598376,0.0,0.0143101178496,0.0113259370885,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+150,He then gestures to the West Indies dug out that Gayle can only bat after 11 more minutes or after the fall of two more wickets.,580,12,15,119.436530589,0.0113259370885,0.123363748578,0.0,0.0596294444997,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.173845
+151,.,579,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+152,"Siriwardana to Ramdin, out Bowled!!",578,6,2,17.8220332078,0.0,0.0596294444997,0.192478810046,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+153,What was that Denesh Ramdin?,577,3,3,21.6390185253,0.192478810046,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+154,I cannot believe my eyes.,576,3,4,28.4552123786,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+155,Hang on!,575,2,1,9.01777492402,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+156,Big roar from the crowd.,574,4,2,21.9221084447,0.0,0.0,0.0,0.0117900334142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.092865
+157,This is funny.,573,2,2,13.4717406593,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+158,Chris Gayle waves at someone in the dug-out and asks him to stop suggesting that he would go out to bat now.,572,12,11,87.4023250509,0.0,0.0117900334142,0.0242194618338,0.0199635599385,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181665
+159,"Anyway, back to Ramdin's mess.",571,7,1,21.4563423111,0.0242194618338,0.0,0.0,0.117340770753,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+160,Siriwardana is a left-arm orthodox and the ball will spin away from you.,570,7,7,42.7807751675,0.0,0.0199635599385,0.179505465051,0.061431726172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+161,Ramdin backed away to a ball that pitched on the stumps from round the wicket.,569,9,7,52.5638480881,0.179505465051,0.117340770753,0.0776746132715,0.184851029824,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+162,"It would have been acceptable if he tried to go inside-out, yet he went for the slog, which meant he played across the line and missed the ball completely.",568,18,14,118.181394457,0.0776746132715,0.061431726172,0.0,0.068670619812,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125665
+163,Ramdin b Siriwardana  .,567,4,0,7.94448044334,0.0,0.184851029824,0.758967967932,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+164,"3)Siriwardana to Ramdin, THAT'S OUT!!",566,8,3,16.0067432411,0.758967967932,0.068670619812,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+165,Bowled!!,565,3,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+166,.,564,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+167,"Siriwardana to Andre Fletcher, 1 run, tossed up very full and outside off stump, Fletcher drives it to sweeper cover .",563,17,7,64.4983645118,0.0,0.0,0.392929431003,0.177102745071,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.105075
+168,"Siriwardana to Andre Fletcher, 2 runs, very full and on the leg stump, worked away to fine leg .",562,16,6,58.3660383633,0.392929431003,0.0,0.209781526831,0.0704323153631,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+169,"Siriwardana to Andre Fletcher, 2 runs, whipped away from a fuller length and ""two, two, two,"" shouts Fletcher as he takes off, wide of long-on and he gets two.",561,28,10,102.81978753,0.209781526831,0.177102745071,0.114637071826,0.0746806210202,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138545
+170,The raise of the bat follows as Fletcher gets to his 5th T20I fifty.,560,9,6,59.8785241658,0.114637071826,0.0704323153631,0.0387426632692,0.130829553617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188145
+171,Excellent innings from Fletcher under pressure .,559,5,2,31.1248840273,0.0387426632692,0.0746806210202,0.0856269526131,0.0613998166078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+172,"Siriwardana to Andre Fletcher, no run, the quicker delivery on the leg stump, Fletcher defends off the back foot .",558,16,7,61.2861357193,0.0856269526131,0.130829553617,0.203777816926,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+173,"Chameera to Andre Fletcher, 1 run, oh a misfield!",557,10,2,27.1801993462,0.203777816926,0.0613998166078,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+174,Can't afford such stuff defending a low score.,556,8,2,37.6662959245,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+175,Should have been a dot ball.,555,3,4,25.1652406321,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+176,"Full and outside off stump, square-drive, but hit hard, that meant the fielder fumbled at backward point .",554,15,6,64.1890717152,0.0,0.0,0.205667635164,0.0170601368979,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07895
+177,"Chameera to Ramdin, 1 run, this time Ramdin succeeds in guiding it past the diving backward point fielder .",553,16,5,71.1105742123,0.205667635164,0.0,0.147871313882,0.187533813264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+178,"Chameera to Andre Fletcher, 1 run, excellent slower ball yorker from Chameera, Fletcher somehow manages it dig it out, in fact, the ball almost rolls back on the stumps en route to the keeper .",552,29,11,130.473934809,0.147871313882,0.0170601368979,0.166029273096,0.154621169427,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133905
+179,"Chameera to Ramdin, 1 run, the leg-cutting slower delivery outside off stump, easily guided down to third man .",551,17,5,59.8287234815,0.166029273096,0.187533813264,0.192078474866,0.295114258955,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+180,"Chameera to Ramdin, no run, Ramdin tries to guide it past backward point for a couple of runs, but picks out the fielder .",550,17,10,85.4855950434,0.192078474866,0.154621169427,0.300733218258,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+181,"Chameera to Ramdin, no run, full and outside off stump, Ramdin drives it to coverDushmantha Chameera, right-arm fast, comes into the attackHerath is done for the day.",549,22,11,97.4416510364,0.300733218258,0.295114258955,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16525
+182,.,548,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+183,- .,547,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+184,.,546,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+185,Sri Lanka would have wanted a wicket from their premier spinner.,545,8,4,47.4754534531,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.221535
+186,.,544,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+187,"Siriwardana to Ramdin, 1 run, short and outside off stump, Ramdin cuts it to sweeper cover .",543,15,5,50.7477838368,0.0,0.0,0.389286785007,0.242957222592,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+188,"Siriwardana to Ramdin, no run, driven back to the bowler .",542,9,4,31.1538884856,0.389286785007,0.0,0.208278768682,0.168137855352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+189,"Siriwardana to Andre Fletcher, 1 run, very full and on the leg stump, Fletcher flicks it to mid-wicket .",541,15,7,49.5209468869,0.208278768682,0.242957222592,0.263628183153,0.129996881469,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.149885
+190,"Siriwardana to Andre Fletcher, FOUR, in the airrrrr, but safe.",540,10,4,37.6978776169,0.263628183153,0.168137855352,0.106207880405,0.134802734621,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.178055
+191,"Fletcher went hard on the inside-out drive and took the man at cover out of the equation, the fielder dived but it was too quick for him .",539,14,15,98.0794525717,0.106207880405,0.129996881469,0.12011637594,0.0230476419614,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2464
+192,"Siriwardana to Ramdin, 1 run, shortish, cut square of the wicket on the off-side .",538,13,5,39.8322477399,0.12011637594,0.134802734621,0.223640489535,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+193,"Siriwardana to Ramdin, no run, huuuuge shout for LBW.",537,9,3,36.0732868187,0.223640489535,0.0230476419614,0.0,0.111392403154,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+194,umpire Aleem Dar shakes his head.,536,6,1,33.8226777282,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+195,Is Ramdin lucky to be still out there?,535,4,5,34.2905056409,0.0,0.111392403154,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+196,I think so!,534,2,2,10.5665882146,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+197,We'll wait for the replay though.,533,5,3,27.4085944538,0.0,0.0,0.00878147477832,0.0173240257998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+198,"Ramdin tries to defend and gets some bat on it, but it was surely pad-first and looked like it was crashing into the leg stump.",532,14,13,91.5752759292,0.00878147477832,0.0,0.107996452097,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116015
+199,"Replays in: Hawk-Eye shows the ball hitting leg stump and Ramdin got away with itAt the halfway stage, West Indies are  .",531,18,6,88.6201337519,0.107996452097,0.0173240257998,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15766
+200,.,530,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+201,A couple of wickets here could make things very interesting.,529,7,4,48.4350868886,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+202,.,528,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+203,"Herath to Andre Fletcher, no run, appeal for LBW, but going down.",527,11,5,43.888488739,0.0,0.0,0.043971089179,0.145125556683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+204,Fletcher misses the flick and is hit on the front pad by this full ball .,526,9,7,55.3383153915,0.043971089179,0.0,0.0292774201955,0.134206106249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+205,"Herath to Ramdin, 1 run, oh the inside edge again!",525,10,3,34.2426040605,0.0292774201955,0.145125556683,0.126964547336,0.384603935859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+206,"Ramdin was on the front foot to drive through cover, but this one didn't turn as much as Ramdin expected and forced a false stroke .",524,16,12,105.911864939,0.126964547336,0.134206106249,0.115207977049,0.0333495490986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+207,"Herath to Andre Fletcher, 1 run, the drive attempted but the inside edge rolls to backward square leg .",523,16,5,62.1277310356,0.115207977049,0.384603935859,0.250597820123,0.296894665924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+208,"Herath to Andre Fletcher, no run, fired in on the off stump, Fletcher digs it out .",522,12,8,52.1030445401,0.250597820123,0.0333495490986,0.415667479668,0.491613308912,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+209,"Herath to Andre Fletcher, no run, Herath tries the arm-ball, but Fletcher reads it and defends into the on-side off the front foot .",521,17,10,71.0339831081,0.415667479668,0.296894665924,0.41660307522,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+210,"Herath to Andre Fletcher, no run, very full and outside off stump, Fletcher drives it to backward pointRangana Herath [ .",520,17,7,64.6588914666,0.41660307522,0.491613308912,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107335
+211,- .,519,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+212,. ],518,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+213,is back into the attackThat was an excellent follow-up over from Siriwardana.,517,6,7,43.4357102521,0.0,0.0,0.0,0.0724372406608,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+214,Gives more support to Herath and Vandersay.,516,5,3,30.2201212203,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+215,"69 needed from 66 balls, ball is turning, game on!",515,10,3,49.6308499607,0.0,0.0724372406608,0.0,0.0353966557036,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+216,.,514,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+217,"Siriwardana to Ramdin, no run, this is nicely driven, but straight to the man at cover .",513,12,8,56.5304460266,0.0,0.0353966557036,0.38476798963,0.112995330052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+218,"Siriwardana to Ramdin, no run, beaten!",512,7,2,20.1120565667,0.38476798963,0.0,0.104080108956,0.450088893075,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+219,"Flighted delivery spinning away outside off stump, Ramdin goes for defence, but plays inside the line .",511,15,4,67.4135683985,0.104080108956,0.112995330052,0.150890277383,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+220,"Siriwardana to Ramdin, no run, flatter and on the stumps, Ramdin defends from the creaseDenesh Ramdin, right handed bat, comes to the crease .",510,20,9,80.7291447875,0.150890277383,0.450088893075,0.108583744412,0.0511918434755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+221,"Siriwardana to Samuels, out Stumped!!",509,6,2,19.2162957386,0.108583744412,0.0,0.0951816324799,0.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+222,"Maybe, Samuels should have taken the second run when Fletcher called for it and he would not have been on strike for this ball.",508,12,14,96.7143559647,0.0951816324799,0.0511918434755,0.0,0.158595755011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160835
+223,Anyway.,507,2,0,5.98634260153,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+224,An absolutely shocking shot from Samuels when the ball is doing so much.,506,7,7,60.3503349222,0.0,0.158595755011,0.0,0.0982430417197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+225,This could put a bit of extra pressure on that dressing room.,505,8,5,52.3233858413,0.0,0.0,0.0,0.0257179341274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+226,"Be careful with your shot selection, West Indies.",504,7,3,41.6049663494,0.0,0.0982430417197,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+227,"Flighted delivery outside off stump, Samuels steps out, doesn't get to the pitch of the ball, yet goes for the drive and runs past it.",503,19,11,93.3350251353,0.0,0.0257179341274,0.0983101782634,0.211254284388,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+228,Samuels st Chandimal b Siriwardana  .,502,6,0,18.7911543835,0.0983101782634,0.0,0.472724381599,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+229,"2)Siriwardana to Samuels, THAT'S OUT!!",501,8,3,16.3713863547,0.472724381599,0.211254284388,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+230,Stumped!!,500,3,0,5.98634260153,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+231,.,499,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+232,"Siriwardana to Andre Fletcher, 1 run, very slow through the air, Fletcher goes back and works it behind square on the on-side, Samuels says no for the second run .",498,23,11,97.2157840796,0.0,0.0,0.213506139763,0.236987414869,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198415
+233,"Siriwardana to Samuels, 1 run, Samuels uses his feet and gets to the pitch of this flighted delivery to drive it along the ground to long-offMilinda Siriwardana, left-arm orthodox, comes into the attack .",497,25,13,110.411985172,0.213506139763,0.0,0.0601664280671,0.0660896775071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+234,"Jeffrey Vandersay to Andre Fletcher, no run, fired short and wide outside off stump, Fletcher is late on the cut shot .",496,18,7,74.6650665096,0.0601664280671,0.236987414869,0.303487792519,0.157705572146,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128605
+235,"Jeffrey Vandersay to Andre Fletcher, SIX, that's a brave hit from Fletcher and it spoils the over.",495,13,8,59.4827076957,0.303487792519,0.0660896775071,0.169170653015,0.141962400814,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.156585
+236,"Fletcher moved to the off-side even before the ball was released from the bowler's hand, got into a good position and slogs it hard over wide long-on .",494,18,12,99.1950687736,0.169170653015,0.157705572146,0.0334005713342,0.0106191605125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10406
+237,"Jeffrey Vandersay to Samuels, 1 run, Samuels manages to push this along the ground through cover .",493,14,5,60.0341610147,0.0334005713342,0.141962400814,0.413423091955,0.11413049245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+238,"Jeffrey Vandersay to Samuels, no run, beaten again!",492,8,3,30.1742500479,0.413423091955,0.0106191605125,0.114176926796,0.359495963043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+239,"Great bit of turn on offer after the ball is tossed up nicely, Samuels goes for the drive, but makes no contact .",491,15,10,94.5110813657,0.114176926796,0.11413049245,0.107510062682,0.118720851425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.160175
+240,"Jeffrey Vandersay to Samuels, no run, slightly quicker through the air, Samuels brings his bat down in time and plays with one hand to point .",490,19,10,101.483125318,0.107510062682,0.359495963043,0.373802904088,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+241,"Jeffrey Vandersay to Samuels, no run, ohhhh!",489,8,2,26.3851320237,0.373802904088,0.118720851425,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+242,What a ball that is!,488,2,4,14.7344030307,0.0,0.0,0.107829189495,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+243,How did that miss the off stump?,487,3,5,29.5915041761,0.107829189495,0.0,0.0,0.0241870803549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+244,Samuels had no clue about it and was unplayable.,486,4,6,38.8493724953,0.0,0.0,0.102515457032,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+245,"Pitched on middle and turned square, beat Samuels on the drive and just went past the sticks.",485,12,7,69.203371171,0.102515457032,0.0241870803549,0.0665765021672,0.0263780279077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12903
+246,Hands on head moment for the bowlerSlip in place .,484,6,4,40.0082682936,0.0665765021672,0.0,0.0,0.0303268951279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+247,"Herath to Andre Fletcher, no run, nice and full from Herath, Fletcher digs it out .",483,13,6,51.1730008742,0.0,0.0263780279077,0.398500658825,0.369241924205,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+248,"Herath to Andre Fletcher, FOUR, too full from Herath, Fletcher tries to squeeze it out, the ball takes the leading edge of the bat and goes past the man at short third man .",482,25,13,120.742308997,0.398500658825,0.0303268951279,0.270830773248,0.198770614697,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.220355
+249,"Herath to Andre Fletcher, no run, the slider from Herath, Fletcher was on the front foot to block, misses and is hit on the pad, half-shout for LBW, but it was sliding down .",481,23,17,114.252310168,0.270830773248,0.369241924205,0.175353754451,0.273390534526,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172105
+250,"Herath to Samuels, 1 run, this time Samuels drives to the left of the bowler and sends it to long-off .",480,14,9,59.2367669209,0.175353754451,0.198770614697,0.572327734258,0.166281188274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+251,"Herath to Samuels, no run, flighted delivery on the stumps, Samuels drives it back to Herath .",479,14,6,52.8083160467,0.572327734258,0.273390534526,0.20577387146,0.246375778076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+252,"Herath to Andre Fletcher, 1 run, Fletcher goes deep in the crease and works it towards square leg .",478,16,5,56.8865411401,0.20577387146,0.166281188274,0.058297305631,0.0513287303559,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153165
+253,"Jeffrey Vandersay to Samuels, no run, it's a wicket-maiden for Jeffrey Vandersay.",477,11,5,32.7649757225,0.058297305631,0.246375778076,0.130615164681,0.522502445725,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.147595
+254,Samuels drives the full ball back to the bowler .,476,7,3,29.2337580301,0.130615164681,0.0513287303559,0.404442290441,0.349453126377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17391
+255,"Jeffrey Vandersay to Samuels, no run, Samuels leans forward and drives it to cover .",475,12,5,50.5546302824,0.404442290441,0.522502445725,0.4396458934,0.494160938907,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+256,"Jeffrey Vandersay to Samuels, no run, this one is driven towards the bowler .",474,11,5,44.8936198185,0.4396458934,0.349453126377,0.356063818775,0.297507688653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+257,"Jeffrey Vandersay to Samuels, no run, flighted delivery very full, Samuels drives well off the front foot and picks out the man at coverMarlon Samuels, right handed bat, comes to the crease .",473,27,11,121.844894816,0.356063818775,0.494160938907,0.205718683451,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11924
+258,"Jeffrey Vandersay to Charles, out Bowled!!",472,7,2,22.3372507472,0.205718683451,0.297507688653,0.184204297578,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+259,Charles has chopped this on.,471,3,3,21.7449101054,0.184204297578,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+260,Sri Lanka have their first breakthrough and the players are delighted.,470,7,5,49.2864149331,0.0,0.0,0.0179109836998,0.0243433582775,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.269155
+261,Jeffrey Vandersay roars and pumps his fist.,469,6,2,34.495850841,0.0179109836998,0.0,0.0,0.0203763011299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09007
+262,"This was the quicker ball from the leggie, Charles was trying to run it down to third man, but chops it back onto the off stump.",468,15,14,94.5077900984,0.0,0.0243433582775,0.207628152714,0.148417040473,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+263,That was too close to the stumps and the shot was not on.,467,4,10,43.3240191867,0.207628152714,0.0203763011299,0.0821689699148,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188145
+264,Is this the opening the Sri Lankans wanted to claw back into the game?,466,8,7,55.456104955,0.0821689699148,0.148417040473,0.0,0.0158886696788,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+265,Charles b Jeffrey Vandersay  .,465,5,0,12.4596979828,0.0,0.0,0.695808222644,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098995
+266,"3) [4s-1]Jeffrey Vandersay to Charles, THAT'S OUT!!",464,12,3,20.5219607806,0.695808222644,0.0158886696788,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+267,Bowled!!,463,3,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+268,.,462,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+269,"Jeffrey Vandersay to Charles, no run, the leg-break from Vandersay, the length is short though, Charles was looking to work it towards the on-side, gets a soft leading edge towards the off-side .",461,26,12,99.5654959876,0.0,0.0,0.0652668540443,0.313874153471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11344
+270,"Herath to Andre Fletcher, FOUR, cracking shot, Herath gave this one more air, Fletcher gets a big stride forward and laces it past extra cover, rolls away to the fence in a hurry .",460,29,10,132.947068667,0.0652668540443,0.0,0.193732222312,0.211362659659,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12591
+271,"Herath to Charles, 1 run, Herath tosses one on the stumps, Charles works it in front of square on the on-side for a run .",459,18,10,70.4516873584,0.193732222312,0.313874153471,0.202982521467,0.773714970314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.15
+272,"Herath to Andre Fletcher, 1 run, slower and well outside off, slugged away towards mid-wicket for a run .",458,17,5,49.6386463506,0.202982521467,0.211362659659,0.20618373385,0.537230604999,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+273,"Herath to Charles, 1 run, Herath drifts one on Charles's pads, worked in front of square on the on-side for a run .",457,19,8,66.5482587363,0.20618373385,0.773714970314,0.201694663855,0.413030731521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+274,"Herath to Andre Fletcher, 1 run, flighted delivery and well outside off, clubbed towards long-off for a run .",456,17,5,50.0133398001,0.201694663855,0.537230604999,0.133105123423,0.156083371886,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+275,"Herath to Charles, 1 run, Charles is living dangerously!",455,10,2,33.1791876561,0.133105123423,0.413030731521,0.154246439342,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+276,"This was tossed up on off, Charles was looking to swipe it over the bowler's head, doesn't get close to the pitch of the ball, gets a thick outside edge that drops wide of long-offRangana Herath [ .",454,25,18,131.150761179,0.154246439342,0.156083371886,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0.106535
+277,- .,453,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+278,. ],452,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+279,is back into the attack .,451,3,3,16.4529103805,0.0,0.0,0.0204870876293,0.0588874655357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+280,"Jeffrey Vandersay to Andre Fletcher, no run, Vandersay drifts one on Fletcher's pads, turned towards the on-side .",450,18,4,56.4887655809,0.0204870876293,0.0,0.384910822149,0.4337017422,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+281,"Jeffrey Vandersay to Andre Fletcher, no run, flatter and on off, dropped his length short as he anticipated the charge from the batsman, Fletcher makes room and mistimes the cut towards the off-side .",449,24,14,116.946543448,0.384910822149,0.0588874655357,0.384335963306,0.350937583663,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.14624
+282,"Jeffrey Vandersay to Andre Fletcher, no run, pushed through by Vandersay, Fletcher makes room and cuts it straight to the fielder at point .",448,18,9,84.4633462684,0.384335963306,0.4337017422,0.415629113486,0.212241323624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14052
+283,"Jeffrey Vandersay to Andre Fletcher, no run, flighted delivery and on off, Fletcher gets well forward and defends it .",447,16,7,61.965221696,0.415629113486,0.350937583663,0.198386537068,0.0400697847425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+284,"Jeffrey Vandersay to Charles, 1 run, dropped by Kapugedera, that was a sitter, tossed up on off, Charles comes down the track and heaves it towards deep mid-wicket.",446,22,12,97.4259099738,0.198386537068,0.212241323624,0.101504176882,0.36651367041,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0.113635
+285,"Kapugedera came charging in, doesn't steady himself, ends up popping it onto the chest and shells the chance .",445,14,8,86.9258265037,0.101504176882,0.0400697847425,0.0580930469198,0.0429197180696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+286,"Jeffrey Vandersay to Charles, no run, flatter and on the stumps, Charles goes back and turns it towards the on-sideJeffrey Vandersay, right-arm leg break, comes into the attack .",444,24,10,91.2054138338,0.0580930469198,0.36651367041,0.160201092973,0.129203529445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10395
+287,"Kulasekara to Andre Fletcher, no run, another yorker length delivery on middle, Fletcher was backing away on the drive, gets his bat down hurriedly and jams it towards the off-side .",443,24,11,105.323919831,0.160201092973,0.0429197180696,0.477924264453,0.291296457965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.161255
+288,"Kulasekara to Andre Fletcher, no run, yorker length delivery on off, nicely bowled by Kulasekara, Fletcher watches it all along and jams it back at the bowler .",442,21,11,100.671145512,0.477924264453,0.129203529445,0.277046430503,0.200168380858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+289,"Kulasekara to Andre Fletcher, wide, Kulasekara slips one down the leg-side, Fletcher was looking to flick and missed, called as a wide .",441,19,8,75.2844936654,0.277046430503,0.291296457965,0.180007678424,0.171659575149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169935
+290,"Kulasekara to Charles, 1 run, another slower off-cutter from Kulasekara, he rolled his fingers across the seam, stopped on Charles who manages to push it towards the on-side, just a single behind square .",440,27,12,116.795047419,0.180007678424,0.200168380858,0.312042331502,0.281176212655,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+291,"Kulasekara to Charles, no run, change of pace from Kulasekara, short of a good length and on the stumps, Charles shovels across the line and misses, went over the top of middle .",439,24,14,115.244995255,0.312042331502,0.171659575149,0.312583270591,0.425552476617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+292,"Kulasekara to Charles, FOUR, length delivery on off, nothing wrong with the line either, Charles clears his left leg, opens up the on-side and swings it over mid-wicket for a boundary .",438,24,13,113.84461264,0.312583270591,0.281176212655,0.323778131757,0.0527003524843,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0.11724
+293,"Kulasekara to Charles, no run, on a good length and on off, Charles stays behind the line and defends itNuwan Kulasekara, right-arm fast medium, comes into the attack .",437,23,11,99.4591583945,0.323778131757,0.425552476617,0.0821665403446,0.029717523556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133035
+294,"Herath to Andre Fletcher, no run, beautifully bowled by Herath, slower on off, dragged Fletcher forward before spinning past the outside edge.",436,20,7,87.8891022988,0.0821665403446,0.0527003524843,0.0924675665981,0.308528001275,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120835
+295,"Fletcher stumbled as he looked to defend and missed, Chandimal was confident that there was an edge, but the umpire doesn't agree with him .",435,14,14,103.160666085,0.0924675665981,0.029717523556,0.0555396984036,0.0778439923637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+296,"Herath to Andre Fletcher, FOUR, costly start from Herath, slower and wider outside off, Fletcher gets a big stride forward, drags the sweep over wide mid-on, a couple of bounces and over the ropes .",434,29,12,130.386547761,0.0555396984036,0.308528001275,0.308015992259,0.31505058105,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14338
+297,"Herath to Andre Fletcher, no run, Herath shortened the length on off, Fletcher comes down the track and defends .",433,15,8,63.491950107,0.308015992259,0.0778439923637,0.380404728618,0.297803273807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+298,"Herath to Andre Fletcher, no run, flighted delivery and just outside off, good flight from Herath, Fletcher was half-forward as he defended, gets an inside edge towards the on-side .",432,24,11,98.5850781172,0.380404728618,0.31505058105,0.245129283104,0.312057221151,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153135
+299,"Herath to Andre Fletcher, SIX, lovely shot, Fletcher shimmies down the track, didn't get very close to the pitch of the ball, he was actually beaten in the flight as well, doesn't panic though, went through with the lofted shot and sends it soaring over the long-off fence .",431,36,22,197.04445224,0.245129283104,0.297803273807,0.174140961226,0.0874503654815,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.130215
+300,"Herath to Andre Fletcher, no run, tossed up and on the stumps, Fletcher goes back and turns it towards mid-wicketRangana Herath, left-arm orthodox, comes into the attack .",430,23,10,85.6281454226,0.174140961226,0.312057221151,0.140355477182,0.146345520106,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.123445
+301,"Mathews to Charles, no run, back of a length and well outside off, Charles was looking to chop it towards third man, gets a toe-edge towards backward point .",429,23,10,89.881306026,0.140355477182,0.0874503654815,0.199106519554,0.139127624792,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+302,"Mathews to Andre Fletcher, 1 run, short of a good length and just outside off, dabbed away behind square on the off-side for a single .",428,19,10,70.6675918676,0.199106519554,0.146345520106,0.241364837936,0.561821660798,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15523
+303,"Mathews to Andre Fletcher, SIX, smashed, Fletcher is making up for the absence of Gayle, half-volley outside off, Fletcher gets forward and thumps it back over the bowler's head, high and over the sightscreen for a maximum .",427,29,16,132.170864576,0.241364837936,0.139127624792,0.102902694991,0.232017888112,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.18559
+304,"Mathews to Charles, 1 run, on a good length and on the stumps, tucked away behind square on the on-side for a single .",426,17,10,63.4103584051,0.102902694991,0.561821660798,0.475462262648,0.199706846111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+305,"Mathews to Andre Fletcher, 1 run, fuller length delivery and just outside off, eased behind square on the off-side for a single .",425,18,8,64.3031601855,0.475462262648,0.232017888112,0.276496857265,0.193840980572,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14052
+306,"Mathews to Andre Fletcher, FOUR, that's some way to get starting, full and wide outside off from Mathews, Fletcher went hard on the drive, one hand came off as the inside edge was found, still has enough to beat the fielder getting across from deep square legAndre Fletcher and Charles are at the crease.",424,41,21,211.112173845,0.276496857265,0.199706846111,0.165013031256,0.126884103604,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.11174
+307,Andre Fletcher is on strike.,423,4,2,17.316967604,0.165013031256,0.193840980572,0.0451110768537,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173615
+308,Mathews will open the attackA slip is in place for MathewsBoos from the Chinnaswamy crowd as they watch in horror as Gayle doesn't come out to bat.,422,15,14,114.707237944,0.0451110768537,0.126884103604,0.122013876184,0.0447769160227,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18319
+309,"They are screaming 'we want Gayle', he won't come though, unless West Indies self destruct.Welcome back..",421,17,3,60.7686984896,0.122013876184,0.0,0.0,0.123043060736,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.10238
+310,It's tough to defend big scores on this ground and Sri Lanka will try to defend their almost run-a-ball score.,420,14,8,84.1354748797,0.0,0.0447769160227,0.102022898528,0.00987691222518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173155
+311,The only silver lining is that they will not be up against Chris Gayle and will need to do a miracle if they are to bowl to him.,419,8,21,115.14922372,0.102022898528,0.123043060736,0.168121475139,0.234160447956,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+312,"They are in a huddle right now, all set to go.We are getting news that Gayle can't open as he's been off the field for quite some time.",418,16,16,108.54266747,0.168121475139,0.00987691222518,0.111812318445,0.079993331307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14988
+313,It will mean that Charles will open with Fletcher.,417,5,5,37.5958621073,0.111812318445,0.234160447956,0.17032565533,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+314,"Our man Gokul Gopal, is at the ground and he says that Gayle will bat only if absolutely necessary, he's down with a left hamstring injury.",416,16,14,115.502846978,0.17032565533,0.079993331307,0.0270251307357,0.046783928198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+315,What a downer for the Chinnaswamy crowd.Sri Lanka seemed to have arrived at an ice rink in embarrassingly polished spike boots.,415,13,9,96.4532009684,0.0270251307357,0.0,0.0803670879857,0.109301491101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2079
+316,"Babies don't crawl here at Chinnaswamy; everybody sprints - yes, that sort of a pitch.",414,13,6,70.8936713951,0.0803670879857,0.046783928198,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+317,But Sri Lanka underwhelmed overwhelmingly.,413,5,1,25.1155171967,0.0,0.109301491101,0.039579644386,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+318,"As if taming Afghanistan had ushered him to form, Dilshan started with a six but a horror LBW decision cut his long-looking stint short.",412,16,10,105.721902492,0.039579644386,0.0,0.0830483019572,0.0278274142613,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.058825
+319,Brathwaite had struck with his first delivery and then a packed house fused in to unmask the Sanga-Mahela bereft Defending Champions.,411,13,9,91.5688547924,0.0830483019572,0.0,0.0972857019569,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14
+320,Chandimal de Villlier'd himself with a self-inflicted run out and then Badree took over.,410,9,7,53.819843789,0.0972857019569,0.0278274142613,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+321,One.,409,2,0,3.93221886783,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+322,Two.,408,2,0,5.11087386417,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.062505
+323,Three.,407,2,0,5.98634260153,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+324,Poof.,406,2,0,6.9026333334,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+325,"The middle order imploded as Sulieman Benn, with figures of  .",405,8,4,46.1941451471,0.0,0.0,0.0150558434206,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+326,"3, choked runs at the other end.",404,6,3,27.3875750866,0.0150558434206,0.0,0.0,0.023525800152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+327,Mathews and Perera put on a rearguard partnership but it could have only done so much.,403,9,8,68.1915936465,0.0,0.0,0.0208206241394,0.0115262413964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+328,"The former perished eerily trying to duck a full toss, latter then swung his arms but Bravo's roll-the-fingerathon largely ruled what were supposed to be the slog overs.",402,20,11,132.009086801,0.0208206241394,0.023525800152,0.0,0.0854997582747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10345
+329,Join us back as a potentially easy chase beckons Gayle and Co. .,401,10,3,51.2180590066,0.0,0.0115262413964,0.0279901314679,0.0375629242628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+330,"Dwayne Bravo to Jeffrey Vandersay, leg byes, 1 run, appeal for a caught behind, but it went straight off Vandersay's pads, another slower ball from Bravo, Vandersay was shuffling across as he looked to play the paddle sweep, missed and the ball lobbed off the flap of the pads.",400,40,18,186.849200707,0.0279901314679,0.0854997582747,0.116327023902,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.143895
+331,"Ramdin jumped up to collect, the batsmen scampered across for a quick run, given as leg-bye.",399,13,6,61.2220595472,0.116327023902,0.0375629242628,0.0819877098724,0.023286322348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+332,Sri Lanka end up with  .,398,4,2,20.4259509911,0.0819877098724,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+333,"Dushmantha Chameera, right handed bat, comes to the crease .",397,10,2,35.6180939212,0.0,0.023286322348,0.0205481645975,0.107590838245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+334,"Dwayne Bravo to T Perera, out Caught by A Russell!!",396,8,5,29.6562940875,0.0205481645975,0.0,0.189986183197,0.105942303808,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+335,"Another wicket for Bravo, Perera's fighting knock comes to an end.",395,11,3,47.5066885674,0.189986183197,0.107590838245,0.039139097573,0.246025979124,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+336,"It was a full toss on off, Perera was backing away on the heave, doesn't get the required elevation, straight down the throat of Russell at long-on.",394,18,14,100.320281722,0.039139097573,0.105942303808,0.150731013752,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.119045
+337,T Perera c A Russell b Dwayne Bravo  .,393,7,2,15.1786930826,0.150731013752,0.246025979124,0.0,0.712399382772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+338,9) [4s- .,392,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+339,"s-1]Dwayne Bravo to T Perera, THAT'S OUT!!",391,9,4,19.61546728,0.0,0.712399382772,0.0,0.0289878835537,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+340,Caught!,390,2,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+341,"!Jeffrey Vandersay, right handed bat, comes to the crease .",389,11,2,33.4860599294,0.0,0.0289878835537,0.0198643497085,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+342,"Dwayne Bravo to Herath, out Herath Run Out!!",388,8,3,26.2326759797,0.0198643497085,0.0,0.135037229273,0.209485351666,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+343,That's brilliant from Bravo!,387,4,2,16.6070719198,0.135037229273,0.0,0.0,0.0764194948882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+344,"He slipped in the slower delivery on Herath's pads, Herath was looking to nudge it towards the on-side and missed, they were going for the leg-bye as the ball rolled away towards the off-side.",386,22,16,110.03780567,0.0,0.209485351666,0.12009435997,0.129222813577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138955
+345,"Bravo is quick to swoop on the ball, turns around and makes a direct hit at the bowler's end - all in one motion.",385,17,10,91.9832133233,0.12009435997,0.0764194948882,0.0291066925259,0.0847749067205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15909
+346,"Herath was always struggling, we don't even need to go to the third umpire here.",384,11,7,65.1697674184,0.0291066925259,0.129222813577,0.112048179109,0.143033760582,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106
+347,Herath run out (Dwayne Bravo)  .,383,7,1,17.3269837983,0.112048179109,0.0847749067205,0.865850241693,0.503848520391,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123475
+348,")Dwayne Bravo to Herath, THAT'S OUT!!",382,8,3,19.8546969691,0.865850241693,0.143033760582,0.318995171367,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+349,Run Out!!,381,3,1,5.53454962703,0.318995171367,0.503848520391,0.0,0.0553100936586,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+350,.,380,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+351,"Dwayne Bravo to T Perera, 1 run, fuller length delivery and just outside off, Perera makes room and looks to go over cover, gets a thick outside edge - to the left of short third man.",379,29,12,118.671037295,0.0,0.0553100936586,0.0195217313571,0.102837609447,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.091595
+352,"Badree does well to make a half-stop, saves three runs for his team .",378,10,5,50.5184946123,0.0195217313571,0.0,0.0296617054073,0.0298666910275,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+353,"Dwayne Bravo to Herath, 1 run, low full toss on Herath's pads, flicked away towards deep mid-wicket for a single .",377,21,4,64.3550417362,0.0296617054073,0.102837609447,0.386306008841,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.148895
+354,"Dwayne Bravo to T Perera, 1 run, low full-toss outside off, drilled down towards long-off for a singleDwayne Bravo [ .",376,18,6,52.8407143983,0.386306008841,0.0298666910275,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09643
+355,- .,375,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+356,. ],374,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+357,is back into the attack .,373,3,3,16.4529103805,0.0,0.0,0.0,0.0799522526495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+358,"A Russell to Herath, 2 runs, banged in short and just outside off, Herath swivels across and pulls it past mid-wicket.",372,17,8,68.7094790511,0.0,0.0,0.179754127529,0.0999106853395,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+359,"Charles does well to get across, but he slipped as he was about to throw, allows Herath to get back for the second runRangana Herath, left handed bat, comes to the crease .",371,23,14,126.411090836,0.179754127529,0.0799522526495,0.0506019111404,0.130679752017,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10468
+360,"A Russell to Kulasekara, out Bowled!!",370,6,3,17.6648346743,0.0506019111404,0.0999106853395,0.178217665202,0.141854493562,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+361,Russell has a wicket as well!,369,4,3,19.8664083927,0.178217665202,0.130679752017,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+362,A wild swish from Kulasekara and he loses his leg-stump.,368,6,5,36.2677156673,0.0,0.141854493562,0.112843880719,0.212546709876,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+363,"On a good length and holding its line around middle, Kulasekara backed away and swung, missed, turned back to watch his stumps in disarray.",367,20,8,102.394811107,0.112843880719,0.0,0.137730567624,0.120426763316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09434
+364,Kulasekara b A Russell  .,366,4,1,7.78728190989,0.137730567624,0.212546709876,0.753245730762,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+365,")A Russell to Kulasekara, THAT'S OUT!!",365,7,4,15.8495447077,0.753245730762,0.120426763316,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+366,Bowled!!,364,3,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+367,.,363,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+368,"A Russell to T Perera, 1 run, low full-toss on off, thumped towards wide mid-wicket for a single .",362,15,7,42.3477451614,0.0,0.0,0.129535360089,0.203941980299,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.158335
+369,"A Russell to T Perera, no run, on a good length and angling across the left-hander, he backed away on the swing and misses, isn't happy with himself as he walks away .",361,21,17,103.666385288,0.129535360089,0.0,0.137216890231,0.0655010277736,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+370,"A Russell to T Perera, FOUR, cracking shot, Perera is giving his bowlers a total to defend, dug in short and just outside off, Perera swivels across and wallops it over mid-wicket, one bounce and over the ropesRussell is wearing two different shoes.",360,32,18,168.511029171,0.137216890231,0.203941980299,0.121495539582,0.100688634212,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.101695
+371,"One's a white one (the left one), the other (right) is red .",359,14,5,45.6535364627,0.121495539582,0.0655010277736,0.0173822071843,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+372,"A Russell to Kulasekara, 1 run, low full toss outside off, driven straight to the fielder at cover for a singleAndre Russell [ .",358,19,8,69.4843392757,0.0173822071843,0.100688634212,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.117415
+373,- .,357,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+374,. ],356,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+375,is back into the attack .,355,3,3,16.4529103805,0.0,0.0,0.0155268452086,0.0184689568229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+376,"Brathwaite to Kulasekara, 1 run, low full toss from Brathwaite, clipped away to Bravo at deep mid-wicket, just a single, 16 from the over, some respite for Sri Lanka .",354,25,11,101.918283666,0.0155268452086,0.0,0.317665184162,0.0697804843254,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.14405
+377,"Brathwaite to Kulasekara, 2 runs, another length delivery on off, Kulasekara stays deep inside the crease and heaves it over mid-wicket.",353,18,7,72.8103444805,0.317665184162,0.0184689568229,0.105573982668,0.112672650822,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+378,Bravo gets across and keeps the batsmen down to a couple of runs .,352,8,6,45.2483801863,0.105573982668,0.0697804843254,0.0724551072924,0.1002118131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18132
+379,"Brathwaite to T Perera, 1 run, Brathwaite goes for the yorker, ends up offering a low full toss, drilled down towards long-on for a single .",351,21,9,77.1486274652,0.0724551072924,0.112672650822,0.194650611673,0.260120934973,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.116015
+380,"Brathwaite to T Perera, SIX, Perera is playing a fine cameo here, slower length delivery from Brathwaite, Perera watches it all along, gets his left leg out of the way and heaves it high and into the stands at deep mid-wicket .",350,29,18,153.184820445,0.194650611673,0.1002118131,0.219710825819,0.236760096532,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0.10294
+381,"Brathwaite to T Perera, FOUR, handy boundary for Perera, this was full and well outside off, Perera was looking to go over cover, ends up getting a thick outside edge, loops over backward point and rolls away to the fence .",349,31,16,149.863731306,0.219710825819,0.260120934973,0.119322143225,0.100102010214,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.10448
+382,"Brathwaite to Kulasekara, 1 run, slower ball outside off, Kulasekara spotted it early and clubs it towards deep mid-wicket for a single .",348,19,7,70.4754308058,0.119322143225,0.236760096532,0.18558970985,0.193764611656,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11601
+383,"Brathwaite to Kulasekara, wide, Brathwaite spears this one miles down the leg-side, called as a wide .",347,14,6,58.1466938791,0.18558970985,0.100102010214,0.0223869730225,0.0791529427146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+384,"Dwayne Bravo to T Perera, no run, almost cleaned up, it was another slower ball from Bravo, Perera was way too early on the swing and missed, the ball went over the top of middle stump .",346,26,16,130.924739023,0.0223869730225,0.193764611656,0.16702262822,0.299821160634,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12083
+385,"Dwayne Bravo to Kulasekara, 1 run, very full and just outside off, driven back past the bowler for a single .",345,16,8,61.2370421877,0.16702262822,0.0791529427146,0.178912166728,0.284068116666,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+386,"Dwayne Bravo to T Perera, 1 run, change of pace from Bravo, it was full and followed Perera as he backed away, gets a leading edge as he closed the face of the bat, lobs in the air and goes wide of cover-point .",344,30,19,151.219109053,0.178912166728,0.299821160634,0.309929972983,0.147010357276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184325
+387,"Dwayne Bravo to Kulasekara, 1 run, another slower ball from Bravo, turns out to be a full toss, Kulasekara was early into the drive, hits it in the air and nearly lobs a simple catch to extra cover .",343,29,15,138.437245377,0.309929972983,0.284068116666,0.373140242206,0.219077177929,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0.113205
+388,"Dwayne Bravo to Kulasekara, no run, another slower delivery outside off, Kulasekara was pushing forward in defence and is beatenNuwan Kulasekara, right handed bat, comes to the crease .",342,25,9,106.198047298,0.373140242206,0.147010357276,0.139604649544,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+389,"Dwayne Bravo to Mathews, out Caught by Ramdin!!",341,8,3,29.8678629735,0.139604649544,0.219077177929,0.0,0.180125362267,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+390,That's a huge blow for Sri Lanka.,340,6,3,26.3932174456,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+391,"A fluke wicket - by all accounts, but West Indies and Bravo will not be disappointed.",339,10,8,64.7196982657,0.0,0.180125362267,0.052829666913,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.19762
+392,"Bravo was attempting a slower ball, the ball slipped out of his hands and looped towards the batsman, on the full.",338,14,10,74.2289497487,0.052829666913,0.0,0.131132339713,0.295211123773,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12766
+393,"Mathews was a fair way down the track, he was down on his knees as well, played the shot way too early.",337,13,12,87.1628109064,0.131132339713,0.0,0.0333188882541,0.405905238425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098035
+394,The ball looped off the top-edge and it's a simple catch for Ramdin.,336,8,7,38.5836218172,0.0333188882541,0.295211123773,0.106617306512,0.140418387105,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.174965
+395,"Mathews was happy to walk back, but umpire Aleem Dar stopped him, they checked for the replays - it only confirmed that the ball was on its way down, Mathews was well down the crease and the batsman has been sent on his way.",335,24,24,176.926101711,0.106617306512,0.405905238425,0.102690812725,0.145183787769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10188
+396,Mathews c Ramdin b Dwayne Bravo  .,334,7,0,15.3902619687,0.102690812725,0.140418387105,0.688628060408,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+397,"2)Dwayne Bravo to Mathews, THAT'S OUT!!",333,9,3,19.440263191,0.688628060408,0.145183787769,0.0,0.116669489229,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+398,Caught!,332,2,0,4.95672318435,0.0,0.0,0.303588203196,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+399,"!Mathews has being caught, the umpires want to look for a high full toss.",331,11,6,55.5254225318,0.303588203196,0.116669489229,0.0554013393935,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.23203
+400,"It was on its way down, Mathews was way down the crease as well.",330,7,9,51.4447451155,0.0554013393935,0.0,0.0,0.292045863989,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+401,OUT will stay .,329,2,2,14.5315131146,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03448
+402,"Dwayne Bravo to Mathews, wide, Bravo slips one way down the leg-side, called as a wideDwayne Bravo [ .",328,17,5,61.2648986942,0.0,0.292045863989,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+403,- .,327,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+404,. ],326,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+405,is back into the attack .,325,3,3,16.4529103805,0.0,0.0,0.0205688629455,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+406,"Brathwaite to Mathews, 1 run, low full toss on Mathews' pads, whipped away past the square leg umpire for a single .",324,21,5,70.0191749524,0.0205688629455,0.0,0.164047481174,0.099476794329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.14405
+407,"Brathwaite to T Perera, 1 run, on a length and just outside off, Perera prods across and slugs it towards deep mid-wicket for a single .",323,18,11,69.9964503203,0.164047481174,0.0,0.180428212479,0.231179683843,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16082
+408,"Brathwaite to T Perera, no run, another wide yorker from Brathwaite, Perera had made room outside leg and can't do anything about itCurtly Ambrose, the West Indies bowling coach, is watching like a hawk from the dug-out, he will be pleased with this bowling performance .",322,35,18,184.437883807,0.180428212479,0.099476794329,0.105346398359,0.159746909067,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109975
+409,"Brathwaite to Mathews, 1 run, fuller length delivery and on Mathews' pads, flicked past the square leg umpire for a single .",321,20,6,69.5338638901,0.105346398359,0.231179683843,0.158932840349,0.152631953301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+410,"Brathwaite to T Perera, 1 run, slower length delivery outside off, Perera was backing away and hacks it towards deep mid-wicket, just a singleFree Hit .",320,22,8,81.0695105224,0.158932840349,0.159746909067,0.279263712881,0.361289920746,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+411,"Brathwaite to T Perera, no ball, FOUR, that's a gift from Brathwaite, a waist high full toss, called no-ball for height, Perera was backing away, has to reach out and gets a toe-end, past Ramdin and into the fence .",319,32,17,132.996647166,0.279263712881,0.152631953301,0.266759312848,0.14261151061,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.098845
+412,"Brathwaite to T Perera, no run, fuller length delivery and just inside the tramlines outside off, the wide yorker from Brathwaite.",318,16,9,71.492087459,0.266759312848,0.361289920746,0.164032808331,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+413,Perera had given himself roon and lets it goCarlos Brathwaite [ .,317,8,4,49.6483808765,0.164032808331,0.14261151061,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+414,- .,316,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+415,. ],315,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+416,is back into the attack .,314,3,3,16.4529103805,0.0,0.0,0.020162657896,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+417,"Benn to T Perera, 1 run, very full and just outside off, Perera squeezes it square on the off-side, just a single.",313,16,11,60.0844063359,0.020162657896,0.0,0.105692651541,0.00863119806188,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+418,"End of Benn for today,  .",312,5,2,20.4046164143,0.105692651541,0.0,0.0,0.136816576382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+419,"3 are his figures, he's done a wonderful job in keeping the pressure going .",311,11,6,58.9337761207,0.0,0.00863119806188,0.024189580449,0.0416441484575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.129035
+420,"Benn to Mathews, 1 run, Mathews comes down the track, takes the ball on the full and whips it towards deep mid-wicket for a single .",310,19,10,74.4709380804,0.024189580449,0.136816576382,0.258978192002,0.259483766256,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15659
+421,"Benn to T Perera, 1 run, Benn gets his line right, low full toss on Perera's pads, whipped away to the left of long-on for a single .",309,24,9,82.817326207,0.258978192002,0.0416441484575,0.310206939158,0.303374277098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12566
+422,"Benn to T Perera, FOUR, rare bad ball from Benn, looks to go very full, ends up offering a full toss, thumped back past the umpire, no chance for the men in the deep .",308,28,13,130.246660064,0.310206939158,0.259483766256,0.118407988544,0.161165093035,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.14067
+423,"Benn to Mathews, 1 run, flighted delivery and on the stumps, Mathews makes room and drills it towards long-on for a single .",307,18,8,65.8666775981,0.118407988544,0.303374277098,0.312977915396,0.333143266048,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+424,"Benn to Mathews, no run, nicely bowled by Benn, shortens his length and gets it to turn across Mathews, he was left poking and is beaten on the outside edge .",306,22,13,112.216598055,0.312977915396,0.161165093035,0.154923424263,0.246065397208,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+425,"A Russell to T Perera, no run, on a length and on the stumps, Perera makes room for the swing, just manages an inside edge towards short fine, can't steal a run either .",305,26,14,107.522158028,0.154923424263,0.333143266048,0.219695426612,0.405075233154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+426,"A Russell to Mathews, 1 run, very full and on off, Mathews squeezes it in front of square on the on-side for a run .",304,15,13,61.9775382696,0.219695426612,0.246065397208,0.233331239938,0.220717172291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.175
+427,"A Russell to T Perera, 1 run, short and on the stumps, cramped Perera for room, he mistimes the pull to the left of mid-wicket for a single .",303,19,14,77.3943912185,0.233331239938,0.405075233154,0.38167915559,0.226997012692,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.163635
+428,"A Russell to T Perera, no run, the slower bouncer from Russell, good comeback after being hit for a boundary, Perera was way too early on the pull and misses, goes to the keeper on the bounce .",302,24,19,130.34622049,0.38167915559,0.220717172291,0.269155710894,0.1975349437,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.11111
+429,"A Russell to T Perera, FOUR, much needed boundary for Sri Lanka!",301,11,4,40.3361554537,0.269155710894,0.226997012692,0.0764613850113,0.218299039945,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.170455
+430,"Russell misses his yorker, ends up offering a length delivery on off, Perera gets forward and thumps it back over the non-striker's head, the fielder at long-off can't stop the ball, despite the dive .",300,28,13,117.787530769,0.0764613850113,0.1975349437,0.210368250749,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+431,"A Russell to T Perera, no run, slower delivery outside off, Perera went hard on the drive and mistimes it towards extra coverAndre Russell [ .",299,20,9,80.3157308838,0.210368250749,0.218299039945,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+432,- .,298,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+433,. ],297,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+434,is back into the attack .,296,3,3,16.4529103805,0.0,0.0,0.0168875407877,0.101234195857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+435,"Benn to T Perera, 1 run, tossed up and on the leg-stump line, turns out to be a low full-toss, Perera makes room and drives it towards long-on.",295,21,12,78.3567243498,0.0168875407877,0.0,0.0422629060402,0.0786909508538,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09434
+436,"Bravo fumbled for a moment but is quick to release the ball, keeps the batsmen down to just a single.",294,11,11,70.8787378974,0.0422629060402,0.101234195857,0.0,0.126372376877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+437,Another tight over from Benn .,293,4,2,23.0242233639,0.0,0.0786909508538,0.0984333731997,0.132150116228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+438,"Benn to Mathews, 1 run, flighted and on the stumps, worked away in front of square on the on-side for a single .",292,16,10,61.6057910384,0.0984333731997,0.126372376877,0.267461802592,0.24453003552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160175
+439,"Benn to Mathews, no run, Benn keeps it very full and on off, Mathews can't get underneath the delivery, ends up jamming it hard onto the ground and straight to the fielder at cover .",291,25,15,121.309298315,0.267461802592,0.132150116228,0.642125204745,0.374909496349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08772
+440,"Benn to Mathews, no run, Benn keeps it full and just outside off, Mathews can't get underneath the length, driven back at the bowler .",290,21,9,80.8950808053,0.642125204745,0.24453003552,0.574542437607,0.520336431274,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+441,"Benn to Mathews, no run, flighted delivery and on off, driven back towards the bowler .",289,13,6,48.3590285462,0.574542437607,0.374909496349,0.648743109533,0.160650517923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+442,"Benn to Mathews, no run, very full and on off, dug back towards the bowler .",288,12,7,48.1930899106,0.648743109533,0.520336431274,0.160535611998,0.16946346999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+443,"Dwayne Bravo to Mathews, 1 run, on a good length and just outside off, chipped over wide mid-on, just a single as the fielder rushes across from deep mid-wicket .",287,22,12,89.8610834846,0.160535611998,0.160650517923,0.170724611936,0.0511188620393,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.098835
+444,"Dwayne Bravo to Mathews, 2 runs, another deceptive slower full toss from Bravo, completely befuddled Mathews, he had to wait an eternity for the ball to arrive, ends up jabbing it towards backward point and calls for a quick single.",286,32,14,159.427171727,0.170724611936,0.16946346999,0.147644218801,0.180455436609,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09892
+445,"Fletcher charges in, slipped as he went down to collect, ends up conceding an extra run .",285,12,7,69.3223906859,0.147644218801,0.0511188620393,0.0227628367051,0.0788015269349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+446,"Dwayne Bravo to T Perera, 1 run, very full and angling across the left-hander, jammed with hard hands, just a single towards cover .",284,20,8,73.664124157,0.0227628367051,0.180455436609,0.314122960291,0.158647026078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+447,"Dwayne Bravo to Mathews, 1 run, full toss from Bravo, eased down towards long-on for a single .",283,16,5,49.8898303944,0.314122960291,0.0788015269349,0.331119893857,0.362378225408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12959
+448,"Dwayne Bravo to Mathews, no run, another slower delivery from Bravo, very deceptive as well, looped past Mathews as he hung his bat at that, beaten on the outside edge .",282,24,12,116.132989007,0.331119893857,0.158647026078,0.254403974107,0.0146737137673,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10083
+449,"Dwayne Bravo to T Perera, 2 wides, the slower ball from Bravo, ends up slipping it down the leg-side.",281,15,8,59.6057188012,0.254403974107,0.362378225408,0.0221883926388,0.248407647043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101315
+450,Ramdin can't stop it cleanly and allows an extra run .,280,9,3,39.3760635981,0.0221883926388,0.0146737137673,0.0405179599011,0.0505009681738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+451,"Dwayne Bravo to Mathews, 1 run, very full and on the stumps, eased down towards long-on for a single .",279,15,8,53.2218552728,0.0405179599011,0.248407647043,0.125220520916,0.20526127381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+452,"Benn to Mathews, 1 run, Benn drifts one back into Mathews, he watchfully pushes it wide of cover, retains the strike with that run .",278,21,8,89.8968424042,0.125220520916,0.0505009681738,0.315703456845,0.316404484182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+453,"Benn to Mathews, no run, flighted delivery and on off, Mathews stabs forward and defends it with a straight bat .",277,15,9,66.8623635522,0.315703456845,0.20526127381,0.386397387711,0.383712878703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+454,"Benn to Mathews, no run, tossed up and on the stumps, Mathews nudges it towards square leg .",276,14,7,57.9335043443,0.386397387711,0.316404484182,0.309662441432,0.17979967133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.102565
+455,"Benn to Mathews, no run, slower and just outside off, pitches and grips across the right-hander, Mathews prods forward and is beaten .",275,18,9,75.9830834712,0.309662441432,0.383712878703,0.115030664359,0.109929238411,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+456,"Benn to T Perera, leg byes, 1 run, pushed through flatter and quicker, ends up drifting onto Perera's pads, he looks to clip and misses, the ball rolls away to the left of short fine.",274,31,12,132.265163418,0.115030664359,0.17979967133,0.023413962575,0.188919835194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+457,Gayle runs across and stops it with his boots .,273,6,4,36.9437728245,0.023413962575,0.109929238411,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+458,"Benn to Mathews, 1 run, tossed up on Mathews' pads, worked in front of square on the on-side for a singleSulieman Benn [ .",272,19,9,69.5032019544,0.0,0.188919835194,0.0,0.0177833106129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.160175
+459,- .,271,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+460,-0] is back into the attack .,270,5,3,16.4529103805,0.0,0.0177833106129,0.0,0.0893663244513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+461,"Dwayne Bravo to Mathews, 1 run, Bravo keeps it full and outside off, punched down towards long-on for a run .",269,17,7,57.1585516052,0.0,0.0,0.372743237058,0.380486296539,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+462,"Dwayne Bravo to Mathews, 2 runs, very full and on the stumps, Mathews uses his bottom hand to good effect and whips it wide of long-on, comes back for the second run .",268,25,12,111.688734952,0.372743237058,0.0893663244513,0.267241294609,0.153840584662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136785
+463,"Dwayne Bravo to Mathews, no run, the slower ball from Bravo, rolled his fingers around it.",267,14,6,58.6168031187,0.267241294609,0.380486296539,0.126244246968,0.260823075588,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+464,Mathews pushed it straight to the fielder at point .,266,6,4,32.6344570167,0.126244246968,0.153840584662,0.2152434846,0.116741451465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+465,"Dwayne Bravo to T Perera, 1 run, short and wide from Bravo, Perera rides with the bounce and cuts it up and over point, one bounce and to the fielder in the deep .",265,22,16,107.483712588,0.2152434846,0.260823075588,0.253512400635,0.211487151185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11724
+466,"Dwayne Bravo to Mathews, 1 run, Bravo keeps it full and on the off-stump line, eased down towards long-on for a single .",264,18,8,61.1683100505,0.253512400635,0.116741451465,0.382221083373,0.24876817895,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+467,"Dwayne Bravo to Mathews, no run, very full and holding its line outside off, Mathews was looking to drive and is beaten on the outside edgeDwayne Bravo, right-arm fast medium, comes into the attack .",263,26,14,123.572855684,0.382221083373,0.211487151185,0.0741060291118,0.113297042194,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+468,"Badree to Mathews, 1 run, Badree finishes his bowling stint with another wrong 'un, but it's way too short, punched down towards long-off for a single .",262,23,9,91.6435832288,0.0741060291118,0.24876817895,0.105851354333,0.14519872414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102915
+469,"Badree to T Perera, 1 run, flatter and on the stumps, whipped away past mid-wicket for a singleThisara Perera, left handed bat, comes to the crease .",261,23,9,80.1116625807,0.105851354333,0.113297042194,0.101895126682,0.0743592574154,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15316
+470,"Badree to Siriwardana, out Caught by Gayle!!",260,7,3,26.1311567647,0.101895126682,0.14519872414,0.0708043357814,0.14303060752,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+471,"Badree is on fire, West Indies are on fire and Sri Lanka are going nowhere.",259,11,6,64.6798841658,0.0708043357814,0.0743592574154,0.0292985914033,0.172124925744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+472,"They have now lost half their side, this was the straighter one from Badree, following his two googlies, Siriwardana was pushing forward, didn't read the ball one bit, gets a thick outside edge and it's a simple catch for Gayle - at first slip.",258,34,18,182.610202399,0.0292985914033,0.14303060752,0.05075791817,0.217148996876,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.104065
+473,"Celebrations in the Windies camp, Sri Lanka are in a huge mess now.",257,9,6,56.9818836143,0.05075791817,0.172124925744,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.202385
+474,Siriwardana c Gayle b Badree  .,256,6,0,11.6535557599,0.0,0.217148996876,0.624493531344,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+475,")Badree to Siriwardana, THAT'S OUT!!",255,7,3,15.9267005335,0.624493531344,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+476,Caught!!,254,3,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+477,.,253,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+478,"Badree to Siriwardana, no run, another googly and Siriwardana is all at sea!",252,10,6,50.6015635237,0.0,0.0,0.0490512723448,0.34904245556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+479,"This one shaped across the left-hander, he pushed forward to the original line and is beaten once again .",251,11,9,70.1216563406,0.0490512723448,0.0,0.244606102141,0.0153546441347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151515
+480,"Badree to Siriwardana, no run, the wrong 'un from Badree, drifts across the left-hander, Siriwardana prodded forward and missedMilinda Siriwardana, left handed bat, comes to the crease .",250,26,8,94.3370818658,0.244606102141,0.34904245556,0.152116530985,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+481,"Badree to Kapugedera, out Stumped!!",249,6,2,19.2996773475,0.152116530985,0.0153546441347,0.0,0.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+482,Things are falling apart for Sri Lanka!,248,6,2,34.3162108708,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+483,Smiles on the West Indian faces as another player self destructs.,247,9,3,55.5536588205,0.0,0.0,0.00697999793003,0.00732141018619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163475
+484,"Kapugedera made his intentions known, came charging down the track, Badree shortened his length and slipped it wider outside off.",246,16,7,91.4013616588,0.00697999793003,0.0,0.0558211138402,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+485,"Kapugedera was in no position to play any shot, ends up hacking across the line and missed, easy stumping for Ramdin.",245,15,9,91.3867112938,0.0558211138402,0.00732141018619,0.0530517079472,0.174456402162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+486,Are we in for an early end tonight?,244,4,5,35.3671387348,0.0530517079472,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.09524
+487,Kapugedera st Ramdin b Badree  .,243,6,0,18.9019349667,0.0,0.174456402162,0.384002244533,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+488,"0) [4s-1]Badree to Kapugedera, THAT'S OUT!!",242,11,3,16.4547679637,0.384002244533,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+489,Stumped!!,241,3,0,5.98634260153,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+490,.,240,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+491,"Brathwaite to Mathews, no run, full toss from Brathwaite, that was a gift from the bowler, but Mathews has been very defensive so far and only pats it towards cover .",239,19,16,114.404188809,0.0,0.0,0.131109765872,0.095075172028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.118445
+492,"Brathwaite to Kapugedera, leg byes, 1 run, fuller length delivery and on Kapugedera's pads, he was looking to flick and missed, sneaks in a leg-bye as the ball rolls away towards the on-side .",238,28,12,106.275925263,0.131109765872,0.0,0.173887341137,0.562030685121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+493,"Brathwaite to Kapugedera, wide, aborted appeal for a caught behind, but the umpire isn't amused as he signals a wide.",237,16,9,77.8400917713,0.173887341137,0.095075172028,0.12979118166,0.138999250351,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+494,"Brathwaite slipped one down the leg-side, Kapugedera was looking to flick and missed .",236,10,5,45.7728958887,0.12979118166,0.562030685121,0.137626290896,0.180792634858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+495,"Brathwaite to Mathews, 1 run, short of a length and angling into Mathews' hips, he hops across and nudges it behind square on the on-side for a run .",235,21,12,87.4485530796,0.137626290896,0.138999250351,0.151359003346,0.308867347272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+496,"Brathwaite to Kapugedera, 1 run, Brathwaite attempts another yorker, ends up offering a low full-toss, driven towards long-on for a single .",234,21,5,68.0147706195,0.151359003346,0.180792634858,0.273347114086,0.226730918612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.093305
+497,"Brathwaite to Kapugedera, no run, yorker length delivery and angling back late into the right-hander, Kapugedera watches it all along and jams it towards the on-side .",233,20,10,89.9180552624,0.273347114086,0.308867347272,0.307727221438,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109655
+498,"Brathwaite to Kapugedera, no run, short of a good length and coming from wide of the crease, Kapugedera tucks it in front of mid-wicket, Mathews wanted a run and is sent backCarlos Brathwaite [ .",232,25,14,112.55137926,0.307727221438,0.226730918612,0.0,0.0590727084412,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.163265
+499,- .,231,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+500,-1] is back into the attack .,230,5,3,16.4529103805,0.0,0.0590727084412,0.0263438269058,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+501,"Badree to Kapugedera, 1 run, the slider this time around, went straight on after pitching, Kapugedera was playing for the spin, pushed forward and gets an inside edge towards mid-wicket, scurries across for a quick single .",229,31,12,138.892307077,0.0263438269058,0.0,0.300394843168,0.308201276597,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11924
+502,"Badree to Kapugedera, no run, tossed up and on off, Kapugedera gets well forward and defends it with soft hands .",228,15,9,73.2916432137,0.300394843168,0.0,0.340179202499,0.17224750476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.07143
+503,"Badree to Kapugedera, no run, the wrong 'un from Badree, but the length was slightly short, allows Kapugedera to go back and work it towards mid-wicket .",227,21,10,86.412190611,0.340179202499,0.308201276597,0.187474329786,0.131514510717,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+504,"Badree to Mathews, 1 run, Badree tosses one on Mathews' pads, clipped away behind square on the on-side for a run .",226,20,6,64.2266065109,0.187474329786,0.17224750476,0.332457839183,0.158056498943,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.14067
+505,"Badree to Mathews, no run, flighted and on off, Mathews gets forward and defends itA slip in place for MathewsAngelo Mathews, right handed bat, comes to the crease .",225,24,10,104.677592251,0.332457839183,0.131514510717,0.0832968265321,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+506,"Badree to Thirimanne, out Caught by Andre Fletcher!!",224,8,3,29.5323736003,0.0832968265321,0.158056498943,0.0,0.101253563348,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1489
+507,Sri Lanka slump into further trouble!,223,5,2,31.745506335,0.0,0.0,0.0,0.105006633826,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+508,"This was tossed up invitingly outside off, Thirimanne was looking to go over cover, the bat turned on impact and he ended up slicing it towards point.",222,17,13,110.244608167,0.0,0.101253563348,0.0828794948081,0.119758955041,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.093305
+509,"An absolute dolly for Fletcher, West Indies are making serious inroads into this Sri Lankan batting line-up.",221,14,5,78.0726393554,0.0828794948081,0.105006633826,0.0221958146206,0.0563395086838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.280265
+510,"Another failure for Thirimanne, he trudges off in disappointment.",220,7,4,41.2332269249,0.0221958146206,0.119758955041,0.207002404216,0.163548418936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+511,Thirimanne c Andre Fletcher b Badree  . ),219,8,0,15.0547725954,0.207002404216,0.0563395086838,0.522124070643,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.164085
+512,"[4s-1]Badree to Thirimanne, THAT'S OUT!!",218,9,3,16.8176734574,0.522124070643,0.163548418936,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+513,Caught!!,217,3,0,4.95672318435,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+514,.,216,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+515,"A Russell to Kapugedera, FOUR, too short and too wide from Russell, Kapugedera gets on top of the bounce and cracks it behind square on the off-side, beat the diving fielder at backward point, no chance for third man, getting across to his right .",215,32,19,164.625070585,0.0,0.0,0.3294333405,0.143966739135,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.121305
+516,"A Russell to Kapugedera, no run, the bouncer from Russell, Kapugedera drops his wrists and sways away from the line .",214,15,9,72.9114052233,0.3294333405,0.0,0.100812181526,0.155760998794,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.125905
+517,"A Russell to Thirimanne, 1 run, short of a length and just outside off, cramped Thirimanne for room as he looked to pull, mistimes it past mid-wicket for a run .",213,21,14,92.0601047032,0.100812181526,0.143966739135,0.439923592233,0.392171010662,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.108695
+518,"A Russell to Thirimanne, FOUR, nicely played by Thirimanne, fraction too short from Russell, Thirimanne swivels across and pulls it over mid-wicket, no one in the deep and it's a welcome boundary for Thirimanne .",212,26,15,126.020131839,0.439923592233,0.155760998794,0.474204984041,0.398897386397,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0.11765
+519,"A Russell to Thirimanne, no run, Russell sprays this one miles outside off, Thirimanne went for the cut and missed .",211,16,8,71.5274182982,0.474204984041,0.392171010662,0.479744817105,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+520,"A Russell to Thirimanne, no run, on a good length and angling across the left-hander, Thirimanne went hard on the cut and is beaten on the top-edgeAndre Russell [ .",210,20,13,81.3726348877,0.479744817105,0.398897386397,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13745
+521,- .,209,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+522,. ],208,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+523,"is back into the attackChamara Kapugedera, right handed bat, comes to the crease .",207,11,5,48.3652678865,0.0,0.0,0.0168071442723,0.028405506116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+524,"Badree to Chandimal, out Chandimal Run Out!!",206,7,3,22.3573232776,0.0168071442723,0.0,0.208925821418,0.116272861378,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+525,A rocket throw from Charles and that's the end of Chandimal.,205,7,6,39.1287573862,0.208925821418,0.028405506116,0.100262140419,0.116289457659,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+526,"This was pushed through flatter and just outside off, Chandimal backed away on the cut, hits it to the left of cover-point and set-off for a quick single, Thirimanne wasn't budging though, asks his partner to rush back.",204,26,18,139.081827145,0.100262140419,0.116272861378,0.183621315641,0.0810381237889,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09259
+527,"Charles was quick on the ball, cut the angles down and rifled in a sharp return to the keeper.",203,11,10,72.1872533734,0.183621315641,0.116289457659,0.0461510654264,0.113882897155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123315
+528,"Easy work for Ramdin, even the dive didn't save Chandimal, was caught short by a couple of inches.",202,15,7,80.2615850216,0.0461510654264,0.0810381237889,0.192683557862,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1489
+529,Chandimal run out (Charles/Ramdin)  .,201,6,1,9.51941222834,0.192683557862,0.113882897155,0.0,0.44200392344,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+530,8) [4s- .,200,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+531,"s-1]Badree to Chandimal, THAT'S OUT!!",199,8,3,15.979344267,0.0,0.44200392344,0.36031841691,0.187142587069,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+532,Run Out!,198,2,1,5.53454962703,0.36031841691,0.0,0.519381131485,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+533,!Appeal for a run-out.,197,4,2,8.61230981591,0.519381131485,0.187142587069,0.0,0.296874465875,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+534,"Chandimal put in the dive, but he looks to be in serious trouble.",196,8,7,53.9664314074,0.0,0.0,0.143857157796,0.120493101526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+535,He's OUT .,195,2,2,6.58507572903,0.143857157796,0.296874465875,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+536,"Badree to Chandimal, no run, flatter and outside off, Chandimal backs away and went hard on the cut, Fletcher misses the ball at cover-point, but Charles backs him well and prevents a run .",194,26,13,113.649272791,0.0,0.120493101526,0.455821856827,0.315153388846,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+537,"Badree to Chandimal, no run, slower and drifting away from outside off, Chandimal makes room for the cut and misses .",193,16,8,70.8496267758,0.455821856827,0.0,0.381195244907,0.349603085569,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+538,"Badree to Chandimal, no run, tossed up and on off, Chandimal gets half-forward and drives it back towards the bowler .",192,15,9,61.4621688022,0.381195244907,0.315153388846,0.346170901413,0.529412647069,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.093025
+539,"Badree to Chandimal, 2 runs, Badree tosses one on Chandimal's pads, worked away past square leg, comes back for the second run .",191,24,4,80.624948506,0.346170901413,0.349603085569,0.398750964744,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12763
+540,"Badree to Chandimal, no run, flighted and on off, Chandimal prods forward and pushes it back at the bowlerSamuel Badree [ .",190,16,9,71.1711225582,0.398750964744,0.529412647069,0.0,0.0921205932183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+541,- .,189,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+542,-0] is back into the attack .,188,5,3,16.4529103805,0.0,0.0921205932183,0.0698365443154,0.172613525104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+543,"Brathwaite to Chandimal, 1 run, back of a length and just outside off, dabbed down towards third man for a singleSlip moves across towards square leg .",187,21,9,88.6242214223,0.0698365443154,0.0,0.253756299349,0.162043811144,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1059
+544,"Brathwaite to Chandimal, SIX, cracking shot, the back of the hand slower ball from Brathwaite, sat up to be hit, Chandimal walked into the ball, gets outside the line and clubs it over square leg for a maximum .",186,29,16,142.063215063,0.253756299349,0.172613525104,0.184217142195,0.195258767919,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.12861
+545,"Brathwaite to Thirimanne, leg byes, 1 run, tad fuller and on Thirimanne's pads, he misses the flick once again and takes a leg-bye as the ball rolls away towards the on-side .",185,25,12,106.564999275,0.184217142195,0.162043811144,0.125677404814,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114755
+546,"Brathwaite to Chandimal, 1 run, short of a good length and just outside off, eased down towards third man for a singleReplays in: The impact was in front of leg-stump, would have been slanting down.",184,24,17,119.826796624,0.125677404814,0.195258767919,0.0,0.185705803517,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14338
+547,Poor call from umpire Cloethe .,183,5,1,28.4604894357,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0303
+548,"Brathwaite to Thirimanne, leg byes, 1 run, on a good length and on Thirimanne's pads, Thirimanne was looking to work it towards the on-side and missed, sneaks in a leg-byeLahiru Thirimanne, left handed bat, comes to the crease .",182,33,14,120.815690535,0.0,0.185705803517,0.0881774981544,0.0429383068521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12566
+549,"Brathwaite to Dilshan, out Lbw!!",181,6,2,18.7597151296,0.0881774981544,0.0,0.232539333508,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+550,"Brathwaite strikes with his first ball, Dilshan isn't happy one bit, but he has to go.",180,13,7,66.7347333835,0.232539333508,0.0429383068521,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+551,Was it sliding down the leg-side?,179,3,4,17.5625546659,0.0,0.0,0.0257615833863,0.19233338408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+552,That's the only issue here.,178,3,4,21.7751989261,0.0257615833863,0.0,0.0158340581601,0.0862006542004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+553,"This was full and angled back into the right-hander, Dilshan got his left leg out of the way as he aimed to slog it over mid-wicket, missed it completely and got struck bang in front of middle and leg, was pretty deep in his crease as well.",177,28,23,177.303245234,0.0158340581601,0.19233338408,0.155988585888,0.0702665988134,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.118775
+554,"The umpire reckoned that it was hitting the leg-stump, up goes the finger and Brathwaite exults in delight.",176,11,9,69.9901145228,0.155988585888,0.0862006542004,0.0983335425858,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+555,Dilshan lbw b Brathwaite  .,175,5,0,13.8388855495,0.0983335425858,0.0702665988134,0.0,0.564887145703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.028575
+556,0) [4s- .,174,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+557,"s-1]Brathwaite to Dilshan, THAT'S OUT!!",173,8,3,16.3848093751,0.0,0.564887145703,0.0,0.13839878634,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.051285
+558,Lbw!,172,2,0,5.51633897228,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+559,"!Carlos Brathwaite, right-arm fast medium, comes into the attack .",171,11,2,36.5421520521,0.0,0.13839878634,0.0247852244769,0.124517642073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+560,"Benn to Chandimal, no run, pushed through quicker and coming back with the angle, cramped Chandimal for room, he was looking to nudge it towards the on-side and is hit high on the pads, just one run from the over, excellent start from Benn .",170,30,21,161.09158148,0.0247852244769,0.0,0.558330612154,0.230925646667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098595
+561,"Benn to Chandimal, no run, Benn drifts one into the right-hander, Chandimal was looking to tuck it towards the on-side and is hit on the pads .",169,18,12,81.2863531994,0.558330612154,0.124517642073,0.252575507327,0.268876785343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136685
+562,"Benn to Dilshan, 1 run, flighted delivery and on off, Dilshan bends down low, rolls his wrists and sweeps it behind square on the on-side for a run .",168,21,12,92.0057012949,0.252575507327,0.230925646667,0.348830344108,0.400381124552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10083
+563,"Benn to Dilshan, no run, full and way outside off from Benn, Dilshan reaches and drives it straight to the fielder at cover-pointLong-on is up, mid-off goes back .",167,21,12,90.5148939538,0.348830344108,0.268876785343,0.586102398769,0.475503207884,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101695
+564,"Benn to Dilshan, no run, flighted and just outside off, Dilshan gets forward and drives it towards Russell at mid-off .",166,16,8,64.749090969,0.586102398769,0.400381124552,0.348185231996,0.0662914287974,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+565,"Benn to Dilshan, no run, full and wide from Benn, would have been called had Dilshan let it go, driven straight to the fielder at coverSulieman Benn, left-arm orthodox, comes into the attackA slip for Benn .",165,29,14,142.456439832,0.348185231996,0.475503207884,0.0513175310925,0.187767058314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10969
+566,"Badree to Chandimal, FOUR, that ruins the over for Badree, gave this one slightly more air, Chandimal is quick to get down and sweeps it up and over square leg, a couple of bounces and over the ropes .",164,24,20,147.416762283,0.0513175310925,0.0662914287974,0.183432170506,0.2804757567,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12308
+567,"Badree to Dilshan, 1 run, Badree keeps it short and just outside off, Dilshan hangs back and works it towards long-on for a run .",163,19,9,72.830184869,0.183432170506,0.187767058314,0.440577207483,0.327554988492,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08995
+568,"Badree to Chandimal, 1 run, Badree drops one short and just outside off, Chandimal goes back and wristily whips it in front of long-on, just a single .",162,22,10,89.3327552535,0.440577207483,0.2804757567,0.448007528491,0.461835708973,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.11628
+569,"Badree to Chandimal, no run, fraction short and just outside off, Chandimal rocks back and cuts it straight to the fielder at cover-point .",161,17,10,77.4233695894,0.448007528491,0.327554988492,0.417523376007,0.267957871864,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07895
+570,"Badree to Chandimal, no run, Badree tosses one outside off, Chandimal gets forward and defends it towards mid-off .",160,17,5,59.9334332446,0.417523376007,0.461835708973,0.352679868888,0.230453940065,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09091
+571,"Badree to Chandimal, no run, pushed through flatter and quicker, Chandimal backs away and mistimes the chop towards the off-sideSamuel Badree, right-arm leg break, comes into the attackBadree from the other end.. .",159,26,12,114.246234576,0.352679868888,0.267957871864,0.0711954576181,0.098693248317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09836
+572,"A Russell to Dilshan, no run, back of a length and on off, Dilshan watches it all along and defends itJust one slip now.",158,16,12,83.6430156343,0.0711954576181,0.230453940065,0.0297310035788,0.164504131159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+573,A deep square leg and a fine leg in place.. .,157,7,4,26.6817792676,0.0297310035788,0.098693248317,0.248538134361,0.120147969199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+574,"A Russell to Chandimal, leg byes, 1 run, short of a length and on Chandimal's thigh pads, he looks to clip and misses, rolls away behind square on the on-side for a leg-bye .",156,27,13,99.9376907313,0.248538134361,0.164504131159,0.418300120274,0.328689022998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10494
+575,"A Russell to Dilshan, leg byes, 1 run, on a good length and angling back into Dilshan's pads, he was looking to clip and misses, Chandimal calls for a quick single as the ball rolled in front of point, beats the throw with ease .",155,34,18,157.564745322,0.418300120274,0.120147969199,0.37785516721,0.278134047684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11878
+576,"A Russell to Dilshan, FOUR, this is a great start from Dilshan, too full and on Dilshan's pads, whipped away in front of square on the on-side, beats mid-wicket and rolls away to the fence for a boundary .",154,27,18,124.041109644,0.37785516721,0.328689022998,0.363272557935,0.0712923979296,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0.16221
+577,"A Russell to Dilshan, SIX, cracking shot, no sighters for Dilshan, on a good length and just outside off, Dilshan gets forward and swings across the line, sends it soaring over mid-wicket for a maximum .",153,27,15,124.038241311,0.363272557935,0.278134047684,0.0575072535886,0.194536798049,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0.1059
+578,"A Russell to Chandimal, 1 run, a direct hit and Chandimal might have been walking back to the hut.",152,14,8,65.0246840638,0.0575072535886,0.0712923979296,0.133460450896,0.21383589737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+579,"Risky single first up, but Bravo's throw is wayward, on a good length and a hint of shape away from off, Chandimal pushes it in front of cover and sets off for a suicidal run, was well short had the stumps been brokenChandimal and Dilshan are at the crease.",151,30,25,186.363357745,0.133460450896,0.194536798049,0.130109042661,0.0714594876829,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.143205
+580,Chandimal is on strike.,150,3,2,15.0024682694,0.130109042661,0.21383589737,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+581,A Russell will open the attackTwo slips in place as Russell steams in..West Indies are in a huddle.,149,11,8,68.7229838107,0.0,0.0714594876829,0.2304181409,0.0161688491243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.232035
+582,The batsmen are out in the middle as well..The anthems are over.,148,5,8,42.8695397688,0.2304181409,0.0,0.0633587174718,0.0768430382711,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+583,It's the first match of  .,147,4,3,16.791698501,0.0633587174718,0.0161688491243,0.026622430473,0.0172887308576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+584,WT20 at Bengaluru in the men's competition.,146,6,3,31.8476129683,0.026622430473,0.0768430382711,0.0108150719458,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+585,"Chris Gayle is a big crowd favourite here, can he treat the crowd with his pyrotechnics?",145,10,8,68.6708792525,0.0108150719458,0.0172887308576,0.0,0.0389203707762,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14561
+586,That's for later though.,144,4,2,18.3199041304,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+587,"It's Sri Lanka who are batting first, what will be a par score on this ground?Teams:West Indies (Playing XI): Chris Gayle, Johnson Charles, Marlon Samuels, Andre Fletcher, Dwayne Bravo, Andre Russell, Denesh Ramdin(w), Darren Sammy(c), Carlos Brathwaite, Samuel Badree, Sulieman BennSri Lanka (Playing XI): Tillakaratne Dilshan, Dinesh Chandimal(w), Lahiru Thirimanne, Chamara Kapugedera, Angelo Mathews(c), Milinda Siriwardana, Thisara Perera, Nuwan Kulasekara, Jeffrey Vandersay, Dushmantha Chameera, Rangana HerathMathews: ""Doesn't matter but we wanted to bowl as well.",143,109,14,378.269824442,0.0,0.0389203707762,0.0,0.0514881127474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096965
+588,Wicket wouldn't change much.,142,6,0,20.0231594743,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+589,Missing Lasith is a big blow but we have a young leg spinner who is in the team today and he is very attacking.,141,11,14,98.6939465185,0.0,0.0514881127474,0.201064360727,0.0543782652427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138855
+590,We have what we have and we need to move on.,140,3,9,43.8206161587,0.201064360727,0.0,0.162349584213,0.210604482258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+591,We are getting better and better from the practice games.,139,6,5,46.2588965099,0.162349584213,0.0543782652427,0.0662975637099,0.0119660042921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+592,"""Sammy: ""We're going to bowl first.",138,9,2,27.6858473308,0.0662975637099,0.210604482258,0.0,0.129855947177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+593,Chris [Gayle] knows the wicket very well here.,137,8,3,34.2581563669,0.0,0.0119660042921,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+594,We have played a lot of IPL cricket and we know that it's a tough ground to defend.,136,10,10,72.460702871,0.0,0.129855947177,0.0943957820061,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+595,"Everytime we play a Test, ODI and T20I his name is always up there.",135,9,7,67.0118320339,0.0943957820061,0.0,0.0853038852801,0.0125286375579,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+596,But there are enough match winners in our dressing room too.,134,6,6,54.5173204653,0.0853038852801,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+597,Hope to restrict them to a low total and then chase.,133,6,6,46.5607424425,0.0,0.0125286375579,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+598,Spinners have been the ones getting wickets against us.,132,6,4,44.6256849137,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+599,One change with Fletcher coming in for Jerome.,131,6,3,34.5166578541,0.0,0.0,0.0,0.0380841534329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151115
+600,It does feel like a home game.,130,5,3,31.4045797481,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+601,"""West Indies have won the toss and have opted to fieldThe captains are out in the centre for the toss..""The pitch at the Chinnaswamy are always exciting more from the batsman's point of view.",129,19,20,139.280047871,0.0,0.0380841534329,0.0918152767861,0.020296074492,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.21075
+602,This pitch was used  .,128,3,2,18.3614531333,0.0918152767861,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+603,days ago in a women's match.,127,6,2,27.7632354732,0.0,0.020296074492,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+604,You can see some dry dark patches.,126,5,3,41.438498993,0.0,0.0,0.118098396786,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+605,Among it is some live grass.,125,4,3,31.1446876727,0.118098396786,0.0,0.0443747914914,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147865
+606,It's rolled pretty well.,124,5,1,18.6672884005,0.0443747914914,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+607,"From what I observed from the women's game, the ball skids on when new.",123,9,8,58.0887951446,0.0,0.0,0.0523248742739,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+608,"But then the slower bowlers got some purchase,"" a very observant Ian Bishop at the pitch reportHere's a shameless plug from our preview: Gayle has scored just 76 runs in five T20Is against Sri Lanka with 63 of them coming in one match.",122,29,19,201.181613634,0.0523248742739,0.0,0.0275534858944,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153175
+609,His strike rate of  .,121,3,2,17.9960620765,0.0275534858944,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+610,0 vs. SL (overall career SR  .,120,8,0,26.3941380093,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+611,4) is the worst for him against a particular opposition.,119,6,6,36.1361170819,0.0,0.0,0.00928853968525,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198875
+612,That should let you put your thinking cap on till the all-important toss arrives.,118,9,6,68.6097507256,0.00928853968525,0.0,0.0,0.00467446821724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.074075
+613,.,117,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+614,"5pm local: With the ""Big 3"" slots being mostly full nowadays (coins say clink-clink), Sri Lanka and West Indies have each other.",116,22,7,100.195781621,0.0,0.00467446821724,0.0,0.107978534478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.228945
+615,Meaning they lock horns often.,115,5,1,30.6577140131,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+616,"With a win each in this WT20, the campaigns - both Caribbean and Lankan - aren't quite urgent.",114,12,9,74.1653136316,0.0,0.107978534478,0.0,0.0417216873697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+617,But someone's gotta give tonight.,113,7,1,28.5812530995,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.055555
+618,"The victories were largely a result of their respective batting patriarchs bulking runs, with the supporting cast acting all flat and minor.",112,15,9,110.395269755,0.0,0.0417216873697,0.0437791091352,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+619,Today's a chance for the hairdressers and the makeup artists to come to the fore.,111,9,8,57.703676161,0.0437791091352,0.0,0.0,0.0301382475295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20348
+620,Consider this: Sri Lanka have a  .,110,5,3,22.422504873,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+621,"lead in WT20s (yes, the only loss is that  .",109,7,5,41.7947178116,0.0,0.0301382475295,0.038581907612,0.0559290019954,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+622,WT20 final) but don't let that stat fool you.,108,8,4,49.8968895035,0.038581907612,0.0,0.0316695281097,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+623,The fact that Sri Lanka are the current defending champions borders on a hyperbole.,107,9,6,60.4709634942,0.0316695281097,0.0559290019954,0.0603403961743,0.0147274968633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163925
+624,"They are in tatters, more so Malinga-less, and West Indies book berth as the favourites.",106,10,8,64.3667137893,0.0603403961743,0.0,0.0065228967875,0.0102085109651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+625,"Yes, Mathews seems to have cartwheeled back to form but we won't turn the stove off just yet.",105,13,8,74.3471186394,0.0065228967875,0.0147274968633,0.0474805733458,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.075
+626,"No assumptions, remember?Chinnaswamy agreeably is mostly flat but then again, Dharamsala was supposed to be a run mill of sorts and India were supposed to scooter their way to the Eden Gardens finale.",104,22,16,161.063540588,0.0474805733458,0.0102085109651,0.0994823871705,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+627,Don't make assumptions this World T20.,103,6,2,32.4544018726,0.0994823871705,0.0,0.329835865274,0.0356085154997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+628,Just don't.,102,2,2,9.48445076317,0.329835865274,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+629,"You'd be better off in auditioning for an ice road trucker than making pitch predictions, or any predictions this tournament.",101,13,10,109.089911924,0.0,0.0356085154997,0.0665964499643,0.0648512886358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+630,This is T20.,100,2,2,11.9676632625,0.0665964499643,0.0,0.416280211403,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+631,This is India.,99,2,2,12.2189776908,0.416280211403,0.0648512886358,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+632,Now you know.,98,2,2,16.1474657081,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.049995
+633,.,97,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+634,0pm local: Ben-Gayle-uru.,96,5,0,12.8889759349,0.0,0.0,0.0,0.0690775800738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+635,Unusually hot Bengaluru.,95,4,0,19.003151908,0.0,0.0,0.163346545769,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+636,"Gayle's crime scene Bengaluru, where he averages  .",94,8,2,38.4265598391,0.163346545769,0.0690775800738,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+637,"7, has scored 3 hundreds and 8 fifties across 35 T20 innings.",93,12,2,47.4838372061,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.151315
+638,Phew.,92,2,0,6.49716822529,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+639,This is the first men's WT20 match being staged at the Chinnaswamy stadium.,91,9,6,58.4352911602,0.0,0.0,0.0,0.0600273709189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.235715
+640,Pitch report seems distant and there's enough time to say a little prayer.,90,11,4,65.0193813971,0.0,0.0,0.0,0.0106363157681,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+641,"This tournament does feel haunted by the spin-demons, doesn't it?",89,7,6,43.4538352211,0.0,0.0600273709189,0.0,0.0112382135262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+642,And these overdoses are getting spicier for our weak T20 tummies.,88,7,5,59.4953262395,0.0,0.0106363157681,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+643,How can the pitches rip so much?,87,4,4,35.1914698034,0.0,0.0112382135262,0.245076604905,0.295195286527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+644,How can T20s dare to be nauseatingly low-scoring?,86,5,4,35.6404058389,0.245076604905,0.0,0.393232965161,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+645,How can T20s threaten a redemption?,85,4,3,29.7769682186,0.393232965161,0.295195286527,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+646,.,84,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+647,"5pm local: Chopping, grinding, grating, mincing, shredding, mashing, pulverizing - Chris Gayle's bat is that one kitchen tool you need.",83,26,3,107.835370011,0.0,0.0,0.0830038608385,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+648,Need to bake oppositions into submission?,82,5,2,31.5869013049,0.0830038608385,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+649,"Just team up with him, like Sammy has.",81,5,5,36.3863677719,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+650,Because Chris Gayle is gravity.,80,4,2,24.8749883361,0.0,0.0,0.329021723017,0.416957547062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184315
+651,Chris Gayle is box office.,79,5,1,25.2804534442,0.329021723017,0.0,0.408826411636,0.396708517203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184315
+652,Chris Gayle is pyrotechnics.,78,4,1,17.9723550027,0.408826411636,0.416957547062,0.502734617991,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+653,Chris Gayle is hangman.,77,4,1,18.3778201108,0.502734617991,0.396708517203,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+654,His latest WT20 campaign kick-started with a 47-ball century that housed 13 sixes - two more than what England themselves managed whilst successfully chasing  .,76,17,8,117.629732068,0.0,0.0,0.0,0.0374277879354,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.058825
+655,vs. South Africa.,75,4,0,13.8052666668,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+656,"Now, that's imposing.",74,4,2,14.806633721,0.0,0.0374277879354,0.107401667307,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+657,"Gayle also dwarfed Brendon McCullum to become the leading T20I six-hitter, now finding himself just two short of  .",73,14,6,85.6244430981,0.107401667307,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.126315
+658,sixes.,72,2,0,5.98634260153,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.06667
+659,Phew.,71,2,0,6.49716822529,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+660,The sheer fact that he wasn't the record-holder already amuses me more.,70,7,7,50.7580272902,0.0,0.0,0.0239541701472,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+661,"Today, he runs into Sri Lanka - a creaking machinery, parts of which have now been temporarily glued together by Dilshan.",69,15,9,97.57499867,0.0239541701472,0.0,0.0136110755867,0.0552937729921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165245
+662,"A hello and welcome from Pratyush Sinha to Namma Bengaluru.Preview
+
+Fresh off convincing victories in their respective opening matches of ICC World Twenty20,  .",68,17,8,111.59585471,0.0136110755867,0.0,0.0101353889077,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+663,", West Indies and Sri Lanka will be eager to extend the momentum when they lock horns at the M Chinnaswamy Stadium on Sunday (March 20).",67,18,11,111.637623798,0.0101353889077,0.0552937729921,0.0114095738383,0.00503481409885,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.394585
+664,While Chris Gayle's unbeaten ton helped the Darren Sammy-led side chase down  .,66,11,3,56.1065180763,0.0114095738383,0.0,0.0943963486361,0.0348252110556,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15705
+665,", Angelo Mathews's team had Tillakaratne Dilshan to thank as his 83 not-out helped them overcome a spirited Afghanistan.",65,15,6,84.0946960893,0.0943963486361,0.00503481409885,0.022598975115,0.107720563529,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+666,"Both Gayle and Dilshan, who know the venue like the back of their hand, having played plenty of matches for Royal Challengers Bangalore in the Indian Premier League, will be key when their teams face off in a crucial match between the table-toppers of Group 1.",64,28,22,206.377285484,0.022598975115,0.0348252110556,0.106886935844,0.0794580934689,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17643
+667,"The Sri Lankan top-order, in the match against Afghanistan, comprised Dilshan, Dinesh Chandimal, Lahiru Thirimanne and Thisara Perera.",63,18,5,77.0013592063,0.106886935844,0.107720563529,0.0635600633129,0.103033173633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+668,"While the veteran opener was back to his best after a string of poor scores, the in-form Chandimal fell after a promising start.",62,14,11,96.9180106812,0.0635600633129,0.0794580934689,0.0264296855657,0.129684928949,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+669,"Perera, Thirimanne and Chamara Kapugedera, however, did not have the kind of outing they would have hoped for.",61,13,9,81.4995604746,0.0264296855657,0.103033173633,0.0507531868491,0.166288290085,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+670,"In the last few months, it has been tough going for the Sri Lankan batting department after the retirements of Kumar Sangakkara and Mahela Jayawardene.",60,15,12,118.724242234,0.0507531868491,0.129684928949,0.0,0.0797549313595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23688
+671,"That said, they do have enough experience, which they will hope to capitalise.",59,8,8,64.5801487453,0.0,0.166288290085,0.0236604636076,0.0109316445738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04
+672,"That Mathews himself had a useful outing with the bat in their previous game augurs well for the team, but the rest of the batsmen also need to put their hands up.",58,17,17,134.030180839,0.0236604636076,0.0797549313595,0.0261922778758,0.228066803579,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20577
+673,"With Lasith Malinga heading back to Sri Lanka after failing to recover from his injury, Sri Lanka's bowling department suffered a big setback.",57,19,7,109.35556552,0.0261922778758,0.0109316445738,0.0942421036007,0.12843123366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113945
+674,"But they do have the men for the job in Nuwan Kulasekara and Dushmantha Chameera, with Mathews and Perera providing the back-up in their seam-bowling arsenal.",56,14,14,96.1478248412,0.0942421036007,0.228066803579,0.0748414106262,0.0494704593194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13034
+675,"Sri Lanka will be hoping that Kulasekara finds his rhythm soon, as the bowler went in excess of 10 against Afghanistan.",55,14,9,98.5063073621,0.0748414106262,0.12843123366,0.0,0.124448574074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+676,"Perera, too, was a touch expensive.",54,6,3,24.9617397209,0.0,0.0494704593194,0.0357292355508,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+677,"Rangana Herath was frugal in that game, and also got amongst the wickets, and he will be eager to continue in the same vein.",53,14,13,105.602547698,0.0357292355508,0.124448574074,0.0839626242141,0.0115702838335,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+678,"Currently at the top of the table, thanks to their victory against England, West Indies got the start they would have hoped for.",52,15,11,103.207308342,0.0839626242141,0.0,0.0705770513355,0.0994227150175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25327
+679,"Apart from Gayle, Marlon Samuels too had a good outing with the bat against Eoin Morgan's side.",51,13,7,75.9998749253,0.0705770513355,0.0115702838335,0.00830470451386,0.0048752411031,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+680,Andre Russell also got to spend some quality time out in the middle.,50,9,5,56.3089875912,0.00830470451386,0.0994227150175,0.0382908727818,0.0297200364536,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+681,"Failures for Johnson Charles, Denesh Ramdin and Dwayne Bravo will be a concern for the Caribbean team, who will be hoping that they spring back in style in their upcoming game.",49,19,15,138.427677628,0.0382908727818,0.0048752411031,0.0668987313964,0.0579356804273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+682,None of the West Indian bowlers had an economy rate below seven in their first match.,48,10,7,80.9296960392,0.0668987313964,0.0297200364536,0.0361449456116,0.116345793289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.197625
+683,"Considering that it was at Wankhede - a batting-friendly wicket, in which England proved that even a target of  .",47,11,10,69.3936409025,0.0361449456116,0.0579356804273,0.0,0.0772135294068,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14706
+684,"is not safe, the bowlers cannot be faulted much.",46,6,6,47.2742458729,0.0,0.116345793289,0.0997024568582,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+685,"However, they will, in all likelihood, be at the mercy of the batsmen again, with the Chinnaswamy stadium having providing run-fests more often than not with its short boundaries and pitches that are belters.",45,18,21,154.775147398,0.0997024568582,0.0772135294068,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157765
+686,"When: Sri Lanka vs West Indies, 21st Match, Super 10 Group 1,  .",44,16,1,58.9623127008,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.223265
+687,"0 PM GMT,  .",43,5,0,13.3998015587,0.0,0.0,0.193195118495,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+688,"0 PM IST
+
+Where: M Chinnaswamy stadium, Bengaluru
+
+What to expect: Cloudy with a high of 32 degree Celsius.",42,16,7,88.8254839286,0.193195118495,0.0,0.0252041004342,0.0545895681731,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105075
+689,This will the first men's game of this edition to be played at this venue.,41,8,9,63.6117023106,0.0252041004342,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+690,"Bengaluru, which has hosted two women's games so far, saw India and England posting  .",40,14,4,78.4035040457,0.0,0.0545895681731,0.0925066616272,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+691,and  .,39,1,1,1.98630871878,0.0925066616272,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+692,respectively while batting first.,38,4,1,22.640720034,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+693,"Considering the power-hitters in both teams for the game on Sunday, a high-scoring entertainer is on the cards.",37,10,10,62.5365117937,0.0,0.0,0.0294936759261,0.0984695560142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.174965
+694,"Team News:
+
+Sri Lanka - Sri Lanka may not think of too many changes to the eleven that took the field against Afghanistan.",36,17,8,103.084070932,0.0294936759261,0.0,0.18869433289,0.0322435987834,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+695,"However, Graham Ford, the Sri Lanka team coach, said they are still undecided on the combination and the batting order for the match.",35,18,9,101.414335546,0.18869433289,0.0984695560142,0.170397511591,0.0591657450869,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+696,"""We haven't finalised our plans in terms of the batting order.",34,8,6,52.5990619215,0.170397511591,0.0322435987834,0.229819681143,0.140789064264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15662
+697,We haven't had the time to look at the surface yet.,33,6,7,45.24474747,0.229819681143,0.0591657450869,0.0545186057617,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+698,"So there is quite a bit of discussion left to decide on how we'll be going about our business.""",32,10,12,87.0204683853,0.0545186057617,0.140789064264,0.0,0.0511913954845,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+699,"West Indies - ""Score runs, simple.""",31,10,0,24.7398678856,0.0,0.0,0.154971931021,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+700,"This will be West Indies' plan to counter a batting track, according to skipper Darren Sammy.",30,13,6,73.6283498634,0.154971931021,0.0511913954845,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14561
+701,There were no talks of the team combination from the captain and it is likely that they'll go in with an unchanged eleven.,29,10,15,99.1010234446,0.0,0.0,0.0975448440817,0.0500614491654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17807
+702,"What they said:
+
+It's nice if an experienced player bats a long period and the younger players can bat around him.",28,14,10,100.270554688,0.0975448440817,0.0,0.159737972909,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+703,"But I do believe that some of those younger players can start to do the same things as [Tillakaratne] Dilshan did the other night: Graham Ford, Sri Lanka coach
+
+It's a plus for us.",27,21,19,156.102406052,0.159737972909,0.0500614491654,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121685
+704,"Chris [Gayle] has played, I think five IPL seasons here in Bangalore.",26,12,4,57.8561097172,0.0,0.0,0.242291549568,0.109735037544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+705,I played here last year.,25,4,2,23.5544099842,0.242291549568,0.0,0.125399504443,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+706,We have a lot of knowledge of the conditions here in India.,24,5,8,49.2919081609,0.125399504443,0.109735037544,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+707,But T20 is about momentum.,23,3,3,23.7838110259,0.0,0.0,0.0341311156226,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+708,"Every ball is an event: Darren Sammy, West Indies captain
+
+Did you know:
+
+Sri Lanka lead West Indies  .",22,18,4,90.8456230708,0.0341311156226,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17489
+709,in World T20s.,21,3,1,13.4189723057,0.0,0.0,0.275100406226,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24314
+710,"Their only loss came in the final of World T20,  .",20,7,5,46.0968512835,0.275100406226,0.0,0.0,0.139018224976,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.606065
+711,.,19,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+712,Tillakaratne Dilshan has played the most matches in World T20s - 32.,18,9,4,54.4953016717,0.0,0.139018224976,0.35149021578,0.00949895387245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26667
+713,He has appeared in all matches for Sri Lanka in World T20.,17,7,6,52.1880850132,0.35149021578,0.0,0.0,0.10934459686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24348
+714,Chris Gayle needs two sixes to become the first player to hit  .,16,10,3,53.9131973646,0.0,0.00949895387245,0.240181633739,0.122070341741,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.280555
+715,sixes in T20Is.,15,3,1,14.5821231155,0.240181633739,0.10934459686,0.0,0.160885007407,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.12879
+716,Gayle averages  .,14,3,0,9.59313906892,0.0,0.122070341741,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+717,7 in T20s in Chinnaswamy Stadium.,13,5,2,22.0147528196,0.0,0.160885007407,0.0654785759137,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23182
+718,"He has scored three hundreds and eight fifties in 35 innings here, including the world record of  .",12,12,7,84.2652726109,0.0654785759137,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.24651
+719,*.,11,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+720,"Dilshan, who used to open with Gayle for RCB, averages  .",10,9,4,45.7416725741,0.0,0.0,0.0,0.0822894090719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+721,1 in Chinnaswamy - his best at a ground outside home (minimum 10 T20s).,9,13,4,54.5133739863,0.0,0.0,0.0420799532572,0.0800324207804,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+722,Gayle has scored just 76 runs in five T20Is against Sri Lanka with 63 of them coming in one match.,8,13,8,92.6773631089,0.0420799532572,0.0822894090719,0.0419577304962,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167575
+723,His strike rate of  .,7,3,2,17.9960620765,0.0419577304962,0.0800324207804,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+724,0 (to overall career SR  .,6,6,1,21.1603591639,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+725,4) is the worst for him against a particular opposition.,5,6,6,36.1361170819,0.0,0.0,0.0,0.121916412834,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198875
+726,Dilshan averages  .,4,3,0,10.1417050207,0.0,0.0,0.0,0.211507190842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+727,6 against West Indies with four fifties in eight T20Is.,3,8,3,42.8074906135,0.0,0.121916412834,0.173460864809,0.394883726781,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.236365
+728,"West Indies would be relieved with the absence of one man in the opposition camp - Ajanta Mendis, who averages  .",2,15,7,89.8367292725,0.173460864809,0.211507190842,0.0979494617671,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.220835
+729,0 against them in 5 T20Is with a strike rate of  .,1,6,6,37.2348037839,0.0979494617671,0.394883726781,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2079
+730,.,0,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

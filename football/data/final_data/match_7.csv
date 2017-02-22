@@ -1,0 +1,197 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Morning all!,11.01am,2,1,9.30831091945,0.0,0.0,0.0,0.0856918448639,0,0.02273,0,0,0,0,0,0,0,0,0,0
+1,"Sports Mole's live La Liga coverage continues from Pamplona as basement side Osasuna welcome the Spanish champions Barcelona, who have drawn their last three league games.",11.01am,23,6,102.615572224,0.0,0.0,0.134225015732,0.0,0,0.20722,0,0,0,0,1,0,0,0,0,0
+2,"Osasuna are in danger of being cut adrift at the bottom of La Liga, but they can expect no favours from a Barcelona team that need all three points to keep pace with leaders Real Madrid.",11.01am,21,17,134.257307541,0.134225015732,0.0856918448639,0.0,0.0860024517336,0,0.26147,0,0,0,0,0,0,0,0,0,0
+3,Should be a good game!,11.01am,3,3,17.4366022756,0.0,0.0,0.0,0.0,0,0.04651,0,0,0,0,0,0,0,0,0,0
+4,Osasuna have only won one of their last 10 league games against Barcelona – suffering seven defeats in the process and failing to score in six of those fixtures.,11.04am,17,13,101.77460665,0.0,0.0860024517336,0.0947538889034,0.097723612938,0,0.16714,1,0,0,0,0,0,0,0,0,0
+5,"Last season, Barcelona thumped Osasuna 7-0 at Camp Nou, but the points were actually shared in this stadium.",11.04am,15,6,62.960165312,0.0947538889034,0.0,0.121922941839,0.00757763087823,0,0.116665,0,0,0,0,0,0,0,0,0,0
+6,Osasuna's last success over the Catalan side also came in this particular ground – a 3-2 victory in February 2012.,11.04am,16,6,68.8517231942,0.121922941839,0.097723612938,0.00683280778897,0.0602967510534,0,0.161825,0,0,0,0,0,0,0,0,0,0
+7,"Right, let me bring you up-to-speed with the all-important team news from Pamplona.",11.07am,10,5,47.9061046575,0.00683280778897,0.00757763087823,0.0242879232682,0.145492439016,0,0.067795,0,0,0,0,0,0,0,0,0,0
+8,"Osasuna have had a free week to prepare for this match, but Barcelona were in Champions League action at home to Borussia Monchengladbach on Wednesday night.",11.07am,16,12,92.4359645649,0.0242879232682,0.0602967510534,0.0799949716126,0.00942210849954,0,0.13944,0,0,0,0,0,0,0,0,0,0
+9,Let's have a look at the two teams...,11.07am,6,4,25.1108428993,0.0799949716126,0.145492439016,0.0822447874152,0.115846610968,0,0.174615,0,0,0,0,0,0,0,0,0,0
+10,"TEAMS!OSASUNA: Perez; Oier, Flano, Marquez, Clerc; Alex, Causic, Torres, De las Cuevas; Riera, LeonBARCA: Ter Stegen; Roberto, Umtiti, Pique, Alba; Busquets, Gomes, Iniesta; Turan, Suarez, Messi",11.10am,50,0,117.642490126,0.0822447874152,0.00942210849954,0.0410238861653,0.0363897261133,0,0.116805,0,0,0,0,0,0,0,0,0,0
+11,"Osasuna boss Joaquin Caparros has made two changes to the team that lost 3-1 at Sporting Gijon last weekend, with Sergio Leon and Alex Berenguer taking the places of Kenan and Imanol Garcia.",11.13am,25,10,130.485458664,0.0410238861653,0.115846610968,0.114623263428,0.0415424151161,0,0.107725,0,0,0,1,0,0,0,0,0,0
+12,"Four of Osasuna's 13 league goals this season have been scored by Sergio Leon and the 27-year-old continues in the final third alongside Oriol Riera, leaving former Newcastle striker Emmanuel Riviere on the bench.",11.13am,26,11,131.851972807,0.114623263428,0.0363897261133,0.108930126622,0.0690430023162,1,0.16073,0,0,0,0,0,0,0,0,0,0
+13,"As for Barcelona, all of the big guns have returned after being rested in the Champions League during the week.",11.16am,10,12,71.0203362515,0.108930126622,0.0415424151161,0.138636507944,0.0290569810503,0,0.16501,0,0,0,0,0,0,0,0,0,0
+14,"Sergi Roberto, Gerard Pique and Jordi Alba have all returned to the back four, while Luis Suarez replaces Paco Alcacer at centre-forward.",11.16am,18,7,86.7893618739,0.138636507944,0.0690430023162,0.0141841776067,0.038526164558,0,0.098915,0,0,0,0,0,0,0,0,0,0
+15,"Neymar is suspended, however, which has allowed Arda Turan, who scored a hat-trick against Gladbach, to keep his spot in the final third.© SilverHub",11.16am,18,10,87.87891725,0.0141841776067,0.0290569810503,0.0,0.028372937037,0,0.115125,0,0,0,0,0,0,0,0,0,0
+16,So there we have it.,11.19am,1,5,18.4696099348,0.0,0.038526164558,0.0866893892445,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+17,The two teams are in and we are now just about 40 minutes from kickoff on this mild afternoon in Pamplona.,11.19am,9,13,75.7953647801,0.0866893892445,0.028372937037,0.128611059644,0.0689808250208,0,0.142135,0,0,0,0,0,0,0,0,0,0
+18,"I shall talk about the home side and their struggles a little bit later, but let's first focus on Barcelona.",11.19am,15,8,73.0264348423,0.128611059644,0.0,0.0281939952893,0.0479065681757,0,0.1,0,0,0,0,0,0,0,0,0,0
+19,Luis Enrique's side will enter this match in second spot in La Liga – six points behind the league leaders Real Madrid following El Clasico at Camp Nou last weekend.,11.19am,26,6,117.449920282,0.0281939952893,0.0689808250208,0.209059873128,0.173230817657,0,0.183915,0,1,0,0,0,0,0,0,0,0
+20,"It did appear that Barcelona would move to within three points of Real Madrid last weekend when they led into the latter stages of El Clasico, but Sergio Ramos had other ideas as the centre-back equalised for Los Blancos late on.",11.22am,26,17,161.05454802,0.209059873128,0.0479065681757,0.139015588699,0.113704487028,0,0.21895,0,0,0,0,0,0,0,0,0,0
+21,"As a result, Barcelona have now shared the points in each of their last three in Spain's top flight – including a 1-1 draw in their last away game at Real Sociedad.",11.22am,21,14,106.536190029,0.139015588699,0.173230817657,0.0730948919295,0.101312209271,0,0.21659,0,0,0,0,1,0,0,0,0,0
+22,"Barcelona are actually only one point ahead of third-place Sevilla and just three points clear of fourth-place Atletico Madrid, which is an indication of just how important this match is for the champions.",11.25am,19,16,114.461376224,0.0730948919295,0.113704487028,0.0682446124448,0.039323488841,0,0.10562,0,0,0,0,0,0,0,0,0,0
+23,"After taking on Osasuna, they will welcome Espanyol on December 18 in what will be their final match before the winter break, which lasts in La Liga until the weekend of January 7.© SilverHub",11.25am,19,17,129.101832554,0.0682446124448,0.101312209271,0.0189476317788,0.0718949274517,0,0.220335,0,1,0,0,0,0,0,0,0,0
+24,"Lionel Messi loves playing against most teams, but the Argentine's record against Osasuna is quite sensational.",11.28am,13,6,66.8052938167,0.0189476317788,0.039323488841,0.085658131269,0.0,0,0.135385,0,0,0,0,0,0,0,0,0,0
+25,"Indeed, he has netted 15 goals in his last eight appearances against this particular opposition – four of which have come in this very stadium.",11.28am,15,12,96.9699409489,0.085658131269,0.0718949274517,0.0,0.0427731247462,1,0.080645,0,0,0,0,0,0,1,0,0,0
+26,I fancy him to add to that total today!,11.28am,5,5,35.3459862506,0.0,0.0,0.0320533581443,0.0351708804161,0,0.04255,0,0,0,0,0,0,0,0,0,0
+27,"Barcelona were back to winning ways in the Champions League on Wednesday night, however, with Turan netting a treble in a 4-0 victory over Gladbach.",11.32am,18,10,87.9414491135,0.0320533581443,0.0427731247462,0.0366776029336,0.0603768845365,0,0.17238,0,1,0,0,0,0,0,0,0,0
+28,"It was a much-changed XI that overcame the German outfit, but all of the big guns are back this afternoon and only three points will do if they have serious ambitions of catching a very impressive and indeed unbeaten Real Madrid side at the summit.",11.32am,23,24,162.428416368,0.0366776029336,0.0351708804161,0.132088290434,0.0610069644996,0,0.173225,0,0,0,0,0,0,0,0,0,0
+29,"As for Osasuna, they dropped out of La Liga at the end of the 2013-14 campaign after finishing in 18th position and actually finished 18th in the Segunda Division - Spain's second tier - in 2014-15, which was a very difficult period for the club.",11.35am,28,21,149.63179281,0.132088290434,0.0603768845365,0.183027992132,0.141900343976,0,0.20325,0,0,0,0,0,0,1,0,0,0
+30,"They came through the Segunda playoffs last season after finishing sixth in the table, however, to secure a return to the top flight of Spanish football.© Getty Images",11.35am,19,11,104.439637731,0.183027992132,0.0610069644996,0.137703368785,0.0593442482674,0,0.15199,0,0,0,0,0,0,0,0,0,0
+31,"It has been a very difficult opening 14 games to the season, however, with Osasuna only collecting seven points.",11.38am,13,9,67.9285520245,0.137703368785,0.141900343976,0.00865378810312,0.0441917655443,0,0.10526,0,0,0,0,0,0,0,0,0,0
+32,"Indeed, they have recorded just one win and lost nine times in the process.",11.38am,10,6,54.5562992502,0.00865378810312,0.0593442482674,0.0381952809227,0.0576733435201,0,0.107325,0,1,0,1,0,0,0,0,0,0
+33,"Meanwhile, Caparros's side will enter this match off the back of four successive league defeats, which has included losses to relegation rivals Granada and Sporting Gijon in their last two fixtures.",11.38am,24,11,126.089189208,0.0381952809227,0.0441917655443,0.170818990947,0.0417888236391,0,0.12941,0,0,0,0,0,0,0,0,0,0
+34,"Whether or not Osasuna can survive this season is not going to depend on their results against the likes of Barcelona, but they will travel to Deportivo La Coruna next weekend, before taking on Valencia and Granada in their two games after the international break.",11.42am,25,23,175.973021186,0.170818990947,0.0576733435201,0.0686850410582,0.0,0,0.287165,0,0,0,0,0,0,0,0,0,0
+35,Somewhere along the line things need to change if they have serious ambitions of moving out of the bottom three.,11.42am,12,9,75.4655470637,0.0686850410582,0.0417888236391,0.0,0.0,0,0.152425,0,0,0,0,0,0,0,0,0,0
+36,Ambos equipos ya calientan sobre el terreno de juego de El Sadar.,11.45am,13,0,63.18885828,0.0,0.0,0.0,0.0,0,0.01852,0,0,0,0,0,0,0,0,0,0
+37,"¡Vamos, rojillos!",11.45am,4,0,5.59005654818,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+38,"#OsasunaBarça 💪🏻⚽️ pic.twitter.com/0LctDLEr0H— CA OSASUNA (@CAOsasuna) December 10, 2016",11.45am,14,0,32.6083030391,0.0,0.0,0.0106633634591,0.0,0,0.04,0,0,0,0,0,0,0,0,0,0
+39,"It is not as if Osasuna have a strong home record to rely upon – they have only won one of their last 14 La Liga matches in this stadium, suffering eight defeats in the process.",11.48am,20,18,128.030953358,0.0106633634591,0.0,0.188248055417,0.0467508460632,0,0.15825,1,0,0,0,0,0,0,0,0,0
+40,"Meanwhile, they have only scored four times on home soil this term, which is the lowest return in the division.",11.48am,13,10,76.137733209,0.188248055417,0.0,0.045806803081,0.0335767840156,0,0.11924,0,0,0,0,0,0,0,0,0,0
+41,"All the statistics point to a very difficult afternoon for the strugglers, but we could be in for a surprise!",11.48am,9,13,62.0616822148,0.045806803081,0.0467508460632,0.0293084542931,0.0,0,0.112905,0,0,0,0,0,0,0,0,0,0
+42,"1 - Osasuna have won just one of their last ten league games against Barcelona (D2 L7), failing to score in six of them.",11.52am,18,10,82.0627742428,0.0293084542931,0.0335767840156,0.0,0.0295737791305,0,0.114755,1,0,0,0,0,0,0,0,0,0
+43,"Tether.— OptaJose (@OptaJose) December 10, 2016",11.52am,10,0,24.1436202511,0.0,0.0,0.0,0.0,0,0.02222,0,0,0,0,0,0,0,0,0,0
+44,"A reminder of the two teams this afternoon...OSASUNA: Perez; Oier, Flano, Marquez, Clerc; Alex, Causic, Torres, De las Cuevas; Riera, LeonBARCA: Ter Stegen; Roberto, Umtiti, Pique, Alba; Busquets, Gomes, Iniesta; Turan, Suarez, Messi",11.55am,53,4,137.495862637,0.0,0.0295737791305,0.0095519228793,0.0453260922634,0,0.119135,0,0,0,0,0,0,0,0,0,0
+45,Here we go then - the pre-match handshakes have been undertaken and the flags have been exchanged.,11.58am,8,10,59.2426297213,0.0095519228793,0.0,0.0,0.0,0,0.08,0,0,0,0,0,0,0,0,0,0
+46,"Victory for Barcelona would move them to within three points of league leaders Real Madrid, while a win for Osasuna would move them to within two points of safety.",11.58am,21,10,106.05349119,0.0,0.0453260922634,0.0,0.0,0,0.259245,0,1,0,0,0,0,0,0,0,0
+47,Stay tuned!,11.58am,3,0,10.7746479882,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+48,KICKOFF!,0 min,2,0,5.18459144007,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+49,Barcelona kick things off in Pamplona...,0 min,5,2,21.9394029468,0.0,0.0,0.0,0.078829177002,0,0.091995,0,0,0,0,0,0,0,0,0,0
+50,"... not quite a full house inside the stadium, but there is a good atmosphere and the home supporters will want to see effort and application from their side.",2 min,17,14,100.914836828,0.0,0.0,0.0712595606172,0.0423006013685,0,0.12957,0,0,0,0,0,0,0,0,0,0
+51,"As expected, Barcelona have taken control of the possession in the early moments as they pass and probe in the final third.",2 min,13,11,74.5374648865,0.0712595606172,0.078829177002,0.0909449384488,0.0558511411927,0,0.212445,0,0,0,0,0,0,0,0,0,0
+52,"Osasuna could make this an uncomfortable afternoon for Barcelona, but they have to hold out for the opening 10, 15 minutes.",4 min,14,10,71.0094492963,0.0909449384488,0.0423006013685,0.154934134373,0.0,0,0.166665,0,0,0,0,0,0,0,0,0,0
+53,"Sergio Leon has just had the chance to race away down the right for the home side, but Pique was across to make a super challenge.",4 min,15,13,90.1096926845,0.154934134373,0.0558511411927,0.0990679878081,0.126562924584,0,0.184925,0,0,0,0,0,0,0,0,0,0
+54,Serious pace from Pique there!,4 min,4,2,21.3504122417,0.0990679878081,0.0,0.0,0.1148387806,0,0.02564,0,0,0,0,0,0,0,0,0,0
+55,The opening six minutes has been just as expected - Barcelona in control of the possession and Osasuna sitting deep and attempting to play on the counter-attack.,6 min,15,13,83.9472978267,0.0,0.126562924584,0.0956143046533,0.08864754554,0,0.185105,0,0,0,0,0,0,0,0,0,0
+56,"Nothing much to report in terms of opportunities in the early moments, but Osasuna are having to put some serious work in.",6 min,13,11,81.7724533765,0.0956143046533,0.1148387806,0.0912264045976,0.0744069595042,0,0.13391,0,0,0,0,0,0,0,0,0,0
+57,"Only Riera is ahead of the ball for Osasuna at the moment, which is an indication of what type of match is occurring in Pamplona.",8 min,12,15,85.046534801,0.0912264045976,0.08864754554,0.155405148103,0.0,0,0.160735,0,0,0,0,0,0,0,0,0,0
+58,Barcelona are utterly dominating possession of the ball here.,8 min,6,4,32.0627994966,0.155405148103,0.0744069595042,0.0,0.0416008381226,0,0.102885,0,0,0,0,0,0,0,0,0,0
+59,CHANCE!,9 min,2,0,3.88530845594,0.0,0.0,0.2091857793,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+60,"Super chance for Barcelona as Messi produces a stunning pass into Suarez, but the striker misses the far post from a narrowing angle.",9 min,16,9,79.9668945512,0.2091857793,0.0416008381226,0.116787569449,0.0717888887843,0,0.27894,0,1,0,0,0,0,0,0,0,0
+61,Just sensational from Messi there.,9 min,3,3,18.7257436495,0.116787569449,0.0,0.0433762014958,0.105079192978,0,0.060005,0,0,0,0,0,0,0,0,0,0
+62,"Osasuna are just about surviving at the moment as they continue to sit deep, but they are going to find it difficult to maintain their concentration for the full 90 minutes and have to find a way of threatening Barcelona down the other end.",11 min,21,25,155.046524403,0.0433762014958,0.0717888887843,0.107639669152,0.0845474704347,0,0.17497,0,0,0,0,0,0,0,0,0,0
+63,The hosts have had just 16% of the possession here!,11 min,5,7,33.5234014223,0.107639669152,0.105079192978,0.0335153178291,0.0296021556618,0,0.112145,0,0,0,0,0,0,0,0,0,0
+64,"Alex is not happy after taking a late challenge from Pique, but the number 11 rises to his feet after showing his annoyance to the referee.",12 min,15,13,100.219193232,0.0335153178291,0.0845474704347,0.0443080967546,0.0,0,0.10145,0,1,0,0,0,0,0,0,0,0
+65,"The resulting free kick, however, is very much wasted.",12 min,9,3,36.9702140641,0.0443080967546,0.0296021556618,0.0,0.0,0,0.04762,0,0,0,0,0,0,0,0,0,0
+66,POST!,13 min,2,0,4.33729357968,0.0,0.0,0.0,0.216999194977,0,0.027775,0,0,0,0,0,0,0,0,0,0
+67,Beans!,13 min,2,0,5.59005654818,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+68,"Suarez again for Barcelona as the striker turns inside the Osasuna box before attempting to pick out the bottom corner, but his effort smashes against the post!",13 min,16,13,94.4287138309,0.0,0.216999194977,0.149542496681,0.0280119554314,0,0.395195,0,0,0,0,0,0,0,0,0,0
+69,"Another half-chance for Barcelona as Iniesta picks out the head of Umtiti with a super free kick, but the centre-back heads over the crossbar from close range.",15 min,17,12,87.7860625014,0.149542496681,0.0,0.026493210047,0.0,0,0.19152,0,0,1,0,0,0,0,0,0,0
+70,Barcelona could be three ahead.,15 min,5,1,17.2528839773,0.026493210047,0.0280119554314,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+71,SAVE!,16 min,2,0,4.0859791514,0.0,0.0,0.618979665379,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+72,Stunning save!,16 min,3,0,9.27057059147,0.618979665379,0.0,0.0,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+73,"Messi just has to score for Barcelona after Suarez releases the Argentine inside the Osasuna box, but Perez uses his leg to somehow make the block!",16 min,17,11,91.7347233746,0.0,0.0,0.105878520494,0.153535466352,0,0.24813,0,0,0,0,0,0,0,0,0,0
+74,It does seem that it will only be a matter of time before Barcelona make the breakthrough here as they continue to threaten in the final third.,19 min,11,17,92.6890005799,0.105878520494,0.0,0.0215649573815,0.11248467027,0,0.198385,0,0,0,0,0,0,0,1,0,0
+75,"Another half-chance arrives when Messi heads a Turan cross towards Suarez, but Osasuna goalkeeper Perez is out to collect the loose ball once again.",19 min,17,9,88.2624062902,0.0215649573815,0.153535466352,0.0586138089987,0.0204024155568,1,0.19207,0,0,0,0,0,0,0,0,0,0
+76,"In fairness to Osasuna, they are working really hard to close the space available to Barcelona.",21 min,11,7,56.3948800939,0.0586138089987,0.11248467027,0.0644655004614,0.130758629319,0,0.127275,0,0,1,0,0,0,0,0,0,0
+77,"However, the hosts are just offering absolutely nothing down the other end of the field.",21 min,9,8,56.0053140804,0.0644655004614,0.0204024155568,0.0530324309908,0.0,0,0.132815,0,0,0,0,0,0,0,0,0,0
+78,"Suarez and Messi continue to combine in the final third and the former looks to release the latter with a long-range pass, but Flano is on hand to make another smart defensive clearance.",23 min,21,14,112.054155921,0.0530324309908,0.130758629319,0.0744113009784,0.0,0,0.261475,0,0,0,0,0,0,0,0,0,0
+79,"Well, 25 minutes into this match and Osasuna could and probably should be three goals behind.",25 min,12,6,61.0735945791,0.0744113009784,0.0,0.0,0.0839701084854,1,0.102045,0,0,0,0,0,0,0,0,0,0
+80,"However, they are holding Barcelona as things stand.",25 min,7,3,30.465700488,0.0,0.0,0.0606928894089,0.0,0,0.043475,0,0,0,0,0,0,0,0,0,0
+81,"Riera and Leon are doing their best to work Barcelona's back four, but we have seen little from the likes of Alex, Torres and De las Cuevas here.",25 min,19,13,104.40833789,0.0606928894089,0.0839701084854,0.0358462318857,0.0,0,0.17024,0,0,0,0,0,0,0,0,0,0
+82,"Iniesta looks to bend one into the far corner, but his effort was always curling wide.",26 min,12,6,65.4875589309,0.0358462318857,0.0,0.0,0.0404403394635,0,0.158465,0,0,0,0,0,0,0,0,0,0
+83,SAVE!,26 min,2,0,4.0859791514,0.0,0.0,0.187415090268,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+84,"Another chance for the away side as Messi collects a smart pass from Suarez before attempting to chip Perez from close range, but the Osasuna stopper makes another save!",26 min,21,10,103.27893517,0.187415090268,0.0404403394635,0.0,0.0399441004738,0,0.194845,0,0,1,0,0,0,0,0,0,0
+85,BOOKING!,27 min,2,0,4.6737658163,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+86,Oier (Osasuna) is booked for an awful tackle on Alba.,27 min,9,4,39.1523426849,0.0,0.0399441004738,0.0,0.0255563475308,0,0.076925,0,0,0,0,0,0,0,0,0,0
+87,"Barcelona could be four goals ahead at this stage of the match, but Messi and Suarez have both been wasteful in the final third.",28 min,14,12,80.9460470782,0.0,0.0,0.0450777870334,0.102105982025,1,0.204575,0,0,0,0,0,0,0,0,0,0
+88,Credit must also be given to Osasuna goalkeeper Perez.,28 min,8,2,36.8673745121,0.0450777870334,0.0255563475308,0.0,0.0,1,0.09692,0,0,0,0,0,0,0,0,0,0
+89,"Suarez sets up Turan as Barcelona come close once again, but the Turkish international cannot make clean contact under pressure from Causic, who is working very hard in the middle of the park.",29 min,20,17,137.934094045,0.0,0.102105982025,0.0,0.0943222931534,0,0.25649,0,0,1,0,0,0,0,0,0,0
+90,CHANCE!,31 min,2,0,3.88530845594,0.0,0.0,0.16731949203,0.0,0,0.02273,0,0,0,0,0,0,0,0,0,0
+91,"Wonderful chance for the home side this time as De las Cuevas faces up to Alba before looking to pick out Riera at the far post, but the cross just has too much weight!",31 min,20,16,126.344496378,0.16731949203,0.0943222931534,0.0387270467909,0.0845294404467,0,0.21159,1,0,0,0,0,0,0,0,0,0
+92,It must be said that the opening 33 minutes of this match have absolutely flown past.,33 min,10,7,62.3795913201,0.0387270467909,0.0,0.0618861181717,0.097852079511,0,0.102905,0,0,0,0,0,0,0,0,0,0
+93,"We could have had five or six goals, but it somehow remains 0-0 as we approach the half-time interval.",33 min,12,9,66.131016842,0.0618861181717,0.0845294404467,0.0823251456879,0.11957859733,1,0.11606,0,0,0,0,0,0,0,0,0,0
+94,Osasuna have already had one brilliant chance in this match and they will fancy their chances of carving out more opportunities as the clock ticks on in Pamplona.,35 min,14,15,103.164080234,0.0823251456879,0.097852079511,0.0100642389981,0.0200921226234,0,0.12717,0,0,0,0,0,0,0,0,0,0
+95,"It is certainly not time for Barcelona to panic, but that might be the case if it is still goalless around the 70-minute mark.",35 min,13,13,84.9447228819,0.0100642389981,0.11957859733,0.104260740238,0.0,1,0.119405,0,0,0,0,0,0,0,0,0,0
+96,Osasuna defender Flano is not moving too well at the moment following a challenge with Messi.,36 min,10,7,57.678826408,0.104260740238,0.0200921226234,0.0,0.0309901921632,0,0.12344,0,1,0,0,0,0,0,0,0,0
+97,CLOSE!,38 min,2,0,4.20376218706,0.0,0.0,0.0,0.0,0,0.02857,0,0,1,0,0,0,0,0,0,0
+98,Iniesta hits one from distance as Osasuna only half-clear a free kick and the ball just flies wide of the post!,38 min,13,9,68.9218214019,0.0,0.0309901921632,0.080784087647,0.0505615802172,0,0.242475,0,0,0,0,0,0,0,0,0,0
+99,Barcelona just cannot make the breakthrough in this match.,38 min,5,6,32.7432428647,0.080784087647,0.0,0.0290826896213,0.0518513648249,0,0.18945,0,0,0,0,0,0,0,1,0,0
+100,"Flano has returned to the field for the home side, but he does not look entirely comfortable and it would not be a surprise to see a change made at the interval.",40 min,16,18,110.340436862,0.0290826896213,0.0505615802172,0.0,0.180725014955,0,0.14286,0,0,0,0,0,0,0,0,0,0
+101,Still goalless in Pamplona here.,40 min,4,2,18.508830648,0.0,0.0518513648249,0.119906099544,0.0,1,0.070905,0,0,0,0,0,0,0,0,0,0
+102,"Osasuna are almost there in terms of the first period and it would be some result if they could keep it goalless entering the interval, especially considering what has occurred thus far this afternoon.",42 min,20,16,132.068244397,0.119906099544,0.180725014955,0.157601457698,0.0400767966166,1,0.143845,0,0,0,0,0,0,0,0,0,0
+103,It is almost as if Osasuna have an invisible shield protecting them at the moment as the ball continues to bounce for the home side inside their own box.,44 min,14,16,105.211635885,0.157601457698,0.0,0.0718530422831,0.0,0,0.21249,0,0,0,0,0,0,0,0,0,0
+104,"Messi again drives through the heart of the defence, but somehow the danger is cleared once again.",44 min,9,10,65.5270031562,0.0718530422831,0.0400767966166,0.0,0.0749087307011,0,0.177265,0,0,0,0,0,0,0,0,0,0
+105,What a bizarre first period here.,44 min,4,3,21.8410351581,0.0,0.0,0.0,0.0,0,0.048145,0,0,0,0,0,0,0,0,0,0
+106,Messi turns one wide of the far post following a cute pull-back from Turan.,45 min,11,4,46.0710136752,0.0,0.0749087307011,0.0,0.0,0,0.21032,0,1,0,0,0,0,0,0,0,0
+107,HALF-TIME: Osasuna 0-0 Barcelona,45 min+2,5,0,4.1725124824,0.0,0.0,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+108,So there we have it.,12.46pm,1,5,18.4696099348,0.0,0.0,0.0,0.0343917248626,0,0.025,0,0,0,0,0,0,0,0,0,0
+109,The referee brings the first period to a close with the score somehow goalless.,12.46pm,9,6,46.7048258612,0.0,0.0,0.0714405811011,0.0,1,0.14166,0,0,1,0,0,0,0,0,0,0
+110,"Barcelona have had five or six clear opportunities to break the deadlock, but a combination of poor finishing and good goalkeeping from Perez as left the two teams level at 0-0 entering the interval.",12.46pm,22,14,124.396530808,0.0714405811011,0.0343917248626,0.0,0.133954407218,1,0.185505,0,0,0,0,0,0,0,0,0,0
+111,STATISTICS!,12.51pm,2,0,5.18459144007,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+112,"Barcelona incredibly had 80% of the possession in that first period, while they had 11 attempts, although just two of those were on target.",12.51pm,15,13,94.5042543088,0.0,0.133954407218,0.13842546555,0.0660657590232,0,0.186435,0,0,0,0,0,0,0,0,0,0
+113,"Osasuna, meanwhile, managed just one attempt off target.",12.51pm,9,2,34.6995818773,0.13842546555,0.0,0.159270371365,0.0,0,0.04255,0,0,0,0,0,0,0,0,0,0
+114,Just the one booking to report - Osasuna defender Oier in the 27th minute.,12.51pm,10,5,45.6347150827,0.159270371365,0.0660657590232,0.0,0.0322534047118,0,0.138055,0,0,0,0,0,0,0,0,0,0
+115,BENCH WATCH!,12.56pm,3,0,10.2638223645,0.0,0.0,0.154162311642,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+116,"Osasuna boss Caparros has a couple of attacking options on his bench this afternoon, with Kodro and Riviere both available for the home side.",12.56pm,15,11,88.9622407259,0.154162311642,0.0322534047118,0.139037805489,0.160533752012,0,0.10448,0,0,0,0,0,0,0,0,0,0
+117,"Barcelona, meanwhile, have options in the shape of Rafinha, Alcacer, Rakitic and Denis Suarez.",12.56pm,14,5,52.6836205443,0.139037805489,0.0,0.0,0.0891663925817,0,0.146735,0,0,0,0,0,0,0,0,0,0
+118,Some talent on that bench!,12.56pm,3,3,21.5691014426,0.0,0.160533752012,0.0450338489764,0.0,0,0.022725,0,0,0,0,0,0,0,0,0,0
+119,1 - The last time Barcelona have lost against a team from the bottom of the table was against Espanyol (1-2) on matchday 24 in 2008/09.,1.01pm,17,12,73.6797966386,0.0450338489764,0.0891663925817,0.0,0.0,0,0.171845,0,0,0,1,0,0,0,0,0,0
+120,"Far.— OptaJose (@OptaJose) December 10, 2016",1.01pm,10,0,24.1436202511,0.0,0.0,0.0,0.0,0,0.02439,0,0,0,0,0,0,0,0,0,0
+121,RESTART!,46 min,2,0,5.59005654818,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+122,Osasuna resume the action here...,46 min,4,2,17.6132286501,0.0,0.0,0.0998363646642,0.020909800059,0,0.052635,0,0,0,0,0,0,0,0,0,0
+123,... OSASUNA SUB!,46 min,4,0,6.55514028307,0.0998363646642,0.0,0.0,0.0461596889601,0,0.02857,0,0,0,0,0,0,0,0,0,0
+124,David Garcia has replaced Flano at the interval.,46 min,6,3,32.9556938767,0.0,0.020909800059,0.0,0.0343342435977,0,0.06209,0,0,0,0,0,0,0,0,0,0
+125,"It would be unthinkable for Barcelona to drop more points in this match, but Osasuna certainly have Lady Luck on their side this afternoon.",48 min,14,12,84.5678464614,0.0,0.0461596889601,0.0933400583727,0.0777350435724,0,0.123075,0,0,0,0,0,0,0,0,0,0
+126,All of the pressure is on the away side here.,48 min,4,7,30.6624768657,0.0933400583727,0.0343342435977,0.152985046235,0.0,0,0.135705,0,0,0,0,0,0,0,0,0,0
+127,"Barcelona continue to dominate the ball, which is not a surprise, but Osasuna are pressing a little bit higher up the field at the moment, which is a risky tactic at this stage of the contest.",50 min,20,20,120.884405521,0.152985046235,0.0777350435724,0.0,0.0,0,0.1417,0,0,0,0,0,0,0,0,0,0
+128,CROSSBAR!,50 min,2,0,4.6737658163,0.0,0.0,0.0,0.215139997399,0,0.02857,0,0,0,0,0,0,0,0,0,0
+129,Oh my word!,50 min,3,1,16.7701696445,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+130,"Osasuna come within inches of taking the lead as Leon races away from the Barcelona defence before chipping towards the far corner, but he hits the crossbar!",50 min,19,10,102.404775987,0.0,0.215139997399,0.12918957849,0.080129053766,0,0.31446,0,0,0,0,0,0,0,0,0,0
+131,Barcelona just need to be careful down the other end of the field at the moment as Osasuna continue to cause problems on the counter-attack.,52 min,12,14,78.8504073731,0.12918957849,0.0,0.0454161261311,0.0,0,0.188505,0,0,0,0,0,0,0,0,0,0
+132,I said that this could become a very uncomfortable afternoon for the away side and that is proving the case with 52 minutes played.,52 min,13,12,84.6522918504,0.0454161261311,0.080129053766,0.0,0.0736650689788,0,0.10448,0,0,0,0,0,0,0,0,0,0
+133,BOOKING!,52 min,2,0,4.6737658163,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+134,Marquez (Osasuna) is booked for a pull on Messi.,52 min,8,4,28.7387080422,0.0,0.0736650689788,0.0,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+135,Leon continues to cause Barcelona problems with his willingness to run in behind and only a smart challenge from Umtiti prevents the number seven from having another sight of goal.,55 min,18,13,114.829247728,0.0,0.0,0.0655723735906,0.16006591429,1,0.151455,0,0,0,0,0,0,0,0,0,0
+136,Barcelona just cannot get going at the moment as the home side look the team more likely to find the back of the net.,55 min,13,13,85.027784277,0.0655723735906,0.0,0.0685603681642,0.0,0,0.1957,0,0,0,0,0,0,0,0,0,0
+137,"Messi looks to pick out Alba with a reverse ball, but Perez allows it to bounce behind for a goal kick as the clock ticks on in Pamplona.",57 min,17,13,96.5704462915,0.0685603681642,0.16006591429,0.0456876891873,0.0270815459486,1,0.24107,0,0,0,0,0,0,0,0,0,0
+138,Still goalless with little over 30 minutes remaining here.,57 min,7,3,38.5058471259,0.0456876891873,0.0,0.0,0.0479015138633,1,0.04651,0,0,0,0,0,0,0,0,0,0
+139,"In all honesty, this game should have been done and dusted at the end of the first period.",59 min,9,11,64.916949002,0.0,0.0270815459486,0.0876505043953,0.0396478907817,0,0.152425,0,0,0,0,0,0,0,0,0,0
+140,"However, Osasuna have found a way to stay in touch with Barcelona and the home side are now offering an attacking threat of their own.",59 min,14,13,88.3736265305,0.0876505043953,0.0479015138633,0.0426017418726,0.0,0,0.142855,0,0,0,0,0,0,0,0,0,0
+141,I suspect that we could see a Barcelona change in the next few minutes.,59 min,8,7,45.1237509441,0.0426017418726,0.0396478907817,0.0,0.0721702543314,0,0.146735,0,0,0,0,0,0,0,0,0,0
+142,GOAL!,59 min,2,0,4.20376218706,0.0,0.0,0.0,0.0,1,0.02273,0,0,0,0,0,0,0,0,0,0
+143,Osasuna 0-1 Barcelona (Suarez),59 min,6,0,7.56534445325,0.0,0.0721702543314,0.220052223297,0.0,0,0.074995,0,0,0,0,0,0,0,0,0,0
+144,Barcelona finally make the breakthrough in the 59th minute as Suarez taps a Alba cross into the bottom corner after Osasuna's back-line went to sleep.,60 min,18,9,85.121727198,0.220052223297,0.0,0.0206244743764,0.165850682464,0,0.397885,0,0,0,0,0,0,0,1,0,0
+145,"In truth, it has been coming here.",60 min,4,5,27.0705057019,0.0206244743764,0.0,0.0200233668675,0.0442605151182,0,0.050005,0,0,0,0,0,0,0,0,0,0
+146,"No surprise that Messi was involved in that Barcelona goal, with the Argentine playing the initial pass into Alba, who found the angle for Suarez.",62 min,16,12,95.1703402403,0.0200233668675,0.165850682464,0.0688567053098,0.0,1,0.22153,0,0,0,0,0,0,0,0,0,0
+147,"It is going to be very difficult for Osasuna to get back into the match after falling 1-0 behind, but Leon continues to offer a counter-attacking threat.",62 min,16,13,85.8866513049,0.0688567053098,0.0442605151182,0.042353171782,0.0174226353875,0,0.150175,0,0,0,0,0,0,0,0,0,0
+148,OSASUNA SUB!,63 min,3,0,6.55514028307,0.042353171782,0.0,0.0717070560937,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+149,Osasuna make their second change as Tannin replaces Oier.,63 min,8,2,34.8511155592,0.0717070560937,0.0174226353875,0.157588298223,0.0,0,0.07143,0,0,0,0,0,0,0,0,0,0
+150,Little over 25 minutes of football remaining and Barcelona are also preparing their first change of the match as Denis Suarez receives his instructions.,65 min,16,9,91.7892729171,0.157588298223,0.0,0.00956900059601,0.0451553273434,0,0.14163,0,0,0,0,0,0,0,0,0,0
+151,Gomes should be the player to depart here.,65 min,4,5,30.8608838245,0.00956900059601,0.0,0.0,0.0183049999013,0,0.06522,0,0,0,0,0,0,0,0,0,0
+152,BARCELONA SUB!,66 min,3,0,6.60026071835,0.0,0.0451553273434,0.0,0.0491530731646,0,0.027775,0,0,0,0,0,0,0,0,0,0
+153,Denis Suarez replaces Turan for the away side.,66 min,7,2,28.1505025568,0.0,0.0183049999013,0.0350819231785,0.0,0,0.124545,0,0,0,0,0,0,0,0,0,0
+154,I would be surprised if we had seen the last of the goals this afternoon as Barcelona continue to pass and probe in the final third.,68 min,13,14,84.2719339805,0.0350819231785,0.0491530731646,0.0918019803487,0.0,1,0.18763,0,0,0,0,0,0,0,0,0,0
+155,I would also not rule out an Osasuna equaliser in Pamplona.,68 min,7,5,38.5383037096,0.0918019803487,0.0,0.0,0.0633696197818,0,0.10291,0,0,0,0,0,0,0,0,0,0
+156,SAVE!,70 min,2,0,4.0859791514,0.0,0.0,0.197821275143,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+157,"Another smart save from Perez as the Osasuna goalkeeper gets down to keep out a low Messi strike, which looked to be heading for the bottom corner.",70 min,17,12,98.0819732424,0.197821275143,0.0633696197818,0.0835044828858,0.0417147428168,1,0.27311,0,0,0,0,0,0,0,0,0,0
+158,Perez has been very good.,70 min,3,3,19.4431398853,0.0835044828858,0.0,0.0,0.0,0,0.041665,0,0,0,0,0,0,0,0,0,0
+159,OSASUNA SUB!,71 min,3,0,6.55514028307,0.0,0.0417147428168,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+160,Kenan replaces Riera for the home side.,71 min,6,2,24.5271469273,0.0,0.0,0.0195399462857,0.0,0,0.063005,0,0,0,0,0,0,0,0,0,0
+161,"This has not exactly been convincing from Barcelona, but the Catalan outfit will not mind as long as they take all three points to move closer to Real Madrid in the table.",73 min,17,17,117.78299384,0.0195399462857,0.0,0.124793315227,0.0,0,0.151455,0,0,1,0,0,0,0,0,0,0
+162,"Osasuna are still hanging in, but they are running out of legs as they continue to relinquish possession in dangerous positions.",73 min,12,11,78.2535268326,0.124793315227,0.0,0.0,0.0506829840182,0,0.15726,0,0,0,0,0,0,1,0,0,0
+163,GOAL!,73 min,2,0,4.20376218706,0.0,0.0,0.0,0.0,1,0.02273,0,0,0,0,0,0,0,0,0,0
+164,Osasuna 0-2 Barcelona (Messi),73 min,6,0,7.32022199521,0.0,0.0506829840182,0.175369375495,0.0,0,0.086955,0,0,0,0,0,0,0,0,0,0
+165,Barcelona have their second of the match in the 73rd minute as Messi turns another Alba cross into the back of the net from close range.,74 min,15,12,86.0106106682,0.175369375495,0.0,0.225893373918,0.0695543065117,0,0.474795,0,0,1,0,0,0,0,0,0,0
+166,Two assists for Alba in the second period!,74 min,6,3,27.5792621291,0.225893373918,0.0,0.0810154499666,0.0,0,0.12445,0,0,0,0,0,0,0,0,0,0
+167,"It is tough on Osasuna, but it was always going to be difficult for the home side to hold out for another full 45 minutes.",76 min,14,13,86.9880585833,0.0810154499666,0.0695543065117,0.0976597588343,0.069660575398,0,0.14338,0,0,0,0,0,0,0,0,0,0
+168,Messi has again inspired his team to what looks to be all three points.,76 min,7,8,51.634216673,0.0976597588343,0.0,0.109180206824,0.0,0,0.12344,0,0,0,0,0,0,0,0,0,0
+169,"Little over 10 minutes of the second period remaining and as things stand, Barcelona are moving to within three points of Real Madrid at the top of the table.",78 min,19,12,99.2495969235,0.109180206824,0.069660575398,0.251045846958,0.147964633497,0,0.361765,0,0,0,0,0,0,0,0,0,0
+170,"Osasuna, meanwhile, are remaining bottom of the division.",78 min,8,3,27.002986658,0.251045846958,0.0,0.0144423897006,0.0,0,0.1232,0,0,0,0,0,0,0,0,0,0
+171,I would not rule out at least one more goal in the final 10 minutes here.,78 min,9,8,56.2420099447,0.0144423897006,0.147964633497,0.112377263268,0.0,1,0.128645,0,0,0,0,0,0,0,0,0,0
+172,Leon hits one straight at Ter Stegen from distance.,79 min,8,2,38.5822201046,0.112377263268,0.0,0.0,0.0,0,0.147645,0,0,0,0,0,0,0,0,0,0
+173,BARCELONA SUB!,79 min,3,0,6.60026071835,0.0,0.0,0.0,0.0381133969744,0,0.027775,0,0,0,0,0,0,0,0,0,0
+174,Rafinha replaces Gomes for the away side.,79 min,6,2,25.6331393233,0.0,0.0,0.105146773814,0.0,0,0.11089,0,0,0,0,0,0,0,0,0,0
+175,"Half-chance for the home side as De las Cuevas finds space down the Barcelona left before attempting to pick out Leon just outside the box, but Busquets is on hand to make the clearance.",82 min,21,15,119.072708049,0.105146773814,0.0381133969744,0.0,0.0497045031234,0,0.261125,0,0,0,0,0,0,0,0,0,0
+176,SAVE!,84 min,2,0,4.0859791514,0.0,0.0,0.273058792027,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+177,Smart save from Ter Stegen to push an Alex effort over the crossbar!,84 min,9,5,52.0065016535,0.273058792027,0.0497045031234,0.0411672466031,0.0256787182471,0,0.159775,0,0,0,0,0,0,0,0,0,0
+178,Not too much to report in terms of chances in the last few minutes as the referee is forced to intervene following a couple of late challenges.,86 min,14,14,97.5334772415,0.0411672466031,0.0,0.206574152322,0.0,0,0.185105,0,1,0,0,0,0,0,0,0,0
+179,Not much football left to play in Pamplona.,86 min,6,3,30.5146918852,0.206574152322,0.0256787182471,0.0,0.0,0,0.109685,0,0,0,0,0,0,0,0,0,0
+180,BOOKING!,86 min,2,0,4.6737658163,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+181,Torres (Osasuna) is booked for dissent.,86 min,7,2,22.7859532234,0.0,0.0,0.0,0.0257614647326,0,0.044445,0,0,0,0,0,0,0,0,0,0
+182,The home supporters are in fine voice as we approach the final stages of this league match.,89 min,10,8,60.7262357606,0.0,0.0,0.0908962398099,0.0802397968977,0,0.11344,0,0,0,0,0,0,0,0,0,0
+183,"Osasuna are going to remain bottom, while Barcelona are closing the gap on Real Madrid to three points.",89 min,13,7,63.6980948207,0.0908962398099,0.0257614647326,0.194481192335,0.0211086498605,0,0.17068,0,0,0,0,0,0,0,0,0,0
+184,"It has not been pretty from the Spanish champions, but they are going to win in Pamplona.",89 min,8,11,58.3715921279,0.194481192335,0.0802397968977,0.0469358155672,0.174255079478,0,0.13448,0,1,0,0,0,0,0,0,0,0
+185,Possession football from Barcelona as we enter stoppage time here.,90 min+1,7,4,38.2992203368,0.0469358155672,0.0211086498605,0.0912712617086,0.0,0,0.070905,0,0,0,0,0,0,0,0,0,0
+186,We are into the second of three additional minutes in Pamplona.,90 min+2,6,6,36.6585462803,0.0912712617086,0.174255079478,0.0,0.0,0,0.185405,0,0,0,0,0,0,0,0,0,0
+187,GOAL!,90 min+2,2,0,4.20376218706,0.0,0.0,0.0,0.0,1,0.02273,0,0,0,0,0,0,0,0,0,0
+188,Osasuna 0-3 Barcelona (Messi),90 min+2,6,0,7.32022199521,0.0,0.0,0.214238121335,0.293573482099,0,0.108695,0,0,0,0,0,0,0,0,0,0
+189,Messi has his second and Barcelona have three as the Argentine converts from inside the box after some very suspect defending from Osasuna it must be said!,90 min+3,14,14,96.900674255,0.214238121335,0.0,0.0628946312787,0.0969663550655,0,0.161825,0,0,0,0,0,0,0,0,0,0
+190,FULL-TIME: Osasuna 0-3 Barcelona,90 min+4,5,0,4.1725124824,0.0628946312787,0.293573482099,0.0,0.0409168306971,0,0.085105,0,0,0,0,0,0,0,0,0,0
+191,So there we have it.,1.50pm,1,5,18.4696099348,0.0,0.0969663550655,0.0,0.204636067394,0,0.025,0,0,0,0,0,0,0,0,0,0
+192,Spanish champions Barcelona secure all the points in Pamplona after scoring three times in the second period.,1.50pm,12,6,59.9067515733,0.0,0.0409168306971,0.0,0.0181394410323,0,0.18319,0,0,0,0,0,0,0,0,0,0
+193,"It is tough on basement side Osasuna, but it could have been a lot worse.",1.50pm,9,8,51.5931561745,0.0,0.204636067394,0.0,0.0,0,0.12632,0,0,0,0,0,0,0,0,0,0
+194,Thanks for joining Sports Mole for the live action once again.,1.50pm,7,5,47.4205045013,0.0,0.0181394410323,0.0,0.0,0,0.089925,0,0,0,0,0,0,0,0,0,0
+195,See you soon!,1.50pm,3,1,15.4484138046,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0

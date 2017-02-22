@@ -1,0 +1,209 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Evening all!,6.46pm,2,1,9.28347112227,0.0,0.0,0.0,0.0,0,0.01754,0,0,0,0,0,0,0,0,0,0
+1,"Sports Mole's live La Liga coverage continues from San Sebastian as Real Sociedad welcome the champions Barcelona, who simply cannot afford to drop more points as they chase down in-form Real Madrid at the summit.",6.46pm,26,13,140.198452558,0.0,0.0,0.0770498061363,0.0937290746252,0,0.218355,0,0,0,0,0,0,0,0,0,0
+2,It is not the match that Barcelona would have chosen though due to their rotten recent record in this stadium and Sociedad's current excellent run of form!,6.46pm,17,12,99.3706078171,0.0770498061363,0.0,0.24926979644,0.167142485628,0,0.17532,0,0,0,0,0,0,0,0,0,0
+3,"Incredibly, Barcelona have lost their last four league games in this stadium, which is their worst run of form against a single side away from home since Deportivo La Coruna in 2002.",6.49pm,23,12,120.883607771,0.24926979644,0.0937290746252,0.239845753336,0.0278175341828,0,0.14315,0,0,0,1,0,0,0,0,0,0
+4,"What's more, the Catalan outfit have not won on any of their last six trips to Sociedad in the league, with their last success coming way back in 2007, which is a quite incredible statistic for a club of this ilk.",6.49pm,23,23,150.983330187,0.239845753336,0.167142485628,0.0775441509571,0.0995226137404,0,0.278675,1,0,0,0,0,0,0,0,0,0
+5,"There is no room for more dropped points, however, as Barcelona chase down Real Madrid at the summit.",6.52pm,12,9,69.0567356916,0.0775441509571,0.0278175341828,0.104148370441,0.0132445606115,0,0.170545,0,0,0,0,0,0,0,0,0,0
+6,"Indeed, a record of 26 points from 12 La Liga matches is Barcelona's worst return at this stage since the 2007-08 campaign.",6.52pm,18,7,77.92886185,0.104148370441,0.0995226137404,0.0437503504462,0.033950478557,0,0.143275,0,0,0,0,0,0,0,0,0,0
+7,"Sociedad though will enter this game in excellent form and off the back of four straight league wins, which has seen them occupy sixth position in the table.",6.52pm,18,12,106.303081191,0.0437503504462,0.0132445606115,0.0216866313442,0.0837025290355,0,0.13782,0,1,0,0,0,0,1,0,0,0
+8,"Right, without further ado, let me bring you up-to-speed with the all-important team news from the Anoeta.",6.55pm,13,7,66.1293387309,0.0216866313442,0.033950478557,0.0211125534109,0.123903796572,0,0.10909,0,0,0,0,0,0,0,0,0,0
+9,"Sociedad have had a free week to prepare for this match, but Barcelona were in Champions League action away to Celtic on Wednesday, where they recorded a 3-1 victory.",6.55pm,18,14,98.5863053872,0.0211125534109,0.0837025290355,0.0,0.0,0,0.13737,0,0,0,0,0,0,0,0,0,0
+10,Let's look at the two XIs...© SilverHub,6.55pm,8,2,28.6883921688,0.0,0.123903796572,0.0,0.0177447273212,0,0.093025,0,0,0,0,0,0,0,0,0,0
+11,"TEAMS!SOC: Rulli; C.Martinez, Navas, Inigo, Yuri; Zurutuza, Illarra, Prieto; Oyarzabal, Willian, VelaFCB: Ter Stegen; Roberto, Mascherano, Pique, Alba; Rakitic, Busquets, Gomes; Neymar, Suarez, Messi",6.58pm,48,0,113.095961621,0.0,0.0,0.0683492805484,0.135301569602,0,0.07863,0,0,0,0,0,0,0,0,0,0
+12,"Sociedad are unchanged from the team that started last weekend's 3-1 win away to Sporting Gijon, meaning that Willian Jose continues in the final third with support from Mikel Oyarzabal and Carlos Vela.",7.02pm,25,11,124.993812232,0.0683492805484,0.0177447273212,0.0394482756599,0.228287412823,0,0.18472,0,1,0,0,0,0,0,0,0,0
+13,"Raul Navas keeps his spot alongside Inigo Martinez at the heart of the defence, while Asier Illarramendi will start in the middle of a midfield three, which also includes the skipper Xabi Prieto.",7.02pm,23,13,136.218103634,0.0394482756599,0.135301569602,0.0,0.0749037709674,0,0.13689,0,0,0,0,0,0,0,0,0,0
+14,"Barcelona, meanwhile, are unchanged from their 2-0 win over Celtic on Wednesday night.",7.05pm,11,5,48.0029542653,0.0,0.228287412823,0.0,0.0623634804249,0,0.08,0,1,0,0,0,0,0,0,0,0
+15,"Neymar was seen as a doubt after crashing his Ferrari (full story here) this morning, but the Brazilian starts despite the lingering threat of a suspension.",7.05pm,18,12,104.373109196,0.0,0.0749037709674,0.0184043582608,0.0,0,0.156755,0,0,0,0,0,0,0,0,0,0
+16,"Lionel Messi and Luis Suarez are also present in the final third, while Andre Gomes deputises for Andres Iniesta, who is still on the sidelines with a knee problem.",7.05pm,20,12,117.801362866,0.0184043582608,0.0623634804249,0.0,0.115218071477,0,0.138945,0,0,0,0,0,0,0,0,0,0
+17,So there we have it.,7.08pm,1,5,18.3502279918,0.0,0.0,0.116622723994,0.0,0,0.020835,0,0,0,0,0,0,0,0,0,0
+18,The two teams are in and we are now just under 40 minutes from kickoff on this breezy evening in San Sebastian.,7.08pm,10,13,85.7002308719,0.116622723994,0.115218071477,0.0798467927426,0.0678831715547,0,0.108485,0,0,0,0,0,0,0,0,0,0
+19,"I shall speak about Sociedad and their start to the 2016-17 campaign a little bit later, but let's first focus on Barcelona, who as mentioned, booked their spot in the knockout round of the Champions League with a 2-0 win over Celtic in Scotland during the week.© SilverHub",7.08pm,30,22,162.919532965,0.0798467927426,0.0,0.0827205979114,0.0562852429191,0,0.203055,0,1,0,0,0,0,0,0,0,0
+20,"Progression in Europe has been secured, but Barcelona have work to do in La Liga.",7.12pm,9,8,56.7941247316,0.0827205979114,0.0678831715547,0.13354712889,0.043249405516,0,0.09892,0,0,0,0,0,0,0,0,0,0
+21,"Indeed, after 12 matches, they have only collected 26 points, which has left them down in third position in the table.",7.12pm,14,11,83.067670542,0.13354712889,0.0562852429191,0.158695159961,0.0652964492499,0,0.123675,0,0,0,0,0,0,1,0,0,0
+22,"They entered the weekend in second, four points behind the leaders Real Madrid, but they are now seven points off the summit and indeed one point behind second-place Sevilla, who beat Valencia last night.",7.12pm,26,12,127.217027637,0.158695159961,0.043249405516,0.0773448591018,0.211493890354,0,0.16112,0,0,0,0,0,0,0,0,0,0
+23,"Barcelona opened their 2016-17 La Liga campaign with wins over Real Betis and Athletic Bilbao, but a shock home defeat to newly-promoted Alaves on September 10 saw them drop three valuable points.",7.15pm,25,9,124.918399215,0.0773448591018,0.0652964492499,0.197081578966,0.131653686971,0,0.114285,0,1,0,0,0,0,0,0,0,0
+24,"Their second defeat of the season came away to Celta Vigo on October 2, but the Catalan outfit responded with four straight wins over Deportivo La Coruna, Valencia, Granada and Sevilla.",7.15pm,25,10,125.385212963,0.197081578966,0.211493890354,0.115847310388,0.102639912973,0,0.14547,0,1,0,0,0,0,0,0,0,0
+25,"Four wins from their last five league matches is hardly poor form, but a 0-0 draw at home to Malaga last weekend was a real disappointment.",7.18pm,19,9,92.8011728901,0.115847310388,0.131653686971,0.0798185061303,0.125117721695,0,0.119865,0,1,0,0,1,0,0,0,0,0
+26,Enrique's side also played poorly in a 3-1 defeat to Manchester City in the Champions League earlier this month and it would be fair to say that the Spanish champions are just searching for their best form in the opening months of the campaign.© SilverHub,7.18pm,26,20,160.904726965,0.0798185061303,0.102639912973,0.108551064277,0.0935909564183,0,0.180555,0,0,0,0,0,0,0,0,0,0
+27,"In terms of what is ahead for Barcelona, they will take on Hercules in the Copa del Rey on Wednesday night, before the small matter of El Clasico at home to Real Madrid next weekend.",7.22pm,22,16,134.494443455,0.108551064277,0.125117721695,0.0860362921887,0.059660465635,0,0.235505,0,0,0,0,0,0,0,0,0,0
+28,Then comes their final Champions League group match against Borussia Monchengladbach - which is basically a dead rubber - before travelling to struggling Osasuna on December 10.,7.22pm,19,9,111.403364156,0.0860362921887,0.0935909564183,0.069480168845,0.0602639688577,0,0.08197,0,0,0,0,0,0,0,0,0,0
+29,"Lionel Messi has actually only scored in two of his last seven league games in this stadium, but Neymar has netted four times in his last five league appearances against Sociedad, including his first ever La Liga goal.",7.25pm,28,13,152.406356617,0.069480168845,0.059660465635,0.00744934437076,0.120067242597,1,0.100255,0,0,0,0,0,0,0,0,0,0
+30,"It will be a tough night for Barcelona and they need 'MSN' to find their form if they are to close the gap ahead of next week's Clasico at Camp Nou, which should be some game!",7.25pm,20,20,131.675343629,0.00744934437076,0.0602639688577,0.142506685798,0.075512785416,0,0.238095,0,0,1,0,0,0,0,0,0,0
+31,"As for Sociedad, a brilliant run of form has seen the Basque outfit rise into sixth position in the table and they will enter this match just four points behind Barcelona.",7.28pm,19,14,107.563625386,0.142506685798,0.120067242597,0.0888701928328,0.111847648144,0,0.18432,0,0,0,0,0,0,1,0,0,0
+32,"It was a patchy first few weeks for Eusebio Sacristan's side, but they have bounced back in impressive style after losing 3-2 at Basque rivals Athletic Bilbao on October 16.",7.28pm,21,12,122.547040435,0.0888701928328,0.075512785416,0.0276298985963,0.0774334943345,0,0.12,0,0,0,0,0,0,0,0,0,0
+33,Tonight will be a good test of where they are as a team.© Getty Images,7.28pm,6,9,48.4068843115,0.0276298985963,0.111847648144,0.0177937406422,0.0505840080198,0,0.08197,0,0,0,0,0,0,0,0,0,0
+34,"Indeed, since that Bilbao defeat, Sociedad have won each of their four league matches – scoring 10 times in the process and only conceding once.",7.32pm,17,11,94.8260998334,0.0177937406422,0.0774334943345,0.0475701674515,0.327724827776,0,0.18457,1,0,0,0,0,0,0,0,0,0
+35,That impressive run of form includes a 2-0 victory at home to Atletico on November 5 and they were 3-1 winners away to Sporting Gijon last weekend.,7.32pm,18,10,91.9206619345,0.0475701674515,0.0505840080198,0.0744656711417,0.0797211686696,0,0.12377,0,1,0,0,0,0,0,0,0,0
+36,"Not since 2014 have Sociedad won five league games in a row, but they have only lost two of their last six league matches with Barcelona and as mentioned, have had the best of it in this stadium in recent seasons.",7.35pm,22,22,145.436065647,0.0744656711417,0.327724827776,0.0433186300213,0.19188003604,0,0.193785,1,0,0,1,0,0,0,0,0,0
+37,The atmosphere is building at the Anoeta with kickoff now 10 minutes away!,7.35pm,8,6,48.5600147357,0.0433186300213,0.0797211686696,0.0343918375283,0.0,0,0.123315,0,0,0,0,0,0,0,0,0,0
+38,"Sociedad finished fourth in La Liga in the 2012-13 campaign, but it has been a difficult last few seasons for the club.",7.38pm,13,11,73.4598781139,0.0343918375283,0.19188003604,0.146182880729,0.07412838336,0,0.138545,0,0,0,0,0,0,0,0,0,0
+39,"Indeed, they finished 12th in 2014-15 and ninth last term, but are showing signs of being capable of challenging for a Champions League position once again.",7.38pm,17,12,99.2632394821,0.146182880729,0.0,0.120101039369,0.0,0,0.103385,0,1,0,0,0,0,1,0,0,0
+40,Tonight will be a good indicator of whether the Basque side can challenge for a spot in the top four this term.,7.38pm,12,11,77.1762590618,0.120101039369,0.07412838336,0.0,0.0,0,0.1475,0,0,0,0,0,0,0,0,0,0
+41,📸 Only one team!!,7.42pm,5,1,12.2470808484,0.0,0.0,0.0,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+42,"🔵⚪️🔵⚪️ #RealSociedad VS @FCBarcelona pic.twitter.com/mnoomN3q7q— Real Sociedad (@RealSociedadEN) November 27, 2016",7.42pm,17,0,44.5764323111,0.0,0.0,0.0,0.0,0,0.05144,0,0,0,0,0,0,0,0,0,0
+43,KICKOFF!,0 min,2,0,4.95603989084,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+44,It must be said that there is a wonderful atmosphere inside the stadium tonight.,0 min,8,7,50.9114654866,0.0,0.0,0.0150806028653,0.168690998748,0,0.08083,1,0,0,0,0,0,0,0,0,0
+45,Can Sociedad upset the champions once again?,0 min,4,4,27.1817139903,0.0150806028653,0.0,0.0362967799719,0.0266262225499,0,0.069765,0,0,0,0,0,0,0,0,0,0
+46,It is the hosts that kick things off at the Anoeta...,0 min,5,7,37.7673623048,0.0362967799719,0.168690998748,0.117907861316,0.0239106928493,0,0.12408,0,0,0,0,0,0,0,0,0,0
+47,... you just get the feeling that the first goal - if there indeed is one - could be vital tonight.,2 min,13,9,67.4566999712,0.117907861316,0.0266262225499,0.127785661468,0.113968595011,1,0.08534,0,0,0,0,0,0,0,0,0,0
+48,"Barcelona have not won in this stadium since 2007, but I fancy them to get the job done tonight.",2 min,11,10,66.357100503,0.127785661468,0.0239106928493,0.0,0.0388715328737,0,0.156155,1,0,0,0,0,0,0,0,0,0
+49,"If they lose, they will be seven points behind Real Madrid entering next weekend's El Clasico.",2 min,14,5,66.0055736626,0.0,0.113968595011,0.0,0.0,0,0.321625,0,0,1,0,0,0,0,0,0,0
+50,Ter Stegen has to rise high to claim a header from Zurutuza as the hosts threaten early on.,2 min,11,8,68.7914502563,0.0,0.0388715328737,0.172892808868,0.0,0,0.179235,0,0,0,0,0,0,0,0,1,0
+51,Nothing much for the away supporters to get excited about at the moment as Sociedad continue to make most of the early running.,4 min,13,11,84.7548053927,0.172892808868,0.0,0.0184267283927,0.04788987054,0,0.248125,0,0,0,0,0,0,0,0,0,0
+52,They are full of confidence and rightly so after four straight league victories.,4 min,8,6,52.6652418666,0.0184267283927,0.0,0.0233760042324,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+53,Another win tonight would actually move them to within one point of Barcelona.,4 min,11,3,53.4327946517,0.0233760042324,0.04788987054,0.0170606261727,0.0199462278147,0,0.0678,0,1,0,0,0,0,0,0,0,0
+54,Nervy defending from Barcelona as a dangerous cross from Yuri causes problems inside the away side's box.,6 min,14,5,64.4909127388,0.0170606261727,0.0,0.0660264160885,0.151226205675,0,0.209765,0,0,0,0,0,0,0,0,0,0
+55,Anywhere will do at the moment as Barcelona clear their lines into the Sociedad half.,6 min,8,8,53.1923693032,0.0660264160885,0.0199462278147,0.209919415343,0.062748679922,0,0.132815,0,0,0,0,0,0,0,0,0,0
+56,Barcelona just cannot get going at the moment as Sociedad close the space in central positions and continue to press the away side.,8 min,14,11,84.5062982941,0.209919415343,0.151226205675,0.0873138837105,0.1005807021,0,0.26452,0,0,1,0,0,0,1,0,0,0
+57,Just a reminder that Barcelona have lost on their last four visitors to this stadium and the hosts have started like they fancy making it a fifth straight win.,8 min,16,14,103.012817004,0.0873138837105,0.062748679922,0.0502004012948,0.0349354193349,0,0.12899,0,1,0,1,0,0,0,0,0,0
+58,"Not too much to report in terms of chances in the opening 11 minutes, with both teams jousting as they attempt to gain control of the possession.",11 min,15,14,105.863592781,0.0502004012948,0.1005807021,0.082375925781,0.0,0,0.189705,0,0,0,0,0,0,0,0,0,0
+59,Sociedad's main threat has come in the wide positions as Yuri and Martinez continue to drive forward.,11 min,13,6,67.5948575593,0.082375925781,0.0349354193349,0.0,0.0254484284611,0,0.30559,0,0,0,0,0,0,1,0,0,0
+60,Nothing from Messi & Co. thus far tonight.,11 min,8,1,26.5331118772,0.0,0.0,0.0,0.0810736797009,0,0.047615,0,0,0,0,0,0,0,0,0,0
+61,Barcelona might have a problem with Pique here - the centre-back is moving around very gingerly and does not look comfortable.,13 min,12,10,71.7832721251,0.0,0.0254484284611,0.0456583211442,0.1234032321,0,0.08995,0,0,0,0,0,0,0,0,0,0
+62,That is the last thing that the Spanish champions need tonight.,13 min,7,5,38.1112840955,0.0456583211442,0.0810736797009,0.0517946474341,0.0218094872599,0,0.06349,0,0,0,0,0,0,0,0,0,0
+63,"Half-chance for the home side as Illarramendi delivers a dangerous cross towards the head of Navas, but Pique, who is now moving more freely, gets up to make a really smart clearance.",15 min,22,14,117.893939778,0.0517946474341,0.1234032321,0.0345263348317,0.0915273043919,0,0.17478,0,0,0,0,0,0,0,0,0,0
+64,"Ter Stegen drops to the ground to keep out a header from Prieto, which lacked power.",15 min,11,7,61.5998431958,0.0345263348317,0.0218094872599,0.0173174098661,0.0472520710851,0,0.27991,0,0,0,0,0,0,0,0,1,0
+65,"Sociedad have been the better team in the opening 17 minutes of this match, make no mistake about that.",17 min,11,10,67.6973226573,0.0173174098661,0.0915273043919,0.121317819526,0.043316524946,0,0.16809,0,0,0,0,0,0,0,0,0,0
+66,The only worry is that they have not managed to turn this domination into a goal.,17 min,6,11,52.8627302544,0.121317819526,0.0472520710851,0.0219936183466,0.0180695518128,1,0.08868,0,0,0,0,0,0,0,0,0,0
+67,Barcelona boss Enrique turns away from the pitch and returns to his feet after Rakitic passes straight out of play following a spell of Barcelona possession.,18 min,17,10,102.055433878,0.0219936183466,0.043316524946,0.0117411893763,0.0,0,0.161825,0,1,0,0,0,0,0,0,0,0
+68,Frustrating game for the visitors!,18 min,4,2,19.3851524612,0.0117411893763,0.0180695518128,0.0,0.0806497992857,0,0.076315,0,0,0,0,0,0,0,0,0,0
+69,CHANCE!,18 min,2,0,4.14510967463,0.0,0.0,0.0,0.0,0,0.02703,0,0,0,0,0,0,0,0,0,0
+70,"Absolute sitter for the home side as Yuri delivers a super cross onto the head of Prieto, but the midfielder's effort is wide of the post.",18 min,18,11,93.8819095949,0.0,0.0806497992857,0.0,0.0,0,0.25793,0,0,0,0,0,0,0,0,0,0
+71,He just had to score there!,18 min,2,5,24.0284026001,0.0,0.0,0.0,0.0764461072035,0,0.066205,0,0,0,0,0,0,0,0,0,0
+72,CHANCE!,19 min,2,0,4.14510967463,0.0,0.0,0.0,0.0,0,0.02703,0,0,0,0,0,0,0,0,0,0
+73,"Opportunity for Vela this time as the Mexican breaks into the Barcelona box, but he takes a touch away from goal and can only flash his effort wide of the post.",19 min,17,16,112.777784444,0.0,0.0764461072035,0.0374088731121,0.0608605437333,1,0.210405,0,0,0,0,0,0,0,0,0,0
+74,Simply all Sociedad at the moment.,21 min,4,3,20.2133718606,0.0374088731121,0.0,0.0,0.0175672116768,0,0.09769,0,0,0,0,0,0,0,0,0,0
+75,Barcelona are just not in this football match.,21 min,4,5,25.9694515356,0.0,0.0608605437333,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+76,Ter Stegen has to stop a strike from Inigo as the relentless pressure continues here.,22 min,9,7,56.0042256141,0.0,0.0175672116768,0.0,0.236520850537,0,0.170555,0,0,0,0,0,0,0,0,0,0
+77,BOOKING!,22 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+78,Ter Stegen (Barcelona) is booked for dissent.,22 min,8,2,24.9102180667,0.0,0.236520850537,0.0685647228383,0.0284314419226,0,0.094155,0,0,0,0,0,0,0,0,0,0
+79,The only worry for Sociedad is that they have not managed to find the back of the net during a brilliant 25 minutes of football.,25 min,11,15,82.9844928658,0.0685647228383,0.0,0.123783882303,0.0590659581549,0,0.201465,0,0,0,0,0,0,0,0,0,0
+80,Barcelona will improve as the match develops and they only need a moment to produce some brilliance.,25 min,9,9,61.7255075647,0.123783882303,0.0284314419226,0.0254734376052,0.00665618270918,0,0.14614,0,0,0,0,0,0,0,0,0,0
+81,"That said, Messi, Suarez and Neymar have been very quiet so far!",25 min,9,6,47.756754516,0.0254734376052,0.0590659581549,0.0547333893669,0.115640031049,0,0.07843,0,0,0,0,0,0,0,0,0,0
+82,"It did not work out for Illarramendi at Real Madrid, but there is a reason why Los Blancos paid so much money for the central midfielder.",27 min,14,14,105.120756842,0.0547333893669,0.00665618270918,0.023679393653,0.0,0,0.097615,0,0,0,0,0,0,0,0,0,0
+83,He has been excellent since returning to Sociedad and has been at the heart of his team's strong run of form in recent weeks.,27 min,13,13,88.0109257308,0.023679393653,0.115640031049,0.234590646687,0.103072501284,0,0.15654,0,0,0,0,0,0,0,0,0,0
+84,He's been very good tonight.,27 min,4,3,20.7661417701,0.234590646687,0.0,0.0,0.0,0,0.045455,0,0,0,0,0,0,0,0,0,0
+85,Little over 15 minutes of the first period remaining and Barcelona are still to create a half-chance of any sort in this match.,29 min,13,11,77.194504965,0.0,0.103072501284,0.0255357669853,0.0383505338629,0,0.20172,0,0,0,0,0,0,0,0,0,0
+86,Luis Enrique is going absolutely bonkers on the touchline and you cannot blame him.,29 min,8,8,64.4109086592,0.0255357669853,0.0,0.033087444476,0.0288072910676,0,0.06,0,0,0,0,0,0,0,0,0,0
+87,There is just no rhythm to their play here as Sociedad continue to dominate the ball.,29 min,7,10,57.9123041256,0.033087444476,0.0383505338629,0.0315061897552,0.0711548667974,0,0.1688,0,0,0,0,0,0,0,0,0,0
+88,I am not sure where Roberto is playing for Barcelona.,30 min,5,6,37.136176948,0.0315061897552,0.0288072910676,0.3109280485,0.0323560453151,0,0.066205,0,0,0,0,0,0,0,0,0,0
+89,I know where he is supposed to be playing - right-back.,30 min,6,6,33.3298922279,0.3109280485,0.0711548667974,0.0304253071203,0.0244389059344,0,0.061225,0,0,0,0,0,0,0,0,0,0
+90,But the Spaniard is leaving all sorts of space down Sociedad's left at the moment.,30 min,9,8,54.4813323959,0.0304253071203,0.0323560453151,0.118105737567,0.0217272262578,0,0.20584,0,0,0,0,0,0,0,0,0,0
+91,"Penalty shout for the home side as Mascherano makes contact on Vela inside the Sociedad box, but the referee is not interested.",32 min,15,9,81.6531778851,0.118105737567,0.0244389059344,0.0261783539257,0.0860821544544,0,0.155785,0,0,0,0,0,1,0,0,0,0
+92,"In truth, it would have been pretty harsh despite the complaints.",32 min,8,5,45.7838822439,0.0261783539257,0.0217272262578,0.0106336778043,0.0323521158338,0,0.07509,0,0,0,0,0,0,0,0,0,0
+93,Alba lands very awkwardly and this does not look good for the Barcelona full-back.,33 min,8,7,49.1745117134,0.0106336778043,0.0860821544544,0.0895916588951,0.0309459349766,0,0.091595,0,0,0,0,0,0,0,0,0,0
+94,Alba's leg seemed to get caught under Vela and the defender seemed to be in agony when he hit the deck.,34 min,13,10,85.0532066262,0.0895916588951,0.0323521158338,0.0779609614878,0.0203270134047,0,0.15452,0,0,0,0,0,0,0,0,0,0
+95,Barcelona might have to be forced into a change 10 minutes before the break here.,34 min,8,8,51.9031093886,0.0779609614878,0.0309459349766,0.0920646485173,0.0,0,0.14815,0,0,0,0,0,0,0,0,0,0
+96,"Neymar, for the moment, has gone into left-back.",35 min,7,4,23.9483405904,0.0920646485173,0.0203270134047,0.0,0.244612021349,0,0.10417,0,0,0,0,0,0,0,0,0,0
+97,Crikey me.,35 min,2,1,10.8929090347,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+98,Alba has gone from death's door to returning to the field.,36 min,8,5,43.0078273137,0.0,0.244612021349,0.0179301085327,0.0,0,0.109875,0,0,0,0,0,0,0,0,0,0
+99,"He looked in agony when he hit the deck, but the left-back is now running around freely.",36 min,10,9,64.6486782763,0.0179301085327,0.0,0.0,0.0239867433438,0,0.108855,0,0,0,0,0,0,0,0,0,0
+100,Strange one.,36 min,3,0,9.59362605057,0.0,0.0,0.0,0.0,0,0.02439,0,0,0,0,0,0,0,0,0,0
+101,"Anyway, still goalless at the Anoeta.",36 min,6,2,24.3891318144,0.0,0.0239867433438,0.0,0.0484640755153,1,0.09769,0,0,0,0,0,0,0,0,0,0
+102,CLOSE!,37 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.027775,0,0,1,0,0,0,0,0,0,0
+103,Oyarzabal's volley from the edge of the Barcelona box just misses the post!,37 min,9,6,45.0793164493,0.0,0.0484640755153,0.0600624063318,0.0315357443156,0,0.21955,0,0,0,0,0,0,0,0,0,0
+104,"Barcelona are currently seven points behind Real Madrid in La Liga (well, six as things stand), but there is no real urgency from the champions, who welcome Los Blancos for El Clasico next weekend.",40 min,29,11,135.480099331,0.0600624063318,0.0,0.0406020101081,0.0196315373538,0,0.26442,0,0,0,0,0,0,0,0,0,0
+105,The visitors seem to have another injury problem as Pique signals for some attention.,40 min,9,6,57.5195346818,0.0406020101081,0.0315357443156,0.0263933639055,0.0177855948247,0,0.081635,0,0,0,0,0,0,0,0,0,0
+106,Vela slid in to challenge Oyarzabal and has come off worse than the Sociedad winger.,41 min,9,7,58.8095609433,0.0263933639055,0.0196315373538,0.0378516206815,0.0,0,0.1,0,1,0,0,0,0,0,0,0,0
+107,"Indeed, it does appear that Barcelona will be forced into a change in the final stages of the first period.",41 min,11,11,68.4193563363,0.0378516206815,0.0177855948247,0.0,0.0,0,0.19894,0,0,0,0,0,0,0,0,0,0
+108,No.,42 min,1,1,4.39642410291,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+109,Pique is now back.,42 min,3,2,14.4080591612,0.0,0.0,0.0,0.253908045079,0,0.022725,0,0,0,0,0,0,0,0,0,0
+110,Another that went from zero to 100 before returning to action.,42 min,7,5,45.8392565359,0.0,0.0,0.0294916014563,0.0443239529595,0,0.09576,0,0,0,0,0,0,0,0,0,0
+111,"I suspect that Pique and Alba will both be assessed at the interval, but for now, the pair continue on the field.",42 min,11,14,77.8641683508,0.0294916014563,0.253908045079,0.0283327415872,0.112548029779,0,0.13391,0,0,0,0,0,0,0,0,0,0
+112,Suarez misses the post from distance as Barcelona have a rare half-chance.,42 min,8,5,36.9361496141,0.0283327415872,0.0443239529595,0.0278815453346,0.0731239227717,0,0.20206,0,0,0,0,0,0,0,0,0,0
+113,Just a few signs that Barcelona are warming to their task here and Sociedad will not be too displeased to see the break after just dropping off slightly in the last few moments.,44 min,13,21,121.792701468,0.0278815453346,0.112548029779,0.0690857999029,0.0501892195754,0,0.16499,0,0,0,0,0,0,0,0,0,0
+114,"The home side have been brilliant in this first period, but have been unable to turn their domination into a goal.",44 min,11,12,69.9832560014,0.0690857999029,0.0731239227717,0.129060316723,0.109016992571,1,0.18286,0,0,0,0,0,0,0,0,0,0
+115,Oyarzabal comes across to block Mascherano's strike as Barcelona end the first period with a couple of corners in quick succession.,45 min+1,16,7,82.0981354284,0.129060316723,0.0501892195754,0.0332393813137,0.0340069080237,0,0.239655,0,0,0,0,0,0,0,0,0,0
+116,Sociedad have noticeably dropped off in the last few minutes.,45 min+1,6,5,35.9997572133,0.0332393813137,0.109016992571,0.0661910757984,0.0758480123728,0,0.13437,0,0,0,0,0,0,0,0,0,0
+117,HALF-TIME: Sociedad 0-0 Barcelona,45 min+2,5,0,4.49099183797,0.0661910757984,0.0340069080237,0.0,0.0,0,0.095235,0,0,0,0,0,0,0,0,0,0
+118,So there we have it.,8.32pm,1,5,18.3502279918,0.0,0.0758480123728,0.0,0.0473330732238,0,0.020835,0,0,0,0,0,0,0,0,0,0
+119,The referee brings the first period to a close with the two teams level at the Anoeta.,8.32pm,10,8,55.4554528983,0.0,0.0,0.126375850384,0.0,0,0.2617,0,0,1,0,0,0,0,0,0,0
+120,Barcelona have not won a league match in this stadium since 2007 and the Catalan giants are extremely fortunate to still be on level terms.,8.32pm,14,12,90.3618769074,0.126375850384,0.0473330732238,0.0,0.0,0,0.235495,1,0,0,0,0,0,0,0,0,0
+121,"Indeed, Sociedad dominated that opening 45.",8.32pm,7,1,25.2701965372,0.0,0.0,0.0,0.0271320368763,0,0.05172,0,0,0,0,0,0,0,0,0,0
+122,STATISTICS!,8.37pm,2,0,5.6491870714,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+123,"Sociedad shaded the first-half possession with 53%, while they hit the target with three of their eight attempts.",8.37pm,13,8,67.3078212661,0.0,0.0271320368763,0.421564127354,0.030410135564,0,0.14614,0,0,0,0,0,0,0,0,0,0
+124,"Barcelona, meanwhile, failed to hit the target with either of their two attempts.",8.37pm,11,5,49.4994423012,0.421564127354,0.0,0.0568043880174,0.0,0,0.127965,0,0,0,0,0,0,0,0,0,0
+125,Just the one yellow card to report and that came for Barcelona's Ter Stegen in the 22nd minute.,8.37pm,12,8,65.650909236,0.0568043880174,0.030410135564,0.0,0.0483515091188,0,0.167815,0,0,0,0,0,0,0,0,0,0
+126,BENCH WATCH!,8.42pm,3,0,10.6052269622,0.0,0.0,0.159026247478,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+127,"Barcelona boss Enrique has plenty of options for change on his bench tonight, with Rafinha, Alcacer, Alena and Denis Suarez all available.",8.42pm,18,8,92.6344035611,0.159026247478,0.0483515091188,0.0397832265359,0.0931846318432,0,0.138545,0,0,0,0,0,0,0,0,0,0
+128,"Sociedad, meanwhile, have the likes of Canales, Granero and Juanmi in reserve.",8.42pm,11,5,44.7132315786,0.0397832265359,0.0,0.013569424388,0.0,0,0.103385,0,0,0,0,0,0,0,0,0,0
+129,Will either manager look to their bench at the break?,8.42pm,6,5,38.3454899831,0.013569424388,0.0931846318432,0.0,0.0,0,0.089945,0,0,0,0,0,0,0,0,0,0
+130,We shall see!,8.42pm,3,1,14.5961859571,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+131,RESTART!,46 min,2,0,5.6491870714,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+132,Barcelona resume the action at the Anoeta...,46 min,5,3,22.7689011213,0.0,0.0,0.0902751423269,0.0482495643998,0,0.133555,0,0,0,0,0,0,0,0,0,0
+133,... BARCELONA SUB!,47 min,4,0,6.8705379721,0.0902751423269,0.0,0.0905559463196,0.0651009610837,0,0.027025,0,0,0,0,0,0,0,0,0,0
+134,Denis Suarez replaces Rakitic for Barcelona.,47 min,6,1,22.8290457472,0.0905559463196,0.0482495643998,0.0347946614465,0.0,0,0.145235,0,0,0,0,0,0,0,0,0,0
+135,Surely Barcelona will be better than they were in the first period.,49 min,6,7,44.3813412515,0.0347946614465,0.0651009610837,0.0914387269401,0.0225518543913,0,0.153165,0,0,0,0,0,0,0,0,0,0
+136,"Sociedad have played very well tonight, but have been unable to turn their domination into a goal and that will be a concern.",49 min,11,14,78.2628284162,0.0914387269401,0.0,0.0280596886945,0.0707302053574,1,0.126905,0,0,0,0,0,0,0,0,0,0
+137,Just a reminder that the Basque outfit entered this match off the back of four straight league wins.,49 min,11,8,61.9906511165,0.0280596886945,0.0225518543913,0.0374901896961,0.0605867175,0,0.17269,0,1,0,0,0,0,0,0,0,0
+138,"Under normal circumstances, a point for Barcelona tonight would not be the worst result in the world, but it would leave them six points behind the leaders Real Madrid entering El Clasico.",51 min,23,12,123.749064975,0.0374901896961,0.0707302053574,0.15931828065,0.0,0,0.284075,0,0,0,0,0,0,0,0,0,0
+139,"Defeat in that one and nine points would be a lot to make up, even at this stage.",51 min,11,9,66.492070185,0.15931828065,0.0605867175,0.0,0.0,0,0.111825,0,0,0,0,0,0,0,0,0,0
+140,Big second half here!,51 min,4,1,18.1351598281,0.0,0.0,0.0,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+141,SAVE!,52 min,2,0,5.2437219633,0.0,0.0,0.0,0.0,0,0.023255,0,0,0,0,0,0,0,0,0,0
+142,"Finally Barcelona have a shot on target and Rulli has to fly across his goal to keep out a really smart free kick from Neymar, who has just started to see more of the ball.",52 min,19,18,129.355329947,0.0,0.0,0.15681414092,0.0243204485651,1,0.244945,0,0,0,0,0,0,0,0,0,0
+143,GOAL!,53 min,2,0,3.85742760218,0.15681414092,0.0,0.0,0.0,1,0.023255,0,0,0,0,0,0,0,0,0,0
+144,Sociedad 1-0 Barcelona (Pique OG),53 min,7,0,14.1799280684,0.0,0.0243204485651,0.0,0.120150826681,0,0.057695,0,0,0,0,0,0,0,0,0,0
+145,Oh my word!,54 min,3,1,15.7311658899,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+146,Sociedad take the lead in the 53rd minute of this match as Pique turns into his own net from close range after attempting to clear Willian Jose's header off the line!,54 min,19,14,123.709623095,0.0,0.120150826681,0.0,0.270220263336,0,0.354355,0,0,1,0,0,0,0,0,1,0
+147,CORRECTION!,55 min,2,0,5.6491870714,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+148,Sociedad 1-0 Barcelona (Willian Jose),55 min,7,0,13.4379907236,0.0,0.270220263336,0.0,0.0621094012679,0,0.091995,0,0,0,0,0,0,0,0,0,0
+149,BOOKING!,55 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+150,Mascherano (Barcelona) is booked for a foul on Vela.,55 min,8,4,28.2035755306,0.0,0.0621094012679,0.0291218048674,0.0,0,0.133335,0,0,0,0,0,0,0,0,0,0
+151,"Barcelona deserve to be behind at this stage of the match, make no mistake about that.",57 min,9,9,57.2135546391,0.0291218048674,0.0,0.146732280342,0.143289301637,0,0.135385,0,0,0,0,0,0,0,0,0,0
+152,"As things stand, they are going to be seven points behind Real Madrid ahead of El Clasico next weekend.",57 min,15,6,74.3845446927,0.146732280342,0.0,0.0281500717109,0.165441013173,0,0.248595,0,0,0,0,0,0,0,0,0,0
+153,You still get the feeling that there is something in this for Barcelona with still more than 30 minutes of football to play at the Anoeta.,59 min,12,15,92.707795665,0.0281500717109,0.143289301637,0.0999542219905,0.0,0,0.13968,0,0,0,0,0,0,0,0,0,0
+154,This has been a nightmare ground for Barcelona over the last few seasons and that curse is striking once again as things stand.,59 min,10,14,84.412007495,0.0999542219905,0.165441013173,0.0876600562673,0.0,0,0.13619,0,0,0,0,0,0,0,0,0,0
+155,Sociedad have been so impressive.,59 min,3,3,17.9165920067,0.0876600562673,0.0,0.0,0.130064713187,0,0.05263,0,0,0,0,0,0,0,0,0,0
+156,GOAL!,59 min,2,0,3.85742760218,0.0,0.0,0.0,0.0,1,0.023255,0,0,0,0,0,0,0,0,0,0
+157,Sociedad 1-1 Barcelona (Messi),59 min,6,0,8.53074099695,0.0,0.130064713187,0.0,0.15874593362,0,0.11845,0,0,0,0,0,0,0,0,0,0
+158,And there is the response!,60 min,2,4,15.8732895117,0.0,0.0,0.036463075646,0.0,0,0.05,0,0,0,0,0,0,0,0,0,0
+159,"Barcelona hit back before the hour as Neymar races down the left before delivering low into Messi, who takes one touch before firing into the bottom corner!",60 min,18,11,110.377256122,0.036463075646,0.15874593362,0.0,0.0540797198478,0,0.459755,0,0,0,0,0,0,0,0,0,0
+160,BOOKING!,62 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+161,Carlos Martinez (Sociedad) is booked for a foul on Neymar.,62 min,9,4,32.5868666339,0.0,0.0540797198478,0.031489843712,0.048121023546,0,0.125905,0,0,0,0,0,0,0,0,0,0
+162,Little over 25 minutes of the second period remaining and you just get the feeling that there is a third goal in this match.,64 min,12,13,82.8379938826,0.031489843712,0.0,0.056288858912,0.023053063313,1,0.150175,0,0,0,0,0,0,0,0,0,0
+163,"It would be so, so cruel if Sociedad were to lose after putting so much into tonight, but that is football at this level.",64 min,12,15,93.1709455009,0.056288858912,0.048121023546,0.0176395597691,0.027890366589,0,0.07143,0,0,1,0,0,0,0,0,0,0
+164,Barcelona really need to collect all the points here.,64 min,6,4,32.548762628,0.0176395597691,0.023053063313,0.0490721100932,0.116171303558,0,0.07273,0,0,0,0,0,0,0,0,0,0
+165,"Suarez rolls home for Barcelona, but the striker was offside.",65 min,8,4,36.6695209508,0.0490721100932,0.027890366589,0.0506764464777,0.0288324940311,0,0.13142,0,0,0,0,0,0,0,0,0,1
+166,Neymar has Carlos Martinez's calling card down the Barcelona left at the moment and the Brazilian is causing all sorts of problems when he has possession of the ball.,67 min,16,15,108.292767549,0.0506764464777,0.116171303558,0.168217145465,0.114695257482,0,0.25178,0,0,0,0,0,0,0,0,0,0
+167,"That said, Navas and Inigo Martinez have both been brilliant at the heart of the Sociedad defence and have always been on the cover.",67 min,12,14,85.5960841408,0.168217145465,0.0288324940311,0.0594303197436,0.06414022454,0,0.162365,0,0,0,0,0,0,0,0,0,0
+168,"Super defending from Pique as the Barcelona centre-back drops low to clear a dangerous Carlos Martinez cross, which threatened to fall for Willian Jose.",70 min,18,8,88.4466461309,0.0594303197436,0.114695257482,0.0862535470977,0.0,0,0.183905,0,0,0,0,0,0,0,0,0,0
+169,All hands to the pump for the visitors.,70 min,4,5,27.7957178567,0.0862535470977,0.06414022454,0.0,0.0617281050697,0,0.094155,0,0,0,0,0,0,0,0,0,0
+170,SOCIEDAD SUB!,72 min,3,0,7.08624654493,0.0,0.0,0.115459310686,0.0452910050192,0,0.027025,0,0,0,0,0,0,0,0,0,0
+171,Canales replaces Prieto for Sociedad.,72 min,5,1,19.3727299412,0.115459310686,0.0617281050697,0.0559640290375,0.0,0,0.06977,0,0,0,0,0,0,0,0,0,0
+172,"Messi leads another Barcelona attack and it eventually falls for Suarez, but his cross is deflected into the arms of Rulli and Sociedad can build from a deep position once again.",74 min,18,15,119.112791933,0.0559640290375,0.0452910050192,0.0443766858183,0.0452910050192,0,0.149255,0,0,0,0,0,0,1,0,0,0
+173,Luis Suarez has been offside on about 6000 occasions tonight.,75 min,7,4,43.045930388,0.0443766858183,0.0,0.0,0.0,0,0.077695,0,0,0,0,0,0,0,0,0,1
+174,SOCIEDAD SUB!,76 min,3,0,7.08624654493,0.0,0.0452910050192,0.0893641441406,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+175,Juanmi replaces Willian Jose in Sociedad's second change.,76 min,9,1,32.2124447738,0.0893641441406,0.0,0.0,0.0,0,0.11845,0,0,0,0,0,0,0,0,0,0
+176,CROSSBAR!,76 min,2,0,5.2437219633,0.0,0.0,0.0,0.314185169126,0,0.017545,0,0,0,0,0,0,0,0,0,0
+177,Oh my word!,76 min,3,1,15.7311658899,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+178,"Vela bends one towards the top corner, but his effort smashes against the crossbar!",76 min,11,5,59.007337995,0.0,0.314185169126,0.049897576475,0.0,0,0.289075,0,0,0,0,0,0,0,0,0,0
+179,"Juanmi does turn home, but the substitute was in an offside position!",76 min,8,6,49.5798685643,0.049897576475,0.0,0.14325651383,0.117603113713,0,0.16265,0,0,0,0,0,0,1,0,0,1
+180,That Juanmi goal should have stood!,77 min,4,3,24.800192908,0.14325651383,0.0,0.0625629333411,0.0,1,0.03448,0,0,0,0,0,0,0,0,0,0
+181,Replays show that the striker was onside!,77 min,5,3,30.9883764801,0.0625629333411,0.117603113713,0.0217106470032,0.0478323125522,0,0.044445,0,0,0,0,0,0,0,0,0,0
+182,"Barcelona want a free kick just outside the Sociedad box as Neymar goes to ground, but the referee is not interested.",79 min,14,9,74.7857221752,0.0217106470032,0.0,0.142527111616,0.0,0,0.18851,0,0,0,0,0,0,0,0,0,0
+183,"The home side then break down the other end and Yuri has the chance to pick out a teammate inside the Barcelona box, but the full-back puts far too much on the pass.",79 min,18,17,115.533414603,0.142527111616,0.0478323125522,0.0,0.215764514351,0,0.23025,0,0,0,0,0,0,0,0,0,0
+184,SAVE!,81 min,2,0,5.2437219633,0.0,0.0,0.0,0.0,0,0.023255,0,0,0,0,0,0,0,0,0,0
+185,"Rulli gets down to keep out a low strike from Denis Suarez, who might have gone down inside the box under pressure!",81 min,14,10,87.2831291188,0.0,0.215764514351,0.0,0.0554460936887,0,0.1915,0,0,0,0,0,0,0,0,0,0
+186,His teammates give him a little look!,81 min,5,3,29.5288441507,0.0,0.0,0.0765030131684,0.0,0,0.044445,0,0,0,0,0,0,0,0,0,0
+187,Luis Suarez fires into the stands as his rotten night continues here.,83 min,8,5,49.2467273066,0.0765030131684,0.0554460936887,0.0,0.0916012517716,0,0.093305,0,0,0,0,0,0,0,0,0,0
+188,POST!,83 min,2,0,4.39642410291,0.0,0.0,0.194966034006,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+189,"Sociedad come close once again as Vela looks to pick out the bottom corner with a low strike, but the Mexican hits the post and it somehow remains 1-1 here.",83 min,18,14,111.525857981,0.194966034006,0.0916012517716,0.0,0.0,0,0.240645,0,0,1,0,0,0,0,0,0,0
+190,BOOKING!,84 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+191,Denis Suarez (Barcelona) is booked for dissent.,84 min,8,2,24.8947138802,0.0,0.0,0.0,0.0629563598534,0,0.117415,0,0,0,0,0,0,0,0,0,0
+192,SOCIEDAD SUB!,85 min,3,0,7.08624654493,0.0,0.0,0.0,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+193,Granero replaces Oyarzabal for the home side.,85 min,6,2,25.3899077583,0.0,0.0629563598534,0.0515879646441,0.137522506296,0,0.096425,0,0,0,0,0,0,0,0,0,0
+194,Still time for one of these two teams to find a winner and you just get the feeling that something will happen in the final stages of this match.,87 min,15,15,105.17502883,0.0515879646441,0.0,0.0488784100939,0.0,0,0.12899,0,1,0,0,0,0,0,0,0,0
+195,"Indeed, Sociedad have a half-chance as Granero races onto a cut-back from Vela, but the midfielder's effort is straight into the arms of Ter Stegen.",87 min,18,11,76.1505795515,0.0488784100939,0.137522506296,0.0,0.0575504876058,0,0.24432,0,0,0,0,0,0,0,0,0,0
+196,BOOKING!,89 min,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+197,Zurutuza (Sociedad) is booked for a foul on Messi.,89 min,8,4,28.6424276548,0.0,0.0575504876058,0.0,0.0,0,0.09091,0,0,0,0,0,0,0,0,0,0
+198,CHANCE!,90 min,2,0,4.14510967463,0.0,0.0,0.0,0.0,0,0.02703,0,0,0,0,0,0,0,0,0,0
+199,The forgotten man Granero fires over from inside the box!,90 min,7,4,40.081450658,0.0,0.0,0.0694491803224,0.0,0,0.15415,0,0,0,0,0,0,0,0,0,0
+200,We are into the first of two added minutes at the end of the second period.,90 min+1,8,9,54.4412512049,0.0694491803224,0.0,0.0,0.0,0,0.176715,0,0,0,0,0,0,0,0,0,0
+201,BOOKING!,90 min+3,2,0,4.39642410291,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+202,Alba (Barcelona) is booked for dissent.,90 min+3,7,2,20.7808567491,0.0,0.0,0.0714998077835,0.0,0,0.04878,0,0,0,0,0,0,0,0,0,0
+203,FULL-TIME: Sociedad 1-1 Barcelona,90 min+4,5,0,4.49099183797,0.0714998077835,0.0,0.0,0.0672463318045,0,0.096925,0,0,0,0,0,0,0,0,0,0
+204,So there we have it.,9.38pm,1,5,18.3502279918,0.0,0.0,0.0437445256497,0.0,0,0.020835,0,0,0,0,0,0,0,0,0,0
+205,"The champions Barcelona drop more points in the league as they are held to a 1-1 draw by a brilliant Sociedad team, who really should have secured all the points.",9.38pm,16,16,97.8886053158,0.0437445256497,0.0672463318045,0.0,0.0,0,0.26182,0,0,0,0,1,0,0,0,0,0
+206,Thanks for joining Sports Mole for another night of live European action.,9.38pm,10,3,53.6779966965,0.0,0.0,0.0,0.0,0,0.051725,0,0,0,0,0,0,0,0,0,0
+207,Until next time!,9.38pm,3,1,14.5961859571,0.0,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,962 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,So the Super 10s are off to a great start.,958,5,6,40.1578818157,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+1,"Many tagged India as favourites, especially with them playing at home.",957,9,4,57.4967296384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+2,A turning track was just what they wanted.,956,4,5,34.5578744078,0.0,0.0,0.0350005355888,0.0373063263474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+3,Dhoni actually was not unhappy to lose the toss because he knew that his spinners could bowl without the dew taking full effect.,955,15,9,112.056853585,0.0350005355888,0.0,0.114989073935,0.0793887600584,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.196375
+4,"But unfortunately for him and his side, dew hardly made an appearance and batting was even tougher second time around.",954,14,8,98.5982175343,0.114989073935,0.0373063263474,0.0786020442612,0.101452103127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+5,"Williamson is delighted that the three-spinner strategy worked so well, while his counterpart is disappointed that his batsmen let him down.",953,12,11,94.0812196759,0.0786020442612,0.0793887600584,0.0,0.0566429591489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.075
+6,Time to move on.,952,3,2,15.9116479899,0.0,0.101452103127,0.0,0.0390536096298,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+7,Tomorrow is a double-header.,951,3,2,10.1579174658,0.0,0.0566429591489,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+8,"First up, Pakistan and Bangladesh lock horns in Kolkata, and then England take on West Indies in Mumbai.",950,14,7,91.077827051,0.0,0.0390536096298,0.0,0.0480699437882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+9,Let's hope that we have a cracking Wednesday.,949,6,4,38.2601638849,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.054055
+10,Good night and goodbye!Below are a few tweets pertaining to the game:Suryakumar Yadav: In  .,948,12,8,77.6392612853,0.0,0.0480699437882,0.0204477263001,0.0693459622899,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+11,world T20 also India lost to NZ but at the end everyone knows the result.,947,11,5,70.4846231721,0.0204477263001,0.0,0.0,0.0900282827774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.153465
+12,Men in blue are gonna bounce back really hard.,946,9,2,40.5925568617,0.0,0.0693459622899,0.0155476752937,0.0255377181212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+13,"#ICCWT20 Subramaniam Badrinath: Full marks to #NZ though , for taking some bold decisions going in to this match,and backing them up masterly #INDvNZ #WT20Rajneesh Gupta: The target of  .",945,27,11,152.486677221,0.0155476752937,0.0900282827774,0.029883199583,0.0084430760491,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+14,is the lowest ever India have failed to chase down in Twenty20 Internationals.,944,8,6,61.191700851,0.029883199583,0.0255377181212,0.013868111608,0.00786128615818,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12903
+15,"#IndvsNZ #ICCWT20Tom Moody: Kane Williamson (c) has made all the right moves out there tonight, from the toss onwards!",943,19,7,88.7117333542,0.013868111608,0.0084430760491,0.10928975315,0.0847063151405,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.140525
+16,#INDvsNZ #WT20Brian Lara: I think this pitch would be the last of its kind.,942,12,6,67.5041283703,0.10928975315,0.00786128615818,0.0960333463632,0.00803330852142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+17,"#IndvsNZ #Indiathoughtalesson India is a great team don't need to compromise their chancesDhoni: ""It was a low-scoring wicket.",941,16,8,72.7963662274,0.0960333463632,0.0847063151405,0.0526078916239,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.116155
+18,"We restricted them to a good total, but it was the batting that let us down.",940,8,10,65.4596558179,0.0526078916239,0.00803330852142,0.0,0.0173867151329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+19,There were quite a few soft dismissals.,939,4,4,34.5768167264,0.0,0.0,0.100085195944,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+20,The shot selection put a lot of pressure on the batsmen who were coming in.,938,8,8,62.8798830521,0.100085195944,0.0173867151329,0.0399915534095,0.0291414355226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15625
+21,"They bowled well, but at the same time I felt we lacked a bit of adaptability.",937,9,9,67.015226655,0.0399915534095,0.0,0.0739635027398,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+22,We are quite used to playing in these conditions.,936,5,5,42.2098126598,0.0739635027398,0.0291414355226,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086055
+23,I feel  .,935,2,1,6.76832099579,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+24,"was a decent score, but it was the batting that let us down.",934,7,8,52.3696953834,0.0,0.0,0.0135080212249,0.0143626842011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+25,"I think my thumb will be fine for the next match (smiles, when asked about the blow he got while keeping wickets).",933,15,11,109.306976902,0.0135080212249,0.0,0.0193447984923,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+26,"""Williamson: ""Very pleased with the win.",932,7,3,27.0301715062,0.0193447984923,0.0143626842011,0.0,0.117325772901,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+27,It was a tough surface.,931,3,3,18.8081483532,0.0,0.0,0.0283890188075,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109655
+28,"We would have probably liked a few more, but the boys bowled really well and it is pleasing to win against a quality side.",930,13,13,102.112499974,0.0283890188075,0.117325772901,0.122059723424,0.0407761500898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144185
+29,We said we wanted to be aggressive at the start with the bat.,929,6,8,54.6877566084,0.122059723424,0.0,0.0115671257759,0.199329281559,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2381
+30,It was tough to leave out both Southee and Boult.,928,5,6,43.2377992419,0.0115671257759,0.0407761500898,0.0306723670563,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+31,We looked to adapt to these conditions.,927,4,4,32.0857304349,0.0306723670563,0.199329281559,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+32,The spinners paid off today.,926,4,2,23.4830942735,0.0,0.0,0.0268512842196,0.0114231832116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+33,The wicket spun a lot.,925,4,2,17.1555977112,0.0268512842196,0.0,0.0141154815385,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+34,The best way to take wickets was to bowl our best balls and be really patient.,924,10,7,73.404226361,0.0141154815385,0.0114231832116,0.0407127008219,0.0516187398003,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+35,"""Santner: ""There was a bit of spin out there.",923,7,6,32.0615344127,0.0407127008219,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+36,The Indians bowled well to keep us to  .,922,6,3,33.4224030121,0.0,0.0516187398003,0.0,0.0169266789803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+37,.,921,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+38,"We thought we were maybe below par, but the boys stuck at it and we are delighted with the win.",920,9,13,94.2593390416,0.0,0.0169266789803,0.210959179035,0.024251216949,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136675
+39,We knew it was going to be tough.,919,4,5,34.036801534,0.210959179035,0.0,0.131453355676,0.078540094479,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+40,Jadeja was really spinning it there.,918,4,3,25.4673161041,0.131453355676,0.024251216949,0.0937788384959,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+41,Starting a partnership was hard.,917,4,2,22.2143332764,0.0937788384959,0.078540094479,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+42,We wanted to get to  .,916,3,3,18.0971033195,0.0,0.0,0.0,0.0718626065028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+43,40 and in the end  .,915,3,3,18.5518461642,0.0,0.0,0.0,0.0288132547193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.316765
+44,proved to be enough.,914,3,2,17.248671302,0.0,0.0718626065028,0.0206275536237,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+45,I just tried to hit that hard length and kept it very simple.,913,7,7,51.819876194,0.0206275536237,0.0288132547193,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.197995
+46,"""Mitchell Santner is the Man of the MatchWhat a win for New Zealand.",912,9,6,47.2515220269,0.0,0.0,0.0,0.0723603670153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.171985
+47,They had only  .,911,1,3,13.5399667301,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+48,"runs to play with, but that huddle before the start of the innings meant a lot.",910,9,9,63.61767129,0.0,0.0723603670153,0.0480428059119,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+49,Kane Williamson was so focused with his words and his boys were keenly listening to him.,909,8,9,76.8142961034,0.0480428059119,0.0,0.0,0.0465333237732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14706
+50,"Boy, haven't they responded well!",908,6,2,26.6193213586,0.0,0.0,0.0581643374728,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.042555
+51,"They said New Zealand can't play spin, but on a spinning pitch, Williamson and Co. have exposed India's weakness.",907,18,6,73.4287370285,0.0581643374728,0.0465333237732,0.0129072786636,0.0642149241493,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.161825
+52,The spinners took 9 wickets and that tells you the story.,906,7,5,44.9898319816,0.0129072786636,0.0,0.0619304237759,0.0395344267115,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+53,"Must say that the fielding was spot on too, which made life even difficult for the Indian batsmen.McCullum opened the bowling and exploited Dhawan's persisting off-spin travails to trap him in front.",905,22,13,146.470800134,0.0619304237759,0.0642149241493,0.0524191870092,0.0433898294164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+54,"Encouraged by the turn, Santner was summoned and he struck twice in his very first over making a fool of Rohit and Raina.",904,13,12,99.3232453337,0.0524191870092,0.0395344267115,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.230255
+55,"""Good on New Zealand, they have something to cheer for,"" I said to myself.",903,11,8,57.0600724535,0.0,0.0433898294164,0.0,0.0248751553696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+56,"Soon, stuff started getting real.",902,7,0,33.6717059422,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+57,An astounding inability to tackle quality spin bowling came to the fore and ...not before long... Dhoni was left with Ashwin and an ever-swelling asking rate.,901,18,11,117.795759338,0.0,0.0248751553696,0.0065817946205,0.0937532746973,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17984
+58,His labourous struggles reminisced of the World Cup  .,900,6,3,40.337901443,0.0065817946205,0.0,0.00916297651259,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+59,semi-final against Australia and once the rate got over 12 - on this pitch - GONE.,899,10,7,61.2743536113,0.00916297651259,0.0937532746973,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+60,"Make no mistake, New Zealand were brilliant.",898,7,2,34.7056995486,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+61,Especially their tweakers.,897,3,1,17.9378393732,0.0,0.0,0.0936468939128,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+62,Any doubts about their quality have been put to bed.Wow.,896,5,6,44.8852814653,0.0936468939128,0.0,0.0,0.152508238553,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.082505
+63,Whodathunk it?,895,2,1,9.7374144803,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.038465
+64,India have been buried by turn.,894,4,3,28.0868079968,0.0,0.152508238553,0.4072452581,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.091995
+65,Absolutely buried.,893,3,0,13.5366419916,0.4072452581,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+66,It all looks too surreal right now to be honest.,892,5,6,46.5993061179,0.0,0.0,0.0333237643533,0.0257336846403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+67,"That can't happen, can it?",891,5,3,17.4922846784,0.0333237643533,0.0,0.0733817214991,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.043475
+68,It was apparent that this pitch was taking plenty of turn.,890,6,6,48.9697708353,0.0733817214991,0.0257336846403,0.0,0.0248744375114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+69,And New Zealand had 3 spinners up their sleeve.,889,6,4,35.7879554348,0.0,0.0,0.0657003071665,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19872
+70,"But given their inexperience in Indian conditions, one got the impression that restricting the hosts to under  .",888,11,8,79.7774352809,0.0657003071665,0.0248744375114,0.0,0.0169164838073,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+71,will be improbable.,887,2,2,15.5590651419,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.049995
+72,"The troika of McCullum, Santner and Sodhi had other ideas though.",886,8,5,49.0317944328,0.0,0.0169164838073,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+73,.,885,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+74,"Milne to Nehra, out Bowled!!",884,6,2,18.9331312548,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+75,Knocked him over and New Zealand maintain a clean sheet over India in T20Is.,883,9,6,63.0957455339,0.0,0.0,0.0433439497216,0.0447234854505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16574
+76,The LED stumps are set ablaze as the Black Caps record their fifth win against India in the shortest format of the game.,882,14,10,109.522736187,0.0433439497216,0.0,0.0343925976689,0.0346821153939,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196755
+77,"A straight ball from Milne, Nehra was never going to get behind the line of that ball, for Milne is took quick for him.",881,16,11,92.5076613205,0.0343925976689,0.0447234854505,0.0408683188539,0.435898756353,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12963
+78,He misses and the timber is shattered.,880,4,4,30.709162464,0.0408683188539,0.0346821153939,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+79,Nehra b Milne  .,879,4,0,8.73080111014,0.0,0.435898756353,0.7963252398,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02857
+80,")Milne to Nehra, THAT'S OUT!!",878,7,3,16.6377146513,0.7963252398,0.0,0.0,0.356758674707,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+81,Bowled!,877,2,0,5.22787595485,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+82,!Adam Milne [ .,876,5,0,10.9055528316,0.0,0.356758674707,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+83,- .,875,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+84,-0] is back into the attackWhat a spell from Santner.,874,7,5,33.5110730908,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+85,He ends with figures of  .,873,3,3,23.4198197878,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+86,- .,872,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+87,.,871,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+88,.,870,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+89,"Santner to Bumrah, no run, spinning away outside off stump, Bumrah guides it towards backward point .",869,16,4,64.3438020407,0.0,0.0,0.480198634129,0.0789400514335,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+90,"Santner to Bumrah, no run, flighted delivery outside off stump, Bumrah pushes it to coverJasprit Bumrah, right handed bat, comes to the crease .",868,22,7,86.4990505001,0.480198634129,0.0,0.0885511811373,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10988
+91,"Santner to Dhoni, out Caught by Nathan McCullum!!",867,8,3,30.1802144639,0.0885511811373,0.0789400514335,0.0,0.147563062306,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+92,Another brilliant piece of fielding from New Zealand.,866,7,2,39.8256008389,0.0,0.0,0.0840731943119,0.0289471882766,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+93,"Flighted delivery on the stumps, Dhoni tries to muscle it out of the ground, hit it flat though, McCullum runs forward from long-on, dives and takes it inches from the ground.",865,23,13,121.245376041,0.0840731943119,0.147563062306,0.188554337263,0.141840387553,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18167
+94,India are surely out of this one and the crowd are starting to leave the ground.,864,8,9,64.5758451995,0.188554337263,0.0289471882766,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21408
+95,Dhoni c Nathan McCullum b Santner  .,863,7,0,15.8314675738,0.0,0.141840387553,0.0,0.476663270916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+96,0) [4s- .,862,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+97,"s-1]Santner to Dhoni, THAT'S OUT!!",861,8,3,15.1669120434,0.0,0.476663270916,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+98,Caught!!,860,3,0,5.03371994041,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+99,.,859,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+100,"Santner to Dhoni, no run, very full, driven firmly along the ground to long-on, but Dhoni doesn't want the run .",858,18,8,75.7505552471,0.0,0.0,0.205060011251,0.196708943666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+101,"Santner to Dhoni, no run, oh that one spun sharply across Dhoni, the India skipper did well to keep his back foot grounded though even as he got beaten .",857,24,9,126.568658319,0.205060011251,0.0,0.142907376618,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.235935
+102,"Santner to Dhoni, FOUR, shortish delivery on the stumps, actually Dhoni was surprised by the lack of pace on that, managed to pull it powerfully through and split deep mid-wicket and deep backward square legMitchell Santner [ .",856,28,14,146.04024087,0.142907376618,0.196708943666,0.0,0.0114333517428,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.129695
+103,- .,855,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+104,-3] is back into the attackIndia need 52 runs from 18 balls.,854,10,4,52.838135085,0.0,0.0114333517428,0.0,0.0311189472105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153475
+105,They are literally out of this contest.,853,3,5,32.5702022673,0.0,0.0,0.0572475261435,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+106,Net run rate could play a key role later in the tournament and it is important that they bat through their overs.,852,13,10,95.5974951802,0.0572475261435,0.0311189472105,0.0,0.06789192477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+107,.,851,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+108,"Ish Sodhi to Nehra, no run, edgeddd, goes wide of Elliott at backward point and Dhoni doesn't take the single because it is the last ball of the over.",850,20,14,113.028749157,0.0,0.06789192477,0.124961242031,0.262108910554,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140845
+109,"Flighted delivery spinning away outside off stump, Nehra goes for the lofted drive and gets a thick edge .",849,15,5,73.0570600018,0.124961242031,0.0,0.21361996587,0.0936647005067,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+110,"Ish Sodhi to Nehra, wide, another wide as Sodhi gets too much turn outside off stump .",848,15,4,67.7592127671,0.21361996587,0.262108910554,0.236806521936,0.420566041214,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+111,"Ish Sodhi to Nehra, no run, Nehra is kind enough to tap this low full toss straight back to the bowler .",847,17,7,83.5799022737,0.236806521936,0.0936647005067,0.228748661341,0.356431649418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.132815
+112,"Ish Sodhi to Nehra, wide, oh this one turned a long way and was rightly called a wide .",846,15,6,71.1099647476,0.228748661341,0.420566041214,0.202846524867,0.101793476388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120835
+113,"Ish Sodhi to Nehra, no run, lovely back foot defence from Nehra and the crowd gets behind him.",845,15,6,72.8974628886,0.202846524867,0.356431649418,0.208895166257,0.205208710368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+114,"Googly just outside off stump, Nehra defendsAshish Nehra, right handed bat, comes to the crease .",844,15,4,63.0763043609,0.208895166257,0.101793476388,0.0169311803611,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+115,"Ish Sodhi to Ashwin, out Stumped!!",843,7,2,23.001597154,0.0169311803611,0.205208710368,0.307020918346,0.0650991077913,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17045
+116,This is lovely bowling from Ish Sodhi.,842,5,3,30.4452035057,0.307020918346,0.0,0.052209202753,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13098
+117,"Bowled this slower through the air, Ashwin was looking to softly work it along the ground towards point and get Dhoni back on strike, but the ball spun square and past the bat.",841,23,13,132.349083429,0.052209202753,0.0650991077913,0.124713824785,0.0220640125193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159775
+118,"Ashwin lost balance and came out of the crease, the keeper did the rest.",840,9,7,58.515325545,0.124713824785,0.0,0.0,0.0709157687297,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.19577
+119,New Zealand are closing in on a big win here.,839,6,5,41.1115586587,0.0,0.0220640125193,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+120,Ashwin st Ronchi b Ish Sodhi  .,838,7,0,23.1955954985,0.0,0.0709157687297,0.548966971718,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+121,"0)Ish Sodhi to Ashwin, THAT'S OUT!!",837,9,3,20.0130333699,0.548966971718,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+122,Stumped!!,836,3,0,5.92102313541,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05555
+123,.,835,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+124,"Ish Sodhi to Dhoni, 1 run, slightly shorter in length, Dhoni could only drive it to cover .",834,16,5,64.5710784894,0.0,0.0,0.192014066259,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+125,"Ish Sodhi to Dhoni, SIX, finally the first six of the innings and it comes off the bat of the Indian skipper.",833,15,10,81.9379308574,0.192014066259,0.0,0.0,0.176762985566,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.21937
+126,Brave hit!,832,3,0,11.6395220067,0.0,0.0,0.0,0.222248328062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+127,"Flighted delivery spinning away outside off stump, Dhoni steps out, gets to the pitch of the ball and muscles it back over the bowler's head for a maximum.",831,20,12,106.905383761,0.0,0.176762985566,0.0356312749059,0.0923691815912,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18763
+128,That hit delights the crowd .,830,4,2,21.7279360005,0.0356312749059,0.222248328062,0.0,0.0282796527365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+129,"Corey Anderson to Dhoni, 1 run, Dhoni softly works it to mid-wicket, wants two, but Ashwin is not quick enough.",829,19,6,70.9835709799,0.0,0.0923691815912,0.128300222395,0.239055465373,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.113205
+130,"Dhoni then nods at Ashwin, probably the off-spinner wanted the Indian skipper to be on strike .",828,11,7,62.785072082,0.128300222395,0.0282796527365,0.101076973451,0.238464182913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+131,"Corey Anderson to Ashwin, 1 run, slower delivery from Anderson, Ashwin flat-bats it hard, hit decently well, but straight to long-on .",827,22,5,68.4327574008,0.101076973451,0.239055465373,0.230473258464,0.239196191713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096425
+132,"Corey Anderson to Dhoni, 1 run, clever bowling from Anderson, there is protection on the on-side and hence opts to follow Dhoni with this slower delivery, the Indian captain wanted to go over the off-side, could only work it behind square on the on-side along the ground .",826,34,19,174.795584066,0.230473258464,0.238464182913,0.156708906948,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13551
+133,"Corey Anderson to Ashwin, 1 run, Ashwin walks forward, nudges to mid-wicket, Guptill hurries from the deep and keeps it down to a singleThe Indian fans in the stands look dejected.",825,25,11,118.462486349,0.156708906948,0.239196191713,0.0,0.13009176658,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.140835
+134,.,824,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+135,"Corey Anderson to Dhoni, 1 run, another slower delivery, this time cramping for room as he advances, flicked through mid-wicket .",823,19,6,77.8771239646,0.0,0.13009176658,0.243072999394,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.18087
+136,"Corey Anderson to Dhoni, no run, Dhoni steps out and swings hard, but only connects with thin air as he was comprehensively beaten by the slower deliveryCorey Anderson [ .",822,21,12,122.44099972,0.243072999394,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.174905
+137,- .,821,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+138,. ],820,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+139,is back into the attackIndia last hit a boundary in the 5th over.,819,7,7,51.2395318167,0.0,0.0,0.0247859611802,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.243105
+140,That's how disciplined New Zealand have been with the ball.,818,6,6,42.2557139618,0.0247859611802,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21978
+141,Change of bat for Dhoni.,817,4,2,19.6593354918,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+142,66 needed off 30 balls now!,816,5,2,34.2313623934,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+143,.,815,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+144,"Ish Sodhi to Ashwin, no run, Ashwin goes for the inside-out drive, but only manages to get an outside edge that falls short of short third man .",814,21,10,102.881985211,0.0,0.0,0.172860961245,0.039124584032,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13391
+145,"Ish Sodhi to Dhoni, 1 run, shortish and outside off stump, Dhoni flat-bats the slap to the left of long-off.",813,17,7,57.7799210675,0.172860961245,0.0,0.0224598876537,0.279411715542,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+146,The boundaries aren't coming for India .,812,5,3,25.4465883145,0.0224598876537,0.039124584032,0.0679743549631,0.0664795232613,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+147,"Ish Sodhi to Dhoni, 2 runs, Dhoni gives the charge, mistimes the slog to mid-wicket, slight hesitation for the second run and Ashwin had to put in the dive in the end.",811,24,13,117.637567327,0.0679743549631,0.279411715542,0.110137766069,0.21351828623,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.18559
+148,"Santner with the throw from the deep, a direct-hit would have been curtains for Ashwin .",810,9,8,51.5341733326,0.110137766069,0.0664795232613,0.0764439294277,0.106718462705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14957
+149,"Ish Sodhi to Ashwin, 1 run, shortish and spinning away outside off stump, Ashwin goes back and works it away towards mid-wicket .",809,21,5,75.2569888883,0.0764439294277,0.21351828623,0.45700880809,0.342774963614,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+150,"Ish Sodhi to Ashwin, no run, short and spinning away outside off stump, Ashwin wanted to cut, the turn meant he had to reach out and dab it with one hand to backward point .",808,25,14,132.967206505,0.45700880809,0.106718462705,0.327569264987,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15199
+151,"Ish Sodhi to Ashwin, no run, tossed up just outside off stump, defended to cover off the front footIsh Sodhi [ .",807,17,8,79.0148455002,0.327569264987,0.342774963614,0.0,0.0638563737197,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.154615
+152,- .,806,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+153,-2] is back into the attackIt's 70 needed off 36 balls.,805,10,4,48.7533028166,0.0,0.0638563737197,0.0,0.00924542795242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+154,So when does Dhoni attack?,804,3,3,25.157015881,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+155,That's a tough decision to make because India only have three wickets left in the tank.,803,10,8,67.5169403744,0.0,0.00924542795242,0.0,0.0218106102897,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17316
+156,.,802,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+157,"Santner to Ashwin, 1 run, very full and outside off stump, driven to Williamson at cover .",801,14,6,54.2715328717,0.0,0.0218106102897,0.12931266841,0.249620270922,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+158,"Santner to Dhoni, 1 run, Dhoni steps out, gets closer to the pitch of the ball and works it through mid-wicket, the fielder rushes and prevents the second run .",800,22,12,99.4451445178,0.12931266841,0.0,0.279804116839,0.214842435799,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16138
+159,"Santner to Dhoni, no run, tossed up just outside off stump, Dhoni can only defend it to the left of the bowler off the front foot .",799,16,14,93.7621142866,0.279804116839,0.249620270922,0.15158131512,0.351760187341,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.16809
+160,"Santner to Ashwin, 1 run, allows the ball to come and taps it to short cover with soft hands to get a run .",798,17,9,78.0919075029,0.15158131512,0.214842435799,0.316923323864,0.228697771143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145455
+161,"Santner to Ashwin, no run, quicker ball on the off stump, Ashwin defends it back to the bowler .",797,14,8,58.9139369512,0.316923323864,0.351760187341,0.261707341092,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13619
+162,"Santner to Dhoni, 1 run, Dhoni jumps out of the crease and works it towards short mid-wicket, Santner collects the ball and has a shy at the bowler's end, but missesMitchell Santner [ .",796,26,13,110.838785867,0.261707341092,0.228697771143,0.0,0.0668115292515,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.174615
+163,- .,795,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+164,-3] is back into the attackSeven overs left in the game and New Zealand have five overs of spin to play with.,794,14,10,84.4275027812,0.0,0.0668115292515,0.0295242423809,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23354
+165,74 off 42 is a big ask!,793,5,3,32.4396029242,0.0295242423809,0.0,0.0,0.0828188140055,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+166,.,792,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+167,"Milne to Ashwin, no run, fullish and outside off stump, Ashwin drives it to mid-off .",791,13,6,47.8791247252,0.0,0.0828188140055,0.359910872097,0.185623023907,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.104165
+168,"Milne to Ashwin, no run, with pace on the ball, Ashwin tries to run it to third man again, but fails to get bat on ball .",790,19,12,91.8346226652,0.359910872097,0.0,0.360105404998,0.368594330341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125665
+169,"Milne to Dhoni, 1 run, good length delivery on the stumps, Dhoni punches it to the right of the bowler, who fails to make a clean stop, the ball rolls to mid-on to allow a single .",789,27,15,120.832140798,0.360105404998,0.185623023907,0.190326386896,0.265828654547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.150175
+170,"Milne to Ashwin, 1 run, easily guided away to third man for another single .",788,14,3,53.950296993,0.190326386896,0.368594330341,0.188908366217,0.377464118607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+171,"Milne to Dhoni, 1 run, a firm back foot punch from Dhoni, only a single along the ground through cover .",787,17,7,71.2518654408,0.188908366217,0.265828654547,0.235753924523,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+172,"Milne to Ashwin, 1 run, short of length delivery outside off stump, Ashwin runs it to the right of third man and gets Dhoni back on strikeAdam Milne [ .",786,24,9,97.9195036979,0.235753924523,0.377464118607,0.0,0.0596584611178,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+173,- .,785,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+174,-0] is back into the attackThe equation reads 78 off 48 balls.,784,10,4,56.0324494362,0.0,0.0596584611178,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+175,"Doable, but India have lost too many wickets.",783,7,3,40.0612585719,0.0,0.0,0.0567985094144,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.08
+176,Can Ashwin provide good support to Dhoni and take India closer?,782,9,3,50.8121605905,0.0567985094144,0.0,0.0110192850242,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+177,The ploy to play three spinners is working wonders for New Zealand.,781,9,4,53.7734001825,0.0110192850242,0.0,0.0,0.0521579818854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.210505
+178,.,780,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+179,"Nathan McCullum to Ashwin, 1 run, Ashwin goes for the back foot punch through mid-on and the crowd cheers every run .",779,18,6,73.8730846669,0.0,0.0521579818854,0.254595646165,0.330202067391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15523
+180,"Nathan McCullum to Dhoni, 1 run, McCullum keeps it quicker and shorter to prevent Dhoni from racing down the pitch, the Indian skipper works it through square leg for a run .",778,23,12,116.746893674,0.254595646165,0.0,0.23279566196,0.173038010244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15853
+181,"Nathan McCullum to Ashwin, 1 run, too full to trouble the batsman, driven down to long-on off the front foot .",777,16,8,69.7371867943,0.23279566196,0.330202067391,0.241751533416,0.169054969807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22292
+182,"Nathan McCullum to Ashwin, no run, Ashwin goes back and deep in his crease to defend with soft hands .",776,15,7,73.8850272415,0.241751533416,0.173038010244,0.162308488403,0.243337459249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+183,"Nathan McCullum to Dhoni, 1 run, this is easily worked away through backward square leg .",775,14,4,57.9072206093,0.162308488403,0.169054969807,0.250750163272,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+184,"Nathan McCullum to Dhoni, no run, fired flatter and just outside off stump from round the wicket, Dhoni defends it from the crease to coverNathan McCullum [ .",774,20,11,99.7734421504,0.250750163272,0.243337459249,0.0,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+185,- .,773,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+186,. ],772,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+187,is back into the attack .,771,3,3,17.3649931868,0.0,0.0,0.018280655753,0.108319276665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13457
+188,"Ish Sodhi to Dhoni, 1 run, very full and on the stumps, Dhoni drives it to long-on after lunging forward .",770,16,8,67.1122836334,0.018280655753,0.0,0.29049626258,0.184044345852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11395
+189,"Ish Sodhi to Ashwin, 1 run, Ashwin forces this away off the back foot to long-on .",769,14,5,50.2196363367,0.29049626258,0.108319276665,0.419687349536,0.475803936436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+190,"Ish Sodhi to Ashwin, no run, tries to punch off the back foot, the ball takes the inside edge and hits the pad .",768,18,9,83.5069560099,0.419687349536,0.184044345852,0.296685263502,0.180054495059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18319
+191,"Ish Sodhi to Ashwin, no run, spinning away outside off stump, Ashwin taps it to coverRavichandran Ashwin, right handed bat, comes to the crease .",767,23,7,90.8540237274,0.296685263502,0.475803936436,0.174508365431,0.136050073813,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14352
+192,"Ish Sodhi to Ravindra Jadeja, out Caught&Bowled!!",766,10,2,31.8895838476,0.174508365431,0.180054495059,0.258197275489,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101315
+193,That is a brilliant catch from Ish Sodhi.,765,5,4,30.2336827942,0.258197275489,0.136050073813,0.0,0.0189368427794,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.152635
+194,Second wicket for him in 8 balls.,764,5,3,24.5212606602,0.0,0.0,0.0198027205346,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+195,"Flighted delivery that went straight on, Jadeja tries to work it on the on-side, played with hard hands, went off the outside half of the bat, the bowler quickly ran to his left, dived forward and went with both hands, took it with his left hand in the end.",763,34,22,197.014384706,0.0198027205346,0.0189368427794,0.0220154620115,0.0624392865048,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153485
+196,That was a good low catch.,762,4,3,22.198851018,0.0220154620115,0.0,0.0,0.0878356142976,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.07479
+197,Ravindra Jadeja c and b Ish Sodhi  .,761,7,1,18.7305068761,0.0,0.0624392865048,0.845055062978,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07831
+198,")Ish Sodhi to Ravindra Jadeja, THAT'S OUT!!",760,9,3,24.5604473037,0.845055062978,0.0878356142976,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+199,Caught&Bowled!,759,4,0,10.2615958953,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+200,!New Zealand think they have another wicket!,758,7,2,30.626854927,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+201,Jadeja is walking even before the umpires converge to discuss.,757,7,4,50.3592848832,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+202,So no referral and it will be out!,756,2,7,31.2019295438,0.0,0.0,0.0,0.0498812163406,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+203,.,755,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+204,"Ish Sodhi to Dhoni, 1 run, Dhoni races down the pitch, Sodhi drags it back, but the Indian skipper works it to short mid-wicket .",754,21,8,84.879248566,0.0,0.0498812163406,0.288398707463,0.0863631609272,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.145235
+205,"Santner to Ravindra Jadeja, no run, takes it from outside off stump and works it to mid-wicket .",753,12,8,53.0719144589,0.288398707463,0.0,0.276512724389,0.138794252916,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+206,"Santner to Ravindra Jadeja, no run, oh big turn for Santner, shortish in length, Jadeja was looking to work it on the on-side, was surprised by the amount of turn and only managed to get hit on the thigh padRavindra Jadeja, left handed bat, comes to the crease .",752,36,20,185.184900238,0.276512724389,0.0863631609272,0.125056075182,0.0439165852317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144545
+207,"Santner to Pandya, out Lbw!!",751,6,2,18.2732588631,0.125056075182,0.138794252916,0.0,0.229221723373,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+208,The quicker delivery.,750,3,1,11.8223612407,0.0,0.0439165852317,0.0,0.0191170972299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+209,Pandya was caught unawares.,749,4,1,20.1432599844,0.0,0.229221723373,0.0558336165953,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+210,The shout was confident from New Zealand and umpire Richard Illingworth raised his finger.,748,10,5,69.3357914725,0.0558336165953,0.0191170972299,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+211,Wow!,747,2,0,6.76832099579,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+212,Santner has figures of  .,746,3,2,17.1663209955,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+213,- .,745,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+214,-3.,744,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+215,What a time to take responsibility and perform for your country.,743,6,6,50.5384191943,0.0,0.0,0.0289538981122,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+216,"After tossing it up nicely, Santner fires it in, Pandya was on the back foot to flick, totally beaten for pace, the ball hits him in line with leg stump and Hawk-Eye shows that it would have clipped the outside half of leg stump.",742,29,20,176.743810722,0.0289538981122,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.160285
+217,.,741,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+218,now.,740,1,1,5.09434456222,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+219,Pandya lbw b Santner  .,739,5,0,13.2988046733,0.0,0.0,0.572960242653,0.672682016403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+220,")Santner to Pandya, THAT'S OUT!!",738,7,3,15.9778422596,0.572960242653,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+221,Lbw!!,737,3,0,5.22787595485,0.0,0.672682016403,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+222,.,736,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+223,"Santner to Pandya, no run, this is softly defended to the right of the bowler .",735,10,8,52.156007341,0.0,0.0,0.419418472737,0.15186686531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+224,"Santner to Pandya, no run, waits for the ball to turn and drives it back to the bowler .",734,12,9,57.8756853356,0.419418472737,0.0,0.211164999897,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155785
+225,"Santner to Dhoni, 1 run, shortish and on the leg stump, Dhoni goes deep in his crease and works it to deep mid-wicketMitchell Santner [ .",733,20,9,75.2817288518,0.211164999897,0.15186686531,0.0,0.0162454413646,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+226,- .,732,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+227,-2] is back into the attack .,731,5,3,17.3649931868,0.0,0.0162454413646,0.0274145046216,0.0711709149242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+228,"Ish Sodhi to Dhoni, 1 run, Dhoni thought about giving the charge to the bowler, but on seeing Sodhi drop it short, he waits and works it towards long-on .",730,23,11,109.330840165,0.0274145046216,0.0,0.247872595793,0.158940583203,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.143695
+229,"Ish Sodhi to Pandya, 1 run, shortish from Sodhi, Pandya goes back and whips it away to deep mid-wicket .",729,18,5,65.5611142506,0.247872595793,0.0711709149242,0.419310382843,0.378765207757,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+230,"Ish Sodhi to Pandya, no run, googly this time, Pandya defends off the front foot .",728,14,5,60.8497627157,0.419310382843,0.158940583203,0.414984491891,0.395486494289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+231,"Ish Sodhi to Pandya, no run, flighted delivery outside off stump, Pandya covers the sticks and shoulders arms .",727,17,5,75.8139308994,0.414984491891,0.378765207757,0.347155915318,0.167615389077,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120835
+232,"Ish Sodhi to Pandya, no run, Pandya tries to work it on the on-side, gets a soft leading edge that rolls towards coverHardik Pandya, right handed bat, comes to the crease .",726,27,10,117.173383541,0.347155915318,0.395486494289,0.145223973964,0.100406218933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14113
+233,"Ish Sodhi to Kohli, out Caught by Ronchi!!",725,8,3,31.4120101595,0.145223973964,0.167615389077,0.343520497243,0.0188799954379,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+234,Ish Sodhi strikes first ball and Kohli walks.,724,8,1,35.7410524442,0.343520497243,0.100406218933,0.0,0.120225122212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101315
+235,Doesn't wait for the umpire to make the decision.,723,6,5,38.0267036353,0.0,0.0188799954379,0.0,0.0346257209538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+236,Good sportsmanship from Kohli.,722,4,1,19.3686222893,0.0,0.120225122212,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+237,He punches his bat in disappointment as he walks back to the dressing room.,721,8,7,59.721918241,0.0,0.0346257209538,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22083
+238,India are reeling at  .,720,3,2,18.8194778013,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+239,.,719,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+240,"Kohli was the key man, but he's been dismissed.",718,7,5,38.1341656755,0.0,0.0,0.073495523521,0.0114140108625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+241,"Flighted delivery outside off stump, Kohli actually made a bit of room and then went for the inside-out drive.",717,14,7,71.6319089974,0.073495523521,0.0,0.0790721239028,0.18301911432,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+242,"As it turns out, had to reach out and ended up playing away from the body.",716,8,10,66.7425956202,0.0790721239028,0.0114140108625,0.0348403642461,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14706
+243,The outside edge was found and the keeper made no mistake.,715,7,5,45.9508735141,0.0348403642461,0.18301911432,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+244,Kohli c Ronchi b Ish Sodhi  .,714,7,0,17.0632632695,0.0,0.0,0.584639783208,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+245,"7) [4s-2]Ish Sodhi to Kohli, THAT'S OUT!!",713,12,3,20.3613400642,0.584639783208,0.0,0.0,0.244425266483,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+246,Caught!,712,2,0,5.03371994041,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+247,"!Ish Sodhi, right-arm leg break, comes into the attack .",711,11,2,33.8573898645,0.0,0.244425266483,0.011448092044,0.0143711639153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+248,"Elliott to Dhoni, no run, short of length delivery just outside off stump, Dhoni defends off the back foot .",710,16,7,68.3248074308,0.011448092044,0.0,0.138046786619,0.0173540323056,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+249,"Elliott to Kohli, 1 run, that's a lovely drive along the ground from Kohli, looked two for sure, but Nathan McCullum was so quick to run to his left from long-off and he fires it close to the stumps as well.",709,28,19,147.084385304,0.138046786619,0.0143711639153,0.173692940869,0.177800047331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+250,"These two batsmen are quick between the wickets, but even they had to settle for one .",708,9,9,73.438519788,0.173692940869,0.0173540323056,0.0207401060273,0.14746194291,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+251,"Elliott to Kohli, 2 runs, Kohli shuffles across to go leg-side, gently works the low full toss wide of long-on, Guptill deliberately lets the ball go through knowing there was another fielder backing up.",707,30,9,140.556379925,0.0207401060273,0.177800047331,0.0246980374236,0.174661386865,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.103895
+252,"Anyway, the Indian batsmen were always going back for the second .",706,9,4,48.1161754252,0.0246980374236,0.14746194291,0.0921307232168,0.0155236027292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181315
+253,"Elliott to Kohli, no run, the slower ball that is short in length, Kohli opts for the back foot punch, can't put it past cover though .",705,23,9,97.1309862111,0.0921307232168,0.174661386865,0.178237637068,0.255493097334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+254,"Elliott to Dhoni, 1 run, ""one,"" says Dhoni as soon as he watchfully drives this fullish slower ball along the ground through cover-point .",704,22,7,92.0920164375,0.178237637068,0.0155236027292,0.0761826132524,0.0876198113155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19167
+255,"Elliott to Kohli, 1 run, poor line, down the leg-side, Kohli works it away to deep square leg .",703,18,5,60.3152603365,0.0761826132524,0.255493097334,0.282236319907,0.355353550332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09804
+256,"Elliott to Kohli, wide, oopsy!",702,7,1,21.9122329481,0.282236319907,0.0876198113155,0.244146546326,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+257,"A wide down the leg-side, Kohli tries to tickle it fine, but misses, Ronchi waits to see if Kohli overbalances, but India's No.",701,19,10,90.582440563,0.244146546326,0.355353550332,0.0,0.138917681257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158535
+258,3 was firmly back in his crease .,700,5,3,24.5806527944,0.0,0.0,0.0,0.122927550652,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+259,"Milne to Kohli, 1 run, nicely flicked away through mid-wicket after that movement towards the bowler and across the stumps, Kohli will keep strike with that run .",699,21,10,100.234006441,0.0,0.138917681257,0.142816735201,0.287811324671,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11809
+260,"Milne to Dhoni, 1 run, short of length delivery outside off stump, Dhoni was hurried on the back foot punch, the ball takes the bottom of the bat and runs away to third man, who moves to his left and saves a few .",698,31,18,156.367399773,0.142816735201,0.122927550652,0.31545400562,0.223215008492,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15476
+261,"Milne to Kohli, 1 run, good length delivery outside off stump, Kohli slaps it square of the wicket on the off-side .",697,18,7,67.3773772201,0.31545400562,0.287811324671,0.317558657478,0.0776069235994,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+262,"Milne to Kohli, no run, Kohli tries to dab it fine to third man, but the extra pace of Milne beats him all ends up.",696,18,11,102.500653976,0.317558657478,0.223215008492,0.0337239812023,0.299164837212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105905
+263,Could have so easily been an outside edge to the keeper .,695,6,6,46.7403318495,0.0337239812023,0.0776069235994,0.0808907811626,0.0246524357065,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+264,"Milne to Kohli, no run, fullish and outside off stump, Kohli mistimes the drive to cover, who dives and stops the ball .",694,18,9,83.5264866354,0.0808907811626,0.299164837212,0.293897518107,0.0943646998202,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126985
+265,"Milne to Kohli, no run, oh Dhoni was almost run-out off the free-hit.",693,11,5,39.9179474435,0.293897518107,0.0246524357065,0.0263445689911,0.245520852987,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+266,"Thankfully for India, the bowler didn't gather it cleanly and broke the stumps without the ball in hand.",692,13,8,76.6005650729,0.0263445689911,0.0943646998202,0.15321097015,0.0604114370176,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18541
+267,"Shortish slower delivery on the stumps, Kohli pulls it straight to mid-wicket, it won't count as a catch as it was the free-hit, meanwhile, the fielder has a shy at the bowler's end as Dhoni was keen for a run, the Indian skipper is sent back and he escapes with a bit of luck favouring him.",691,36,28,206.759098595,0.15321097015,0.245520852987,0.246954281294,0.0456402797607,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0.14773
+268,"So as it turns out, the free-hit it doesn't cost Milne anything .",690,8,7,48.7910211071,0.246954281294,0.0604114370176,0.107238394472,0.0598699113635,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12708
+269,"Milne to Kohli, no ball, oh no!",689,7,3,26.2283436168,0.107238394472,0.0456402797607,0.0941023893164,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+270,"Things were going nicely for New Zealand, but all of a sudden, Milne comes on and oversteps straightaway.",688,13,8,79.2149828719,0.0941023893164,0.0598699113635,0.0196782639223,0.102653707679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15199
+271,We saw one dropped catch change the momentum for India in the game against Bangladesh in the Asia Cup.,687,12,8,87.1035944464,0.0196782639223,0.0,0.0,0.03424086956,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0.165255
+272,Is this going to be a turning point?,686,4,5,28.2916588011,0.0,0.102653707679,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+273,"Short of a length delivery just outside off stump, Kohli defends off the back footAdam Milne, right-arm fast, comes into the attackNew Zealand were  .",685,19,9,92.8583287806,0.0,0.03424086956,0.0241256191344,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+274,"after the powerplay, India are  .",684,4,3,21.7162323559,0.0241256191344,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+275,.,683,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+276,.,682,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+277,"Elliott to Kohli, 1 run, nicely flick off the front foot towards wide mid-on, where Nathan McCullum slides and saves a few .",681,19,7,84.0812498752,0.0,0.0,0.198702387489,0.13679901646,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20956
+278,"Elliott to Dhoni, 1 run, very full once again from Elliott, again the off-speed delivery, Dhoni works it towards mid-wicket and opens his account .",680,19,10,87.0574693639,0.198702387489,0.0,0.358773180213,0.264452581764,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11364
+279,"Elliott to Dhoni, no run, slower balls it will be from Elliott, Dhoni waits and drives to cover .",679,14,8,67.9817414681,0.358773180213,0.13679901646,0.293791434088,0.31471625974,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+280,"Elliott to Kohli, 1 run, another cutter from Elliott, Kohli moves across and nudges it to mid-wicket, he is quick to go for the run as well .",678,21,11,94.828619596,0.293791434088,0.264452581764,0.362364603637,0.320850909967,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+281,"Elliott to Kohli, no run, another slower delivery outside off stump, Kohli wants to drive in the gap, but mistimes it to cover .",677,19,9,87.3311807006,0.362364603637,0.31471625974,0.360973510171,0.175956847546,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+282,"Elliott to Kohli, no run, starts off with a gentle full ball outside off stump, Kohli flicks it to mid-onGrant Elliott, right-arm fast medium, comes into the attack .",676,24,10,101.169642965,0.360973510171,0.320850909967,0.226070333374,0.0205765258076,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12591
+283,"Nathan McCullum to Dhoni, no run, tossed up very full and outside off stump from round the wicket, Dhoni lunges forward and defends it to coverMS Dhoni, right handed bat, comes to the crease .",675,27,13,129.615857288,0.226070333374,0.175956847546,0.154456467114,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.1337
+284,"Nathan McCullum to Yuvraj, out Caught&Bowled!!",674,9,2,29.0353951115,0.154456467114,0.0205765258076,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+285,What a blow this is.,673,2,4,18.1085600184,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04651
+286,It's  .,672,2,1,2.5636283764,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+287,now.,671,1,1,5.09434456222,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+288,That big backlift of Yuvraj Singh has cost him his wicket here.,670,7,6,57.1985968338,0.0,0.0,0.0,0.0230745257916,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13458
+289,Probably a gentle push would have been enough.,669,6,3,36.8635173322,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132405
+290,He went hard while trying to dig this ball that was almost a yorker and ends up chipping it back to the bowler.,668,12,12,93.8235412176,0.0,0.0230745257916,0.123238582084,0.194915237703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196375
+291,The appeal was spontaneous from the bowler and we know why!,667,5,7,46.6877202533,0.123238582084,0.0,0.108559778062,0.0335882096773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11845
+292,"Initially it appeared as if it hit the ground before popping up to the bowler, but the replays clearly showed that it went straight off the bat.",666,14,15,113.425218233,0.108559778062,0.194915237703,0.0,0.0419622986902,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21955
+293,Yuvraj c and b Nathan McCullum  . ),665,7,1,15.87631814,0.0,0.0335882096773,0.708492693309,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+294,"[4s-1]Nathan McCullum to Yuvraj, THAT'S OUT!!",664,10,3,21.7062585675,0.708492693309,0.0419622986902,0.0,0.147566503594,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+295,Caught&Bowled!,663,4,0,10.2615958953,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+296,!Appeal for a catch from McCullum.,662,5,3,22.5352500485,0.0,0.147566503594,0.0415390914574,0.0636681953031,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.08497
+297,"Umpire Kumar Dharmasena is not sure about it, checks with his partner for the bump ball.",661,10,8,76.8469757867,0.0415390914574,0.0,0.149371547287,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+298,The third umpire has been called for a check.,660,5,5,35.7916466235,0.149371547287,0.0636681953031,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+299,Oh!,659,2,0,5.92102313541,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+300,This looks OUT and New Zealand have their fourth wicket!,658,6,5,41.0360749201,0.0,0.0,0.0,0.0186664393726,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.19111
+301,.,657,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+302,"Nathan McCullum to Yuvraj, FOUR, poor line and Yuvraj cashes in.",656,11,3,48.293093162,0.0,0.0186664393726,0.251850838716,0.378674231857,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14091
+303,"McCullum fires one down the leg-side, Yuvraj gets down on one knee and manages to get the sweep very fine for four .",655,15,9,89.2447075081,0.251850838716,0.0,0.247515204553,0.0927912648488,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10909
+304,"Nathan McCullum to Yuvraj, no run, tossed up very full, Yuvraj drives it to the right of the bowler who dives and fieldsSlip comes on for the left-hander.",654,18,14,101.586700814,0.247515204553,0.378674231857,0.226358669326,0.056243545934,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.148095
+305,Yuvraj is not happy with movement behind the bowler's arm.,653,8,4,46.1679343618,0.226358669326,0.0927912648488,0.00943002865046,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.079235
+306,Wants one of the security guards to stay away and he gets his wish fulfilled.,652,10,6,70.5280938553,0.00943002865046,0.056243545934,0.0,0.0117055651505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+307,.,651,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+308,"Nathan McCullum to Kohli, 1 run, uppish, but safe.",650,11,2,34.2032014423,0.0,0.0117055651505,0.171984416127,0.332096074735,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+309,"Shortish from McCullum, Kohli flicks, doesn't control it but manages to send it between mid-wicket and backward square leg .",649,15,8,80.9358054206,0.171984416127,0.0,0.293725946554,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.07547
+310,"Nathan McCullum to Kohli, no run, the quicker delivery from round the wicket, Kohli opts to flick off the back foot to backward square legNathan McCullum [ .",648,22,9,99.2977886545,0.293725946554,0.332096074735,0.0,0.10578617651,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.165255
+311,- .,647,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+312,-1] is back into the attack .,646,5,3,17.3649931868,0.0,0.10578617651,0.0197439934727,0.0248029091245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+313,"Corey Anderson to Yuvraj, no run, very full and on the stumps, Yuvraj drives it to mid-on .",645,13,8,54.5035554911,0.0197439934727,0.0,0.148529486281,0.11434802716,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+314,"Corey Anderson to Kohli, 1 run, Kohli makes a bit of room and tries to guide it between backward point and short third man, but doesn't make good contact, the ball rolls towards the former and they run a single .",644,31,15,152.276207787,0.148529486281,0.0248029091245,0.227136118853,0.231480123196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134145
+315,"Corey Anderson to Kohli, FOUR, this is a top shot from Kohli.",643,10,5,43.1047629784,0.227136118853,0.11434802716,0.163613729468,0.313152593082,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.131255
+316,"The slower ball once again from Anderson, Kohli walks towards the bowler, reduces the length a bit and flicks it carefully wide of mid-on for another boundary .",642,19,11,106.164567171,0.163613729468,0.231480123196,0.207729506224,0.075664542251,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.132795
+317,"Corey Anderson to Kohli, no run, slower delivery on the off stump, Kohli defends it to point, looks for run, but Yuvraj says no .",641,20,10,86.276294649,0.207729506224,0.313152593082,0.25940221837,0.153400236383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+318,"Corey Anderson to Kohli, FOUR, no one at third man and you can't bowl short and give width outside off stump.",640,18,7,82.36335529,0.25940221837,0.075664542251,0.250540975517,0.317547900852,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09881
+319,"The attempted off-cutter from Anderson, the idea was fine, but the length was too short, allowed Kohli to get back nicely and cuts it away past the diving fielder at short third man .",639,24,13,134.712583344,0.250540975517,0.153400236383,0.255709136294,0.0529312597445,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155785
+320,"Corey Anderson to Kohli, no run, short of length delivery close to the off stump, Kohli waits for the ball to come and defends .",638,18,10,83.2414262403,0.255709136294,0.317547900852,0.152972206069,0.044183884527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+321,"Santner to Yuvraj, no run, flighted delivery on the stumps, Yuvraj leans forward and defendsYuvraj Singh, left handed bat, comes to the crease .",637,22,7,91.8182972077,0.152972206069,0.0529312597445,0.0800553768017,0.0240150238395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+322,"Santner to Raina, out Caught by Guptill!!",636,7,3,26.7518801187,0.0800553768017,0.044183884527,0.13072263793,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+323,"A dolly, an absolute dolly for Guptill and India are reduced to  .",635,8,6,52.349593581,0.13072263793,0.0240150238395,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+324,in 17 balls.,634,3,1,15.4345835848,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+325,The target might only be  .,633,3,3,22.8658998153,0.0,0.0,0.116867029049,0.0242866173436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+326,", but on this pitch, this could be enough.",632,6,5,33.7568197594,0.116867029049,0.0,0.055642980383,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+327,"Slightly shortish fuller length from Santner, Raina tried to work it on the on-side, the ball probably stopped on him a bit and he ended up playing early, the leading edge went straight to short mid-wicket, who ran forward and completed a simple catch.",631,32,17,178.054581216,0.055642980383,0.0242866173436,0.0869560392421,0.122174768067,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.14136
+328,"What a bowling change from Williamson, it's a double-strike from Santner.",630,8,6,34.0525211084,0.0869560392421,0.0,0.108216858108,0.109965267877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08889
+329,Raina c Guptill b Santner  .,629,6,0,12.4031332286,0.108216858108,0.122174768067,0.554234173356,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+330,")Santner to Raina, THAT'S OUT!!",628,7,3,15.4388457589,0.554234173356,0.109965267877,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+331,Caught!!,627,3,0,5.03371994041,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+332,.,626,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+333,"Santner to Kohli, 1 run, spinning a long way outside off stump, Kohli goes back and works it along the ground through mid-wicket .",625,20,7,75.5134597479,0.0,0.0,0.340686041185,0.088540712859,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+334,"Santner to Raina, 1 run, Raina goes on the back foot and punches it along the ground to long-onSuresh Raina, left handed bat, comes to the crease .",624,23,9,87.6185907991,0.340686041185,0.0,0.101162991353,0.14393838572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15985
+335,"Santner to Rohit, out Stumped!!",623,6,2,19.079734729,0.101162991353,0.088540712859,0.256532942043,0.0118927012536,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26501
+336,"Ronchi fumbles, but Rohit was a long way out of the crease.",622,8,6,43.6421909222,0.256532942043,0.14393838572,0.129067871065,0.0110330494158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2381
+337,"He didn't quickly try and get back to his crease, he thought he was gone for all money, but the keeper actually didn't gather the ball cleanly.",621,18,14,123.016843674,0.129067871065,0.0118927012536,0.0165626492801,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153735
+338,"Anyway, New Zealand are delighted to have their second wicket as early as the third over.",620,10,8,68.5312980621,0.0165626492801,0.0110330494158,0.0,0.0207440661948,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+339,This is really bad batting from Rohit.,619,5,3,33.7029923041,0.0,0.0,0.103541593264,0.115449152567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.040005
+340,"The ball is turning and with a left-arm orthodox turning it away from you, it is very risky to run down the pitch.",618,11,14,80.1369401992,0.103541593264,0.0207440661948,0.0624521686048,0.0783091885087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160835
+341,"Clever from Santner as he dragged the length back, Rohit couldn't cover the line, just tried to nudge and missed by a long way.",617,18,10,99.5303581925,0.0624521686048,0.115449152567,0.0786580435035,0.153044173629,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.234825
+342,"The bounce meant it hit Ronchi on the wrist, but thankfully for him he grabbed the rebound and effected the stumping.",616,12,11,91.7524038147,0.0786580435035,0.0783091885087,0.0939509953381,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14536
+343,Rohit st Ronchi b Santner  .,615,6,0,19.2737330736,0.0939509953381,0.153044173629,0.461180688241,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+344,")Santner to Rohit, THAT'S OUT!!",614,7,3,16.0911709449,0.461180688241,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+345,Stumped!!,613,3,0,5.92102313541,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05555
+346,.,612,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+347,"Santner to Rohit, no run, tossed up and on the stumps, bit of spin for Santner, Rohit watchfully defends, hit the outside half of the bat and rolled towards backward pointMitchell Santner, left-arm orthodox, comes into the attackSlip waiting for the edge .",611,34,16,165.664257695,0.0,0.0,0.052748589913,0.263553229114,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.165325
+348,"Corey Anderson to Kohli, no run, Kohli leans forward and pushes it with hard hands to cover .",610,14,6,65.6346935222,0.052748589913,0.0,0.0989290775003,0.136602580072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+349,"Corey Anderson to Rohit, 1 run, chopped off the inside edge towards the vacant slip cordon, Rohit was late on the dab, this was the conventional short of length delivery outside off stump, Rohit wanted to run it down to third man, but he couldn't make proper contact .",609,38,18,192.981493278,0.0989290775003,0.263553229114,0.331526943755,0.0461327498693,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13021
+350,"Corey Anderson to Rohit, no run, the cutter now from Anderson, slower in pace and it bounced a bit extra as well, Rohit dabs as third man is inside the ring, but picks out the man to perfection.",608,27,17,153.312811979,0.331526943755,0.136602580072,0.0164037335157,0.28048318354,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12899
+351,A couple of yards either side of the fielder would have been runs .,607,8,6,55.2090965146,0.0164037335157,0.0461327498693,0.00504026103097,0.0903427211845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+352,"Corey Anderson to Rohit, no run, this is full and well outside off stump, Anderson was looking to slant it across the right-hander, Rohit softly defends it to cover and yells out ""no, no"" to his partner, who was probably looking for a single .",606,31,22,162.120514384,0.00504026103097,0.28048318354,0.161674031552,0.168703153339,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11723
+353,"Corey Anderson to Kohli, 1 run, now a gentle movement across the sticks from Kohli to play through the on-side, again a bit of inswing for Anderson, but not too much, Kohli works it along the ground to deep mid wicket .",605,29,18,149.044261001,0.161674031552,0.0903427211845,0.343750382499,0.0215348179765,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13283
+354,"Corey Anderson to Kohli, 2 runs, just a hint of inswing on this fullish delivery for Anderson, Kohli flicks it in the air through the vacant backward square leg region, the line was leg stumpish and it allowed Kohli to easily execute the shotCorey Anderson, left-arm fast medium, comes into the attackThe ploy to open with spin has worked for the Black Caps.",604,45,25,260.443495409,0.343750382499,0.168703153339,0.0153840148988,0.0941265573053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151945
+355,Can they put more pressure on India?,603,4,4,32.5923306789,0.0153840148988,0.0215348179765,0.19831514471,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+356,"They need to get Kohli as early as possible, for he's a master of handling pressure situations.",602,12,8,77.8757381993,0.19831514471,0.0941265573053,0.0,0.247435824975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+357,.,601,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+358,"Nathan McCullum to Kohli, 1 run, no slip for Kohli as well.",600,11,4,41.2124847215,0.0,0.247435824975,0.225579021484,0.278451285443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+359,"Too full to trouble the batsman, Kohli easily drives along the ground to long-onVirat Kohli, right handed bat, comes to the crease .",599,19,7,84.0466816963,0.225579021484,0.0,0.0391186454695,0.0564800886573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+360,"Nathan McCullum to Dhawan, out Lbw!!",598,7,2,23.8075191566,0.0391186454695,0.278451285443,0.136407258348,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.30196
+361,"Huge shout for LBW, umpire Kumar Dharmasena has a long look and up goes the finger.",597,12,6,72.5815817957,0.136407258348,0.0564800886573,0.00977129199987,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+362,"Much like India, New Zealand have struck in the first over.",596,9,4,46.9144711857,0.00977129199987,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.328175
+363,Game on!,595,2,1,8.05785663689,0.0,0.0,0.0,0.0991156795675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.050005
+364,Really poor shot from Dhawan.,594,5,1,25.5603779389,0.0,0.0,0.080485707778,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+365,"Flighted delivery on the stumps, didn't do much, but Dhawan sat down on one knee and went for the sweep, he was too far across the stumps and missed the ball completely.",593,21,16,134.727928989,0.080485707778,0.0991156795675,0.12227901685,0.0641779768714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16081
+366,Impact was on middle stump and it was always crashing into the sticks.,592,7,7,56.9034411641,0.12227901685,0.0,0.0137803851451,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+367,Easy decision for the umpire there.,591,4,3,26.6075437337,0.0137803851451,0.0641779768714,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+368,Dhawan lbw b Nathan McCullum  .,590,6,0,18.8330649668,0.0,0.0,0.715837984201,0.552699802262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.32143
+369,")Nathan McCullum to Dhawan, THAT'S OUT!!",589,8,3,21.5121025531,0.715837984201,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+370,Lbw!!,588,3,0,5.22787595485,0.0,0.552699802262,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+371,.,587,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+372,"Nathan McCullum to Rohit, 3 runs, Rohit flicks again, this time makes good enough contact to clear the infield and put it well wide of the man at deep mid-wicket.",586,24,10,119.666635388,0.0,0.0,0.237289479708,0.195406836742,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.127505
+373,"Rohit came on the front foot and deliberately hit this in the air, Elliott runs to his left in the deep and tidies up .",585,14,12,93.084376768,0.237289479708,0.0,0.027012884723,0.0132601510362,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16746
+374,"Nathan McCullum to Dhawan, 1 run, flighted delivery outside off stump, Dhawan drives it along the ground wide of mid-off .",584,19,5,70.6611957731,0.027012884723,0.195406836742,0.456413065906,0.0101454763328,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.285415
+375,"Nathan McCullum to Dhawan, no run, beaten!",583,8,2,26.6782058844,0.456413065906,0.0132601510362,0.0,0.0995076101587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+376,Now there is a man at slip for the left-hander.,582,4,7,31.4476680564,0.0,0.0101454763328,0.113412586795,0.0147754790946,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+377,"Dhawan played for turn there and played outside the line of this fullish delivery, it was the slider and beat the inside edge of the bat .",581,15,13,99.9176192949,0.113412586795,0.0995076101587,0.0347865082054,0.0492264381247,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+378,"Nathan McCullum to Rohit, 1 run, in the airrrrr, but safe.",580,11,4,39.3342027283,0.0347865082054,0.0147754790946,0.160503180692,0.0586770975496,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23182
+379,That was nervy from Rohit.,579,3,3,21.0524480655,0.160503180692,0.0492264381247,0.0927871773882,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05735
+380,"He just checked the flick shot, hit it uppishly, for a moment it appeared as if it was going to hand, but the man at mid-wicket was well wide.",578,17,16,113.892012131,0.0927871773882,0.0586770975496,0.0175299757423,0.0954850356845,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.19516
+381,Flew away to his left and rolled to long-on.,577,6,4,31.6050936487,0.0175299757423,0.0,0.0219390880518,0.0713896135427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+382,Good start for the bowlerRohit and Dhawan are at the crease.,576,6,6,43.4376841306,0.0219390880518,0.0954850356845,0.0,0.0782334157306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+383,Rohit is on strike.,575,3,2,15.8441961382,0.0,0.0713896135427,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04546
+384,Nathan McCullum will open the attackNo slip in placeWelcome back for the run chase.,574,10,5,61.1396168018,0.0,0.0782334157306,0.0449578676804,0.079313385522,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163475
+385,"The New Zealand team form a huddle, a long chat from skipper Williamson and finally they break out and run onto the field.",573,16,9,92.7041583016,0.0449578676804,0.0,0.0383367982833,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156755
+386,The Indian fans are happy in the stands.,572,5,4,34.2182574268,0.0383367982833,0.079313385522,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25893
+387,.,571,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+388,is not a big target.,570,3,3,18.8442668133,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04651
+389,"They know India can do this easily, but you never know in T20s.",569,8,7,63.9576746981,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+390,Rohit and Dhawan descend down the stairs.,568,5,3,31.9966109905,0.0,0.0,0.059441803294,0.120152144262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+391,Swing of the bat and arms from the latter and then a bit of glove-love between the duo.,567,8,11,65.9978543805,0.059441803294,0.0,0.0241968500564,0.0354154070223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+392,Rohit marks his guard and gets ready to take strike.,566,8,3,48.3158071929,0.0241968500564,0.120152144262,0.0168567785354,0.0130666316937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+393,Ronchi is standing up to the stumps.,565,4,4,26.4687217912,0.0168567785354,0.0354154070223,0.0193277057252,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+394,So should be a spinner to begin for New Zealand.,564,5,6,40.4273417581,0.0193277057252,0.0130666316937,0.074768492159,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+395,"Nathan McCullum it will be.Raina: ""We bowled really well as a unit.",563,10,5,46.0581659334,0.074768492159,0.0,0.0,0.0923074476121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+396,The wicket was pretty slow.,562,4,2,21.8375567225,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+397,We planned to bowl dot balls.,561,5,2,32.1687627026,0.0,0.0923074476121,0.120025199424,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+398,This total is decent and we need to bat well.,560,6,5,41.9471932216,0.120025199424,0.0,0.0,0.164286795378,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+399,When you are chasing  .,559,2,3,22.1848860751,0.0,0.0,0.130487210411,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+400,", you need to rotate the strike and hopefully our batsmen will do it.",558,7,8,58.8826277422,0.130487210411,0.164286795378,0.116387882092,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12903
+401,"If I get the chance with the bat, I will win it for Team India.",557,8,9,50.1958331536,0.116387882092,0.0,0.0,0.17490193321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15625
+402,"""Dhoni would have absolutely swallowed  .",556,6,1,26.1978559092,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.070905
+403,if you had given it to him at the toss.,555,3,8,40.6166033124,0.0,0.17490193321,0.0176463908345,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.107145
+404,"Yes, the ball is turning plenty.",554,6,2,26.7561695376,0.0176463908345,0.0,0.262488284757,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+405,"Yes, New Zealand are playing 3 spinners.",553,8,1,28.8209232917,0.262488284757,0.0,0.0,0.119682078147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+406,But India know all about it.,552,3,4,25.1582322293,0.0,0.0,0.0487616526169,0.0719096693919,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+407,"Sure favourites from here.There was no McCullum, but you wouldn't have known going by how New Zealand started.",551,13,8,81.8819714117,0.0487616526169,0.119682078147,0.0938710363216,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+408,Like they wanted to catch India by surprise by their bloodlust.,550,7,5,53.24508447,0.0938710363216,0.0719096693919,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.11111
+409,Things didn't work out that way though.,549,6,3,34.1971256362,0.0,0.0,0.0438065360448,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06209
+410,"Okay, three clear segments in that innings.",548,7,2,37.4988047778,0.0438065360448,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+411,The first one saw New Zealand go hell for leather.,547,9,2,48.1154607231,0.0,0.0,0.0775758251233,0.122205026728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23026
+412,But they were more like a first time swimmer - flapping everywhere and going nowhere.,546,10,6,68.5981926404,0.0775758251233,0.0,0.0675098233795,0.0667320274181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.072725
+413,"Guptill smashed Ashwin for a first-ball six, only to get out off the very next ball.",545,10,8,58.3534556509,0.0675098233795,0.122205026728,0.01611622741,0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.27943
+414,The shots continued and the Kiwi top-order was blown away in no time.,544,8,6,51.2737934716,0.01611622741,0.0667320274181,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+415,.,543,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+416,after 7 overs.,542,3,1,10.8212116832,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+417,"Then came the second segment where Anderson and Taylor decided to settle down, nudged and nurdled to tick the singles around.",541,14,9,99.514943307,0.0,0.0,0.0242299214823,0.0426167380557,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148935
+418,Even that proved to be quite a task with the pitch taking enormous amounts of turn.,540,10,7,72.5618298674,0.0242299214823,0.0,0.00640748338477,0.0121048342685,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15347
+419,"As if survival wasn't tough enough, Raina pulled off a stunning run-out off his own bowling to send Taylor packing.",539,14,9,89.6029870944,0.00640748338477,0.0426167380557,0.142548973869,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+420,Then Santner and Anderson somehow pulled through to  .,538,5,4,32.8713839248,0.142548973869,0.0121048342685,0.0,0.0624077207919,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+421,after 15 overs.,537,3,1,17.9949977871,0.0,0.0,0.0912846117292,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+422,"In the death overs, the Kiwis went back to their heave-ho approach but a stunning display of death bowling from Bumrah and a dart-turning Jadeja (he turned it square) kept the noose tight right through.Handy cameo from Ronchi there.",536,27,16,155.926901818,0.0912846117292,0.0624077207919,0.0159081803646,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128575
+423,His 11-ball 21 has at least lifted the total to over six-an-over.,535,7,6,46.4132473731,0.0159081803646,0.0,0.0,0.0211438917995,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.146825
+424,.,534,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+425,"Nehra to Ronchi, 2 runs, another full toss and again Ronchi comes down the track and blasts it to long-off.",533,15,8,71.2071973668,0.0,0.0211438917995,0.0619519993778,0.0205143415205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.12332
+426,Takes on Raina and makes it back easily.,532,6,3,32.1990431811,0.0619519993778,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+427,A bit comical that effort to avoid the throw but that's ok. Never in danger of getting run out .,531,12,9,74.7294679161,0.0,0.0205143415205,0.0110852727386,0.0457533107266,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132805
+428,"Nehra to Ronchi, SIX, meaty blow.",530,8,1,29.4702819525,0.0110852727386,0.0,0.145537869664,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.078945
+429,"Ronchi runs at Nehra and takes it on the full, once he got there, he biffed that over wide long-on.",529,12,11,77.6492627876,0.145537869664,0.0457533107266,0.0284787234615,0.0926172386653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11637
+430,A flat hit and just about all the way.,528,4,6,33.056034411,0.0284787234615,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+431,Useful runs these .,527,3,1,17.6819059991,0.0,0.0926172386653,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+432,"Nehra to Ronchi, FOUR, that is unlucky.",526,7,3,27.8076214537,0.0,0.0,0.0,0.0141799598922,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.05128
+433,"A pinpoint yorker on the stumps, a thick inside edge on the slog and it beats the diving Ashwin at short fine leg.",525,15,10,87.5819284498,0.0,0.0,0.0209491976448,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+434,"A more athletic fielder would've stopped thatNathan McCullum, right handed bat, comes to the crease .",524,15,4,65.3591801004,0.0209491976448,0.0141799598922,0.0153473310783,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09199
+435,"Nehra to Ronchi, out Elliott Run Out!!",523,7,3,23.7488812217,0.0153473310783,0.0,0.0859057645104,0.148124840106,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+436,1 run completed.,522,4,0,9.30737811147,0.0859057645104,0.0,0.0,0.0236756724244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+437,Full marks to Dhawan and Nehra for combining to get the wicket.,521,8,5,45.7942335133,0.0,0.148124840106,0.242946032175,0.0318323159026,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+438,"Ronchi charged Nehra and took it on the full, hit to long-on, the batsmen were coming back for the second, but Dhawan kept his wits by firing in a throw on the bounce over the stumps, Nehra sensed the run-out chance and ran back to collect the throw and break the stumps.",520,33,24,199.695767432,0.242946032175,0.0236756724244,0.0475313721814,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166865
+439,Just out as Elliott was stretching to make it.,519,4,6,36.2569240337,0.0475313721814,0.0318323159026,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+440,A dive would've saved him.,518,5,2,21.9152225081,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+441,Erasmus the third umpire makes the call.,517,6,2,31.3619594365,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+442,Elliott run out (Dhawan/Nehra)  .,516,6,1,10.0828466349,0.0,0.0,0.397697190725,0.466917819455,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+443,"2)Nehra to Ronchi, THAT'S OUT!!",515,8,3,16.5984939381,0.397697190725,0.0,0.32815952273,0.197781254946,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+444,Run Out!,514,2,1,5.7712614119,0.32815952273,0.466917819455,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+445,!I think Nehra has lost the ball!,513,6,3,25.2301132341,0.0,0.197781254946,0.193722473871,0.169413249095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.082625
+446,Or has he?,512,1,3,13.1998759142,0.193722473871,0.0,0.200851591757,0.114275581787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+447,He has done well to break the stumps before the ball almost slipped out of his grasp.,511,9,9,73.0049507758,0.200851591757,0.169413249095,0.0752719078995,0.0575935201474,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17316
+448,"""My decision is out"" says Erasmus who has been kept busy today .",510,9,6,62.2272653993,0.0752719078995,0.114275581787,0.0552899138663,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+449,"Nehra to Elliott, 1 run, Elliott shuffles across looking to do something fancy, but Nehra kept his cool and followed him, in the end, a slight inside edge onto the boot and they scamper across for a quick singleNow round the wicket .",509,32,16,177.255022975,0.0552899138663,0.0575935201474,0.141071548051,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.168395
+450,"Nehra to Ronchi, 1 run, low full toss on off, Ronchi hits it to long-on for a singleAshish Nehra [ .",508,17,7,63.5078624686,0.141071548051,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.135385
+451,- .,507,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+452,-1] is back into the attack .,506,5,3,17.3649931868,0.0,0.0,0.0,0.0168547876812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+453,"Ravindra Jadeja to Ronchi, 1 run, fraction short on off, Ronchi crashes it away to sweeper cover .",505,16,5,65.3686925945,0.0,0.0,0.291627245322,0.344403148858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086205
+454,"Ravindra Jadeja to Elliott, 1 run, Ravindra Jadeja follows the backing away Elliott who gets a single to long-off .",504,17,5,64.2323120366,0.291627245322,0.0168547876812,0.271671558324,0.238324265629,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108105
+455,"Ravindra Jadeja to Ronchi, 1 run, shortish on the stumps, pulled to deep backward square leg .",503,16,4,56.9374109489,0.271671558324,0.344403148858,0.259807553285,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+456,"Ravindra Jadeja to Ronchi, FOUR, lovely inside out drive over cover.",502,11,3,47.8524463928,0.259807553285,0.238324265629,0.0512122297769,0.252403010846,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.068965
+457,MS lets out a cry of anguish.,501,5,3,31.7804424138,0.0512122297769,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+458,Ronchi kept his shape and after making room went over cover .,500,8,4,53.7888466351,0.0,0.252403010846,0.252201247871,0.170541246924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+459,"Ravindra Jadeja to Elliott, 1 run, a mistimed stroke through cover after Elliott made room .",499,14,4,58.7227005275,0.252201247871,0.0,0.238367039088,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+460,"Ravindra Jadeja to Elliott, no run, MS as always is quick but Elliott did well to get his back foot back in time, he was making room for the inside out shot and missed, had dragged his back foot out got it back in before MS disturbed the stumps.",498,32,22,198.525527308,0.238367039088,0.170541246924,0.0520106316555,0.0630643985254,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13402
+461,Erasmus has a look and goes in favor of the batsmanNow a stumping check called for.,497,9,8,65.7471830303,0.0520106316555,0.0,0.17128117604,0.0260766677004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+462,Marias Erasmus is the man in action again.,496,5,4,35.9990418178,0.17128117604,0.0630643985254,0.0925594701623,0.0596967009447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+463,Looks like the foot is on the line.,495,5,4,29.6737813095,0.0925594701623,0.0260766677004,0.0875461157185,0.0521863372254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+464,"If that is the case, then Elliott will be gone.",494,5,7,43.1400859963,0.0875461157185,0.0596967009447,0.129087010629,0.1646750651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+465,Erasmus has one more look and decides Elliott is in .,493,6,5,44.305466564,0.129087010629,0.0521863372254,0.242882828227,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+466,"Bumrah to Elliott, 1 run, full and Elliott drives to mid-off, a direct hit from Raina at mid-off but Elliott has just made it in.",492,18,11,80.2249587377,0.242882828227,0.1646750651,0.0437749201375,0.336912320693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118645
+467,There was a chance of a second after the throw ricocheted but they are happy with it .,491,6,12,65.2028951494,0.0437749201375,0.0,0.0,0.146626729911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+468,"Bumrah to Elliott, no run, another slower delivery and again Elliott is beaten neck and crop.",490,13,6,66.2930051718,0.0,0.336912320693,0.0369653210699,0.0828339278647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+469,"Is early into the push, after backing away, the ball is past him after he plays it too early, bounces over the stumps.",489,14,13,100.47973089,0.0369653210699,0.146626729911,0.0661407317103,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114755
+470,On the bounce to the keeperOne fabulous thing about Bumrah is his ability to bowl yorkers at will.,488,9,10,79.667210255,0.0661407317103,0.0828339278647,0.0,0.0471035244525,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1683
+471,Can't remember an Indian bowler in recent times do that consistently.,487,9,4,52.4930278787,0.0,0.0,0.125275462879,0.0730284106113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+472,One has to go back to the days of Manoj Prabhakar and Javagal Srinath - two Indian seamers who could do the same.,486,14,10,102.634200765,0.125275462879,0.0471035244525,0.0508809947422,0.0353331243472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+473,"If Bumrah can keep landing those yorkers, India's death bowling woes would go a long way in getting sorted out.",485,17,6,100.510740913,0.0508809947422,0.0730284106113,0.0151337086432,0.071340120673,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+474,Certainly a special talent and good to see him grow so quickly in such a short space of time .,484,11,9,84.277956369,0.0151337086432,0.0353331243472,0.0160590357773,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+475,"Bumrah to Ronchi, 1 run, low full toss on the stumps, Ronchi drives and eludes Bumrah on his followthrough.",483,17,6,74.1712807874,0.0160590357773,0.071340120673,0.0,0.170874948148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10811
+476,Single taken .,482,3,0,10.7434339821,0.0,0.0,0.153701057392,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02941
+477,"Bumrah to Elliott, 1 run, length delivery and at pace, following the backing away Elliott, who gets a single to long-on .",481,19,7,71.6985470407,0.153701057392,0.170874948148,0.31966418519,0.347573122145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126985
+478,"Bumrah to Elliott, 2 runs, yorker on off, Elliott backs away and slices it wide of backward point, two it is .",480,18,8,80.9939755223,0.31966418519,0.0,0.224271931277,0.0313801127787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+479,"Bumrah to Elliott, no run, now Bumrah brings his other special, the slower delivery, deceives Elliott who was on the charge, the ball sneaks through the shot and goes over the stumps.",479,22,16,130.390093328,0.224271931277,0.347573122145,0.106714327462,0.0909347981385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.161375
+480,Almost flicked the bails on the way.,478,5,3,29.3650749214,0.106714327462,0.0313801127787,0.0,0.0550270077484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+481,Elliott gave it away by jumping out too early .,477,6,4,42.9430761661,0.0,0.0909347981385,0.0571321089038,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+482,"Ravindra Jadeja to Ronchi, no run, yorker length on the stumps, Ronchi digs it out back to Ravindra Jadeja .",476,16,7,69.1564430776,0.0571321089038,0.0550270077484,0.47179584155,0.386983030714,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+483,"Ravindra Jadeja to Ronchi, no run, floated up on middle, Ronchi plays a solid forward defenceLuke Ronchi, right handed bat, comes to the crease .",475,23,7,99.3509049726,0.47179584155,0.0,0.147156440907,0.0101715153761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13895
+484,"Ravindra Jadeja to Santner, out Caught by Dhoni!!",474,8,3,29.8035849054,0.147156440907,0.386983030714,0.0,0.0520750736881,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19551
+485,Straight in the air and MS takes it.,473,5,4,29.5934808373,0.0,0.0101715153761,0.210910371133,0.16417542196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+486,"Santner early into the swipe to leg and the top edge goes right up in the air, the ball stopped on him a touch and that's why it took the top edge.",472,18,17,122.767029177,0.210910371133,0.0520750736881,0.0800885137457,0.0586890766443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173155
+487,MS and Ravindra Jadeja share a laugh while Santner punches the bat in frustration as he walks back.,471,12,7,76.0255377621,0.0800885137457,0.16417542196,0.30397606796,0.233440546364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1683
+488,Santner c Dhoni b Ravindra Jadeja  .,470,7,0,15.4548380153,0.30397606796,0.0586890766443,0.590361261137,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04167
+489,"7) [4s-2]Ravindra Jadeja to Santner, THAT'S OUT!!",469,12,3,19.6379529984,0.590361261137,0.233440546364,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+490,Caught!!,468,3,0,5.03371994041,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+491,.,467,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+492,"Ravindra Jadeja to Santner, FOUR, that is a good shot.",466,9,4,33.9154722195,0.0,0.0,0.0340738288498,0.100316840664,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.107145
+493,Key was getting to the pitch and opting to go straight.,465,7,5,45.033438567,0.0340738288498,0.0,0.0208318231102,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+494,"That's what Santner does, almost all the way, just landed inside the ropes.",464,10,7,60.1288334924,0.0208318231102,0.100316840664,0.0,0.0628837878385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+495,Clean strike .,463,3,0,11.862665558,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+496,"Ravindra Jadeja to Santner, wide, woo!",462,8,1,25.3359549089,0.0,0.0628837878385,0.0,0.0840683055669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+497,"Turn and bounce, but pitched leg and turned down, good take by MS down leg.",461,12,6,66.0412002667,0.0,0.0,0.0,0.0958231077134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.079365
+498,Santner has a wry smile on his face .,460,5,4,33.781496936,0.0,0.0840683055669,0.0660565499128,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+499,"Ravindra Jadeja to Santner, 2 runs, tossed up outside off, Santner sweeps powerfully to deep square leg, Rohit runs across and slides, a slight fumble, there was a chance of a third but they are happy with two .",459,30,15,149.82021639,0.0660565499128,0.0958231077134,0.176025410196,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10714
+500,"Ravindra Jadeja to Elliott, 1 run, drifting in towards leg, Elliott stays back and turns it to square legRavindra Jadeja [ .",458,20,5,77.6663303876,0.176025410196,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07895
+501,- .,457,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+502,. ],456,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+503,is back into the attack .,455,3,3,17.3649931868,0.0,0.0,0.0269863808692,0.0177677360728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13457
+504,"Bumrah to Elliott, 1 run, just short of a fifth yorker in a row, Elliott pushes it to long-onReplays show that Corey Anderson was nutmegged by the ball on its way to the stumps.",454,22,16,117.796085675,0.0269863808692,0.0,0.0596594073756,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12356
+505,A certain Lionel Messi - the god of nutmegs would've been proud of that.,453,10,6,60.0226348461,0.0596594073756,0.0177677360728,0.0,0.0119242958131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+506,.,452,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+507,"Bumrah to Elliott, no run, fourth yorker in a row, Elliott digs it out back to the bowlerGrant Elliott, right handed bat, comes to the crease .",451,22,10,98.3529022071,0.0,0.0119242958131,0.169777443329,0.0117018646983,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12069
+508,"Bumrah to Corey Anderson, out Bowled!!",450,7,2,21.2814877766,0.169777443329,0.0,0.0,0.241103582406,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12348
+509,Make that a hat-trick of exceptional yorkers and the third one finds its mark.,449,9,6,55.6663655809,0.0,0.0117018646983,0.0320105674308,0.0537289511464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+510,Corey Anderson had to do something out of the ordinary against such bowling.,448,6,8,56.8245611875,0.0320105674308,0.241103582406,0.0635374170344,0.05117179668,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.197995
+511,Of the highest quality.,447,3,2,17.9417062743,0.0635374170344,0.0537289511464,0.014969000447,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173615
+512,"Shuffled across towards off and looked to scoop, missed and the middle stump is knocked out.",446,11,7,68.473146584,0.014969000447,0.05117179668,0.0236799528541,0.0268132498835,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+513,Bumrah has a smile and a little jig if I may call that celebration as one.,445,9,8,66.3837917989,0.0236799528541,0.0,0.0258367591443,0.0227086415898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096425
+514,Replays show that Corey Anderson was nutmegged by the ball on its way to the stumps.,444,9,8,63.2556178705,0.0258367591443,0.0268132498835,0.0422459706102,0.211604981702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13142
+515,A certain Lionel Messi - the god of nutmegs would've been proud of that.,443,10,6,60.0226348461,0.0422459706102,0.0227086415898,0.0,0.0445230251336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+516,Corey Anderson b Bumrah  .,442,5,0,11.0791576319,0.0,0.211604981702,0.653153008312,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+517,"2) [4s-3]Bumrah to Corey Anderson, THAT'S OUT!!",441,12,3,18.986071173,0.653153008312,0.0445230251336,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+518,Bowled!!,440,3,0,5.22787595485,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+519,.,439,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+520,"Bumrah to Corey Anderson, no run, again.",438,7,3,23.4049601026,0.0,0.0,0.0,0.242531129229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+521,What a find he is.,437,2,4,18.251660862,0.0,0.0,0.206759555166,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+522,"Another perfect yorker on middle, tailing in and again Corey Anderson can only find the bowler after making room .",436,13,8,88.3744280042,0.206759555166,0.242531129229,0.285289457407,0.0322661926132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+523,"Bumrah to Corey Anderson, no run, magnificent yorker on off, Corey Anderson can do nothing about it, digs it out back to the bowler .",435,17,12,92.2111700202,0.285289457407,0.0,0.187606479232,0.195947819781,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10818
+524,"Bumrah to Santner, 1 run, full on off, Santner drills it to long-off where Dhawan fumbles but recovers well to rifle in a throw back.",434,19,10,90.3668946592,0.187606479232,0.0322661926132,0.049357487545,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12069
+525,Corey Anderson wants the strike and they are happy with oneJasprit Bumrah [ .,433,9,5,51.4850136201,0.049357487545,0.195947819781,0.0,0.0220603478886,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+526,- .,432,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+527,-0] is back into the attack .,431,5,3,17.3649931868,0.0,0.0220603478886,0.104798232345,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+528,"Pandya to Santner, 1 run, back of a length on the stumps, hurries Santner on the pull, he gets it down to deep backward square leg .",430,20,11,86.9045325317,0.104798232345,0.0,0.265129892372,0.108299880122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+529,"Pandya to Santner, 2 runs, slower delivery on off, whipped wide of Kohli at long-on for two .",429,15,6,59.13888366,0.265129892372,0.0,0.0663453304345,0.0733330411598,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101695
+530,"Pandya to Corey Anderson, 1 run, Corey Anderson doesn't know where the ball is after chopping it near his feet.",428,16,8,80.1610412657,0.0663453304345,0.108299880122,0.0443471919763,0.147816545231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+531,"Looks up and sees Santner rushing forward, also sees the bowler running in, has to hare across and does so, would've been interesting with a direct hit but Pandya missed .",427,22,13,135.732359757,0.0443471919763,0.0733330411598,0.0777841729409,0.0409056615091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12281
+532,"Pandya to Santner, 1 run, slower delivery outside off, Santner is once again early into the push, the thick outside edge finds Jadeja at backward point, he doesn't shy.",426,25,11,117.431805387,0.0777841729409,0.147816545231,0.0,0.17904123557,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09859
+533,Probably there was no-one backing up that's why .,425,5,5,32.363306018,0.0,0.0409056615091,0.056058107323,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+534,"Pandya to Santner, FOUR, good blow that.",424,8,2,28.1185279791,0.056058107323,0.17904123557,0.0128076332466,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08
+535,"On the pads and a length delivery, flicked whippily and wristily in the air and down to the vacant deep mid-wicket boundary.",423,13,11,78.5890839384,0.0128076332466,0.0,0.166231975536,0.0260092486503,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.16983
+536,A much-needed boundary.,422,3,1,6.07517381523,0.166231975536,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.04546
+537,Pandya grimaces in despairThe crowd have a novel way to keep themselves entertained.,421,9,5,64.3751717396,0.0,0.0260092486503,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+538,They are using their mobile phones as torches.,420,5,4,45.1062556442,0.0,0.0,0.0570149424176,0.125417755877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+539,As if the light isn't good enough inside the stadium.,419,7,5,44.1768687641,0.0570149424176,0.0,0.0,0.0184870767142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+540,Looks like they are bored by New Zealand's batting effort .,418,9,3,50.3529518466,0.0,0.125417755877,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165255
+541,"Pandya to Santner, wide, way outside off and that is a dreadful delivery, MS again has to collect it on the bounce .",417,14,12,79.8753301237,0.0,0.0184870767142,0.252300201144,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12941
+542,"Pandya to Santner, no run, Pandya comes on and completely fools Santner for pace.",416,12,5,54.748569562,0.252300201144,0.0,0.0,0.0959612618139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+543,First ball.,415,3,0,8.653840069,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+544,"Off-speed delivery outside off, Santner is through the shot way too early and misses.",414,10,6,51.486755596,0.0,0.0959612618139,0.0186787866487,0.054284045273,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+545,"Carries to MS on the bounceHardik Pandya, right-arm medium, comes into the attack .",413,11,5,51.0887097553,0.0186787866487,0.0,0.00904495621456,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12708
+546,"Raina to Corey Anderson, no run, Corey Anderson is trying his best, but he is struggling out there.",412,13,9,68.969810028,0.00904495621456,0.054284045273,0.0584642667119,0.00908887286366,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+547,This pitch isn't his ally.,411,4,3,22.631454335,0.0584642667119,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04167
+548,Now goes for a reverse sweep to a full one outside off and doesn't make contact.,410,10,8,62.7865029982,0.0,0.00908887286366,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165005
+549,End of Raina's spell -  .,409,6,1,18.8154373917,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+550,- .,408,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+551,- superb!,407,3,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+552,.,406,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+553,"Raina to Corey Anderson, no run, this one stayed low and Corey Anderson chopped it to the left of MS, sends Santner back.",405,19,8,86.0385338743,0.0,0.0,0.0,0.202261651358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+554,Sensible call that .,404,3,1,16.0272685906,0.0,0.0,0.0,0.0470930534912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.019605
+555,"Raina to Santner, 1 run, Santner uses his feet and drives to long-off .",403,12,4,40.5197337433,0.0,0.202261651358,0.228104291117,0.271083482079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+556,"Raina to Corey Anderson, 1 run, Corey Anderson backs away and biffs that straight to the fielder at long-off .",402,16,6,62.5743781127,0.228104291117,0.0470930534912,0.128430833697,0.123394775175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131705
+557,"Raina to Santner, 1 run, down leg, flicked to deep mid-wicket, only a single .",401,14,5,41.380708656,0.128430833697,0.271083482079,0.278648635866,0.174606941274,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+558,"Raina to Santner, no run, Santner comes down the track and yorks himself, jams it back to the bowler .",400,14,9,71.955060601,0.278648635866,0.123394775175,0.091441474769,0.0832574783638,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15083
+559,"Ravindra Jadeja to Corey Anderson, 2 runs, Corey Anderson shuffles across and gets outside off, the ball is down leg and as a full toss, gently clipped to fine leg for two more .",399,26,12,122.026383624,0.091441474769,0.174606941274,0.407550017288,0.30617615993,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.137255
+560,"Ravindra Jadeja to Corey Anderson, wide, another ball down leg, poor bowling .",398,14,2,49.6963116401,0.407550017288,0.0832574783638,0.359626866814,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+561,"Ravindra Jadeja to Corey Anderson, no run, ooh!",397,9,2,29.6217442895,0.359626866814,0.30617615993,0.0,0.209065538518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11408
+562,That was close.,396,2,2,12.2545076525,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05963
+563,"Ravindra Jadeja is coming from round the wicket to Corey Anderson and darting it in, beats the pull and not far from the off stump and also the bottom edge of the bat.",395,18,17,122.329927852,0.0,0.209065538518,0.0573904998675,0.138031365253,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.135805
+564,MS fumbles the take .,394,4,1,18.1584189353,0.0573904998675,0.0,0.014310972989,0.0159673361583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+565,"Ravindra Jadeja to Santner, leg byes, 1 run, sharply turning in, Santner misses the flick and turning down.",393,18,5,69.9124119551,0.014310972989,0.138031365253,0.0992402422076,0.225614606436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+566,Another appeal for lbw but that was not even hitting the 5th stump down leg .,392,9,7,67.2964525505,0.0992402422076,0.0159673361583,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128025
+567,"Ravindra Jadeja to Santner, no run, tossed up on off, Santner gets forward and wrists it to short mid-wicketSlight delay in play and time to rest my fingers.",391,20,12,108.354839064,0.0,0.225614606436,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.114285
+568,Phew!,390,2,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+569,The action has been hectic.,389,3,3,23.1904434811,0.0,0.0,0.0,0.0139172973938,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+570,Doesn't take too long for play to restart .,388,6,4,37.103703256,0.0,0.0,0.0121702214588,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+571,"Ravindra Jadeja to Corey Anderson, 2 wides, now MS is in pain and flings the glove off.",387,13,7,66.9769882371,0.0121702214588,0.0139172973938,0.0670922188245,0.316090458647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+572,The physio is out there.,386,2,4,19.3063855176,0.0670922188245,0.0,0.0726287676596,0.0240348767624,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+573,"It was again fired down leg and Corey Anderson missed the sweep, hits MS on the right thumb and he is in pain.",385,13,12,92.1506924435,0.0726287676596,0.316090458647,0.0218970384943,0.14540418837,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+574,Another two runs added to the total .,384,6,2,30.3346807519,0.0218970384943,0.0240348767624,0.0455890718,0.0284473427454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+575,"Ravindra Jadeja to Corey Anderson, wide, MS appealed for a caught behind to try and put the umpire off after Ravindra Jadeja came round the wicket and darted one outside leg, looked to have caught the pad, but given as wide .",383,31,15,165.156198193,0.0455890718,0.14540418837,0.324991572537,0.0494595884706,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13737
+576,"Ravindra Jadeja to Santner, leg byes, 1 run, now both MS and Ravindra Jadeja are appealing for lbw after Santner came down the track to flick and missed, may have struck him outside the line and may have been going down too.",382,28,19,174.425727944,0.324991572537,0.0284473427454,0.046293787405,0.323378801607,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10032
+577,They take a leg-bye .,381,3,2,9.46477028522,0.046293787405,0.0494595884706,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109655
+578,"Ravindra Jadeja to Santner, byes, FOUR, woohoo!",380,10,1,31.5934502809,0.0,0.323378801607,0.0597667186263,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08
+579,"That spun and bounced, from over the wicket, beat Santner all ends up and does the same to MS as well.",379,11,13,85.7662021173,0.0597667186263,0.0,0.129743837031,0.0183600880179,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+580,Runs away over the stumps and just about shaves the bails .,378,6,6,46.7161434995,0.129743837031,0.0,0.0,0.0378284598997,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+581,"Raina to Corey Anderson, no run, punched powerfully but finds cover to perfection .",377,12,4,53.2323626361,0.0,0.0183600880179,0.124570063329,0.218504068979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+582,"Raina to Santner, 1 run, Santner gets forward and takes it on the full, eased to long-on .",376,15,6,52.8890789376,0.124570063329,0.0378284598997,0.220154845384,0.146700974053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+583,"Raina to Corey Anderson, 1 run, flicked to deep backward square legMitchell Santner, left handed bat, comes to the crease .",375,21,4,72.2314961598,0.220154845384,0.218504068979,0.267811627662,0.121513323798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116155
+584,"Raina to Corey Anderson, out Ross Taylor Run Out!!",374,9,3,30.2450984514,0.267811627662,0.146700974053,0.147534029007,0.0285583299076,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+585,This wicket is all due to Raina.,373,4,4,28.1093372443,0.147534029007,0.121513323798,0.0284152354031,0.0109292033808,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+586,Full credit to him.,372,3,2,17.3775041738,0.0284152354031,0.0285583299076,0.10025071994,0.0210506377477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+587,"Firstly he anticipated the shot to his left, dived full-length, got hold of the ball and then threw down the stumps catching Ross Taylor short.",371,18,10,105.261102065,0.10025071994,0.0109292033808,0.142262504336,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.13745
+588,Ross Taylor was backing up and didn't have the time to dive back in.,370,8,8,54.2178919593,0.142262504336,0.0210506377477,0.0,0.104481408731,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151515
+589,Only that could've saved him.,369,4,3,23.6510083576,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+590,Instead he tries to plonk the bat in and it is in the air when the stumps are broken.,368,8,12,73.7367429316,0.0,0.104481408731,0.0,0.0619580856631,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+591,Exceptional athletic abilitly from Raina.,367,5,1,28.2964275345,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+592,Replays show that he threw the ball with his left-hand while off balance.,366,7,7,54.2988290388,0.0,0.0619580856631,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+593,And hit bulls-eye.,365,3,1,6.54270901636,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+594,Bingo.,364,2,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+595,Once he sees the OUT flash on the big screen he celebrates.,363,6,7,54.7578814185,0.0,0.0,0.028092802288,0.0687164021558,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+596,Ross Taylor was already a couple of steps out when Corey Anderson hit that and had no chance of getting back.,362,12,10,85.5735158877,0.028092802288,0.0,0.278498706408,0.212636625947,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+597,Ross Taylor run out (Raina)  .,361,7,1,18.4208337545,0.278498706408,0.0687164021558,0.323177823611,0.49018838924,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0677
+598,"4) [4s-1]Raina to Corey Anderson, THAT'S OUT!!",360,12,3,18.7524563219,0.323177823611,0.212636625947,0.26077026073,0.0857354467989,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+599,Run Out!,359,2,1,5.7712614119,0.26077026073,0.49018838924,0.328777700949,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+600,!Third umpire called for a run-out check.,358,7,2,25.6960123817,0.328777700949,0.0857354467989,0.0,0.152406749159,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+601,Has Raina done brilliantly?,357,4,1,21.1288334008,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+602,to get Ross Taylor run out?,356,5,2,20.7761881209,0.0,0.152406749159,0.0,0.0291067394845,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+603,Very close call.,355,3,1,16.7132472817,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+604,Marais Erasmus is the third umpire and he wants to see the zoomer to check whether the bat is in the air or not.,354,12,13,98.9646361263,0.0,0.0291067394845,0.0,0.340429029586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144045
+605,Looks out.,353,2,1,8.46008025108,0.0,0.0,0.0,0.107050726013,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+606,Ross Taylor's bat is in the air.,352,6,3,25.2965806958,0.0,0.340429029586,0.0739547748929,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+607,"""My decision is out"" says Erasmus and the crowd roar.",351,8,5,46.6360627065,0.0739547748929,0.107050726013,0.0,0.0567665479921,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+608,.,350,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+609,"Raina to Ross Taylor, 1 run, even Raina is turning the ball big, Ross Taylor makes room and has to adjust for the turn back in, gently pushes to cover and takes the singleSmart move by MS to bring on Raina and get in a couple of overs.",349,34,19,185.590325262,0.0,0.0567665479921,0.191549359091,0.0402499453007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.141365
+610,He can get through his overs in a flash and rarely gives the batsmen time to get their eye in.,348,10,11,83.5444107698,0.191549359091,0.0,0.0775303833821,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18567
+611,"If he gets a wicket then it is a bonus, today he got more than that when he dismissed the one man who could've taken New Zealand to a score of around  .",347,17,18,131.85715715,0.0775303833821,0.0402499453007,0.0,0.00644903640329,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.180885
+612,.,346,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+613,So everything working in India's favor at the moment now .,345,7,5,47.6068173319,0.0,0.00644903640329,0.00855769701342,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+614,"Raina to Corey Anderson, 1 run, shortish on the stumps, Corey Anderson backs away and thumps it to sweeper coverSuresh Raina [ .",344,20,6,76.9713816406,0.00855769701342,0.0,0.0,0.0167106652784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+615,- .,343,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+616,-1] is back into the attack .,342,5,3,17.3649931868,0.0,0.0167106652784,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+617,"Ravindra Jadeja to Ross Taylor, no run, floated up on middle, Ross Taylor gets forward and defends .",341,16,5,68.787912096,0.0,0.0,0.231475329147,0.079576719538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+618,"Ravindra Jadeja to Corey Anderson, 1 run, Corey Anderson gets lucky.",340,13,1,37.5529252789,0.231475329147,0.0,0.0799743439939,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+619,"For the umpteenth time, he charges and is beaten by the length, swipes and gets a thick inside edge to short fine.",339,15,10,88.5609658312,0.0799743439939,0.079576719538,0.157043590403,0.0495632014205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+620,"If not for the inside edge, Mahendra Singh Dhoni would've been in business.",338,10,6,58.41146306,0.157043590403,0.0,0.0479038954529,0.00767866800004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19167
+621,Hands on heads moment for the Indians .,337,5,3,33.5859361993,0.0479038954529,0.0495632014205,0.00983394786599,0.054056614115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13126
+622,"Ravindra Jadeja to Ross Taylor, 1 run, fraction short outside off, Ross Taylor rocks back and slaps it square of the wicket .",336,20,6,81.857916597,0.00983394786599,0.00767866800004,0.206285970501,0.26833012977,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+623,"Ravindra Jadeja to Corey Anderson, 1 run, on the pads, whipped to deep mid-wicket .",335,14,4,42.3879636764,0.206285970501,0.054056614115,0.213895246396,0.230730309573,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+624,"Ravindra Jadeja to Ross Taylor, 1 run, uses his feet and the ball stops on his stroke, the thick leading edge runs through the vacant silly mid-off region .",334,23,9,111.680790805,0.213895246396,0.26833012977,0.234846641189,0.112107170489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12899
+625,"Ravindra Jadeja to Ross Taylor, no run, did that pitch outside leg?",333,11,4,45.795346127,0.234846641189,0.230730309573,0.250102579271,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07769
+626,Only that could've saved Ross Taylor there.,332,6,3,32.1329981697,0.250102579271,0.112107170489,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+627,Dhoni wasn't interested at all.,331,4,3,22.6572206187,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.042555
+628,He was busy saving the run.,330,4,3,25.2616520266,0.0,0.0,0.0110901723882,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+629,"Only Ravindra Jadeja appealed there, pitched outside leg, turned across Ross Taylor's defensive stroke and struck him on the back leg.",329,19,6,94.5393454637,0.0110901723882,0.0,0.144785951262,0.049766908531,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08118
+630,"Once it pitches outside leg, can't be given out.",328,8,4,36.0844749204,0.144785951262,0.0,0.0,0.0476636298989,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+631,"Dharmasena got that rightRavindra Jadeja, left-arm orthodox, comes into the attack .",327,11,3,46.9468272852,0.0,0.049766908531,0.00684822063187,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+632,"Ashwin to Corey Anderson, no run, tossed up on leg, Corey Anderson's bat face closes and the thick leading edge rolls to backward point, no chance of a quick single .",326,26,10,116.12946071,0.00684822063187,0.0476636298989,0.188857529105,0.0470172044797,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.125395
+633,"Ashwin to Ross Taylor, 1 run, tossed up and turns in, Ross Taylor stays back and plays a late dab, wide of MS and an easy single .",325,23,9,105.717622127,0.188857529105,0.0,0.400610274341,0.168772195477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10294
+634,"Ashwin to Ross Taylor, FOUR, beautifully played by Ross Taylor.",324,11,2,44.2826205634,0.400610274341,0.0470172044797,0.185999121414,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.080835
+635,"Picked the carrom ball, it goes straight on, Ross Taylor went back and then deftly opened the bat face to guide it through the vacant slip.",323,19,10,113.558705032,0.185999121414,0.168772195477,0.0512916517282,0.168456974923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160835
+636,Wide of Bumrah at short third who was running in slow motion and the ball was always winning there .,322,11,9,83.1385691426,0.0512916517282,0.0,0.072797743781,0.0443991380542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+637,"Ashwin to Ross Taylor, no run, flat and on middle and leg, Ross Taylor shuffles across and misses the flick, an appeal from Ashwin for lbw but that was going down.",321,22,14,122.205259655,0.072797743781,0.168456974923,0.176681998153,0.352447083573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152555
+638,Corey Anderson sends Ross Taylor back as the ball rolled close to Mahendra Singh Dhoni .,320,13,3,64.7477960664,0.176681998153,0.0443991380542,0.204221658806,0.143112333037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.216035
+639,"Ashwin to Ross Taylor, no run, lovely loop and flight outside off, dips on Ross Taylor, who was looking for the big cover drive, the dip takes the inside half of the bat and rolls back to the bowler .",319,29,16,154.353245869,0.204221658806,0.352447083573,0.102076747781,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15032
+640,"Ashwin to Corey Anderson, 1 run, floated up and Corey Anderson gets forward to wrist it through mid-wicket for a singleRavichandran Ashwin [ .",318,18,8,73.0718133823,0.102076747781,0.143112333037,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+641,- .,317,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+642,. ],316,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+643,is back into the attack .,315,3,3,17.3649931868,0.0,0.0,0.0176494119426,0.0434904820401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13457
+644,"Raina to Corey Anderson, 1 run, darted in on the stumps, Corey Anderson short-arm jabs a pull to deep mid-wicket .",314,18,6,59.5479099614,0.0176494119426,0.0,0.343385141855,0.378284113367,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+645,"Raina to Corey Anderson, no run, shortish on the stumps, Corey Anderson backs away and thumps the shot to cover, a good stop made as the ball was hit very hard .",313,24,12,115.565137351,0.343385141855,0.0434904820401,0.251649730236,0.102564359751,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152555
+646,"Raina to Corey Anderson, 2 runs, on the pads, flicked powerfully to deep mid-wicket, to the right of the fielder and another two .",312,19,9,75.5309357093,0.251649730236,0.378284113367,0.179340493593,0.379211287385,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.154335
+647,"Raina to Ross Taylor, 1 run, turning in on middle and leg, tucked to deep backward square leg, for a single .",311,19,7,73.9800194616,0.179340493593,0.102564359751,0.186210051263,0.350386406194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+648,"Raina to Corey Anderson, 1 run, again Raina pulls the length back on seeing Corey Anderson advance, off the thick inside half and down to deep mid-wicket .",310,22,9,96.8462221152,0.186210051263,0.379211287385,0.243090762569,0.0538576712015,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+649,"Raina to Corey Anderson, 2 runs, tucked off the pads to deep square leg, in the gap and an easy twoThis isn't an easy pitch to bat on.",309,21,12,108.29538751,0.243090762569,0.350386406194,0.0657753232509,0.0341758528625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14754
+650,"The ball is stopping and definitely spinners will have a big role to play on this, provided there is now dew in the second innings.",308,13,14,104.329771893,0.0657753232509,0.0538576712015,0.130012524305,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15977
+651,"New Zealand have done the right thing by playing three spinners, but they have been too cavalier in their batting effort so far and that means they have to readjust their target.",307,17,17,146.660888661,0.130012524305,0.0341758528625,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16554
+652,A score of  .,306,2,2,9.08100353957,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+653,looks certainly defendable on this .,305,4,2,24.856261727,0.0,0.0,0.035235650727,0.0651076649762,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+654,"Bumrah to Corey Anderson, 1 run, pitched up outside off, Corey Anderson drills it on the rise and finds long-off .",304,17,7,67.2278892794,0.035235650727,0.0,0.229458543435,0.14228929737,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135135
+655,"Bumrah to Ross Taylor, 1 run, short of length and around off, Ross Taylor is on the walk as he pushes it to long-on .",303,17,11,79.88385994,0.229458543435,0.0651076649762,0.371628383817,0.457001453754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151685
+656,"Bumrah to Ross Taylor, no run, angled in towards off, Ross Taylor's bat face closes and off the toe end of the bat, the thick bottom edge rolls towards cover .",302,26,10,123.611052184,0.371628383817,0.14228929737,0.362534482605,0.166547264218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153135
+657,"Bumrah to Ross Taylor, no run, kept low and beats Ross Taylor's late cut.",301,15,3,60.0575269895,0.362534482605,0.457001453754,0.513596645762,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109775
+658,"Cut in as well, Ross Taylor wanted to play a late cut and it beat him.",300,11,7,64.3437494954,0.513596645762,0.166547264218,0.0,0.0374911052525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147645
+659,Pacy delivery too .,299,3,1,15.8821143582,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.049995
+660,"Bumrah to Corey Anderson, 1 run, shortish outside off, Corey Anderson chops it to sweeper cover .",298,16,4,56.6003488218,0.0,0.0374911052525,0.284906108821,0.290467288265,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+661,"Bumrah to Corey Anderson, FOUR, off the toe end and still four.",297,11,4,47.5028042918,0.284906108821,0.0,0.171353738431,0.271241902301,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.142855
+662,"The slower delivery outside off, Corey Anderson picked it but didn't time it off the middle of the bat.",296,12,10,68.8436429539,0.171353738431,0.290467288265,0.0740338447091,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+663,Still good enough to beat mid-off to his left.,295,7,3,33.594291052,0.0740338447091,0.271241902301,0.07793215121,0.0854710627408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+664,Now all rests on this man if his side have to get a defendable total .,294,7,9,64.1000421545,0.07793215121,0.0,0.0560220067269,0.0621144631863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+665,"Raina to Ross Taylor, no run, immediately Dharmasena shakes his head.",293,11,3,50.4495403537,0.0560220067269,0.0854710627408,0.25988141663,0.0695422224041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+666,Ross Taylor shows the umpire his bat.,292,6,2,30.0164791475,0.25988141663,0.0621144631863,0.0,0.147563414701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08605
+667,Too many things going against Raina and India there.,291,6,4,40.871461295,0.0,0.0695422224041,0.0235496637014,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+668,"Firstly Ross Taylor looked to have got an inside edge onto the pad on the paddle, and secondly he got outside the line of off and was playing a stroke.",290,18,14,122.431443565,0.0235496637014,0.147563414701,0.0682509179845,0.0129756321664,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18016
+669,"No way it could've been givenRoss Taylor, right handed bat, comes to the crease .",289,13,5,56.9702287821,0.0682509179845,0.0,0.0200432174442,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+670,"Raina to Williamson, out Stumped!!",288,6,2,18.9295014867,0.0200432174442,0.0129756321664,0.200621630831,0.0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17805
+671,That is poor from Williamson.,287,3,3,19.466172902,0.200621630831,0.0,0.0,0.140484049495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04545
+672,He was the one batsman who should've batted through on this pitch.,286,6,8,53.1496224231,0.0,0.0,0.0188342399284,0.0190136184368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+673,"Gives Raina the charge, it is fired fuller and quicker outside off, beat the slash and MS is so quick behind the stumps, even though Williamson had no chance of coming back.",285,23,13,137.830021491,0.0188342399284,0.140484049495,0.137057791572,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+674,Maybe the lure of attacking Raina got the better of Williamson there.,284,8,5,54.3273181657,0.137057791572,0.0190136184368,0.0,0.193815940492,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172415
+675,India well on top at Nagpur.,283,5,2,26.7755517439,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07479
+676,Williamson st Dhoni b Raina  .,282,6,0,18.2384616429,0.0,0.193815940492,0.366768357731,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+677,"6) [4s-1]Raina to Williamson, THAT'S OUT!!",281,11,3,15.9409377027,0.366768357731,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+678,Stumped!!,280,3,0,5.92102313541,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05555
+679,.,279,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+680,"Raina to Corey Anderson, 1 run, Raina is nearly through Corey Anderson there, shortened the length on seeing the batsman charge, Anderson swiped across the line and somehow got bat on that, the thick inside edge rolls to short mid-wicket.",278,33,13,154.767675353,0.0,0.0,0.0350909477253,0.418207447523,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11236
+681,MS sprints and prevents the possibilty of a second .,277,6,4,37.4710109453,0.0350909477253,0.0,0.0776603863338,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+682,"Raina to Corey Anderson, no run, sliding down leg, on the pads, Corey Anderson fails to get bat on the flick, MS is there to prevent the leg-byeNow round the wicket to Corey Anderson .",276,26,14,118.899872155,0.0776603863338,0.418207447523,0.127993197427,0.158051095965,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.133125
+683,"Raina to Williamson, 1 run, turning in, Williamson plays a half-sweep/half-pull to deep backward square leg .",275,16,4,50.56136976,0.127993197427,0.0,0.183577722409,0.0386593019052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+684,"Raina to Williamson, no run, tossed up outside off, Williamson went too hard on the cover drive and lost all timing on the shot, finds coverSuresh Raina, right-arm off break, comes into the attack .",274,27,14,133.647011583,0.183577722409,0.158051095965,0.139531259174,0.224100220945,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.132825
+685,"Bumrah to Corey Anderson, no run, slanted across off on a good length, Anderson moves slightly forward and across and taps it to cover .",273,19,9,90.6116348742,0.139531259174,0.0386593019052,0.199069071671,0.124270932652,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13846
+686,"Bumrah to Williamson, 1 run, back of a length delivery just outside off, Williamson stays flat-footed and pushes it in front of cover .",272,18,9,75.1221557238,0.199069071671,0.224100220945,0.204771101158,0.0335254817338,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+687,"Bumrah to Williamson, no run, yes keep doing that, and you'll be back in the dressing room in no time.",271,14,11,78.9137481909,0.204771101158,0.124270932652,0.0335771216664,0.186754823088,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18087
+688,"Patted to Jadeja at backward point, Anderson is already halfway down looking for a single, rightly sent back and a direct hit would have seen him short despite a dive .",270,22,11,131.747785195,0.0335771216664,0.0335254817338,0.00710309269676,0.00753642140888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08995
+689,"Bumrah to Williamson, no run, NZ just can't stop playing shots.",269,12,3,45.3914094016,0.00710309269676,0.186754823088,0.012551881104,0.0759602515828,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07547
+690,It's like a garage sale - everything has to go.,268,8,4,39.8956125639,0.012551881104,0.00753642140888,0.0805942553042,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+691,"Williamson walks across the stumps in position to scoop, has the right length to execute but fails to connect.",267,13,8,80.4841392774,0.0805942553042,0.0759602515828,0.0295006187876,0.171874329378,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+692,Hit on the pad outside off .,266,4,3,21.3195075699,0.0295006187876,0.0,0.144751778132,0.11446327453,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+693,"Bumrah to Williamson, no run, back of a length outside off, Williamson punches and finds backward point .",265,15,6,60.1217072647,0.144751778132,0.171874329378,0.380602046935,0.121714646494,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+694,"Bumrah to Williamson, no run, short of length around off, wristed off the back foot to mid-onJasprit Bumrah, right-arm medium, comes into the attack .",264,21,9,82.857935222,0.380602046935,0.11446327453,0.13343665253,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+695,"Ashwin to Corey Anderson, FOUR, Ashwin comes over the wicket for the final delivery and pitches it outside leg, Corey Anderson powers the sweep, Bumrah at deep backward square leg looked to have it covered, but the timing on the shot beat him.",263,32,17,168.381422709,0.13343665253,0.121714646494,0.0302186235514,0.0487746296948,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.147035
+696,He should've dived but didn't.,262,4,4,25.3306534485,0.0302186235514,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.063405
+697,That allowed the boundary .,261,3,2,17.1751887207,0.0,0.0487746296948,0.0260747740574,0.0501726114138,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.083335
+698,"Ashwin to Williamson, 1 run, turned to Rohit at backward square leg, quick single taken and Williamson's bat gets in the way of the throw of Rohit.",260,23,9,99.096617998,0.0260747740574,0.0,0.231173974571,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+699,Williamson stretched out and the ball hit the bat.,259,6,4,31.9160523464,0.231173974571,0.0501726114138,0.0,0.115447670088,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+700,Nothing intentional about that.,258,3,2,21.9082863914,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01923
+701,"Had it not been for the bat, would've been close and Rohit knows it.",257,8,9,56.253757133,0.0,0.115447670088,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+702,Jumps in despair .,256,3,1,16.7338665689,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+703,"Ashwin to Williamson, no run, Williamson misses out on four.",255,9,4,35.7994050884,0.0,0.0,0.0,0.157928198974,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.07143
+704,"Short and down leg, rocks back and pulls, finds the diving Rohit Sharma inside the ring at backward square leg.",254,17,6,88.407140159,0.0,0.0,0.0368094646875,0.168343453464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13304
+705,Either side and it was four .,253,4,3,24.1468845653,0.0368094646875,0.157928198974,0.0,0.107414353722,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.134505
+706,"Ashwin to Corey Anderson, 1 run, short down leg, Corey Anderson pumps the pull to deep mid-wicket, straight to the fielder, so only a single .",252,22,9,82.5875040824,0.0,0.168343453464,0.281988138801,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.111825
+707,"Ashwin to Corey Anderson, FOUR, for a moment Corey Anderson must have felt he had holed out.",251,13,7,68.4505188641,0.281988138801,0.107414353722,0.0388529684217,0.157195111597,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.114285
+708,Nervy little second for him.,250,4,2,25.4979424679,0.0388529684217,0.0,0.0250261789958,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+709,"Used his feet and the ball was cleverly pitched outside leg with lots of flight, deceived Corey Anderson completely, somehow he flicked and the leading edge goes in no-man's land and runs away for four at deep mid-wicket .",249,29,13,160.038381409,0.0250261789958,0.157195111597,0.251953078052,0.0455015663925,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.118645
+710,"Ashwin to Corey Anderson, no run, Corey Anderson uses his feet and then gently turns it to short mid-wicket .",248,15,7,67.9913567944,0.251953078052,0.0,0.0194749732176,0.0269345330645,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.096155
+711,"Nehra to Williamson, FOUR, that is a high class stroke from Williamson.",247,10,5,47.1337663147,0.0194749732176,0.0455015663925,0.02564589611,0.00798182513167,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.06818
+712,"On a slow pitch, other lesser mortals might have gone too hard on that and mistimed it.",246,10,9,77.140153398,0.02564589611,0.0269345330645,0.0308272466191,0.0169776090893,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+713,"Instead he waits for the ball to arrive and once it does, delays the cut, finds the gap and beats a diving short cover.",245,15,12,101.277251754,0.0308272466191,0.00798182513167,0.0299387706903,0.0836726958158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+714,Well wide of mid-off and raced away.,244,6,2,25.5366656789,0.0299387706903,0.0169776090893,0.0227415025209,0.0587701598121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+715,The key was he timed that and that gave him four.,243,5,7,45.8297373781,0.0227415025209,0.0836726958158,0.0,0.167736163117,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13793
+716,Class of Williamson on display .,242,4,2,23.2284227292,0.0,0.0587701598121,0.108830572102,0.167122882181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+717,"Nehra to Williamson, no run, and he finds that man to perfection.",241,9,6,42.5626767034,0.108830572102,0.167736163117,0.220470523786,0.0536189603155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+718,"On a back of a length outside off, Williamson dabs and Raina runs to his right to fieldA wide gully in place for Williamson's late dabs to third man.",240,20,12,112.224189667,0.220470523786,0.167122882181,0.0,0.033948648393,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+719,Very good field placing that .,239,4,2,25.6614570278,0.0,0.0536189603155,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+720,"Nehra to Corey Anderson, 1 run, nipping in towards the pads, Corey Anderson gets a faint inside edge onto the pad on the flick, the ball rolls towards short mid-wicket, an easy single taken .",238,31,9,130.841163677,0.0,0.033948648393,0.322709992078,0.247521512591,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.170205
+721,"Nehra to Corey Anderson, no run, again it stops on Corey Anderson, who was lining up for the big stroke through the line, since the length wasn't there, Corey Anderson finds mid-offSlip taken off .",237,25,16,128.364456034,0.322709992078,0.0,0.38061042544,0.365339362819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+722,"Nehra to Corey Anderson, no run, full and a hint of shape inwards for Nehra, targetting off, Corey Anderson's bat face closes on the drive, finds Rohit at mid-on .",236,26,10,112.744996295,0.38061042544,0.247521512591,0.38251775221,0.210300504927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126915
+723,"Nehra to Corey Anderson, no run, Nehra is lucky there.",235,9,4,36.400405456,0.38251775221,0.365339362819,0.0891615243153,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+724,"Drifting on the pads, Corey Anderson failed to get any bat on the flick, off the pad and Mahendra Singh Dhoni collects.",234,16,9,91.6091388239,0.0891615243153,0.210300504927,0.0139569855037,0.180493295525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.227635
+725,A faint glance and it would've been four .,233,6,4,32.4179045979,0.0139569855037,0.0,0.0134001469677,0.0356953139413,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12317
+726,"Ashwin to Corey Anderson, 1 run, on off stump, Corey Anderson kneels down and then gently paddles that around the corner for a single to keep strike .",232,20,11,100.627691145,0.0134001469677,0.180493295525,0.174784772537,0.115761421955,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156585
+727,"Ashwin to Williamson, 1 run, this is pulled back a touch, the ball stops on Williamson who goes back and pushes it to long-on for a single .",231,19,12,86.211717244,0.174784772537,0.0356953139413,0.263104849596,0.239070898481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.150575
+728,"Ashwin to Williamson, no run, tossed up outside off, Williamson gets forward and flicks to mid-wicket with the spin .",230,15,8,65.1886216315,0.263104849596,0.115761421955,0.118119608106,0.273663571548,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.163705
+729,"Ashwin to Corey Anderson, 1 run, fired in on the stumps, whipped wristily to long-on .",229,14,5,47.5919204343,0.118119608106,0.239070898481,0.262570177754,0.030892043823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+730,"Ashwin to Corey Anderson, no run, teasing line and loop from Ashwin, Corey Anderson gets forward and then gently pushes it back to the bowler.",228,20,9,94.7258836178,0.262570177754,0.273663571548,0.104107269367,0.441605692467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108695
+731,For a moment he wanted to go for the big hit and then restrained himself .,227,7,9,60.2796307453,0.104107269367,0.030892043823,0.0499466851508,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172105
+732,"Ashwin to Corey Anderson, no run, on the middle and leg line, nicely flighted too, gently turned to short mid-wicketAshwin to continue, from round the wicket to Corey Anderson.",226,24,11,104.643587451,0.0499466851508,0.441605692467,0.0,0.105842107172,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09859
+733,With a slip in place .,225,3,3,19.3590528383,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+734,"Nehra to Williamson, no run, Williamson sinks to his haunches after mistiming a cut to backward point.",224,13,7,69.0279943343,0.0,0.105842107172,0.08639469761,0.0876988685693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+735,"It was short and wide outside off, Williamson went too hard on the stroke and that foiled all timing .",223,11,10,75.9576532808,0.08639469761,0.0,0.0815161141251,0.0124256980656,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11986
+736,"Nehra to Corey Anderson, leg byes, 1 run, down leg, Corey Anderson failed to tuck that away, off the pad and it runs away behind square.",222,24,8,96.9553857563,0.0815161141251,0.0876988685693,0.0311900747184,0.301875306769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12131
+737,An extra added to the total .,221,4,3,27.1544976404,0.0311900747184,0.0124256980656,0.038957417207,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+738,"Nehra to Corey Anderson, no run, that is nice to see.",220,9,5,38.4327326328,0.038957417207,0.301875306769,0.102629366735,0.130392785536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+739,"Length delivery outside off, Corey Anderson lifts his bat high and then shoulders arms.",219,12,4,63.2888884775,0.102629366735,0.0,0.076955216577,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+740,"Give respect to balls that deserve the sameCorey Anderson, left handed bat, comes to the crease .",218,14,5,69.1064835137,0.076955216577,0.130392785536,0.0284435573494,0.0363220231047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+741,"Nehra to Munro, out Caught by Pandya!!",217,7,3,28.1940952697,0.0284435573494,0.0,0.0,0.020636741509,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+742,"And just as I say that, he perishes.",216,4,6,30.4013567388,0.0,0.0363220231047,0.0527924354238,0.0262056086763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+743,"Used his feet to try and loft that over mid-off, the length ball stopped on him a touch and it went off the toe end straight to the fielder at mid-off.",215,17,16,113.335092296,0.0527924354238,0.020636741509,0.0425546896023,0.101144896019,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181435
+744,A dolly and Pandya accepts it gleefully.,214,5,3,30.2912234679,0.0425546896023,0.0262056086763,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+745,"Why would you try so many things, without gauging the line, length, what the pitch is doing etc etc, only Munro will know.",213,18,10,118.301276836,0.0,0.101144896019,0.0345794440774,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.082495
+746,"If this continues, New Zealand will be on their way to committing hara-kiri.",212,8,7,52.620927601,0.0345794440774,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18573
+747,"Like Ashwin, Nehra too strikes in his first over.",211,7,4,40.6977388702,0.0,0.0,0.0,0.14851633187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.243135
+748,No big celebrations from the veteran though.,210,5,3,32.9999848057,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10989
+749,Munro c Pandya b Nehra  . ),209,7,0,13.8453483797,0.0,0.14851633187,0.517673868861,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+750,"[6s-1]Nehra to Munro, THAT'S OUT!!",208,9,3,17.2175331465,0.517673868861,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+751,Caught!!,207,3,0,5.03371994041,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+752,.,206,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+753,"Nehra to Munro, no run, this one keeps low and beats Munro's ugly across the line pull.",205,16,5,74.5566192467,0.0,0.0,0.140985707209,0.521204327213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+754,Not there for that shot and Munro needs to get his eye in before trying such audacious strokes .,204,9,10,85.232120646,0.140985707209,0.0,0.157028273066,0.0443290408786,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+755,"Nehra to Munro, no run, Munro shuffles across outside off and is struck outside the line.",203,13,6,60.8052033745,0.157028273066,0.521204327213,0.209495473264,0.103302378464,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+756,Went for a big across the line mow and missed.,202,7,4,39.0771410049,0.209495473264,0.0443290408786,0.0311481151755,0.0218104049458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+757,"The ball rolls off the pad to backward pointAshish Nehra, left-arm fast medium, comes into the attack .",201,14,6,66.3692959724,0.0311481151755,0.103302378464,0.0445500036905,0.0532932983307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16848
+758,"Ashwin to Williamson, no run, nervy poke outside off and beaten.",200,10,4,43.1572981277,0.0445500036905,0.0218104049458,0.145381967856,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+759,"Williamson was playing for the turn there, but it went straight on and beat the outside edge.",199,10,9,63.0862980581,0.145381967856,0.0532932983307,0.0276259372645,0.0162548126536,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+760,Not far from taking the nick .,198,4,3,29.0244552395,0.0276259372645,0.0,0.0,0.0987638431385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+761,"Ashwin to Munro, 1 run, Pandya at mid-off dives to his right and saves three.",197,13,5,51.4136140737,0.0,0.0162548126536,0.115355738759,0.222989543568,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.122805
+762,"Good effort for it was blasted to his right, if not for the athleticism it would've been a four .",196,10,12,74.4725778075,0.115355738759,0.0987638431385,0.0116700705348,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.160175
+763,"Ashwin to Munro, SIX, my word!",195,7,2,29.6540030896,0.0116700705348,0.222989543568,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.105265
+764,Hello!,194,2,0,6.76832099579,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+765,Where did that come from?,193,2,4,24.0551007819,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04545
+766,A switch hit into the deep point stands.,192,6,3,33.583433069,0.0,0.0,0.0,0.0161290923666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+767,Munro isn't going to muck around here.,191,6,3,33.253503931,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10378
+768,Switches and smacks the leather off that.,190,4,4,30.875154539,0.0,0.0161290923666,0.0175493199082,0.0166610615964,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+769,Sailed a long way into the stands.,189,5,3,28.2659449555,0.0175493199082,0.0,0.0178655937295,0.0317583556213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+770,The Kiwi camp is all smiles .,188,4,3,29.3408407176,0.0178655937295,0.0166610615964,0.0301509073842,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+771,"Ashwin to Munro, no run, tossed up from round the wicket, on the stumps, a forward defenceColin Munro, left handed bat, comes to the crease .",187,22,10,91.7132219089,0.0301509073842,0.0317583556213,0.100454865687,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.17608
+772,"Ashwin to Guptill, out Lbw!!",186,6,2,18.7209567348,0.100454865687,0.0,0.0,0.15520993477,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+773,Huge appeal and gone.,185,4,1,20.84149106,0.0,0.0,0.0,0.0247575917047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+774,Ashwin has his revenge.,184,3,2,18.5069291504,0.0,0.15520993477,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+775,Dharmasena had a long look at that and then raised the finger.,183,6,7,49.1335044553,0.0,0.0247575917047,0.0433120507297,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+776,"It was tossed up again, spun in and beat the sweep of Guptill, hit on the back leg, pretty adjacent and the only question was it spinning too much?",182,17,16,119.285548853,0.0433120507297,0.0,0.0,0.117528717381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.14988
+777,Hoho!,181,2,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+778,Replays show that it was missing!,180,4,3,28.1804246334,0.0,0.117528717381,0.0520954526025,0.151029724996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08041
+779,So must say that Guptill is unlucky.,179,5,3,34.2003671301,0.0520954526025,0.0,0.101961877956,0.439224021872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.040005
+780,There is bounce on this wicket and that's why Hawk-Eye showed that it was going over.,178,7,11,59.5354241475,0.101961877956,0.151029724996,0.0579203671114,0.0171669362191,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.100835
+781,But must say the adrenaline got the better of Guptill there.,177,7,5,49.4021975786,0.0579203671114,0.439224021872,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178575
+782,Ashwin pumps his fist and roars.,176,5,2,30.0822523676,0.0,0.0171669362191,0.296803808488,0.0802774812401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+783,Nagpur roars as one too.,175,4,2,25.6235168797,0.296803808488,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+784,"Fine comeback from Ashwin and India, but Dharmasena got that wrong there.",174,9,5,54.4781207754,0.0,0.0802774812401,0.0996744948409,0.128527281201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+785,Guptill lbw b Ashwin  . ),173,6,0,13.746502545,0.0996744948409,0.0,0.450634557039,0.651639101409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+786,"[6s-1]Ashwin to Guptill, THAT'S OUT!!",172,9,3,16.4255401313,0.450634557039,0.128527281201,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+787,Lbw!!,171,3,0,5.22787595485,0.0,0.651639101409,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+788,.,170,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+789,"Ashwin to Guptill, SIX, Kaboom!",169,7,1,23.2221543304,0.0,0.0,0.271446631562,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.114285
+790,What is Guptill up to?,168,2,4,18.7087125113,0.271446631562,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+791,Unbelievable blow!,167,3,0,13.2489599191,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+792,First ball - no sighters or anything.,166,6,2,31.1869863365,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+793,Sees the tossed up delivery and out comes the loft.,165,6,5,39.4513244974,0.0,0.0,0.0298345796635,0.0922759745934,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.115385
+794,"Straight as a die, back over the bowler's head.",164,8,4,36.7892332732,0.0298345796635,0.0,0.0163366196094,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+795,That came out off the bat like a shotgun.,163,5,5,33.0949242428,0.0163366196094,0.0922759745934,0.0,0.0235655325165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+796,Would've surprised and shocked both Ashwin and Mahendra Singh Dhoni in equal measure.,162,11,4,64.6917306861,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16042
+797,What a start to the game.,161,3,4,19.4210957486,0.0,0.0235655325165,0.0225525821373,0.133283284476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17045
+798,That should set the adrenaline racing.,160,4,3,30.0832220529,0.0225525821373,0.0,0.0383314326383,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+799,Guptill has made a statement of intent and what a statement that isGuptill and Williamson are at the crease.,159,9,11,76.4226944342,0.0383314326383,0.133283284476,0.125780104779,0.0155121206284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11724
+800,Guptill is on strike.,158,3,2,16.0673396895,0.125780104779,0.0,0.0,0.0826519472433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.035715
+801,Ashwin will open the attackNow time for the national anthems.,157,7,4,46.4214869144,0.0,0.0155121206284,0.0,0.176201718033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+802,First up it is New Zealand's followed by India's.,156,8,4,37.3550646741,0.0,0.0826519472433,0.0,0.0441796614872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22085
+803,The anthems are done - sung with lots of passion and gusto.,155,8,5,55.2859521822,0.0,0.176201718033,0.0101212075409,0.0134042646567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+804,That is the great thing about these ICC events.,154,5,5,44.0708866547,0.0101212075409,0.0441796614872,0.0154693953519,0.0182019724399,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+805,Out come the Kiwi openers.,153,4,2,24.2432546614,0.0154693953519,0.0134042646567,0.024106220021,0.0671784416031,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+806,"The crowd are in rip-roaring spirits, bellowing at the top of their voice.",152,8,7,54.2912310658,0.024106220021,0.0182019724399,0.0294851561566,0.0175676800935,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+807,A fantastic atmosphere out there in Nagpur.,151,4,4,30.5219062334,0.0294851561566,0.0671784416031,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08993
+808,Looks like India will start with Ashwin and yes it is the offie.,150,8,6,54.4964784588,0.0,0.0175676800935,0.181786580944,0.00745378529289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188145
+809,All set for the action to start.,149,4,4,28.7887066695,0.181786580944,0.0,0.0209307328328,0.0224914406496,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+810,Let's play!An emotional tribute to the late Martin Crowe read out so beautifully by Alan Wilkins.,148,14,6,92.5692417464,0.0209307328328,0.00745378529289,0.0113397891057,0.00942176163085,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.203465
+811,The crowd rise as one.,147,4,2,22.2103909271,0.0113397891057,0.0224914406496,0.0209236733702,0.118717861366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+812,And the players clap in unison.,146,4,3,27.6715424172,0.0209236733702,0.00942176163085,0.0127899531802,0.0218176518722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+813,Fine gesture to one of the all-time greats of New Zealand cricket.,145,9,4,47.5332321303,0.0127899531802,0.118717861366,0.0,0.00984930051149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19637
+814,Ross Taylor and Martin Guptill certainly seem emotional.,144,8,1,41.8767904804,0.0,0.0218176518722,0.0168013601549,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08424
+815,A few placards and banners in the crowd eulogising Crowe.,143,6,5,45.8787147242,0.0168013601549,0.00984930051149,0.0,0.105624831699,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188145
+816,That is nice to see.,142,3,3,20.0968703097,0.0,0.0,0.0109140451328,0.0456602779401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+817,Certainly the Nagpur crowd have come prepared for this gameVery big call from Kane Williamson to play three spinners and drop their two premier fast bowlers in Southee and Boult.,141,21,10,145.002130054,0.0109140451328,0.105624831699,0.0295898171869,0.0375040088591,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.2129
+818,A major gamble but Scott Styris on air expected that from the BlackCaps.,140,8,6,61.2928329715,0.0295898171869,0.0456602779401,0.0,0.0125481728984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090075
+819,"Whether it turns out to be a masterstroke or a failed punt, only time will tellTeams:India (Playing XI): Shikhar Dhawan, Rohit Sharma, Virat Kohli, Suresh Raina, Yuvraj Singh, MS Dhoni(w/c), Hardik Pandya, Ravindra Jadeja, Ravichandran Ashwin, Ashish Nehra, Jasprit BumrahNew Zealand (Playing XI): Kane Williamson(c), Martin Guptill, Colin Munro, Ross Taylor, Corey Anderson, Grant Elliott, Luke Ronchi(w), Mitchell Santner, Nathan McCullum, Adam Milne, Ish SodhiMahendra Singh Dhoni: ""It is a  .",139,99,12,349.277717321,0.0,0.0375040088591,0.0,0.0142410779678,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10316
+820,0 call (talking about the toss).,138,7,2,25.1174297375,0.0,0.0125481728984,0.0241804244886,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.07143
+821,Reason being the wicket looks good and as the game progresses it won't change much.,137,11,6,64.2848569582,0.0241804244886,0.0142410779678,0.0109792270908,0.0972823672384,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.119485
+822,"We have left out Negi, Harbhajan, Rahane and I think I missed one name (smiles).",136,14,6,68.7814289466,0.0109792270908,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+823,You never play a game for India without pressure.,135,7,3,39.5284573565,0.0,0.0972823672384,0.138104479797,0.157158498415,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+824,That is the beauty of playing for India.,134,4,5,29.5719157133,0.138104479797,0.0,0.0,0.207234084134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181815
+825,I haven't played a game since  .,133,5,3,21.2520660413,0.0,0.157158498415,0.0,0.13086104573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.067705
+826,for India without pressure.,132,4,1,18.3086521775,0.0,0.207234084134,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+827,That is part and parcel of the game and we guys are used to it.,131,6,10,59.0534846909,0.0,0.13086104573,0.201071842927,0.180579371686,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+828,"""Kane Williamson: ""We are going to have a bat.",130,8,5,32.3699917386,0.201071842927,0.0,0.0697710481318,0.193379727889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+829,It is a dry surface and we will make first use of it and hopefully it brings in our slow bowlers in the second innings.,129,12,14,107.349476961,0.0697710481318,0.180579371686,0.0769345302902,0.320680740096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123675
+830,"We have left out Southee, Boult, Nicholls and McClenaghan.",128,8,4,43.3641028915,0.0769345302902,0.193379727889,0.146762762175,0.0144861989402,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+831,"We have had a few days preparation in Mumbai, hopefully we will make those adjustments with regards to the turn and get a good first innings total.",127,15,14,123.344114731,0.146762762175,0.320680740096,0.0654890820234,0.0863764059483,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15168
+832,It is a transition period for us and the guys are excited to get the tournament underway.,126,9,9,70.3420926697,0.0654890820234,0.0144861989402,0.0662353669362,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+833,"""New Zealand have won the toss and have opted to batChants of ""Dhoni Dhoni"" do the rounds as he walks out with Kane Williamson for the toss.",125,16,15,110.960354437,0.0662353669362,0.0863764059483,0.0,0.216495059063,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.20671
+834,Both share a smile.,124,3,2,18.9186686263,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04546
+835,Just seconds away from the toss.,123,4,3,26.7824060411,0.0,0.216495059063,0.0221222900085,0.0188303972316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.114075
+836,VVS Laxman on air feels that India will play the same side that won the Asia Cup final.,122,11,8,85.8194730862,0.0221222900085,0.0,0.0339500767992,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.084745
+837,Let's see whether he is proved right or notPitch report: The pitch was used on matchday 3 in the qualifiers and it was a low-scoring game.,121,17,12,105.911465623,0.0339500767992,0.0188303972316,0.0108479554576,0.00853777841987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15115
+838,Lots of cracks and not a lot of grass.,120,5,5,38.9533483555,0.0108479554576,0.0,0.249779548986,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+839,Not a lot of bounce and Scott Styris feels that runs will be hard to come by.,119,9,9,73.9383996645,0.249779548986,0.00853777841987,0.00645599904205,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+840,Expect the spinners to have a field dayWeather conditions: It rained in the afternoon but the weather has stayed clear since then.,118,13,11,99.9368816052,0.00645599904205,0.0,0.0268958700979,0.0424207155622,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167245
+841,The forecast is very promising as well.,117,4,4,32.2384568573,0.0268958700979,0.0,0.00851959506245,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+842,"All in all, it should be a cracking start to the Super 10s.New Zealand will begin life without Brendon McCullum, their charismatic skipper.",116,15,11,101.371043332,0.00851959506245,0.0424207155622,0.0482211636529,0.0124905366137,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155385
+843,"In his absence, Kane Williamson, will lead a team that's packed with talented but underachieving players.",115,13,7,78.0393379393,0.0482211636529,0.0,0.0,0.124253285388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+844,The batting looks settled and the squad has as many as three spinners.,114,8,6,57.2735479769,0.0,0.0124905366137,0.0,0.130909097681,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14957
+845,Will they go with sheer pace or will they look to spin India out?,113,7,8,63.4804095182,0.0,0.124253285388,0.123922472957,0.149743641988,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+846,"If pace is their answer, Adam Milne or Mitchell McClenaghan should form a three pronged attack along with Tim Southee and Trent Boult.Team News: India have played a settled line-up in recent times and the return of Mohammed Shami brings about a happy headache.",112,31,16,208.007917127,0.123922472957,0.130909097681,0.155196068325,0.0060452718607,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18472
+847,"Once India's go to bowler, Shami played his last international match for India in March  .",111,13,5,72.1027140372,0.155196068325,0.149743641988,0.0,0.0605509974384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+848,", during the 50-over World Cup.",110,5,2,19.1139303803,0.0,0.0060452718607,0.0,0.0829774434474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+849,"He was impressive in India's practice matches against West Indies and South Africa, but has he done enough to convince Dhoni that he should be starting ahead of Ashish Nehra or Hardik Pandya?",109,21,15,161.748999079,0.0,0.0605509974384,0.00667255162709,0.104405463901,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15246
+850,"'Whenever you play around the world, you need to adapt to different conditions' - New Zealand's new captain, Kane Williamson, believes his team are well prepared for the Indian conditions.",108,27,9,128.994899549,0.00667255162709,0.0829774434474,0.052204800601,0.0133149596616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172105
+851,"'Our biggest strength will be to not look at it as a new tournament but to keep our momentum going' - Virat Kohli has dropped subtle hints that the talk going on about India's chances will in no way get them thinking way ahead.Behind the scenes - A lot has been spoken about both the teams, their strengths, their weaknesses and the expectations.",107,37,31,269.835223907,0.052204800601,0.104405463901,0.123506583035,0.0263178277156,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.1497
+852,Will India be cowed down by all the hype?,106,4,6,41.1909870636,0.123506583035,0.0133149596616,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+853,Can New Zealand stay focused and secure a major world title?,105,9,3,53.677952421,0.0,0.0263178277156,0.0110834514662,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+854,"* In his last 12 T20I innings, Kohli has crossed 40 on ten occasions and he averages  .",104,13,6,83.2423348007,0.0110834514662,0.0,0.0,0.0188562230316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+855,8.,103,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+856,* MS Dhoni is the only player to captain a side in all the six editions of WT20s.,102,10,9,68.5210476768,0.0,0.0188562230316,0.157541209784,0.0439884385969,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.14286
+857,* MS Dhoni needs 48 more runs to reach the  .,101,8,3,41.2908691995,0.157541209784,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148145
+858,-run landmark in T20Is.,100,4,1,14.9421070997,0.0,0.0439884385969,0.0,0.196964588345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+859,His  .,99,1,1,3.64742557929,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.052635
+860,runs is the most by anyone without a single score of fifty or more in T20Is.,98,8,9,72.685348584,0.0,0.196964588345,0.0926370529614,0.0453211417328,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+861,* Both Tim Southee and Ravi Ashwin require four wickets to reach the 50 wicket landmark in T20Is.,97,14,5,83.3193879483,0.0926370529614,0.0,0.0329737727618,0.0524287909738,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.114285
+862,"* From that match, India has MS Dhoni, Yuvraj Singh and Harbhajan Singh in the current squad while Ross Taylor is the only survivor for New Zealand.",96,19,11,113.088345688,0.0329737727618,0.0453211417328,0.174023095388,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14988
+863,"* In their only meeting in WT20s, New Zealand beat India by 10 runs at Johannesburg in  .",95,12,7,74.3566620813,0.174023095388,0.0524287909738,0.0,0.179779820988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+864,.,94,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+865,That was the only match India lost in that tournament en route their way to the trophy win.,93,10,9,77.9573620826,0.0,0.179779820988,0.173090188077,0.210395262723,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.13889
+866,* New Zealand and India have met each other only once during the last seven years in T20Is with New Zealand winning that match at Chennai by 1 run.,92,17,13,128.678726792,0.173090188077,0.0,0.206906459487,0.0454904962869,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14373
+867,* New Zealand remain the only side which hasn't yet lost to India in a T20I.,91,11,7,64.4133089204,0.206906459487,0.210395262723,0.0374254883152,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.17831
+868,"They have won all four matches against India.From the stats desk: So, what are the important stats going ahead of today's encounter.",90,15,11,106.617361823,0.0374254883152,0.0454904962869,0.249484012092,0.137138826405,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.092305
+869,"Here are a few from our stats editor, Deepu Narayanan.",89,6,6,53.2820732088,0.249484012092,0.0,0.0,0.0286236827963,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.084965
+870,"""They have everything.",88,3,2,14.0962984429,0.0,0.137138826405,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.024395
+871,"From 1 to 11, it is hard to find a weak link,"" Michael Vaughan, former England captain, says about this Indian team.",87,20,8,104.248896488,0.0,0.0286236827963,0.0294908743636,0.00635767999613,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+872,"In short, the title is for India to lose.Expert analysis: So, what do the experts say.",86,11,9,63.2073558024,0.0294908743636,0.0,0.102188499492,0.0718489236325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.171425
+873,"""India have more chances of winning against them (New Zealand) in India as the ball will turn, the spinners will have a big role and the batsmen are very good in home conditions,"" Virender Sehwag reckoned, while analyzing India's chances against New Zealand.India will not have it all their way though.",85,34,26,222.989253356,0.102188499492,0.00635767999613,0.158985781724,0.0940007981265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196875
+874,"The first roadblock is a team that has never lost to them in T20Is, it's the new look New Zealand, trying to adjust to life without Brendon McCullum.",84,20,12,116.527011474,0.158985781724,0.0718489236325,0.049685801383,0.149837009472,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.176715
+875,"Be it Johannesburg, Christchurch, Wellington or Chennai, the results have always went in favour of the men from the southern hemisphere.",83,15,10,104.353165463,0.049685801383,0.0940007981265,0.0786397860923,0.0340326068847,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15936
+876,"They might be missing their talisman, but New Zealand have been the banana skin team for India, one that the hosts can't take lightly.",82,18,10,107.953047125,0.0786397860923,0.149837009472,0.0470868060218,0.0541698167714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15977
+877,"They are coming on the back of impressive wins at home, against Sri Lanka and Pakistan.",81,10,8,73.0420217397,0.0470868060218,0.0340326068847,0.0629903760693,0.0548210885462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10526
+878,Many of their cricketers are well tuned for Indian conditions (thanks to IPL exposure).,80,12,5,72.456465418,0.0629903760693,0.0541698167714,0.0428649533151,0.0549514386296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+879,"It will not be a big surprise if they end up on the winning note tonight.Recent form: Ironically though, most of India's recent successes have come overseas, a sharp contrast to their exploits in Test cricket.",79,24,17,168.153295096,0.0428649533151,0.0548210885462,0.0952635271281,0.0489694819323,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.136365
+880,"At home, their form has been patchy at best.",78,6,5,44.9406958436,0.0952635271281,0.0549514386296,0.0543043128047,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+881,"Their lone defeat in T20Is this year came against Sri Lanka, in Pune.",77,10,5,70.6874357107,0.0543043128047,0.0489694819323,0.116953226652,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05195
+882,In late  .,76,2,1,8.57925121201,0.116953226652,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+883,", they were outclassed by South Africa at home.",75,6,4,43.4339977194,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.040815
+884,Favourites: Yes.,74,4,0,12.3326691873,0.0,0.0,0.0,0.140616675076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+885,"Invincible: No.With the tournament played in India, the excitement has gone sky high.",73,12,4,58.9889693813,0.0,0.0,0.0780344925115,0.0132851332763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+886,"If you are to talk about the favourites, it's just one team that's coming out from every mouth - from the roadside vendor to the software engineer, from the layman to the experts, it's India all the way.",72,23,22,158.506893983,0.0780344925115,0.140616675076,0.0671957245138,0.0803434146502,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147505
+887,There's a sense of belief going around that it's going to be MS Dhoni's men who will have the last laugh.,71,14,11,89.5210633005,0.0671957245138,0.0132851332763,0.0665839780489,0.00925214135231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+888,"The recent performances have been outstanding, the  .",70,5,4,31.4122388042,0.0665839780489,0.0803434146502,0.0310503602763,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+889,"series win against Australia, the home series win against Sri Lanka and most recently, the Asia Cup victory.",69,15,6,95.5121979448,0.0310503602763,0.00925214135231,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+890,.,68,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+891,"0 Local Time,  .",67,5,0,11.7448825224,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+892,"0 GMT,  .",66,4,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+893,0 IST:  .,65,4,0,7.1737861039,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+894,- India.,64,3,0,3.69254601457,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+895,.,63,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+896,- Pakistan.,62,3,0,6.25749537203,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+897,.,61,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+898,- England.,60,3,0,6.48063892334,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+899,.,59,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+900,- West Indies.,58,4,0,12.5149907441,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+901,.,57,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+902,- Sri Lanka.,56,4,0,11.9961969506,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+903,We have had five ICC World T20 tournaments so far and have had five different winners.,55,10,7,84.5604701929,0.0,0.0,0.111208387418,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07479
+904,"There's one thing in common though, no hosts have ever won the world title.",54,11,6,68.8704271585,0.111208387418,0.0,0.0265667519247,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.086955
+905,Sri Lanka came the closest - reaching the final of the  .,53,8,4,45.8675492251,0.0265667519247,0.0,0.0,0.0723268474858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.225185
+906,"Cup, only for a Marlon Samuels inspired West Indies to dethrone them.",52,9,5,61.6977548824,0.0,0.0,0.0218262730291,0.0872968234915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+907,"#WT20 is back again, it's time for action, it's cricket at its best as the Super 10s of the  .",51,14,11,82.4116021376,0.0218262730291,0.0723268474858,0.0,0.100726876421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+908,"ICC T20 World Cup kicks off in Nagpur, with India taking on New Zealand.",50,12,4,65.4864025551,0.0,0.0872968234915,0.080133718676,0.143513930297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.174615
+909,Hello and a warm welcome to what should be an enthralling fortnight of T20 action.,49,8,8,72.555205979,0.080133718676,0.100726876421,0.0526553203955,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+910,"We are as excited as you are as we bring you all the highs, all the lows, and all the thrills and frills over the next few days.Preview: 
+
+MS Dhoni's Indian team is the team to beat in the ICC World T20,  .",48,23,25,178.792288611,0.0526553203955,0.143513930297,0.0,0.0283082165379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14756
+911,.,47,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+912,Everything points towards a successful campaign for the side.,46,7,3,41.6074411276,0.0,0.0283082165379,0.0679671962422,0.0984956272025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+913,Familiarity of home conditions is an added advantage to a side that has been in excellent form in T20Is in the build-up to the premier event.,45,13,14,104.418385847,0.0679671962422,0.0,0.21533791321,0.223220395007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138955
+914,"For a team that boasts of the premier T20 league in the world, the side's performances in World T20 hasn't quite mirrored the expectations.",44,17,11,102.956400577,0.21533791321,0.0984956272025,0.0800707188621,0.075312130283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156755
+915,They won the inaugural event in  .,43,3,4,28.0033365206,0.0800707188621,0.223220395007,0.0648706816632,0.162094813952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.142855
+916,and were the finalists last time around in  .,42,5,4,34.44661164,0.0648706816632,0.075312130283,0.0854922867422,0.210341878259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+917,"but in the three editions in between, they failed to make it to the knockout stages.",41,8,10,65.4118725299,0.0854922867422,0.162094813952,0.0462982810495,0.420274429917,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+918,"This time around, the squad looks a settled one with more all-rounders suited to the conditions.",40,11,7,62.8339340996,0.0462982810495,0.210341878259,0.0882324942755,0.0550419000428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+919,"With the momentum behind them, they are the firm favorites to make it to the knockout stages at least.",39,10,11,83.7015328673,0.0882324942755,0.420274429917,0.0793073398733,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.168305
+920,No other team in the tournament boasts of such success in the format in the build-up to the main event.,38,9,12,78.6830445224,0.0793073398733,0.0550419000428,0.0,0.0282235334698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17068
+921,India beat Australia  .,37,4,0,15.3320680213,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+922,", then dismantled a second-string Sri Lankan side at home before going on to register five successive wins to clinch the Asia Cup.",36,16,8,104.130734208,0.0,0.0282235334698,0.0220699498328,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109375
+923,What this has done is boost the confidence of the team to a level where they believe that  .,35,7,12,76.001228128,0.0220699498328,0.0,0.0567426667656,0.16998509965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+924,is theirs.,34,1,2,10.1579174658,0.0567426667656,0.0,0.0711515514757,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+925,A well-rounded team is the result of a lot of planning.,33,6,6,34.2132944806,0.0711515514757,0.16998509965,0.0,0.0489450861307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+926,India have match-winners in every batting slot up to No.,32,6,5,38.3401748552,0.0,0.0,0.0,0.0310971069737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+927,7 and a bowling combination that is just the perfect mix needed for the conditions at play.,31,9,9,65.4852382711,0.0,0.0489450861307,0.0596102000852,0.0275013747054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+928,They've also been on a diet of T20Is for two months prior to the World T20 and so there is no problem of getting into groove.,30,13,15,113.384052179,0.0596102000852,0.0310971069737,0.0449425715946,0.14420221134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11809
+929,That their homework has been exemplary cannot be ignored.,29,4,7,50.8290632015,0.0449425715946,0.0275013747054,0.105005663414,0.0387128892414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+930,The transition between planning and execution has also been largely successful with all the squad members getting enough time on the field to showcase their skills as well as gaining confidence.,28,18,14,154.021376785,0.105005663414,0.14420221134,0.0988534394487,0.121017693516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127275
+931,The meticulous planning indicates that there were firm and clear plans and that bodes well for any team approaching a tournament of such nature.,27,13,12,115.878786605,0.0988534394487,0.0387128892414,0.00691562894859,0.0487262221451,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+932,India have largely stuck to the same combination in T20Is.,26,6,5,45.4316948657,0.00691562894859,0.121017693516,0.0084320768557,0.0520545306229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+933,A large part of the credit for their success recently has been because of a potent pace attack.,25,9,10,80.1870138859,0.0084320768557,0.0487262221451,0.0,0.110970264986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+934,"Ashish Nehra and Jasprit Bumrah were left-field selections, but have proved to be informed ones.",24,11,6,69.1459159141,0.0,0.0520545306229,0.0186361276606,0.14647175101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+935,"Can the duo manage to replicate its success again, and consistently so?",23,7,7,60.1849785077,0.0186361276606,0.110970264986,0.0190930652891,0.0791730658986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+936,Bumrah's unique action proved difficult to gauge for those who faced him for the first time but by now teams would have studied his strengths and weaknesses thoroughly.,22,17,13,140.859330751,0.0190930652891,0.14647175101,0.0388637778098,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153135
+937,The World T20 might be the occasion where his honeymoon period comes to an end and it will be interesting to see if he can step it up.,21,12,17,125.114933043,0.0388637778098,0.0791730658986,0.0,0.0678419934005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+938,Ashish Nehra has been wrapped in cotton wool right throughout.,20,8,3,54.5474457413,0.0,0.0,0.0383637644001,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.088235
+939,The pacer goes through his own set of fitness routines separately and has managed to sustain it well so far.,19,11,10,98.2933430485,0.0383637644001,0.0678419934005,0.0627039366707,0.0112627527065,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13304
+940,Can he push through for another month?,18,4,4,34.3651199228,0.0627039366707,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+941,"On the other hand, Brendon McCullum's New Zealand went a long way in shattering their team's 'also-ran' reputation in major ICC events as they advanced to their first-ever final in the 50-over World Cup in  .",17,26,14,142.48626115,0.0,0.0112627527065,0.0,0.168631846088,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18016
+942,.,16,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+943,"However, with McCullum announcing retirement ahead of the World T20 in India, New Zealand's chances of repeating their enthralling performances have taken a severe beating.",15,21,8,123.368129126,0.0,0.168631846088,0.0916228663888,0.0201840442041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+944,"It'd be unfair to write off a squad filled with the likes of Martin Guptill, Kane Williamson, Ross Taylor, Tim Southee and Trent Boult, but without McCullum's early onslaught, the squad, especially the batting unit, will be left with a lot of work to do.",14,36,19,202.610340196,0.0916228663888,0.0,0.0871848360024,0.211942749596,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170985
+945,"Colin Munro, who has been in great touch, will be key for the Black Caps.",13,10,8,72.572787093,0.0871848360024,0.0201840442041,0.118898046462,0.0964187801697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+946,"To their relief, the conditions will suit the batters but to their dismay, it will not be quick enough for the likes of Adam Milne and Mitchell McClenaghan to blitz the batsmen with their pace.",12,18,20,152.96657683,0.118898046462,0.211942749596,0.167822019899,0.163521154668,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1337
+947,"They will need to be more accurate than quick, and therein lies the challenge.",11,8,8,69.8290873347,0.167822019899,0.0964187801697,0.0824680935317,0.0570368805377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+948,"It will also be interesting to see if Williamson continues to use Corey Anderson as a new-ball bowler in conditions that the all-rounder is in the know of, while Southee and Boult look to shrug of poor run of form after the two-Test series against Australia at home.",10,26,24,186.54769993,0.0824680935317,0.163521154668,0.12485146233,0.189934539187,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152175
+949,The silver lining for New Zealand is their excellent form that they carry into the tournament.,9,9,8,72.0698423838,0.12485146233,0.0570368805377,0.0115386634457,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15347
+950,"The Williamson-led side blanked Pakistan in a three-match T20I series at home, including a comprehensive 10-wicket win in chase of  .",8,15,7,76.5507069361,0.0115386634457,0.189934539187,0.0,0.0716603384768,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+951,.,7,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+952,India have never beaten New Zealand in T20Is and this stat could have a significant bearing on both the sides when they lock horns in the opening game of the World T20.We certainly are expecting spin to pay a big part in this tournament.,6,25,20,194.022982401,0.0,0.0716603384768,0.0714541818517,0.217294106925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.242155
+953,"I suppose, judging by the warm-up games in Mumbai, they had a bit for the seamers and it swung a little bit.",5,13,12,86.0090842605,0.0714541818517,0.0,0.041080662351,0.0160224722412,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12796
+954,"They were very good surfaces but from what cricket we have seen here in Nagpur, spin looks likely to play a big part.",4,13,12,109.509716589,0.041080662351,0.217294106925,0.0509840239564,0.071704450624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21478
+955,It's important that we adjust our game plans accordingly.,3,7,4,47.949569146,0.0509840239564,0.0160224722412,0.0,0.19510312941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+956,: Kane WilliamsonThe whole feel and vibe of such a big tournament is different from a bilateral.,2,11,7,75.0622729358,0.0,0.071704450624,0.0606754831241,0.0171227789306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+957,Our biggest strength will be to not look at it as a new tournament but to keep our momentum going.,1,9,12,86.9196806481,0.0606754831241,0.19510312941,0.0383162352287,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13304
+958,"At home, people come to you and say 'we must win; we expect and understand that playing in India: Virat Kohli",0,16,8,94.0901235636,0.0383162352287,0.0171227789306,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145

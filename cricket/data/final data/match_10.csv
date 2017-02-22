@@ -1,0 +1,910 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,So that's it from the Trans-Tasman clash then.,888,4,6,27.4609843569,0.0,0.0,0.0347206258828,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+1,"It was a wonderful game of cricket, where both sides had a chance right till the end.",887,10,9,73.8861863033,0.0347206258828,0.0,0.0994558685155,0.0754390928097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.136675
+2,We have another game coming up.,886,4,3,29.6282063231,0.0994558685155,0.0,0.0692418644628,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+3,It's a cracker as we move from the cold of Dharamsala to the heat of Mumbai.,885,8,10,64.4830408617,0.0692418644628,0.0754390928097,0.00889449052617,0.0326371572354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135135
+4,South Africa and England are waiting to entertain us.,884,7,3,48.1292780511,0.00889449052617,0.0,0.0116632870483,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.071425
+5,Hop tabs to catch all the action.,883,5,3,35.0367914772,0.0116632870483,0.0326371572354,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.15
+6,"Goodbye!Smith: ""I thought  .",882,7,1,18.3238083809,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.031245
+7,was about par.,881,2,2,15.5854528303,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+8,Their spinners bowled well and we didn't respond well.,880,7,4,44.5062282738,0.0,0.0,0.0511363012461,0.223306893001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10395
+9,"We lost wickets in clumps, which you can't do in T20 cricket.",879,9,6,58.261018807,0.0511363012461,0.0,0.0700380488102,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.186365
+10,We didn't apply ourselves.,878,3,3,23.9379498324,0.0700380488102,0.223306893001,0.0,0.11497728798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09007
+11,Probably should have got the ones and twos.,877,5,4,38.6078122684,0.0,0.0,0.123123495707,0.148929741774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15347
+12,We've got to move on from this.,876,4,5,26.1834363084,0.123123495707,0.11497728798,0.558892755205,0.10329069975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+13,"We've got the talent, but we've got a lot of work to do.",875,9,8,50.4365215479,0.558892755205,0.148929741774,0.101257905098,0.0882836242864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17316
+14,We need to find a way to have some success in those middle overs.,874,7,8,61.3334201757,0.101257905098,0.10329069975,0.0627735261734,0.0701671452914,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+15,"""Williamson: ""We were fortunate to get two wickets which were similar.",873,10,5,55.5978759822,0.0627735261734,0.0882836242864,0.248721683736,0.00973399805811,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+16,We adopted similar tactics.,872,4,1,24.9187790854,0.248721683736,0.0701671452914,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+17,It was a pretty tough total to chase on this track.,871,6,6,45.4695829968,0.0,0.00973399805811,0.0318308548211,0.0438689810941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+18,I think it's important to try and read the conditions and then select the side accordingly.,870,10,8,68.1413212428,0.0318308548211,0.0,0.135708022399,0.0417346965595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17763
+19,"Now it is important that we gel well as a group, it's a small transition period.",869,10,9,70.523902557,0.135708022399,0.0438689810941,0.150227903579,0.0379714634041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08889
+20,We need to look at the task at hand and perform as best as we can.,868,7,10,71.2557114461,0.150227903579,0.0417346965595,0.00762756826363,0.243670524574,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+21,It's about commitment when you are trying to defend low scores.,867,7,6,56.5286622507,0.00762756826363,0.0379714634041,0.0,0.032110970148,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+22,We take one game at a time and move on.,866,6,5,37.8478797928,0.0,0.243670524574,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+23,"""McClenaghan: ""It is nice to perform like that, but the effort was collective.",865,11,7,56.2578472785,0.0,0.032110970148,0.0186756366407,0.0150558965436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+24,The spinners bowled well.,864,4,1,17.9322233728,0.0186756366407,0.0,0.0268388889172,0.0151688981566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+25,The guys really stood out.,863,4,2,24.4860240971,0.0268388889172,0.0150558965436,0.0122288394083,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+26,We take a lot of confidence from the first two wins and we need to win more to advance.,862,10,10,79.2407782521,0.0122288394083,0.0151688981566,0.0,0.121175318222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.180875
+27,"I like these conditions, makes me feel like a left-arm orthodox (smiles).",861,12,4,54.2023245383,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+28,"We had to get off to a good start, our spinners brought us back into the game.",860,10,9,68.7711072764,0.0,0.121175318222,0.0,0.06297576147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2549
+29,Australia never give up.,859,4,1,20.8527382994,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+30,Full credit to them and I am sure we'll see them later in the tournament.,858,8,9,65.9535950527,0.0,0.06297576147,0.081433811796,0.0739174186655,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+31,We are off to a fantastic start.,857,3,5,24.9595967164,0.081433811796,0.0,0.100053150842,0.0178402154358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198715
+32,We will work hard and focus on the next game.,856,6,5,43.9372021651,0.100053150842,0.0739174186655,0.0138007145864,0.0359496935216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+33,It's been great to be part of the tournament so far.,855,6,7,45.9999988149,0.0138007145864,0.0178402154358,0.082373926085,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16371
+34,"""McClenaghan is the Man of the Match for his  .",854,5,6,31.4692269782,0.082373926085,0.0359496935216,0.0,0.0672765503015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+35,7.Australia's chase mimicked Khawaja's innings - a belligerent run-flow imploding rather gloriously into a near choke.,853,16,3,68.5911291265,0.0,0.0,0.0,0.0590993784875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+36,Marsh blossomed late but it was too short-lived to carry his team over.,852,7,7,53.3294830615,0.0,0.0672765503015,0.0122604316432,0.0421057081412,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15263
+37,"New ball leaked runs, propelling Australia to  .",851,8,1,31.7505805283,0.0122604316432,0.0590993784875,0.0591622955104,0.0166880488641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+38,"after 5 overs, but timing the old ball came at a price.",850,9,5,47.6316686915,0.0591622955104,0.0421057081412,0.101714145871,0.0131252516534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+39,Watson knew it when he holed out to mid-off and Santner worsened the plight by snaffling Smith soon after - akin to Rohit Sharma's stumping at Nagpur.,849,18,11,122.495080211,0.101714145871,0.0166880488641,0.0984141660653,0.0069232576668,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.233465
+40,"Warner couldn't be the fragile middle order's saviour; he ironically was a part of it today and made matters worse when he overestimated Khawaja's agility, with the latter running himself out.",848,23,14,148.717771189,0.0984141660653,0.0131252516534,0.00632301482708,0.0206887964535,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153135
+41,"Maxwell huffed and puffed, surviving through French cuts but neither that nor Agar's promotion over Faulkner worked.",847,14,6,91.457834943,0.00632301482708,0.0069232576668,0.0155175840053,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11364
+42,"Last few overs saw desperate slogs finding fielders and saw New Zealand overwhelm, yet again, to march nearer to that semifinal spot.The New Zealand fans in the stand are elated, while the players congratulate each other for their wonderful show.",846,29,15,202.280628227,0.0155175840053,0.0206887964535,0.112478492985,0.0407012760854,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.18655
+43,"So twice in two games, New Zealand have defended low-scores .",845,9,3,43.4886389359,0.112478492985,0.0,0.0,0.153986523799,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.205555
+44,"Corey Anderson to Zampa, 2 runs, that's it!",844,9,3,24.9023035467,0.0,0.0407012760854,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116015
+45,New Zealand record their second successive win in the  .,843,7,3,43.5493602742,0.0,0.153986523799,0.0,0.00969606537405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+46,World T20.,842,3,0,11.5570912347,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+47,"Slower delivery outside off stump, chipped over extra-cover for a couple of runsAdam Zampa, right handed bat, comes to the crease .",841,18,7,79.0656062318,0.0,0.00969606537405,0.0132372843159,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19763
+48,"Corey Anderson to Coulter-Nile, out Bowled!!",840,7,2,18.7118847527,0.0132372843159,0.0,0.0,0.1481580272,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+49,New Zealand are sealing this.,839,4,2,23.0586184343,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.29762
+50,"Slower delivery outside off stump, with 11 needed from 2 balls, Coulter-Nile goes hard looking for a maximum, but drags it back onto the stumps.",838,21,8,97.4957057354,0.0,0.1481580272,0.193536888216,0.167546814027,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145835
+51,Coulter-Nile b Corey Anderson  .,837,5,0,7.92705228063,0.193536888216,0.0,0.865709971738,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+52,")Corey Anderson to Coulter-Nile, THAT'S OUT!!",836,8,3,15.8871102773,0.865709971738,0.167546814027,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+53,Bowled!!,835,3,0,5.84531131367,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+54,.,834,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+55,"Corey Anderson to Nevill, 1 run, slower delivery and it works for Anderson, Nevill mistimes it to long-on .",833,16,6,56.8443988254,0.0,0.0,0.284028868488,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20263
+56,"Corey Anderson to Nevill, SIX, oh maybe, maybe this is not impossible!",832,12,4,55.5170084502,0.284028868488,0.0,0.0,0.050419184257,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.09677
+57,What a blow first up.,831,3,3,20.4407157907,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+58,Anderson pays the price for bowling conventional stuff.,830,7,2,42.9664152628,0.0,0.050419184257,0.0174632742694,0.0131210750552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+59,He had to take pace off the ball.,829,4,5,28.5704000841,0.0174632742694,0.0,0.269946700943,0.0406489053284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.190735
+60,"Full and down the leg-side, Nevill just flicks and pace on the ball helped his cause, Santner though tries to take a blinder at mid-wicket jumping high, but it evades him18 runs needed off 4 balls.",828,26,14,144.727062989,0.269946700943,0.0131210750552,0.0629869592964,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.182765
+61,Looks next to impossible at the moment.,827,5,3,32.7736089321,0.0629869592964,0.0406489053284,0.0,0.0492784458067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11429
+62,.,826,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+63,"Corey Anderson to Coulter-Nile, 1 run, Coulter-Nile makes room and swings hard, only to toe-end the lofted hit to long-offPeter Nevill, right handed bat, comes to the crease .",825,26,8,87.5825954747,0.0,0.0492784458067,0.150887614806,0.00989237042669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11395
+64,"Corey Anderson to Faulkner, out Caught by Guptill!!",824,8,3,29.6208417042,0.150887614806,0.0,0.0761696729899,0.20178717938,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137935
+65,Marty Guptill is a brilliant fielder and he doesn't miss many.,823,8,5,49.5190167477,0.0761696729899,0.00989237042669,0.0,0.0162893400348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195775
+66,Corey Anderson follows the norm - take pace off the ball.,822,9,3,41.7141043363,0.0,0.20178717938,0.157508561089,0.0197201803418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1683
+67,Faulkner tries to manufacture the pace and force this away over the boundary.,821,8,6,52.4676040475,0.157508561089,0.0162893400348,0.0388005355887,0.131494202574,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.14706
+68,"Doesn't connect the slog properly, Guptill at deep mid-wicket runs to his left, dives and takes an excellent catch.",820,16,7,82.8945209251,0.0388005355887,0.0197201803418,0.0808805892665,0.016165737148,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.18226
+69,Faulkner c Guptill b Corey Anderson  .,819,7,0,15.6850492752,0.0808805892665,0.131494202574,0.728900184707,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095835
+70,")Corey Anderson to Faulkner, THAT'S OUT!!",818,8,3,19.9647596733,0.728900184707,0.016165737148,0.0,0.667374558561,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+71,Caught!,817,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+72,!Corey Anderson [ .,816,5,0,7.92705228063,0.0,0.667374558561,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109885
+73,- .,815,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+74,. ],814,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+75,is back into the attackA great penultimate over means Anderson has 18 runs to defend.,813,10,6,68.0899905266,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165255
+76,Australia need  .,812,3,0,9.86541522405,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+77,.,811,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+78,"McClenaghan to Faulkner, 1 run, McClenaghan won't offer any pace on the ball, short of length delivery outside off stump, Faulkner toe-ends the slap to short mid-wicketNathan Coulter-Nile, right handed bat, comes to the crease .",810,33,10,110.429051117,0.0,0.0,0.12831391707,0.0508280056128,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.125
+79,"McClenaghan to Ashton Agar, out Caught by Ross Taylor!!",809,9,3,36.0179638418,0.12831391707,0.0,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.16348
+80,"In the airrrr, has he hit the gap?",808,5,5,32.2007826623,0.0,0.0508280056128,0.112252694469,0.0625006649485,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+81,"No, he hasn't.",807,3,3,11.1008306932,0.112252694469,0.0,0.100376804808,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+82,McClenaghan roars as he picks up his third wicket.,806,6,4,41.5755512555,0.100376804808,0.0625006649485,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0825
+83,What a penultimate over this is turning out to be.,805,3,8,37.9315168264,0.0,0.0,0.0,0.0914805768569,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.233765
+84,Just 2 runs and 2 wickets in five balls.,804,7,3,31.2421207515,0.0,0.0,0.0,0.0124693697915,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+85,This was actually not a great ball.,803,4,4,26.5125523833,0.0,0.0914805768569,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+86,"Slower delivery down the leg-side, Agar swung to the leg-side, went towards backward square leg, Taylor ran to his left and tumbled at the right time to take a good low catch.",802,25,11,118.516053564,0.0,0.0124693697915,0.134701369806,0.0834134097179,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.16183
+87,Ashton Agar c Ross Taylor b McClenaghan  . ),801,9,0,22.0821714128,0.134701369806,0.0,0.517368151973,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.134575
+88,"[6s-1]McClenaghan to Ashton Agar, THAT'S OUT!!",800,10,3,20.8959368524,0.517368151973,0.0834134097179,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.12348
+89,Caught!,799,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+90,!20 needed off 8 balls.,798,6,1,21.4574131823,0.0,0.0,0.0,0.0616444306824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+91,.,797,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+92,"McClenaghan to Faulkner, 1 run, slower short of length delivery on the off stump, Faulkner tries to force it off the back foot, gets an inside edge that almost knocks the stumps out .",796,25,13,118.734541543,0.0,0.0616444306824,0.249817476299,0.144055864334,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.194895
+93,"McClenaghan to Faulkner, no run, watch the ball James Faulkner, watch the ball.",795,13,4,49.252821085,0.249817476299,0.0,0.015601259703,0.194391639125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+94,"Slower delivery wide outside off stump, a wild swing across the line and he only connected with thin air .",794,14,7,81.8209809254,0.015601259703,0.144055864334,0.16345827914,0.0180780304304,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15936
+95,"McClenaghan to Ashton Agar, leg byes, 1 run, only a half-shout from the keeper for LBW, Agar moves across the stumps and tries to help this slower ball fine, the ball rolls off the pad.",793,28,13,126.659422926,0.16345827914,0.194391639125,0.0994675684585,0.0795080566579,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15433
+96,"Was it going down the leg side?James Faulkner, right handed bat, comes to the crease .",792,14,6,62.086039404,0.0994675684585,0.0180780304304,0.0161543906863,0.0504469837499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+97,"McClenaghan to Mitchell Marsh, out Caught by Milne!!",791,8,3,29.8409995779,0.0161543906863,0.0795080566579,0.0,0.0760738384739,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+98,Big smile on the faces of the New Zealand players.,790,7,4,41.6284485841,0.0,0.0504469837499,0.0328383501549,0.0512425071051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.180875
+99,They've got the set batsman out.,789,5,3,26.4601343998,0.0328383501549,0.0760738384739,0.126667310608,0.0708476974844,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+100,Marsh was key for Australia's success here and a new batsman will find it hard to get going straightaway.,788,13,8,81.5516061206,0.126667310608,0.0512425071051,0.0704433415707,0.0491287794253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+101,"Shortish slower delivery on the stumps, Marsh backs away and tries to muscle it out of the ground, but the ball hits him high on the bat and goes straight to long-on, who takes it just inside the rope.",787,24,19,146.0252757,0.0704433415707,0.0708476974844,0.0911059611215,0.0553494917802,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16504
+102,Great beginning to the over for the Black Caps.,786,5,5,36.9470093208,0.0911059611215,0.0491287794253,0.0,0.0200945523424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15935
+103,Mitchell Marsh c Milne b McClenaghan  .,785,7,0,15.9052071489,0.0,0.0553494917802,0.527778887485,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+104,"3) [6s-2]McClenaghan to Mitchell Marsh, THAT'S OUT!!",784,12,3,19.3698805489,0.527778887485,0.0200945523424,0.0,0.537958548031,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+105,Caught!,783,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+106,!Mitchell McClenaghan [ .,782,5,0,7.85270759407,0.0,0.537958548031,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102385
+107,- .,781,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+108,. ],780,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+109,"is back into the attackIsh Sodhi ends,  .",779,6,3,29.5420898701,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17752
+110,- .,778,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+111,.,777,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+112,22 needed off 12 balls.,776,5,1,28.1500223564,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.171425
+113,Change of gloves for Agar.,775,4,2,22.9412304734,0.0,0.0,0.0648674693247,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09007
+114,"Big over for McClenaghan, can't afford to give more than  .",774,8,5,42.270095365,0.0648674693247,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+115,runs.,773,2,0,4.32548555993,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.052635
+116,.,772,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+117,"Ish Sodhi to Mitchell Marsh, 1 run, very full and outside off stump, Marsh drives it wide of long-off .",771,17,6,60.6453161648,0.0,0.0,0.204550969872,0.116626282141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+118,"Ish Sodhi to Ashton Agar, 1 run, a rare fumble from Guptill and Australia get a run.",770,15,5,55.513620239,0.204550969872,0.0,0.211016174918,0.203309988634,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.15917
+119,"Short ball once again to the left-hander from Sodhi, Agar cuts it to cover, where the fielder misfields and allows a run .",769,14,11,77.8240536261,0.211016174918,0.116626282141,0.123648625566,0.104273126351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.143375
+120,"Ish Sodhi to Mitchell Marsh, 1 run, very full and outside off stump, Marsh drives along the ground to long-off .",768,18,6,64.936752301,0.123648625566,0.203309988634,0.489564063138,0.215516648412,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+121,"Ish Sodhi to Mitchell Marsh, no run, spinning away outside off stump, Marsh tries to square-drive and he gets beaten .",767,18,6,69.4130618183,0.489564063138,0.104273126351,0.26202976407,0.317642141811,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+122,"Ish Sodhi to Ashton Agar, 1 run, looks like Sodhi is only going to bowl googlies to Agar, but he has to bowl fuller to trouble the batsman, short and cut away square of the wicket on the off-side .",766,28,16,147.074088741,0.26202976407,0.215516648412,0.183242347442,0.0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0.15942
+123,"Ish Sodhi to Mitchell Marsh, 1 run, very full, Marsh drills it to long-onThat was not a good back-up over from Santner, after Sodhi bowled a 1-run over.",765,21,12,85.5653167398,0.183242347442,0.317642141811,0.0,0.0520068160739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18432
+124,.,764,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+125,"Santner to Ashton Agar, SIX, promoted ahead of Faulkner and Agar does some justice to the captain's call.",763,15,7,82.0067502352,0.0,0.0520068160739,0.0436076626827,0.148289224512,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.13158
+126,Santner's figures have been spoiled by these two sixes.,762,7,4,48.3192089086,0.0436076626827,0.0,0.0,0.0571764118229,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.133045
+127,"Flighted delivery on the stumps, Agar steps out, gets to the pitch of the ball and goes back over the bowler's head and finds the sightscreen .",761,18,12,95.8209146624,0.0,0.148289224512,0.0907716411165,0.0461217061693,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2156
+128,"Santner to Mitchell Marsh, 1 run, sensibly Marsh taps it to point and gets off strike .",760,14,5,56.094628866,0.0907716411165,0.0571764118229,0.201686314572,0.198409772148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+129,"Santner to Mitchell Marsh, SIX, New Zealand can't relax until this man is at the crease.",759,14,6,62.3147962335,0.201686314572,0.0461217061693,0.0912767004108,0.185578830451,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.163705
+130,"Santner bowls it too full and allows the batsman to get under it, Marsh tonks it over long-on and easily clears the boundary .",758,14,11,91.2673846402,0.0912767004108,0.198409772148,0.11228804663,0.107663226518,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0.16414
+131,"Santner to Mitchell Marsh, no run, oh dangerous from Marsh, but he has to throw his bat now.",757,13,9,69.5489278419,0.11228804663,0.185578830451,0.0311518090512,0.0777614045236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085105
+132,"Not to the pitch of the ball after advancing, yet goes for the big hit, toe-ends it back to the bowler .",756,13,11,72.7208374902,0.0311518090512,0.107663226518,0.110675755891,0.115915319501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.216665
+133,"Santner to Ashton Agar, 1 run, Agar waits for the ball to come and then glances it softly, only as far as short fine leg though .",755,20,10,103.700219456,0.110675755891,0.0777614045236,0.0815621977488,0.0760148300194,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.145455
+134,"Santner to Mitchell Marsh, 1 run, flatter delivery on the off stump, Marsh drives off the back foot to deep pointWhat an over that was!",754,18,11,87.2955853505,0.0815621977488,0.115915319501,0.0525694695996,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16738
+135,Just 1 run and the big wicket of Maxi in it.,753,6,6,33.521990999,0.0525694695996,0.0760148300194,0.0505486390791,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+136,It's 42 from 24 now.,752,4,3,25.3034357364,0.0505486390791,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+137,.,751,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+138,"Ish Sodhi to Ashton Agar, no run, the googly again, patted back to the bowler.",750,13,6,56.9153341386,0.0,0.0,0.158640628289,0.499502588647,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.13126
+139,Agar is not reading these from Sodhi's hand .,749,6,4,37.7191030548,0.158640628289,0.0,0.223726164052,0.074326328359,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10714
+140,"Ish Sodhi to Ashton Agar, no run, googly from Ish Sodhi to the left-hander, Agar read that off the pitch, awkwardly fended into the off-sideSlip in place .",748,21,11,100.4213983,0.223726164052,0.499502588647,0.20053318319,0.27142200417,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.154615
+141,"Ish Sodhi to Mitchell Marsh, 1 run, shortish enough for Marsh to hang back and punch to long-on .",747,16,5,59.9313272086,0.20053318319,0.074326328359,0.386106512529,0.346862871766,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15263
+142,"Ish Sodhi to Mitchell Marsh, no run, driven straight to cover again .",746,11,4,45.6804705426,0.386106512529,0.27142200417,0.369772455374,0.284821083758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096925
+143,"Ish Sodhi to Mitchell Marsh, no run, flighted delivery outside off stump, Marsh pushes it to coverAshton Agar, left handed bat, comes to the crease .",745,24,7,94.4375942842,0.369772455374,0.346862871766,0.203554376538,0.0798067465802,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.12
+144,"Ish Sodhi to Maxwell, out Caught by Williamson!!",744,8,3,30.0317558212,0.203554376538,0.284821083758,0.203594848907,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20945
+145,We've seen so many times Maxwell struggle against a leg-spinner and Ish Sodhi has given New Zealand a big wicket.,743,15,7,82.2042400373,0.203594848907,0.0798067465802,0.113678243573,0.0289094505569,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.178495
+146,Why would you slog a ball spinning away from you and that too when there is so much turn on offer for the spinner?,742,10,15,106.205940833,0.113678243573,0.0,0.0953545782864,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132815
+147,"Flighted delivery outside off stump, Maxwell plays his favourite shot, the slog across the line, the bat turns in his hands on impact with the ball and he ends up slicing it high in the air, extra-cover runs back and judges it to perfection.",741,30,19,175.510532758,0.0953545782864,0.0289094505569,0.0473426255715,0.0464126241174,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15107
+148,Maxwell c Williamson b Ish Sodhi  .,740,7,0,16.0959633922,0.0473426255715,0.0,0.611224810596,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08794
+149,"3) [4s-2]Ish Sodhi to Maxwell, THAT'S OUT!!",739,12,3,20.1966255589,0.611224810596,0.0464126241174,0.0,0.0224324885204,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13126
+150,Caught!,738,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+151,"!Five overs left, 43 to get.",737,8,1,29.2791184261,0.0,0.0224324885204,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12348
+152,"Not tough these days, but this is a slow pitch.",736,6,6,44.2843845829,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+153,.,735,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+154,"Santner to Maxwell, 1 run, very full and Maxwell flicks on one leg to deep mid-wicket, keeps strike with that .",734,17,7,66.7669970977,0.0,0.0,0.313346509819,0.0784364342163,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.209285
+155,"Santner to Mitchell Marsh, 1 run, shortish and on the stumps, Marsh pulls it to deep mid-wicket .",733,15,6,49.5813002148,0.313346509819,0.0,0.226827720774,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.227125
+156,"Santner to Mitchell Marsh, SIX, for a moment it appeared as if it came off the toe-end of the bat and went straight up in the air, but that went  .",732,17,17,105.627960706,0.226827720774,0.0784364342163,0.0,0.129468268425,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.184485
+157,metres.,731,2,0,7.09807428217,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+158,Massive six.,730,3,0,11.4880983632,0.0,0.129468268425,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.066665
+159,"Flighted delivery outside off stump, Marsh steps out and muscles it back over the bowler's head .",729,13,6,63.8329529289,0.0,0.0,0.0427215303045,0.0664590551246,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+160,"Santner to Maxwell, 1 run, again the switch-hit, it's a full toss, which Maxwell fails to connect properly, manages to send it towards point .",728,22,9,87.6749422352,0.0427215303045,0.0,0.360056926757,0.270539890008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.15115
+161,"Santner to Maxwell, no run, Maxwell tries the switch-hit this time, too full and dug out in the end .",727,14,9,64.6917448386,0.360056926757,0.0664590551246,0.332908662189,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22201
+162,"Santner to Maxwell, 2 runs, Maxwell changes his stance once again and tries to reverse, this time he had to reverse-flick as the bowler fired it very full and it goes to sweeper coverMitchell Santner [ .",726,23,17,134.423727507,0.332908662189,0.270539890008,0.0,0.0127269598719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140985
+163,- .,725,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+164,-2] is back into the attack .,724,5,3,17.3713156262,0.0,0.0127269598719,0.0140572650957,0.0148888480768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.219785
+165,"Ish Sodhi to Maxwell, 1 run, ""watchout for that reverse sweep,"" said Tom Moody on air a couple of balls ago and Maxwell sends this one over the infield to deep point .",723,27,11,133.730712733,0.0140572650957,0.0,0.215314713434,0.033646876771,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181745
+166,"Ish Sodhi to Mitchell Marsh, 1 run, another push to backward point off the front foot, this time Santner had to move to his right and Maxwell was quick enough to steal a run.",722,25,13,125.396901394,0.215314713434,0.0148888480768,0.103644443518,0.364121108612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135885
+167,The fielder did his best and even tried to release the throw off-balance .,721,8,6,51.6084303964,0.103644443518,0.033646876771,0.0445746462662,0.040766535234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153475
+168,"Ish Sodhi to Mitchell Marsh, no run, spinning away outside off stump, watchfully pushed to backward point .",720,17,4,67.7223718765,0.0445746462662,0.364121108612,0.144526028933,0.0170669532192,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.108695
+169,"Ish Sodhi to Maxwell, 1 run, Maxwell gives the charge and tries to go hard over cover, but gets an inside edge that goes through mid-wicket.",719,21,9,96.451871708,0.144526028933,0.040766535234,0.0134958590894,0.238085235766,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14988
+170,He had to reach out for it as he also gave himself a bit of room there .,718,6,12,70.9376979496,0.0134958590894,0.0170669532192,0.0631639296973,0.0151509387651,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+171,"Ish Sodhi to Maxwell, no run, Maxwell comes on the front foot and opens the face of the bat at the last moment to guide it fine, but picks out short third man .",717,23,14,127.613573926,0.0631639296973,0.238085235766,0.219081505361,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.190275
+172,"Ish Sodhi to Mitchell Marsh, 1 run, short delivery on the stumps, Marsh softly pulls to deep mid-wicketIsh Sodhi [ .",716,20,4,62.1743182982,0.219081505361,0.0151509387651,0.0,0.00660249676701,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16082
+173,- .,715,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+174,"-0] is back into the attack14 off that over, just what Australia wanted, but not convincing enough as a couple of boundaries came off inside-edges.",714,15,14,95.5300597112,0.0,0.00660249676701,0.0,0.087950606116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2625
+175,.,713,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+176,"Milne to Mitchell Marsh, 1 run, slower delivery to round off the over, Marsh chops the cut towards point .",712,17,6,66.2247223031,0.0,0.087950606116,0.162987589115,0.349860243035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189315
+177,"Milne to Maxwell, 1 run, Milne cramps Maxwell for room as he goes leg-side, the slower ball as expected, and Maxwell could only work it behind square on the on-side .",711,24,11,107.691061169,0.162987589115,0.0,0.206475255688,0.150438055653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18033
+178,"Milne to Mitchell Marsh, leg byes, 1 run, just  .",710,11,2,30.2810190931,0.206475255688,0.349860243035,0.0796535332401,0.108547188429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+179,"kph on this one, Marsh misses the flick, ball rolls towards point off the thigh pad and Maxwell steals a run .",709,17,7,85.604813097,0.0796535332401,0.150438055653,0.186479631102,0.0811062347883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16083
+180,"Milne to Maxwell, 1 run, slower ball on the stumps, Maxwell backed away for a big hit and then changed his mind and punched along the ground through cover-point .",708,22,11,105.115916055,0.186479631102,0.108547188429,0.177694177973,0.0954904848965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.197685
+181,"Milne to Maxwell, wide, now Milne strays down the leg-side, he's done that for the second time in the over and not sure about the idea as fine leg is inside the ring.",707,20,18,129.832520447,0.177694177973,0.0811062347883,0.108860612569,0.338797196058,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17564
+182,Maxwell tries to get it over the man at 45 but misses .,706,7,6,47.5801140127,0.108860612569,0.0954904848965,0.125779618623,0.0318578979759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+183,"Milne to Maxwell, FOUR, and he's done it again!",705,8,5,33.3725901533,0.125779618623,0.338797196058,0.151729231953,0.341148391293,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.174975
+184,"The leg-cutting off-speed delivery from Milne, same shot attempted as the previous ball, the slog takes the inside edge and once again beats short fine leg .",704,19,10,102.801139676,0.151729231953,0.0318578979759,0.0569178411823,0.219691415889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+185,"Milne to Maxwell, FOUR, oh almost knocked over!",703,9,2,36.4312384023,0.0569178411823,0.341148391293,0.145313139979,0.196065032888,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.140485
+186,"Slower delivery on the stumps, Maxwell delays the slog and goes really hard at it, got an inside edge that almost shaved the sticks .",702,18,9,101.908284939,0.145313139979,0.219691415889,0.219916575495,0.0684228987106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.147645
+187,"Milne to Maxwell, wide, slower delivery goes down the leg-side, Maxwell tries to help it fine, but misses.",701,17,6,66.354068006,0.219916575495,0.196065032888,0.10523331249,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+188,"Interestingly, the ball rolled to the keeper after hitting the pitchAdam Milne [ .",700,10,5,53.3434194882,0.10523331249,0.0684228987106,0.0,0.0638550541399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+189,- .,699,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+190,-0] is back into the attack .,698,5,3,17.3713156262,0.0,0.0638550541399,0.044866415602,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+191,"Corey Anderson to Maxwell, 1 run, in the airrrr, Guptill attacks from the deep, but it falls short.",697,16,7,63.2769519582,0.044866415602,0.0,0.0730504012198,0.175451665655,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18226
+192,Very lucky there for Maxwell.,696,3,3,21.6921036593,0.0730504012198,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+193,"He wanted to flick this, got what looked a leading edge, went more off the outside half of the bat, Guptill rushed from deep mid-wicket and even dived, but the ball didn't carry to him .",695,24,17,140.184745063,0.0,0.175451665655,0.116374364034,0.0749512970699,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.21244
+194,"Corey Anderson to Mitchell Marsh, 1 run, fullish and just outside off stump, driven along the ground to long-off .",694,17,6,62.1343899052,0.116374364034,0.0,0.26933999003,0.142453806015,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+195,"Corey Anderson to Mitchell Marsh, no run, no pace on this ball as well, Marsh guides it to backward point .",693,16,8,72.8667344858,0.26933999003,0.0749512970699,0.221569186992,0.220471061909,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+196,"Corey Anderson to Maxwell, 1 run, this time he gently works this through square leg for a single .",692,14,7,63.7399991905,0.221569186992,0.142453806015,0.196033095708,0.174899161517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+197,"Corey Anderson to Maxwell, no run, Maxwell attempts that fancy looking reverse-sweep as Anderson bowls a low full toss outside off stump, but misses .",691,21,7,93.4069531558,0.196033095708,0.220471061909,0.306244108877,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10229
+198,"Corey Anderson to Maxwell, no run, slower delivery outside off stump, Maxwell drives to point with an angled bat, sends his partner back, who was halfway down the pitch but a direct-hit was neededCorey Anderson [ .",690,28,14,134.872956491,0.306244108877,0.174899161517,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15172
+199,- .,689,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+200,. ],688,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+201,is back into the attack .,687,3,3,17.3713156262,0.0,0.0,0.0144128956203,0.14796940232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19111
+202,"Santner to Maxwell, 1 run, Maxwell tries to defend, sharp turn on this one takes the outside edge and rolls towards short third man, Mitchell Marsh calls for a quick single and makes his ground .",686,30,10,137.724989868,0.0144128956203,0.0,0.223362944771,0.262249965964,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.162035
+203,"Santner to Maxwell, no run, Maxwell attempts the reverse-sweep, but fails to make contact, the ball rolls into the on-side off the keeper's pad .",685,20,10,82.9909443187,0.223362944771,0.14796940232,0.236892909131,0.315872978684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+204,"Santner to Maxwell, no run, oh big turn!",684,9,2,30.4214987858,0.236892909131,0.262249965964,0.0485862408064,0.14858499051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106
+205,"On seeing the ball being dropped short, Maxwell went back to work it on the on-side, but the ball spun and stopped on him too, ended up playing outside the line of the ball and almost edged it to the keeper .",683,24,21,157.425932082,0.0485862408064,0.315872978684,0.0894370514651,0.081497727787,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.12957
+206,"Santner to Mitchell Marsh, 1 run, shortish and outside off stump, Marsh cuts it to sweeper cover .",682,16,5,57.6417617274,0.0894370514651,0.14858499051,0.428114252146,0.129738823616,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+207,"Santner to Mitchell Marsh, no run, flighted delivery around off stump line, Marsh defendsMitchell Marsh, right handed bat, comes to the crease .",681,23,5,84.2464786205,0.428114252146,0.081497727787,0.101156482145,0.00741219716269,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10638
+208,"Santner to Warner, out Caught by Guptill!!",680,7,3,26.0026457265,0.101156482145,0.129738823616,0.0,0.0172621617654,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123205
+209,"Surely, oh surely, New Zealand have tightened the grip.",679,10,2,47.6978000528,0.0,0.00741219716269,0.00938456289304,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+210,Brilliant self-belief from the side to bounce back like this.,678,7,4,36.7151403708,0.00938456289304,0.0172621617654,0.0517013324105,0.0465159353798,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+211,Santner will admit that this actually wasn't a wicket-taking ball.,677,7,5,35.3455993899,0.0517013324105,0.0,0.0294812003383,0.0821934123603,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+212,"Deserved to be put in the stands, but just that he mistimed it to the fielder in the deep.",676,8,13,71.9793860084,0.0294812003383,0.0465159353798,0.119573162688,0.0520967237908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.222915
+213,"Flighted delivery on the stumps, with the ball spinning back into him, mid-wicket was the right target, Warner went really hard looking for a maximum, but the ball caught him on the inside half of the bat.",675,25,17,139.392153009,0.119573162688,0.0821934123603,0.0,0.0968765329813,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.173645
+214,Guptill runs to his left and reverse-cups it.,674,5,4,22.5510526874,0.0,0.0520967237908,0.154667250041,0.0304124863367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10714
+215,Warner c Guptill b Santner  .,673,6,0,12.0668532975,0.154667250041,0.0968765329813,0.664179308969,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+216,"1)Santner to Warner, THAT'S OUT!!",672,8,3,16.3465636956,0.664179308969,0.0304124863367,0.0,0.385048621181,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+217,Caught!,671,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+218,!Mitchell Santner [ .,670,5,0,7.57941425907,0.0,0.385048621181,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03333
+219,- .,669,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+220,-1] is back into the attackTremendous comeback from New Zealand.,668,8,4,37.750191178,0.0,0.0,0.0,0.0191105062958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25625
+221,Australia were  .,667,2,1,9.99894661667,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+222,"in the 6th over, now they are  .",666,3,6,29.4935097679,0.0,0.0191105062958,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19549
+223,.,665,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+224,.,664,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+225,"Ish Sodhi to Maxwell, no run, slower through the air, Maxwell gets forward and defends .",663,14,5,55.8397906098,0.0,0.0,0.266455402137,0.581443095232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+226,"Ish Sodhi to Maxwell, 2 runs, very full and outside off stump, driven hard to deep extra-cover .",662,16,5,57.0568274504,0.266455402137,0.0,0.347530373864,0.178928518401,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+227,"Ish Sodhi to Maxwell, no run, tossed up from Ish Sodhi, Maxwell defends into the off-side .",661,14,6,57.4342229557,0.347530373864,0.581443095232,0.290666702452,0.388678896039,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.140985
+228,"Ish Sodhi to Warner, 1 run, flighted delivery on the stumps, Warner works it to mid-wicket .",660,15,5,48.8699777174,0.290666702452,0.178928518401,0.38819217487,0.264926682246,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17316
+229,"Ish Sodhi to Warner, no run, Warner tries to paddle and then changes his mind as Sodhi bowls wide of off stump, pats it softly into the off-side .",659,20,12,112.442356746,0.38819217487,0.388678896039,0.237641063872,0.197400180064,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+230,"Ish Sodhi to Maxwell, 1 run, shortish and on the leg stump, Maxwell works it to backward square leg off the back footIsh Sodhi, right-arm leg break, comes into the attackGlenn Maxwell, right handed bat, comes to the crease .",658,35,12,138.339203386,0.237641063872,0.264926682246,0.0474288320252,0.0273568591393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154335
+231,"Elliott to Warner, out Khawaja Run Out!!",657,7,3,22.8180910263,0.0474288320252,0.197400180064,0.0845475536207,0.131412004726,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.283475
+232,1 run completed.,656,4,0,9.15111184352,0.0845475536207,0.0273568591393,0.0,0.0383077357911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+233,David Warner throws his head back in disappointment.,655,7,2,40.4047649133,0.0,0.131412004726,0.0854817577868,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+234,It was his call to pull Khawaja through for the second run and his partner couldn't make it despite a full length dive.,654,14,11,92.3847342117,0.0854817577868,0.0383077357911,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167855
+235,Oh hang on!,653,3,1,15.171730037,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106
+236,Not Warner's fault.,652,4,1,15.702303465,0.0,0.0,0.0,0.0981431746309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+237,The replay shows that it was Khawaja who actually was so keen for that second run.,651,8,9,68.9759776415,0.0,0.0,0.185970689378,0.00608384590606,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+238,"Warner was waiting to see if Khawaja changed his mind, but his partner always wanted the second.",650,12,7,80.8922359975,0.185970689378,0.0981431746309,0.0731446757239,0.0853234999115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+239,"Fullish slower delivery outside off stump, drilled to long-off, Milne moves to his left and fires a flat throw close to the stumps, which made Elliott's life very easy.",649,24,10,118.307709458,0.0731446757239,0.00608384590606,0.0,0.169620458404,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+240,Massive blow for Australia as Khawaja was batting so well.,648,7,4,46.8305627388,0.0,0.0853234999115,0.11943976479,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13098
+241,Khawaja run out (Milne/Elliott)  .,647,6,1,9.55524307059,0.11943976479,0.169620458404,0.333849052174,0.497243616846,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17805
+242,"7) [4s-6]Elliott to Warner, THAT'S OUT!!",646,11,3,16.283384794,0.333849052174,0.0,0.273947210461,0.070185195631,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+243,Run Out!,645,2,1,5.69584724059,0.273947210461,0.497243616846,0.256199709108,0.214487289056,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15555
+244,!Run-out check has been sent upstairs and Khawaja is short.,644,8,4,43.4085141731,0.256199709108,0.070185195631,0.0549515810633,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+245,OUT flashes on the big screen.,643,4,3,26.693749251,0.0549515810633,0.214487289056,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+246,.,642,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+247,"Elliott to Khawaja, 1 run, uppish, but safe.",641,10,2,29.6027811852,0.0,0.0,0.073595262707,0.242864615703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+248,"Khawaja tries to slog this slower delivery, not sensible this time from the batsman, toe-ends it to the left of the bowler, who dives and tries to grab the ball .",640,19,15,109.372520033,0.073595262707,0.0,0.240609449238,0.156838698081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+249,"Elliott to Khawaja, 2 runs, easy pickings and so sensible from Khawaja.",639,11,4,46.7372313029,0.240609449238,0.242864615703,0.0215495791353,0.215374991587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+250,"No one at mid-wicket, with the bowler offering no pace, has enough time to move across and work into the on-side .",638,14,10,77.4909343124,0.0215495791353,0.156838698081,0.130047061775,0.0973268113933,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13806
+251,"Elliott to Khawaja, no run, opens the face of the bat and guides it to backward point .",637,12,8,59.202425495,0.130047061775,0.215374991587,0.240114594311,0.162759446897,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.192275
+252,"Elliott to Khawaja, 2 runs, slower delivery around off stump line, Khawaja uses his wrists to great effect and works it to the right of deep mid-wicket .",636,22,9,98.0688796355,0.240114594311,0.0973268113933,0.147791341486,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17589
+253,"Elliott to Warner, 1 run, a flat-batted back foot drive from Warner as Elliott drops the slower ball short from round the wicket, long-on tidies upGrant Elliott [ .",635,25,7,95.4248514712,0.147791341486,0.162759446897,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0.14083
+254,- .,634,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+255,. ],633,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+256,is back into the attackNot a bad idea from Williamson.,632,6,5,40.3957631886,0.0,0.0,0.064873207318,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+257,Two left-handers in and he'll spin the ball away from them.,631,7,6,37.6595810186,0.064873207318,0.0,0.0,0.101077828112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+258,.,630,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+259,"Williamson to Khawaja, no run, flatter in trajectory, cut away to short cover .",629,13,4,51.5638661154,0.0,0.101077828112,0.150701886492,0.173107133821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+260,"Williamson to Warner, 1 run, Williamson gets to land one this time, Warner hangs back and works it mid-wicket .",628,18,5,66.8272628923,0.150701886492,0.0,0.28706518747,0.236651949527,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+261,"Williamson to Warner, no run, low full toss again, Warner drives, but the fielder at extra-cover dives to his left and saves a few .",627,18,11,89.9766360492,0.28706518747,0.173107133821,0.289376901687,0.289033944643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.11924
+262,"Williamson to Khawaja, 1 run, once again Williamson doesn't control it, a low full toss, which is wristed along the ground through mid-wicket .",626,19,10,88.5982765806,0.289376901687,0.236651949527,0.146551311169,0.117568763961,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.163925
+263,"Williamson to Warner, 1 run, too full to trouble any batsman and Warner easily works it away towards square leg .",625,17,6,79.7454452089,0.146551311169,0.289033944643,0.21667132539,0.120631279091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+264,"Williamson to Warner, no run, the skipper brings himself on and gets one to turn big.",624,12,7,62.0681778716,0.21667132539,0.117568763961,0.174298930112,0.209266679659,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.171985
+265,"Flighted delivery outside off stump, Warner was looking to drive, but the turn beat him all ends upKane Williamson, right-arm off break, comes into the attack .",623,21,10,107.985092444,0.174298930112,0.120631279091,0.221191956597,0.321103099532,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121955
+266,"Santner to Warner, 1 run, shortish and outside off stump, Warner guides it to deep backward point .",622,16,5,59.2880298778,0.221191956597,0.209266679659,0.508910348918,0.129654738158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+267,"Santner to Warner, no run, flighted delivery just outside off stump, Warner pushes it to coverDavid Warner, left handed bat, comes to the crease .",621,22,8,92.4538402113,0.508910348918,0.321103099532,0.108145512651,0.008283088445,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12245
+268,"Santner to Smith, out Stumped!!",620,6,2,20.1278353234,0.108145512651,0.129654738158,0.0,0.0464952303383,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+269,"That's rash from the skipper, but that's how he plays.",619,7,7,44.6581232591,0.0,0.008283088445,0.0392047009977,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+270,"With so much turn on offer for the spinner, he steps out and walks past this, alike Rohit Sharma in Nagpur.",618,14,10,100.1600019,0.0392047009977,0.0464952303383,0.0,0.110892876543,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+271,Lovely ball.,617,3,0,9.8786604508,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+272,"Pitched around off stump line with a lot of air on it, Smith wanted to go towards mid-on, wasn't keen for a big hit, was just looking to gently knock it, which means that's too much risk looking for just a run or two.",616,30,21,180.562597257,0.0,0.110892876543,0.0447351850729,0.142133154615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14795
+273,Great turn for Santner and rips past the outside edge of the bat and the keeper does the rest.,615,11,9,75.2883648852,0.0447351850729,0.0,0.0533815580884,0.0734137690802,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18226
+274,So two wickets in two overs for New Zealand and they are back on top.,614,9,7,63.386048074,0.0533815580884,0.142133154615,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.257575
+275,Smith st Ronchi b Santner  . ),613,7,0,20.7459434062,0.0,0.0734137690802,0.359095298101,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+276,"[4s-1]Santner to Smith, THAT'S OUT!!",612,9,3,16.4557629876,0.359095298101,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+277,Stumped!!,611,3,0,6.69260917406,0.0,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+278,.,610,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+279,"Santner to Smith, no run, Smith gets a thickish outside edge this time, which goes along the ground towards point .",609,18,6,81.2443021351,0.0,0.0,0.288734404054,0.106779208558,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+280,"Santner to Smith, no run, Smith loves to play spin and turn will not stop him from venturing down the pitch, he tries to work on the on-side and thankfully for him the leading edge rolls towards cover .",608,24,18,153.835607602,0.288734404054,0.0,0.146996040411,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210335
+281,"Santner to Khawaja, 1 run, short and wide outside off stump, poor ball first up from round the wicket, cut away square of the wicket on the off-sideMitchell Santner, left-arm orthodox, comes into the attackHere comes New Zealand's hero from the last match.",607,37,14,156.913725122,0.146996040411,0.106779208558,0.0,0.0990051760795,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.151715
+282,.,606,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+283,"McClenaghan to Smith, 2 runs, McClenaghan sprays the slower ball down the leg-side, Smith is a good leg-side player and he easily works this away through backward square leg .",605,23,10,103.593589731,0.0,0.0990051760795,0.290580930651,0.322148381253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140835
+284,"McClenaghan to Smith, no run, once again McClenaghan keeps it on a fullish length, Smith drives it to mid-off .",604,14,9,64.8581835235,0.290580930651,0.0,0.331985310265,0.0126741751992,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+285,"McClenaghan to Smith, FOUR, this is the conventional full ball and Smith plays a lovely cover-drive.",603,13,6,57.0847355637,0.331985310265,0.322148381253,0.075732186558,0.320246156039,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13889
+286,The feet went forward and towards the ball to make things easy for the batsman and he opens his account with a wonderful boundary .,602,14,11,99.2754480224,0.075732186558,0.0126741751992,0.0581392428204,0.0125228671648,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0.160175
+287,"McClenaghan to Smith, no run, slower delivery first up to Smith, who had no clue about it and got beaten on the pokeSteven Smith, right handed bat, comes to the crease .",601,23,14,121.411914515,0.0581392428204,0.320246156039,0.0995590048837,0.106843430503,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17857
+288,"McClenaghan to Watson, out Caught by Williamson!!",600,7,3,25.7969314322,0.0995590048837,0.0125228671648,0.104563381818,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+289,McClenaghan roars in delight as he gives New Zealand the first breakthrough.,599,9,4,55.958560759,0.104563381818,0.106843430503,0.0213700757835,0.0316996445465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20346
+290,The last 11 balls have been very good for the Black Caps.,598,7,6,54.2471202572,0.0213700757835,0.0,0.0648478024717,0.140103226541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+291,No boundaries came and the pressure was on the batsmen to up the ante.,597,6,9,54.4725110447,0.0648478024717,0.0316996445465,0.135192868167,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16216
+292,"Very full delivery on the stumps, looked the slower delivery, yes it was, Watson hit the drive very hard after stepping away to the leg-side, however, he picked the fielder out to perfection as Williamson took an easy low catch at mid-off.",596,30,18,167.604369103,0.135192868167,0.140103226541,0.134382503633,0.104130722333,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.16786
+293,Watson c Williamson b McClenaghan  .,595,6,0,11.8611390032,0.134382503633,0.0,0.505420728927,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+294,"2) [4s-1]McClenaghan to Watson, THAT'S OUT!!",594,11,3,15.9618011699,0.505420728927,0.104130722333,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+295,Caught!!,593,3,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+296,.,592,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+297,"McClenaghan to Watson, 2 runs, very full and angled in from round the wicket, leg stumpish, Watson flicks it towards deep mid-wicket, where Anderson makes a tumbling saveJust 5 off the over and stroke-making was difficult for both batsmen in that over as Corey Anderson constantly took pace off the ball.",591,35,22,194.567158716,0.0,0.0,0.0926343671227,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13957
+298,"Australia are off to a flier, but the real battle starts now as the ball has softened a bit.",590,10,11,77.3758762354,0.0926343671227,0.0,0.0,0.0190641172158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.214915
+299,.,589,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+300,"Corey Anderson to Watson, 1 run, change of pace again from Anderson, Watson makes room and tries to cut, chops it to short fine leg .",588,22,8,94.6805900053,0.0,0.0190641172158,0.181529579539,0.319681770427,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09884
+301,"Corey Anderson to Khawaja, 1 run, Khawaja steps out and swings hard at this slower delivery, but only manages to toe-end it wide of mid-on .",587,19,10,85.0614800273,0.181529579539,0.0,0.151275058397,0.334831258953,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134615
+302,"Corey Anderson to Watson, 1 run, Watson back away, Anderson follows him with a shortish slower ball, Watson splices the pull shot, luckily for him there was no one at square leg .",586,27,11,124.672132667,0.151275058397,0.319681770427,0.175377957177,0.275835791908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+303,"Corey Anderson to Khawaja, 1 run, fullish slower delivery, wristed along the ground to deep mid-wicket .",585,17,3,53.6660153061,0.175377957177,0.334831258953,0.187570270109,0.341835443741,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.262335
+304,"Corey Anderson to Watson, 1 run, short of length delivery on the stumps, Watson drives straight, hit hard, Anderson tried to stop it in his followthrough but turned his head away at the last moment, fingetips it to long-on .",584,32,14,147.721935197,0.187570270109,0.275835791908,0.408139849786,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.159855
+305,"Corey Anderson to Watson, no run, short of length delivery from round the wicket, Watson works it to mid-wicketCorey Anderson [ .",583,18,7,64.713958468,0.408139849786,0.341835443741,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+306,- .,582,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+307,. ],581,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+308,is back into the attack .,580,3,3,17.3713156262,0.0,0.0,0.0,0.0418968929265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19111
+309,"McClenaghan to Khawaja, no run, width on outside off stump, Khawaja guides it to short third man .",579,15,6,63.5892408631,0.0,0.0,0.163323265756,0.399709502424,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+310,"McClenaghan to Watson, 1 run, fullish in length again, Watson taps it to mid-on and sets off, the fielder attacks the ball to have a shy at the stumps, but fails to pick it up cleanly .",578,24,18,129.014288066,0.163323265756,0.0418968929265,0.343894754657,0.0694029662756,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178495
+311,"McClenaghan to Khawaja, 1 run, fullish and angled in on the stumps, Khawaja wrists it to mid-on .",577,14,7,51.7792195213,0.343894754657,0.399709502424,0.201508195098,0.103134256158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16279
+312,"McClenaghan to Khawaja, FOUR, now he plays an authoritative pull shot!",576,10,4,50.2595977124,0.201508195098,0.0694029662756,0.0507046196956,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.125
+313,"Good to see Khawaja face this ball so confidently after a very, very close LBW appeal the previous ball.",575,13,8,83.6398851128,0.0507046196956,0.103134256158,0.136201345012,0.050309851838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+314,This wasn't a good delivery though.,574,5,3,20.9095348813,0.136201345012,0.0,0.0,0.0689615929692,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18431
+315,Banged short and allowed Khawaja to camp back and nail the pull shot over mid-wicket .,573,11,5,60.139822794,0.0,0.050309851838,0.0954489933112,0.0272129446789,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+316,"McClenaghan to Khawaja, no run, that's ugly from Khawaja, but he's got away with this LBW shout.",572,15,8,68.6779131313,0.0954489933112,0.0689615929692,0.0929998478723,0.163124188872,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+317,"Looked so, so tight and McClenaghan thought he had his man.",571,7,6,51.1193509368,0.0929998478723,0.0272129446789,0.0206186607341,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.082625
+318,"Slower delivery on the stumps from over the wicket, Khawaja moves across the stumps and tries to turn it away into the on-side, but misses and gets hit on the pad.",570,19,15,106.016424719,0.0206186607341,0.163124188872,0.0458808564419,0.161977583322,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+319,"Impact seemed be around off stump, but umpire Nigel Llong probably reckons the impact was slightly outside off.",569,14,6,90.3344046785,0.0458808564419,0.0,0.237169380331,0.00537633143261,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+320,Hawk-Eye says umpire's call both on impact and point of contact with the stumps .,568,10,6,59.6278325604,0.237169380331,0.161977583322,0.0232646632432,0.039572817753,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14052
+321,"McClenaghan to Watson, 1 run, short of length delivery angling in, Watson turns it to mid-wicketMitchell McClenaghan, left-arm fast medium, comes into the attack .",567,23,7,81.773432231,0.0232646632432,0.00537633143261,0.216274131068,0.292909854174,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.137255
+322,"Elliott to Watson, 1 run, this time Watson softly works this slower delivery past the man at mid-wicket and mid-on is at the rope .",566,18,9,80.4216915789,0.216274131068,0.039572817753,0.527098503679,0.170378213905,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+323,"Elliott to Watson, no run, gentle slower delivery on the stumps, Watson works it to mid-wicket .",565,14,6,51.1618206308,0.527098503679,0.292909854174,0.21945538532,0.0647550728478,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+324,"Elliott to Watson, FOUR, Watson looks so good when he lifts that front foot in the air and plays the back foot cover-drive.",564,17,9,90.404675427,0.21945538532,0.170378213905,0.0411433514452,0.13817629208,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.17116
+325,Lovely timing on that hit and it races away.,563,6,4,38.4959241624,0.0411433514452,0.0647550728478,0.0991170302012,0.0423000330238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+326,"Short of a length from Elliott, Watson gives himself a bit of room by backing away and sends it through cover .",562,13,10,82.41146848,0.0991170302012,0.13817629208,0.140617496918,0.047203256167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+327,"Elliott to Khawaja, 1 run, slowish and shortish from Elliott, Khawaja works it off the back foot to deep mid-wicket .",561,17,7,64.9789378265,0.140617496918,0.0423000330238,0.215572480367,0.0239097627771,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.234925
+328,"Elliott to Khawaja, FOUR, gee, this bloke's in great touch!",560,12,3,47.413506707,0.215572480367,0.047203256167,0.0373208177846,0.0702138133871,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.15
+329,First appearance in World T20 and he's stealing the show.,559,8,4,47.4279734565,0.0373208177846,0.0239097627771,0.0,0.0737274725739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+330,Some audacity to play this lofted cover-drive.,558,5,3,30.0900486423,0.0,0.0702138133871,0.0151493096437,0.0059344568654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+331,"The key was he spotted the slower ball early, delayed the shot and used all his muscles to thump it over the infieldThe keeper is up to the stumps .",557,15,16,120.057071746,0.0151493096437,0.0737274725739,0.0920297556699,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+332,"Elliott to Khawaja, no run, short of yorker length on off stump, Khawaja digs it out towards pointGrant Elliott, right-arm fast medium, comes into the attackWatson has faced just 1 delivery so far, but he won't mind as his partner is doing a great job at the other end.",556,35,22,196.333279409,0.0920297556699,0.0059344568654,0.0,0.23737012505,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.11282
+333,.,555,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+334,"Milne to Khawaja, 1 run, slower delivery outside off stump, Khawaja drives it to the right of mid-off and once again keeps strike .",554,18,9,76.3452507867,0.0,0.23737012505,0.297109478107,0.210069655205,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+335,"Milne to Khawaja, no run, excellent comeback by Milne, a good yorker at the base of sticks and Khawaja manages to dig it out .",553,17,11,98.2923578565,0.297109478107,0.0,0.266888886332,0.0539708431475,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+336,"Milne to Khawaja, FOUR, this time he's not missing out.",552,9,5,40.7566813722,0.266888886332,0.210069655205,0.0440246595348,0.0606153982388,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13793
+337,"Was beaten for pace last ball, but now he gets into position early, allows the short of length delivery to come and cuts it past the diving backward point.",551,20,12,121.588083964,0.0440246595348,0.0539708431475,0.0461176078834,0.149579731931,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12963
+338,The right-handed bowler's angle from over the wicket helped Khawaja with a bit of room there .,550,10,8,59.1692404938,0.0461176078834,0.0606153982388,0.0889988035294,0.0749356448119,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+339,"Milne to Khawaja, no run, beaten!",549,7,2,21.2735289389,0.0889988035294,0.149579731931,0.0966435883683,0.22118806787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+340,"Short of a length slanted across, pacy delivery that, Khawaja slashes and misses .",548,12,4,54.4464798457,0.0966435883683,0.0749356448119,0.0616556871828,0.0136922114886,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+341,"Milne to Khawaja, FOUR, in the airrrr, the fielder at mid-on jumps high and does his best.",547,13,8,66.4049689676,0.0616556871828,0.22118806787,0.0295292446569,0.107684816433,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.19763
+342,"Sodhi it was and he went right-handed there, but the ball evaded him by a yard or so!",546,8,12,67.5195490249,0.0295292446569,0.0136922114886,0.0430459970637,0.0497621189161,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+343,"Good length delivery just outside off stump, Khawaja really smacks the lofted drive and made just enough contact to power it past the man in the ring .",545,19,10,115.17634364,0.0430459970637,0.107684816433,0.126433078084,0.0713051289961,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16083
+344,"Milne to Khawaja, no run, short of length delivery from Milne, Khawaja mistimes the punch into the on-sideAdam Milne, right-arm fast, comes into the attackGreat start for Australia.",544,24,10,102.233751783,0.126433078084,0.0497621189161,0.0359137059232,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12963
+345,Got to score runs when the ball is hard and new and they've got 11 runs off the first over.,543,12,10,76.891176419,0.0359137059232,0.0713051289961,0.0,0.110090302587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.201665
+346,.,542,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+347,"Corey Anderson to Khawaja, 1 run, slower delivery wide outside off stump, poor delivery to round off the over, Khawaja guides it to third man and keeps strike .",541,24,9,102.107822988,0.0,0.110090302587,0.197945009837,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17055
+348,"Corey Anderson to Khawaja, FOUR, oh a rare misfield from New Zealand.",540,12,3,48.5973975344,0.197945009837,0.0,0.0,0.045766565103,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.195485
+349,"Normally, they are very good with their fielding.",539,5,5,40.6569894372,0.0,0.0,0.0,0.0523541915208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+350,"Looked like the off-pace delivery once again, Khawaja waits for the ball to come and crashes the drive, the man at short cover dives to his left, should have at least got a hand on it, but misses it completely .",538,25,20,157.092401009,0.0,0.045766565103,0.086227666147,0.206027533361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14113
+351,"Corey Anderson to Watson, 1 run, natural inswing movement to the right-hander on this good length delivery, leg-stumpish and Watson easily works it through square leg .",537,22,8,91.6044045753,0.086227666147,0.0523541915208,0.146226314483,0.151121090602,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14373
+352,"Corey Anderson to Khawaja, 1 run, Anderson takes pace off the ball this time, but gives a lot of width, allowing Khawaja to cut it away wide of third man .",536,25,10,113.777895289,0.146226314483,0.206027533361,0.369181136448,0.1730649299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136185
+353,"Corey Anderson to Khawaja, FOUR, gentle pace from Anderson and Khawaja pounces on it in a flash.",535,13,7,65.6836452182,0.369181136448,0.151121090602,0.115582546662,0.0428012897733,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.141805
+354,"Short of a length delivery just outside off stump, Khawaja camped back and nailed the pull shot to perfection through wide mid-on.",534,16,8,82.0040949456,0.115582546662,0.1730649299,0.00947148904696,0.219521780808,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+355,Great way to open your account in WT .,533,6,3,40.846848059,0.00947148904696,0.0428012897733,0.00711674660375,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+356,"Corey Anderson to Khawaja, no run, Anderson starts with a juicy full delivery outside off stump, good bit of outswing on it, Khawaja digs it out into the off-sideKhawaja and Watson are at the crease.",532,24,16,127.201026527,0.00711674660375,0.219521780808,0.17619140053,0.167576946428,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157565
+357,Khawaja is on strike.,531,3,2,15.3739951112,0.17619140053,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+358,Corey Anderson will open the attackWelcome back for the run chase.,530,8,4,43.8837886105,0.0,0.167576946428,0.0259360834425,0.0687102215928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+359,A long huddle from New Zealand just the like other day in Nagpur.,529,8,6,53.8330293192,0.0259360834425,0.0,0.0308298805179,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19286
+360,The umpires walk out to the middle.,528,4,4,27.4235912093,0.0308298805179,0.0687102215928,0.0,0.0353657002747,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18815
+361,Khawaja and Watson maker their way as well.,527,6,3,35.1917148494,0.0,0.0,0.110418780974,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+362,New Zealand to start with Anderson and Khawaja to take strike.,526,8,4,41.1886796524,0.110418780974,0.0353657002747,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19228
+363,The Black Caps defended  .,525,4,1,20.1092452428,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+364,in Nagpur?,524,2,1,8.82087015665,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+365,Can they defend  .,523,2,2,15.3229610067,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.038465
+366,here?,522,1,1,5.08317126162,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+367,One slip in placeThe chase will be underway soon.,521,7,3,48.9722525548,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07895
+368,Don't go anywhere.,520,4,1,17.3697773211,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+369,Let's see what KW has up his sleeve today.,519,7,4,46.7531029229,0.0,0.0,0.0,0.184818464732,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+370,He started with Nathan McCullum against India.,518,5,3,36.9587411148,0.0,0.0,0.0773056119303,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07831
+371,Today he isn't there.,517,3,3,16.5096632753,0.0773056119303,0.184818464732,0.0,0.150434806773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+372,"So interesting choices lie aheadMarsh: ""It is a competitive total on that wicket.",516,10,6,61.0476855062,0.0,0.0,0.0,0.0233441895107,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.11274
+373,We have to bat really well to get there.,515,5,5,34.8092554951,0.0,0.150434806773,0.0296363912575,0.109851885613,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+374,"As the ball got older, it started to slow up a bit.",514,8,6,48.1004748399,0.0296363912575,0.0233441895107,0.0507978738371,0.0106677237741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+375,"When we hit the pitch hard, it was quite tough to score.",513,8,6,52.2786234427,0.0507978738371,0.109851885613,0.0657819406699,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19551
+376,The best part of our team is we have so many bowling options.,512,7,7,62.5850930493,0.0657819406699,0.0106677237741,0.0,0.0347562071761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+377,.,511,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+378,guys can bowl and even Steven Smith is an option.,510,7,4,50.9462449281,0.0,0.0347562071761,0.190105546233,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+379,My job is to bowl a few overs and tie up one end.,509,7,7,57.5958285634,0.190105546233,0.0,0.00888328608743,0.0395055614015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+380,"""New Zealand looked like running away with the opening pair off to a rumbling start.",508,12,5,64.9635146462,0.00888328608743,0.0,0.0107379972273,0.0118957846119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.183985
+381,"Especially Guptill (who is not good enough for the IPL, right?).",507,11,5,48.2521238176,0.0107379972273,0.0395055614015,0.0273561198249,0.0647295013391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+382,"He immediately limited Australia to one bowler less by tonking Agar for 3 sixes, thereby making a joke of Smith's decision to bring him early.",506,20,8,118.704153468,0.0273561198249,0.0118957846119,0.0273111995902,0.0163194217595,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.11111
+383,"But once the shine started fading off the new ball, the pitch resorted to what it's been doing for the past two weeks.",505,13,13,99.326075535,0.0273111995902,0.0647295013391,0.0566167758346,0.0191819571129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.263335
+384,In came the likes of Faulkner and Watson with their cutters and choked the run-flow.,504,8,8,56.0934289665,0.0566167758346,0.0163194217595,0.0308540097067,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.190475
+385,Even Maxwell tossed it up appreciably and found turn.,503,7,3,43.2541371256,0.0308540097067,0.0191819571129,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.088235
+386,New Zealand play only one way these days.,502,7,2,39.3876589835,0.0,0.0,0.0,0.0757698204569,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21212
+387,Almost like in auto-pilot.,501,4,1,13.8395028971,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+388,They felt obliged to keep the runs flowing with big hits and lost their way with regular wickets.,500,12,7,89.3132618027,0.0,0.0757698204569,0.0,0.0333109622712,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0.19228
+389,From  .,499,1,1,3.52854158568,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.043475
+390,"in the Powerplay, to  .",498,3,3,13.2500921456,0.0,0.0333109622712,0.0,0.0292609982272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.291675
+391,after 16 overs.,497,3,1,17.6500792862,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+392,"Elliott, though, played a handy little knock lower down to lift them to what is an around-par score here on a sluggish track.",496,15,11,102.014051453,0.0,0.0292609982272,0.0,0.0745653119544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116155
+393,.,495,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+394,"Coulter-Nile to Milne, out Elliott Run Out!!",494,7,3,19.0301541603,0.0,0.0745653119544,0.322397471084,0.123694925177,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19551
+395,Now Nevill hits direct to run Elliott out.,493,6,3,33.5606719111,0.322397471084,0.0,0.119620264493,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+396,"Milne slogged and missed, over the top of the bails the ball went, they were always running for the bye, Nevill under-armed and caught Elliott well short.",492,20,11,110.296025013,0.119620264493,0.123694925177,0.0,0.202805674542,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19362
+397,NCN claps in appreciation.,491,4,1,22.8992356853,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+398,Elliott run out (Nevill)  .,490,6,1,14.49609811,0.0,0.202805674542,0.133901972879,0.544440163703,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140905
+399,"0) [4s-3]Coulter-Nile to Milne, THAT'S OUT!!",489,11,3,12.4554425934,0.133901972879,0.0,0.245944332925,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+400,Run Out!!,488,3,1,5.69584724059,0.245944332925,0.544440163703,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15555
+401,.,487,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+402,"Coulter-Nile to Milne, 2 runs, a front foot pull to deep square leg, the fielder does well to get his body behind that and prevent the boundary, that was hit well by Milne as it dropped a fraction shortAdam Milne, right handed bat, comes to the crease .",486,36,18,182.559865645,0.0,0.0,0.114419372933,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0.104935
+403,"Coulter-Nile to Santner, out Santner Run Out!!",485,7,3,18.5605285315,0.114419372933,0.0,0.0693195938706,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19551
+404,1 run completed.,484,4,0,9.15111184352,0.0693195938706,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+405,Maxwell has made amends.,483,4,1,20.6382444896,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+406,What a throw that is.,482,2,4,16.4863233256,0.0,0.0,0.0747358276201,0.184831060013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+407,Right over the bails and even a desperate dive from Santner is not enough.,481,8,7,56.771850179,0.0747358276201,0.0,0.262620769944,0.084165997507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151515
+408,"Lashed out to deep cover, Santner wanted two and was beaten by a perfect over the bails throw from Maxi.",480,13,9,84.9971749402,0.262620769944,0.184831060013,0.105616167676,0.0124050369187,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.187135
+409,Nevill has the easy job of running out Santner.,479,6,4,38.1773683944,0.105616167676,0.084165997507,0.0192407545301,0.454376336073,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+410,Third umpire makes the call.,478,5,1,25.1278779833,0.0192407545301,0.0124050369187,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+411,Santner run out (Maxwell/Nevill)  .,477,6,1,9.65842730682,0.0,0.454376336073,0.367780989303,0.491497350705,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13457
+412,")Coulter-Nile to Santner, THAT'S OUT!!",476,7,3,11.9226380629,0.367780989303,0.0,0.299526892477,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+413,Run Out!!,475,3,1,5.69584724059,0.299526892477,0.491497350705,0.0,0.0699432408518,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15555
+414,.,474,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+415,"Coulter-Nile to Elliott, 1 run, clears his front leg to slog and the thick inside edge runs to square leg, single taken .",473,20,6,79.8996157277,0.0,0.0699432408518,0.257767599322,0.0981073423773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107325
+416,"Coulter-Nile to Elliott, 2 runs, Smith is angry and shows his displeasure known.",472,12,4,51.1324585114,0.257767599322,0.0,0.0937553015066,0.037098592978,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+417,A decent throw to Nevill and Elliott was gone.,471,6,4,35.3878488029,0.0937553015066,0.0981073423773,0.206317220313,0.119684084084,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+418,"He shuffled across to paddle and got it off the toe end, the ball went to deep mid-wicket, Maxi ran in and rifled a throw, wide of Nevill who failed to collect.",470,22,14,127.596084003,0.206317220313,0.037098592978,0.109034160583,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17887
+419,Allows the scampering and diving Elliott to make it in.,469,6,5,39.5286782398,0.109034160583,0.119684084084,0.0,0.0639673546628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+420,A run-out chance missed .,468,4,1,11.3339476834,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17805
+421,"Coulter-Nile to Elliott, 2 runs, length delivery outside off, slugged wide of long-on, quick twoNathan Coulter-Nile [ .",467,19,3,51.0395647023,0.0,0.0639673546628,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.126315
+422,- .,466,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+423,. ],465,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+424,is back into the attackRight New Zealand need a big final over.,464,8,5,48.8514634184,0.0,0.0,0.0,0.0107824559296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.29963
+425,Still this score doesn't look enough.,463,6,2,32.3642342608,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+426,We said the same thing last game against India and what happened.,462,7,6,59.72526221,0.0,0.0107824559296,0.0120353344061,0.0109187798982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+427,So never write off the Black Caps.,461,5,3,34.5964175144,0.0120353344061,0.0,0.0141610342222,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.099
+428,Especially when the pitch seems to be holding up.,460,5,5,42.9184866082,0.0141610342222,0.0109187798982,0.0,0.0391451847211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+429,Definitely spinners will come into play .,459,5,2,31.7262978122,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+430,"Faulkner to Elliott, 1 run, Faulkner follows the backing away Elliott, who lifts it over extra cover, keeps the strikeMitchell Santner, left handed bat, comes to the crease .",458,27,8,111.193839964,0.0,0.0391451847211,0.150823946473,0.022860192513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132075
+431,"Faulkner to Ronchi, out Caught by Maxwell!!",457,7,3,26.6527623277,0.150823946473,0.0,0.157293726164,0.144702879358,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+432,"Length delivery on the stumps, Ronchi heaves and finds deep mid-wicket running in.",456,11,4,49.3871302628,0.157293726164,0.022860192513,0.107076706962,0.220957462996,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.19167
+433,The longest part of the boundary there and Ronchi got no timing to get anywhere close to clearing Maxi.,455,12,8,84.3997798714,0.107076706962,0.144702879358,0.166847271484,0.186581574478,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.15936
+434,Ronchi c Maxwell b Faulkner  .,454,6,0,12.7169698987,0.166847271484,0.220957462996,0.716173279425,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04
+435,")Faulkner to Ronchi, THAT'S OUT!!",453,7,3,17.1898715258,0.716173279425,0.186581574478,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+436,Caught!!,452,3,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+437,.,451,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+438,"Faulkner to Ronchi, 2 runs, Ronchi comes down the track and the ball is outside leg, the bat turns on impact and off the toe end as well off the outside half, clears point running back.",450,27,14,135.257192969,0.0,0.0,0.0,0.14508135143,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181435
+439,Skewed away for a couple .,449,4,2,20.6472943251,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+440,"Faulkner to Elliott, 1 run, short of length on middle and leg, nudged to short fine leg .",448,16,5,57.2567656082,0.0,0.14508135143,0.242263993647,0.293208455857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+441,"Faulkner to Elliott, no run, length delivery slanted across Elliott, he sinks to one knee and slogs, misses .",447,18,5,74.9717221835,0.242263993647,0.0,0.193898286681,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+442,"Faulkner to Ronchi, 1 run, length delivery on leg, Ronchi is forward and clipping in the air to deep mid-wicketJames Faulkner [ .",446,19,7,69.7971111803,0.193898286681,0.293208455857,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.163925
+443,- .,445,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+444,. ],444,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+445,is back into the attack .,443,3,3,17.3713156262,0.0,0.0,0.0,0.137246016628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19111
+446,"Mitchell Marsh to Elliott, FOUR, Elliott was setting himself up for that.",442,9,6,47.7539983462,0.0,0.0,0.00957476550579,0.1993929193,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.114285
+447,"Went back and clouted the pull to the deep backward square leg fence, one bounce over the ropes.",441,14,6,74.781496316,0.00957476550579,0.137246016628,0.0389572225938,0.0320360980121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+448,"This short ball had no real pace on it and was around the waist, easy for Elliott .",440,10,9,68.4814384371,0.0389572225938,0.1993929193,0.0421756130549,0.147493013047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+449,"Mitchell Marsh to Ronchi, 1 run, slower delivery on off, pushed to extra cover and a single taken .",439,16,6,59.8589299978,0.0421756130549,0.0320360980121,0.254366469957,0.158361833815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+450,"Mitchell Marsh to Elliott, 1 run, short of length on off, pulled to deep square leg .",438,15,5,52.2291182775,0.254366469957,0.147493013047,0.196643931968,0.329508694614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+451,"Mitchell Marsh to Elliott, no run, now comes down the track and slogs, the ball sneaks under his bat and body to go through to the keeper .",437,17,14,103.171214582,0.196643931968,0.158361833815,0.223210618072,0.147851092661,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+452,"Mitchell Marsh to Elliott, FOUR, played.",436,8,1,22.9463237765,0.223210618072,0.329508694614,0.0135892792413,0.0159054046888,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.074075
+453,"Backs away and then waits for the slower delivery, crashes it through cover and beats sweeper cover running to his right.",435,14,9,88.8068157342,0.0135892792413,0.147851092661,0.136950796021,0.051271376386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+454,The key was he waited for the ball to come and then hit itMid-off coming in .,434,8,9,59.1178269771,0.136950796021,0.0159054046888,0.0516682977674,0.0806753785242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19565
+455,"Mitchell Marsh to Ronchi, 1 run, back of a length outside off, Ronchi steers it to point and takes a quick single .",433,18,8,71.9641431236,0.0516682977674,0.051271376386,0.420961397163,0.42257892624,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+456,"Watson to Ronchi, 1 run, slower delivery outside off, Ronchi opens the face of the bat and dabs it down to third man .",432,18,9,81.7614059997,0.420961397163,0.0806753785242,0.471204087742,0.0839944246173,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20924
+457,"Watson to Ronchi, no run, fullish on off, Ronchi gets forward and defends to short coverLuke Ronchi, right handed bat, comes to the crease .",431,22,8,92.3197506919,0.471204087742,0.42257892624,0.0814842497642,0.0467977800876,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+458,"Watson to Ross Taylor, out Caught by Mitchell Marsh!!",430,9,3,34.021903909,0.0814842497642,0.0839944246173,0.233756160575,0.0140141007932,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+459,And out.,429,1,2,5.3214557691,0.233756160575,0.0467977800876,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+460,"Full on off, clipped with lots of bottom hand straight to the fielder at mid-wicket.",428,10,7,59.2118881286,0.0,0.0140141007932,0.0,0.100417546686,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+461,Reverse cupped easily.,427,4,0,18.8093161967,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+462,"Just when Ross Taylor and New Zealand threaten to pull away, Australia hit back with a wicket.",426,13,6,66.0456420594,0.0,0.100417546686,0.0690703355237,0.269494229668,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.2079
+463,Replays show that the bat turned on impact and hit low on the willow too.,425,9,7,65.6697729481,0.0690703355237,0.0,0.0,0.0439143882982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13304
+464,Ross Taylor c Mitchell Marsh b Watson  .,424,8,0,20.08611148,0.0,0.269494229668,0.56662669692,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+465,"1) [6s-1]Watson to Ross Taylor, THAT'S OUT!!",423,12,3,20.8722203257,0.56662669692,0.0439143882982,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12316
+466,Caught!!,422,3,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+467,.,421,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+468,"Watson to Ross Taylor, SIX, that's Ross Taylor's go-to stroke.",420,13,2,38.0461231236,0.0,0.0,0.354487279577,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.115385
+469,The good old-fashioned Ross Taylor mow to leg.,419,7,2,27.5237271826,0.354487279577,0.0,0.0779125008502,0.0193437831769,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+470,Clear the left leg and heave with all your might.,418,6,5,46.5977465264,0.0779125008502,0.0,0.0225702821824,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+471,"Just what he does there, sees the length delivery on off and connects well to send it soaring over deep mid-wicket.",417,11,12,83.586489545,0.0225702821824,0.0193437831769,0.0,0.00749315826032,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.177635
+472,Timely six that .,416,3,1,15.2017823821,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.125005
+473,"Watson to Ross Taylor, wide, rare bad ball, slower bouncer down leg, left alone .",415,17,2,66.4721571305,0.0,0.00749315826032,0.203007102527,0.118469285314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+474,"Watson to Elliott, 1 run, slower short ball, Elliott mistimes the pull to deep backward square leg .",414,18,3,59.2082317123,0.203007102527,0.0,0.235154022199,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116015
+475,"Watson to Elliott, 2 runs, another inside edge, good work from Zampa from fine leg, prevents the boundaryShane Watson [ .",413,21,4,79.7802540196,0.235154022199,0.118469285314,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.117415
+476,- .,412,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+477,. ],411,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+478,is back into the attack .,410,3,3,17.3713156262,0.0,0.0,0.0996642701011,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19111
+479,"Mitchell Marsh to Elliott, 1 run, Elliott comes down the track and pulls, mishits that and is lucky that the ball falls well in front of the onrushing deep mid-wicket .",409,22,12,108.686389045,0.0996642701011,0.0,0.237979091241,0.0683471710483,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.170085
+480,"Mitchell Marsh to Elliott, 2 runs, short of length outside off, punched to deep extra cover, for twoWatson, Marsh and NCN - all three wicket-to-wicket bowlers and give nothing away.",408,28,8,112.887834816,0.237979091241,0.0,0.0314475127302,0.128719092364,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+481,On a slightly slow pitch they have choked the Kiwis and forced the mistakes out of their batsmen.,407,9,10,78.9331150799,0.0314475127302,0.0683471710483,0.0416589454351,0.172578255017,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+482,"Nothing fancy about the troika, just good old line and length with well-disguised changes of pace.",406,12,6,71.0585030982,0.0416589454351,0.128719092364,0.0205711252553,0.0705914569489,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10968
+483,Keeping the batsmen honest all the time .,405,5,3,33.4269413636,0.0205711252553,0.172578255017,0.0259512869263,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+484,"Mitchell Marsh to Elliott, no run, back of a length on the stumps, pushed back to Mitchell Marsh .",404,15,7,55.4861209487,0.0259512869263,0.0705914569489,0.375788905918,0.225960010498,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144045
+485,"Mitchell Marsh to Elliott, FOUR, that will help.",403,8,3,30.9854933552,0.375788905918,0.0,0.236001745938,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09677
+486,Elliott charges Mitchell Marsh and gets an inside edge that beats the diving Nevill and runs away.,402,13,5,71.0116238161,0.236001745938,0.225960010498,0.0,0.187799183507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09881
+487,New Zealand need a lot more of these .,401,5,4,32.3670083357,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.219775
+488,"Mitchell Marsh to Ross Taylor, 1 run, an ugly mow.",400,11,2,38.5218665597,0.0,0.187799183507,0.193994673092,0.449478019499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12316
+489,"A slower delivery outside off, Ross Taylor took a step out and dragged it to deep square leg .",399,13,7,63.8984344002,0.193994673092,0.0,0.3288369602,0.0379201903258,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.179485
+490,"Mitchell Marsh to Ross Taylor, no run, good length on off, Ross Taylor gets forward and turns it to mid-wicket .",398,17,7,68.2511363277,0.3288369602,0.449478019499,0.111808724444,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.152175
+491,"Coulter-Nile to Elliott, no run, homing in on off, Elliott respects that with a defence.",397,11,8,51.2111941068,0.111808724444,0.0379201903258,0.0608669633403,0.398444428046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157055
+492,Tidy over that .,396,2,2,13.8844808924,0.0608669633403,0.0,0.0696360991693,0.0463934273156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+493,"Coulter-Nile to Elliott, no run, that was close to both off stump and the outside edge.",395,10,9,50.0731775228,0.0696360991693,0.398444428046,0.156164171338,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+494,"Elliott staying beside the line of the ball and showing off, before trying to steer that to third man with an open face.",394,14,11,99.8756151821,0.156164171338,0.0463934273156,0.0,0.0510073727138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+495,Missed .,393,2,0,5.84531131367,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+496,"Coulter-Nile to Ross Taylor, 1 run, tap and run to cover.",392,11,3,30.857539075,0.0,0.0510073727138,0.0,0.503180546344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+497,Well done .,391,3,0,10.9003116983,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+498,"Coulter-Nile to Ross Taylor, no run, good length outside off, Ross Taylor opens the face of the bat and taps it to point .",390,18,9,79.6630364801,0.0,0.503180546344,0.219882296811,0.266233608517,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.161255
+499,"Coulter-Nile to Elliott, 1 run, back of a length on the stumps, Elliott nudges a single wide of square leg .",389,17,7,57.8306416054,0.219882296811,0.0,0.410777635372,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+500,"Coulter-Nile to Elliott, no run, full on off, Elliott gets forward and flicks to mid-wicket, straight to the fielderNathan Coulter-Nile [ .",388,18,8,60.0030761171,0.410777635372,0.266233608517,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+501,- .,387,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+502,. ],386,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+503,"is back into the attackGrant Elliott, right handed bat, comes to the crease .",385,11,5,48.8761859169,0.0,0.0,0.0185839006598,0.103834747191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14632
+504,"Mitchell Marsh to Munro, out Caught by Faulkner!!",384,8,3,29.217412323,0.0185839006598,0.0,0.133726889209,0.270427177044,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+505,Strange innings from Munro comes to an end.,383,6,3,36.3048768284,0.133726889209,0.103834747191,0.14918396717,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+506,"Another slower delivery from Mitchell Marsh, well outside off, Munro dragged the sweep from there and found Faulkner at deep mid-wicket.",382,17,7,81.8445742612,0.14918396717,0.270427177044,0.0,0.105822850098,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.127635
+507,Easy catch.,381,3,0,10.7866523799,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.04762
+508,"Since he dragged it, no way he was going to get enough bat to clear the fence.",380,11,8,70.470053045,0.0,0.105822850098,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+509,Australia striking at regular intervals.,379,5,1,28.9834669024,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+510,Munro c Faulkner b Mitchell Marsh  .,378,7,0,15.281619894,0.0,0.0,0.560303533589,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+511,"6) [4s-2]Mitchell Marsh to Munro, THAT'S OUT!!",377,12,3,19.1640284947,0.560303533589,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+512,Caught!!,376,3,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+513,.,375,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+514,"Mitchell Marsh to Munro, no run, just over middle stump.",374,9,4,35.6154870297,0.0,0.0,0.0,0.259937669261,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+515,Very close.,373,2,1,10.2497241322,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+516,"Slower ball from Mitchell Marsh, Munro was making room to go over the off-side, through the shot before the ball arrived and lucky to see it go over .",372,18,13,106.171852827,0.0,0.259937669261,0.262776269473,0.17608152633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+517,"Mitchell Marsh to Munro, no run, Mitchell Marsh cramps Munro for room with a back of a length delivery on the stumps, no room to work with, bunted back to the bowler .",371,23,14,109.448179394,0.262776269473,0.0,0.390011312304,0.238321955204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+518,"Mitchell Marsh to Munro, no run, fullish on the stumps, driven straight to the fielder at cover .",370,14,7,60.728213563,0.390011312304,0.17608152633,0.179466908782,0.193346899882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152175
+519,"Mitchell Marsh to Ross Taylor, 1 run, good length outside off, slapped square of the wicket .",369,16,4,55.0531570707,0.179466908782,0.238321955204,0.32840790019,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+520,"Mitchell Marsh to Ross Taylor, no run, loud appeal for caught behind.",368,12,3,50.5443404061,0.32840790019,0.193346899882,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+521,Not given.,367,2,1,10.8729127241,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+522,Was there an edge on that?,366,2,5,23.1203369607,0.0,0.0,0.207436839705,0.0398094839866,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125005
+523,"If there was one, would've been a faint one.",365,7,5,38.7940490621,0.207436839705,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21591
+524,"On a good length and outside off, Ross Taylor tried to run it down and then came the big appeal from Mitchell MarshMitchell Marsh [ .",364,16,11,88.8112331091,0.0,0.0398094839866,0.0,0.0188535625777,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17129
+525,- .,363,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+526,-0] is back into the attack .,362,5,3,17.3713156262,0.0,0.0188535625777,0.0,0.0524533837401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+527,"Maxwell to Munro, byes, FOUR, now goes for a big slog sweep and misses.",361,13,5,57.0635857857,0.0,0.0,0.131200723932,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14459
+528,"The turn taking it away from the bat, the keeper was fooled as well, maybe he was expecting another switch hit, didn't get the gloves in position and gave away four byes.",360,24,13,143.661256664,0.131200723932,0.0524533837401,0.0,0.210878049852,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.145695
+529,Bonus runs .,359,3,0,11.4235598421,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.050005
+530,"Maxwell to Munro, FOUR, he can switch hit alright!",358,9,3,39.2776313857,0.0,0.210878049852,0.10507193826,0.0576045396757,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10714
+531,He tried the same shot last over against Maxwell and almost got out.,357,7,7,55.6456120393,0.10507193826,0.0,0.0677009455161,0.0465100929452,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+532,This one he connects beautifully and clears mid-wicket.,356,6,3,33.0211637992,0.0677009455161,0.0576045396757,0.0138862035869,0.0699646878739,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+533,"Maxwell did nothing wrong there, bowled it down leg, but Munro is so quick to change his stance and belt that.",355,13,11,94.6137402647,0.0138862035869,0.0465100929452,0.0,0.0083817054912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+534,"He must be practicing these a lot in the nets, no way he can pull them off in a match otherwise.",354,10,13,90.1372862194,0.0,0.0699646878739,0.0923336853148,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12332
+535,What has the cricketing world come up to these days.,353,5,6,46.9949227464,0.0923336853148,0.0083817054912,0.0,0.0374548570757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+536,Gavaskar and Boycott - eat your hearts out .,352,6,3,39.8955364481,0.0,0.0,0.0439784882416,0.0138320223533,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+537,"Maxwell to Munro, no run, yorker length on the stumps, dug out to short cover .",351,13,6,53.0837221705,0.0439784882416,0.0374548570757,0.127406112124,0.279764447104,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+538,"Maxwell to Ross Taylor, 1 run, on off, Ross Taylor gently defends to point and runs across for a single .",350,17,7,69.3820835975,0.127406112124,0.0138320223533,0.0837544203145,0.0736633639788,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+539,"Maxwell to Munro, 1 run, short down leg, short-arm jabbed to deep backward square leg .",349,16,3,50.410791459,0.0837544203145,0.279764447104,0.225319845413,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+540,"Maxwell to Munro, FOUR, brilliant from Munro.",348,8,2,27.6418612907,0.225319845413,0.0736633639788,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.07692
+541,Must give full marks for his quicksilver response.,347,7,2,45.3132097953,0.0,0.0,0.0561879901045,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.054055
+542,"He shuffled for the switch hit, saw the ball was well outside off (for a right-hander), so played a right-hander's shot.",346,17,10,69.4437166576,0.0561879901045,0.0,0.0169693174959,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+543,Opened the bat face and dabbed it wide of short third.,345,8,4,46.6668644647,0.0169693174959,0.0,0.0,0.0266450702742,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+544,Raced away.,344,3,0,10.7461610185,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+545,The Kiwi camp applaud that from the dug-out .,343,5,4,30.5248033516,0.0,0.0266450702742,0.0296766433606,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+546,"Watson to Munro, 1 run, slower delivery on the stumps, wristed to long-on .",342,13,4,36.1965544823,0.0296766433606,0.0,0.124243343026,0.308814326523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.203465
+547,"Watson to Ross Taylor, 1 run, gently nudged towards mid-wicket for single .",341,13,2,43.0554382608,0.124243343026,0.0,0.166927024746,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+548,"Watson to Munro, 1 run, he can't run as well.",340,11,3,26.3128598439,0.166927024746,0.308814326523,0.128694365984,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+549,Munro is clearly struggling.,339,4,1,21.0793267728,0.128694365984,0.0,0.0,0.0635407878149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+550,Would've been out with a direct hit from NCN at short cover.,338,8,6,49.1611625939,0.0,0.0,0.132961294877,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13458
+551,"Pushed it to him and ran, NCN covered ground to his left and backhanded a flick, missed, had he hit Munro was walking back .",337,17,11,102.565217421,0.132961294877,0.0635407878149,0.0723953069913,0.10439778292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+552,"Watson to Munro, no run, three dots in a row.",336,9,4,36.7389445856,0.0723953069913,0.0,0.0802560630973,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+553,"Loopy short delivery, Munro watches it go over his head.",335,9,3,46.4352081952,0.0802560630973,0.10439778292,0.0,0.0577486801044,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+554,Good enough for a dotMunro is struggling here.,334,5,4,34.955759727,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08497
+555,He hasn't got any timing on his strokes today.,333,6,5,43.7280327723,0.0,0.0577486801044,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+556,New Zealand have lost the plot after a great start.,332,7,4,42.7543735084,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.21672
+557,Need a partnership to get close to  .,331,5,3,26.3035888599,0.0,0.0,0.0,0.0536939158856,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19552
+558,which is par here .,330,2,3,19.9729924381,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.043475
+559,"Watson to Munro, no run, magnificent one-handed leaping stop to his left by Watson.",329,12,5,52.6351191963,0.0,0.0536939158856,0.0404237793516,0.0532916751776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+560,Saved a run there.,328,3,2,13.5411359246,0.0404237793516,0.0,0.0,0.0408930541004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+561,Munro came down the track and again didn't get enough wood behind that .,327,9,6,59.1028515474,0.0,0.0532916751776,0.148227221058,0.0407280989333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140665
+562,"Watson to Munro, no run, good length outside off, Munro tries to smash that out of the park.",326,14,8,65.0809014252,0.148227221058,0.0408930541004,0.125587433611,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+563,Completely mistimed that to mid-offShane Watson [ .,325,6,2,21.2984374007,0.125587433611,0.0407280989333,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+564,- .,324,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+565,-0] is back into the attack .,323,5,3,17.3713156262,0.0,0.0,0.0450987131936,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+566,"Maxwell to Ross Taylor, no run, from round the wicket, on the stumps, pushed to short mid-wicket .",322,15,7,54.5193113236,0.0450987131936,0.0,0.131560784838,0.222780621796,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14052
+567,"Maxwell to Munro, 1 run, down leg, shovelled with lots of bottom hand to long-on .",321,14,5,53.5072532061,0.131560784838,0.0,0.16870514497,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13822
+568,"Maxwell to Munro, 2 runs, Munro switch-hits and gets it just over the leaping mid-wicket.",320,12,6,43.2316633105,0.16870514497,0.222780621796,0.0,0.0417787963088,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+569,Not far from getting out there.,319,3,4,27.5864522032,0.0,0.0,0.0606068785387,0.0423199057399,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+570,Came off the bottom of the bat as he took it from off stump (for a right-hander that is) .,318,9,13,60.2677635554,0.0606068785387,0.0417787963088,0.12852778917,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17763
+571,"Maxwell to Munro, no run, Munro makes room and drives that inside out to extra coverRoss Taylor, right handed bat, comes to the crease .",317,21,8,92.4553066255,0.12852778917,0.0423199057399,0.126282218992,0.0594368065777,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14373
+572,"Maxwell to Corey Anderson, out Caught by Ashton Agar!!",316,9,3,34.0500065336,0.126282218992,0.0,0.108931022636,0.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.16348
+573,Maxwell is doing it for Australia.,315,3,4,22.6793470717,0.108931022636,0.0594368065777,0.0,0.0657532675184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093745
+574,A huge wicket this one.,314,4,2,18.1808194894,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+575,Corey Anderson much like KW is beaten in the flight and holes out.,313,9,5,56.8990264736,0.0,0.0657532675184,0.0484803351424,0.206754323949,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23354
+576,"Came down the track, didn't get to the pitch of it, still went through with the lofted hit, more height than distance, Agar comes forward, tells Warner at long-off, it is mine and reverse-cups it.",312,26,17,143.651288669,0.0484803351424,0.0,0.0638655399023,0.0120633749534,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167615
+577,Corey Anderson c Ashton Agar b Maxwell  .,311,8,0,20.1142141046,0.0638655399023,0.206754323949,0.593768929235,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.134575
+578,")Maxwell to Corey Anderson, THAT'S OUT!!",310,8,3,19.3742666468,0.593768929235,0.0120633749534,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+579,Caught!!,309,3,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+580,.,308,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+581,"Maxwell to Munro, 1 run, Munro comes down the track and drives to long-off .",307,12,5,40.7637383659,0.0,0.0,0.186663938789,0.178357628782,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.201315
+582,"Mitchell Marsh to Munro, 1 run, now an under edge lands short of Nevill.",306,12,5,54.0368606228,0.186663938789,0.0,0.0712953876836,0.138831234819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+583,Munro looking to power one straight back over the bowler's head and got lucky .,305,12,4,59.9430418009,0.0712953876836,0.178357628782,0.0414660611496,0.0372612099211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+584,"Mitchell Marsh to Corey Anderson, 1 run, fullish and Corey Anderson gets forward to drill it to long-on .",304,16,5,56.7521899663,0.0414660611496,0.138831234819,0.464267432398,0.137361616432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15263
+585,"Mitchell Marsh to Corey Anderson, no run, slower delivery on the stumps, defended to leg .",303,14,5,50.4271525865,0.464267432398,0.0372612099211,0.196323759818,0.0163947519721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+586,"Mitchell Marsh to Munro, 1 run, ""catch"" was the impassioned cry from the Aussies.",302,14,5,51.5610892289,0.196323759818,0.137361616432,0.0286855296215,0.183587538747,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.142855
+587,But just short of the forward-diving NCN at cover.,301,5,5,30.0137624551,0.0286855296215,0.0163947519721,0.0,0.163051241857,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+588,What was Munro trying to do?,300,3,4,25.4075702533,0.0,0.183587538747,0.01051750004,0.0245882000385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20695
+589,"He came forward and seemed to have checked his stroke, it lobbed periliously and even though NCN tried his best couldn't get there .",299,17,9,110.635875955,0.01051750004,0.163051241857,0.0392958040031,0.0456527933617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+590,"Mitchell Marsh to Corey Anderson, 1 run, shortish on the stumps, Corey Anderson swivelled on the pull and mistimed it to deep backward square leg .",298,21,8,88.3336049314,0.0392958040031,0.0245882000385,0.136422646806,0.126520143313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14
+591,"Mitchell Marsh to Munro, 1 run, back of a length outside off, Munro stands tall and punches it to long-off .",297,17,7,61.7620336121,0.136422646806,0.0456527933617,0.286397945037,0.199346205318,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+592,"Mitchell Marsh to Munro, wide, way outside off, left alone and called a wide as it is outside the tramlineMitchell Marsh, right-arm medium, comes into the attack .",296,23,10,101.143217273,0.286397945037,0.126520143313,0.0723130374064,0.0224831713334,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132075
+593,"Maxwell to Munro, 1 run, flat and down leg, whipped to deep mid-wicket .",295,13,4,41.0898993912,0.0723130374064,0.199346205318,0.199411234383,0.112555275538,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.25625
+594,"Maxwell to Corey Anderson, 1 run, on middle, Corey Anderson gently turns it through mid-wicket .",294,15,4,50.5312142568,0.199411234383,0.0224831713334,0.474935053906,0.25973181926,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+595,"Maxwell to Corey Anderson, no run, kept low, Corey Anderson defends from the crease to cover .",293,15,5,60.094959121,0.474935053906,0.112555275538,0.255334367976,0.0915939869202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+596,"Maxwell to Munro, 1 run, on middle, Munro drives past coverCorey Anderson, left handed bat, comes to the crease .",292,21,4,70.7509315759,0.255334367976,0.25973181926,0.0878131433229,0.0113412678837,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+597,"Maxwell to Williamson, out Caught by Ashton Agar!!",291,8,3,29.982350083,0.0878131433229,0.0915939869202,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.172415
+598,Lots of roaring and grunting from the Aussies.,290,5,4,36.7670214328,0.0,0.0113412678837,0.0,0.0690851183782,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+599,Now KW is gone.,289,3,2,20.0148833798,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.043475
+600,"Took a step out and shuffled outside leg, but didn't get to the pitch of it, still went with the lofted hit and holed out to long-off.",288,17,14,99.0465988676,0.0,0.0690851183782,0.122386291891,0.13032706717,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.263335
+601,"He was trying to go over cover, but hit it a lot straighter.",287,8,7,50.4143929997,0.122386291891,0.0,0.0370359566485,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+602,Should have maybe just pushed a single after not getting to the pitch of it.,286,6,10,60.6001287939,0.0370359566485,0.13032706717,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.201735
+603,Australia strike back with two quick wickets.,285,7,1,33.2221208851,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.103445
+604,Williamson c Ashton Agar b Maxwell  .,284,7,0,16.046557654,0.0,0.0,0.3732144365,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.14091
+605,"0) [4s-4]Maxwell to Williamson, THAT'S OUT!!",283,11,3,15.3066101962,0.3732144365,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+606,Caught!,282,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+607,!Smith rotating his bowlers.,281,5,1,21.7842965034,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04
+608,Not giving them more than one over in a spell.,280,4,7,45.8202884352,0.0,0.0,0.120065512327,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+609,That way the Kiwis can't line up a bowler and target them .,279,8,6,44.925094245,0.120065512327,0.0,0.0753858558877,0.0247505539034,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+610,"Maxwell to Munro, 1 run, tossed up on the stumps, Munro goes slightly inside out and finds long-offGlenn Maxwell, right-arm off break, comes into the attack .",278,23,9,90.2476193912,0.0753858558877,0.0,0.18697084647,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.15094
+611,"Faulkner to Munro, 1 run, back of the hand slower delivery on the stumps, Munro drills it to mid-off where Agar is content to allow the quick singleVery important to have your best fielders in catching positions, especially in the deep.",277,29,17,162.918198538,0.18697084647,0.0247505539034,0.0,0.0449447396293,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.143695
+612,Not sure too many would've taken that Guptill catch.,276,8,3,44.5841970929,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.07831
+613,Only the athletic ability of Maxwell got him there.,275,5,5,40.7508787662,0.0,0.0449447396293,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093745
+614,Made it look so easy.,274,4,2,23.9022364378,0.0,0.0,0.0550136119731,0.0336028497311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+615,"It wasn't, trust me .",273,4,3,19.0816590354,0.0550136119731,0.0,0.0327524608895,0.0306741549812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.276925
+616,"Faulkner to Williamson, 1 run, good length slower delivery on the stumps, Williamson backs away and punches it to sweeper cover .",272,19,6,73.4498574506,0.0327524608895,0.0336028497311,0.286575043516,0.131284107201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152175
+617,"Faulkner to Williamson, no run, angled in, Williamson takes a step or two out and then nudges it to mid-wicket .",271,14,10,71.7814642663,0.286575043516,0.0306741549812,0.1664817844,0.0141104763273,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.201375
+618,"Faulkner to Munro, 1 run, full outside off, Munro gets forward and drives to mid-off.",270,15,4,45.3479263547,0.1664817844,0.131284107201,0.0175907052114,0.029279924646,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+619,Agar is caught napping and he should've attacked the ball.,269,7,5,42.5281088477,0.0175907052114,0.0141104763273,0.0,0.0223383589574,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+620,"A half-chance for a run-out, goes abegging .",268,6,3,15.4305916709,0.0,0.029279924646,0.0218459710992,0.0821532925201,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+621,"Faulkner to Williamson, 1 run, good length outside off, Williamson gets forward and steers it to third manColin Munro, left handed bat, comes to the crease .",267,25,7,94.4997375904,0.0218459710992,0.0223383589574,0.121371683382,0.0741457121212,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137255
+622,"Faulkner to Guptill, out Caught by Maxwell!!",266,7,3,25.1809457931,0.121371683382,0.0821532925201,0.127499680828,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+623,Faulkner roars and pumps his fist.,265,5,2,30.5110064548,0.127499680828,0.0741457121212,0.0,0.122319599371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+624,Fine running catch from Maxi at long-on.,264,6,2,29.2800605817,0.0,0.0,0.0372808915159,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.19228
+625,"It was full and angled in from round the wicket, Guptill helicoptered that and as is his wont, kept his head down and didn't watch the flight of the ball.",263,16,18,121.069513171,0.0372808915159,0.122319599371,0.0372568654053,0.120148793765,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.167815
+626,He does all the time.,262,2,4,20.5204852689,0.0372568654053,0.0,0.0276186179653,0.0253645229924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+627,A long way up in the air but Maxi ran around to his right and took a good catch with both hands just inside the ropes.,261,14,13,105.060144456,0.0276186179653,0.120148793765,0.0370877880248,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.16809
+628,The dangerous Guptill goes and Australia needed that.,260,6,3,32.3955509945,0.0370877880248,0.0253645229924,0.168147625528,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+629,Guptill c Maxwell b Faulkner  .,259,6,0,11.2451533641,0.168147625528,0.0,0.0,0.638959662269,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+630,7) [4s- .,258,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+631,"s-4]Faulkner to Guptill, THAT'S OUT!!",257,8,3,15.7180549912,0.0,0.638959662269,0.0,0.309362586438,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137935
+632,Caught!,256,2,0,4.42392563274,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+633,!James Faulkner [ .,255,5,0,10.2594329463,0.0,0.309362586438,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+634,- .,254,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+635,-0] is back into the attack .,253,5,3,17.3713156262,0.0,0.0,0.0,0.0761918647819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+636,"Zampa to Williamson, no run, skids straight on middle, Williamson gets a soft leading edge to cover.",252,16,5,69.0750531612,0.0,0.0,0.030163594209,0.20513557394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+637,The ball rolled to the fielder .,251,4,3,20.4441226695,0.030163594209,0.0761918647819,0.048262123957,0.074515810232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.164085
+638,"Zampa to Guptill, 1 run, Zampa cleverly shortens the length on seeing Guptill advance, still Guptill slaps it away to sweeper cover .",250,21,5,92.5401048728,0.048262123957,0.20513557394,0.410567348971,0.27492663543,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10638
+639,"Zampa to Guptill, no run, very full, Guptill jams it out back to the bowler .",249,12,7,54.1315384856,0.410567348971,0.074515810232,0.309592132417,0.0144132998595,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+640,"Zampa to Guptill, no run, Nevill gets across and dives to catch that and appeals.",248,12,6,58.0546702573,0.309592132417,0.27492663543,0.0,0.110585344927,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.14706
+641,But Erasmus has made the right decision.,247,5,3,32.6685861972,0.0,0.0144132998595,0.0130690996612,0.0234661219517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+642,No glove or inside edge onto the pad as Guptill swept and missed.,246,9,5,60.7744265354,0.0130690996612,0.110585344927,0.126399898965,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10965
+643,Maybe Nevill should've allowed the ball to drop and watched it go back onto the stumps.,245,12,6,69.347675028,0.126399898965,0.0234661219517,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.163705
+644,Definite backspin on that.,244,3,2,19.9840263445,0.0,0.0,0.119554142846,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+645,But he assumed there was glove on that .,243,3,6,34.4146513852,0.119554142846,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+646,"Zampa to Williamson, 1 run, turned to the right of Zampa, who runs across to field.",242,14,6,58.2264249729,0.0,0.0,0.0175764170102,0.384563777805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+647,Can't stop the single .,241,5,1,12.6101602028,0.0175764170102,0.0,0.010942799003,0.0402754056329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+648,"Zampa to Guptill, 1 run, dragged down leg, pulled to deep square leg, Zampa is lucky that he got away with one thereAdam Zampa, right-arm leg break, comes into the attack .",240,29,9,123.171418159,0.010942799003,0.384563777805,0.0730807832592,0.0829033797051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+649,"Coulter-Nile to Williamson, FOUR, at one end is the marmaliser of a cricket ball, and here is KW - the silky sweet kisser of the cherry.",239,18,12,97.835459802,0.0730807832592,0.0402754056329,0.109411651705,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.15316
+650,What a shot that is.,238,2,4,15.6753931094,0.109411651705,0.0829033797051,0.0,0.0894695550966,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173615
+651,Test match stroke in a T20.,237,5,2,27.9460393028,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+652,Only a few have the ability to do that.,236,2,8,33.2486144988,0.0,0.0894695550966,0.0,0.0365212483324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181325
+653,And KW is a genius.,235,3,3,17.8341336396,0.0,0.0,0.0518370907021,0.182623480779,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.124995
+654,"On a good length and outside off, not much room but he arched back and timed the square drive, wide of point and the ball just sped across the turf to race away.",234,21,15,130.550872935,0.0518370907021,0.0365212483324,0.0616887078595,0.0366053381998,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14035
+655,Can watch that shot all day and admire the skill level of KW.,233,8,6,63.5707493076,0.0616887078595,0.182623480779,0.0502652395941,0.0192703514325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+656,One of a kind .,232,3,2,13.5778734111,0.0502652395941,0.0366053381998,0.0,0.0877601083654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+657,"Coulter-Nile to Guptill, 1 run, now clears his front leg and an off-speed delivery, so he mistimes the pull to deep mid-wicket.",231,17,9,68.6040334371,0.0,0.0192703514325,0.0652735800956,0.257280542321,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.212705
+658,That came off the bottom of the bat .,230,4,5,27.3970024846,0.0652735800956,0.0877601083654,0.0,0.110144247702,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.219775
+659,"Coulter-Nile to Guptill, SIX, massive from Guptill.",229,8,2,24.0795117333,0.0,0.257280542321,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.10345
+660,"A little shimmy or two, then gets under that and sends the loft way over long-off.",228,10,8,67.5246488047,0.0,0.110144247702,0.0171827835919,0.12976149278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+661,The thin air at Dharamsala helps the white cherry fly.,227,8,3,52.5654915635,0.0171827835919,0.0,0.0472125099957,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+662,That came out of nowhere and the key was to get under the length to allow a free swing of the arms .,226,10,13,85.0568640554,0.0472125099957,0.12976149278,0.0838451390766,0.0973259997216,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+663,"Coulter-Nile to Williamson, 1 run, around off and middle, on a length, Williamson flicks to deep mid-wicket .",225,16,6,44.9301174431,0.0838451390766,0.0,0.165793693596,0.425250847501,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.247875
+664,"Coulter-Nile to Guptill, 1 run, this cramps Guptill for room, but he stays beside the line of the ball, dabs down on it and sends it to third man .",224,20,14,104.637088033,0.165793693596,0.0973259997216,0.1974870747,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145455
+665,"Coulter-Nile to Williamson, 1 run, short of length outside off, Williamson is very wristy as he hops and fetches it, before rolling his wrists to get a single to deep square legNathan Coulter-Nile [ .",223,25,14,122.295334215,0.1974870747,0.425250847501,0.0,0.0465766780708,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167375
+666,- .,222,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+667,-0] is back into the attack .,221,5,3,17.3713156262,0.0,0.0465766780708,0.131196745944,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.184065
+668,"Faulkner to Williamson, 1 run, back of a length on the stumps, Williamson nudges a single to the left of short fine .",220,17,9,65.430823748,0.131196745944,0.0,0.365055690548,0.0902301598249,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153165
+669,"Faulkner to Williamson, FOUR, class from Williamson.",219,8,2,28.5842504637,0.365055690548,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.103445
+670,This full ball has been hit in the air but just wide of the diving Watson at mid-wicket.,218,9,10,65.8559943279,0.0,0.0902301598249,0.0,0.156101887264,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.19338
+671,Not sure whether he got a fingertip on that.,217,5,5,37.9951896955,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+672,"Trademark Williamson flick and even though it was in the air, once it passed Watson's dive, it scooted away to the fence.",216,16,10,95.1977605834,0.0,0.156101887264,0.0,0.0831643542311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169935
+673,Now KW is ticking .,215,3,2,20.7080305603,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.043475
+674,"Faulkner to Williamson, FOUR, the bat face closed.",214,9,2,32.4847174109,0.0,0.0831643542311,0.176407798529,0.162024345391,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.145605
+675,But he will get four.,213,3,3,20.1394243337,0.176407798529,0.0,0.0,0.162902994092,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08333
+676,"Full outside off, Williamson wanted to clear mid-on and did so despite not getting it off the middle of the bat.",212,12,11,78.4311566794,0.0,0.162024345391,0.112674033896,0.065039583799,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24286
+677,"The fielder may have felt he had a chance when he saw the shot, but had enough elevation to clear him .",211,11,12,92.651896414,0.112674033896,0.162902994092,0.00898597051618,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+678,"Faulkner to Williamson, no run, nice start from Faulkner.",210,9,3,34.9722723371,0.00898597051618,0.065039583799,0.0,0.021087292617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09677
+679,Three dots in a row.,209,4,2,21.5129413242,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+680,"Fullish on off, defended to cover .",208,5,3,22.8824082737,0.0,0.021087292617,0.0840343251966,0.11590457226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.116015
+681,"Faulkner to Williamson, no run, back of a length around off, Williamson punches off the back foot and gets an inside edge onto the back pad.",207,20,10,94.3789265824,0.0840343251966,0.0,0.144225125417,0.398350355252,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.201665
+682,The ball rolls to the off-side .,206,4,3,14.5136535475,0.144225125417,0.11590457226,0.0711463445304,0.0445052733305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+683,"Faulkner to Williamson, no run, good length on off, Williamson gets forward and defends towards point.",205,15,5,59.4238397066,0.0711463445304,0.398350355252,0.116157722676,0.389310029484,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135135
+684,"No chance of a quick singleJames Faulkner, comes into the attack .",204,8,5,42.9933253671,0.116157722676,0.0445052733305,0.0409674899683,0.0140341919575,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+685,"Watson to Williamson, 1 run, short of length outside off, punched towards cover.",203,14,3,44.3204628207,0.0409674899683,0.389310029484,0.0142615538188,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+686,"Marsh dives and fumbles, that allows the single to be taken.",202,8,5,46.1528207751,0.0142615538188,0.0140341919575,0.0,0.0479937438141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140525
+687,Sloppy work .,201,3,0,12.5867106519,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+688,"Watson to Guptill, 1 run, shortish outside off, Guptill arches back and punches to the right of Maxwell at point, a diving stop but they have run with the shot.",200,22,13,104.850204683,0.0,0.0479937438141,0.0674216781456,0.0910587539263,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+689,So well doneGuptill and Williamson have a word.,199,5,4,32.8708279513,0.0674216781456,0.0,0.0,0.0126789919041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+690,Perhaps KW is telling Guptill not to get carried away.,198,8,3,48.0579351831,0.0,0.0910587539263,0.00690398671266,0.0824853919471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.209455
+691,This has been a terrific start by New Zealand and the gamble by Steven Smith to give Agar the ball in the powerplay has backfired spectacularly .,197,14,13,111.343357475,0.00690398671266,0.0126789919041,0.0396979628053,0.0197855285862,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19763
+692,"Watson to Guptill, no run, experience of Watson to the fore.",196,9,5,39.0943554263,0.0396979628053,0.0824853919471,0.0945888513933,0.416963724884,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+693,"Tight line on off, Guptill gets forward and defends to cover .",195,9,4,43.8867134497,0.0945888513933,0.0197855285862,0.162373528654,0.167054748441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16667
+694,"Watson to Guptill, no run, short of length on off, patted to point, Guptill yells out a loud ""no"" to WilliamsonNo slip for Watson .",194,20,11,89.9582245171,0.162373528654,0.416963724884,0.313805614227,0.0644132186582,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+695,"Watson to Guptill, no run, this hurries Guptill on the pull, still he mows and mistimes it to mid-wicket.",193,14,9,67.2493968785,0.313805614227,0.167054748441,0.0613549200542,0.0775244016435,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+696,Didn't get it off the middle of the bat.,192,5,6,30.8482306944,0.0613549200542,0.0644132186582,0.0921290055379,0.068485710089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.309525
+697,He wants to hit everything out of the park .,191,5,5,37.1030609477,0.0921290055379,0.0775244016435,0.0664004790251,0.0173033141116,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+698,"Watson to Williamson, 1 run, back of a length on the stumps, Williamson shuffles across and nudges a single to fine leg .",190,18,8,70.5487593796,0.0664004790251,0.068485710089,0.0257254432936,0.0269488494291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+699,"Ashton Agar to Guptill, SIX, three sixes.",189,9,1,30.9414813376,0.0257254432936,0.0173033141116,0.292081567136,0.28146136028,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.14286
+700,And three dots.,188,3,1,14.083035185,0.292081567136,0.0269488494291,0.0,0.0265685498271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+701,That is 18 off the Ashton Agar over.,187,4,5,29.5442742702,0.0,0.28146136028,0.109016150896,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.21212
+702,"Floated up around off, Guptill sinks on one knee and biffs it over long-on.",186,10,6,58.8265489863,0.109016150896,0.0265685498271,0.0922035964509,0.091417458388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196075
+703,A huge hit this one.,185,4,2,18.7319964087,0.0922035964509,0.0,0.123017924116,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+704,Cleanly hit too and Guptill has raced to 28 off  .,184,6,5,44.7713185469,0.123017924116,0.091417458388,0.116973943087,0.0595817489264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+705,"Ashton Agar to Guptill, no run, Ashton Agar pulls the length back and forces Guptill to defend watchfully .",183,16,5,70.5587035831,0.116973943087,0.0,0.483909955222,0.374101652712,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.135135
+706,"Ashton Agar to Guptill, no run, very full on the stumps, drilled to the left of a diving Ashton Agar who fields .",182,16,10,81.1287684754,0.483909955222,0.0595817489264,0.379778639869,0.0845445168401,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.16082
+707,"Ashton Agar to Guptill, no run, third full toss in a row, clipped to square leg.",181,15,5,60.9682602454,0.379778639869,0.374101652712,0.0732909360957,0.368716968924,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0.16083
+708,Confusion between Guptill and Williamson and the former is sent back in the nick of time .,180,9,8,66.5748613871,0.0732909360957,0.0845445168401,0.0842073992913,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14167
+709,"Ashton Agar to Guptill, SIX, what is that Ashton Agar?",179,9,4,38.6402497609,0.0842073992913,0.368716968924,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.130435
+710,Another one.,178,3,0,9.78942931707,0.0,0.0,0.0,0.115080559021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+711,Unbelievable bowling.,177,3,0,13.5030013838,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+712,"This is not as high as the previous one, but still it is on the stumps, allows Guptill a free-hit.",176,11,12,69.9906522213,0.0,0.115080559021,0.189951755364,0.033793712185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+713,Slammed over wide long-on and it is a flat hit.,175,6,5,33.838436646,0.189951755364,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18959
+714,Went all the way.,174,3,2,16.6237067127,0.0,0.033793712185,0.0278260522037,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+715,Completely turned the momentum around .,173,5,1,26.3318507876,0.0278260522037,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+716,"Ashton Agar to Guptill, SIX, a gift.",172,8,2,25.858310076,0.0,0.0,0.431945834675,0.139111829323,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.14286
+717,Gift-wrapped and delivered to Guptill.,171,4,2,14.564709666,0.431945834675,0.0,0.0140433282818,0.0925779595958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119995
+718,"A high full toss on the stumps from Ashton Agar first ball, he has been tonked high over deep mid-wicket and that went a long long way.",170,18,11,101.989736139,0.0140433282818,0.139111829323,0.121060591452,0.0751259778568,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0.176075
+719,He came from round the wicket and made Guptill's job so easy.,169,9,5,50.2299024344,0.121060591452,0.0925779595958,0.0551280150816,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+720,"He will murder thatAshton Agar, left-arm orthodox, comes into the attack .",168,10,4,47.1898831201,0.0551280150816,0.0751259778568,0.0,0.0107018814692,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.107145
+721,"Watson to Williamson, no run, Watson was doing two things at once.",167,9,6,49.1510936401,0.0,0.0,0.0110105254984,0.0490718135783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+722,Appealing and trying to stop the leg-bye from being taken.,166,6,5,40.0309879729,0.0110105254984,0.0107018814692,0.0358215457111,0.0326680962785,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+723,To the naked eye looked like there was a slight inside edge onto the pad on the flick.,165,11,8,75.5245612229,0.0358215457111,0.0490718135783,0.247663546424,0.074781950222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21667
+724,"It was the off-cutter, Williamson got outside the line and may have feathered one onto his pad.",164,12,7,65.5224809143,0.247663546424,0.0326680962785,0.0677708420127,0.0916505816419,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+725,Anyway the appeal was rightly turned down .,163,5,3,36.2055236969,0.0677708420127,0.074781950222,0.0,0.0329637037235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+726,"Watson to Williamson, FOUR, that's a poor delivery and Watson knows it.",162,11,5,42.3378307596,0.0,0.0916505816419,0.152562338813,0.0455658561231,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.133335
+727,"Fullish on middle and leg, Williamson gets inside the line of the delivery and flicks it fine, no chance for the fielder.",161,15,10,81.1654291099,0.152562338813,0.0329637037235,0.123608760716,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15766
+728,Williamson gets off the mark with a boundaryIdiots walking near the sightscreen - which means there is a slight delay .,160,12,9,85.0269775155,0.123608760716,0.0455658561231,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.174975
+729,"Watson to Guptill, 1 run, ""oooh!""",159,10,1,18.7049709095,0.0,0.0,0.107543714046,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+730,goes Watson and has his hands on his head.,158,5,5,37.5902359817,0.107543714046,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07895
+731,With a big smile.,157,3,2,14.8824045788,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+732,That was close.,156,2,2,12.201062567,0.0,0.0,0.0,0.113466422499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+733,Guptill early into the pull and got a thick bottom edge which missed off and Nevill dived to his left to take pace off the ball.,155,15,12,102.197543561,0.0,0.0,0.0172344201896,0.139351309245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+734,Saved three runs as fine leg was inside the circle .,154,8,3,46.8307911487,0.0172344201896,0.113466422499,0.0544617639548,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+735,"Watson to Guptill, no run, good length on off stump, no room for Guptill as he gets forward to defend to cover .",153,16,10,78.2040599859,0.0544617639548,0.139351309245,0.409230366347,0.069049468793,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+736,"Watson to Guptill, no run, short of length on off, Guptill respects it with a back foot defence.",152,14,8,63.2781967864,0.409230366347,0.0,0.0436759796771,0.338820179855,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+737,Very watchful first up against WatsonA widish slip in place for Watson .,151,8,5,63.4180736265,0.0436759796771,0.069049468793,0.0607116264031,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08571
+738,"Watson to Guptill, no run, on a line and length on off stump, Guptill gets forward and defends solidly to coverShane Watson, right-arm fast medium, comes into the attack .",150,24,11,105.581241606,0.0607116264031,0.338820179855,0.144585737679,0.250849152511,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163265
+739,"Coulter-Nile to Williamson, no run, short of length on the stumps, Williamson stands tall and blocks .",149,14,6,56.4155948249,0.144585737679,0.0,0.171293929285,0.295224762237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+740,"Coulter-Nile to Guptill, 1 run, full on off stump, Guptill clips it through mid-wicket for a single .",148,14,7,48.3529498399,0.171293929285,0.250849152511,0.295859189356,0.0892688811061,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+741,"Coulter-Nile to Guptill, FOUR, brutalised past Williamson.",147,9,1,26.3930081359,0.295859189356,0.295224762237,0.05887982267,0.108609259131,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.10345
+742,"This was not that short, but Guptill rocked back and flat-batted a ferocious pull.",146,9,7,50.3477353053,0.05887982267,0.0892688811061,0.0167288240599,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+743,Williamson had to be quick to get out of the way and he did.,145,5,10,50.5132578242,0.0167288240599,0.108609259131,0.171761234903,0.0337406319498,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.308895
+744,Again mid-on had no chance to his left.,144,4,5,28.3031472623,0.171761234903,0.0,0.0,0.0192819430173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10714
+745,Guptill is up and running .,143,3,3,18.8064310371,0.0,0.0337406319498,0.123835589748,0.0482385245894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.124995
+746,"Coulter-Nile to Guptill, FOUR, deliberately played!",142,8,1,22.6513953416,0.123835589748,0.0192819430173,0.077802208007,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.107145
+747,"Fullish outside off, he gets forward and steers with an open face, well wide of slip and it runs away for four.",141,16,9,91.4609091405,0.077802208007,0.0482385245894,0.0978810028212,0.104330100857,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.098035
+748,What an outfield this is.,140,2,4,23.2046849958,0.0978810028212,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+749,It just sped away and gave third man no chance.,139,7,4,44.9880510887,0.0,0.104330100857,0.0,0.0599056244537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+750,Well in control of the shot was Guptill .,138,5,4,31.0186411428,0.0,0.0,0.119182850514,0.233278338394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+751,"Coulter-Nile to Guptill, no run, beaten on the cut.",137,8,4,26.8244331223,0.119182850514,0.0599056244537,0.0680745740769,0.0589707290617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+752,Not the length to be playing the shot.,136,4,5,28.1257363366,0.0680745740769,0.233278338394,0.203011506045,0.0151738310048,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+753,"Cramped him on a back of a length with extra bounce, still he went for the shot and was lucky that he didn't top-edge that to the keeper .",135,14,17,99.9794806404,0.203011506045,0.0589707290617,0.126872799763,0.038786965164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20517
+754,"Coulter-Nile to Guptill, no run, no he doesn't do anything of that sort.",134,9,8,49.2158819242,0.126872799763,0.0151738310048,0.0621993097015,0.0997656403194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+755,"Fullish outside off, hint of wobble away, Guptill watchfully shoulders armsGuptill and Williamson are at the crease.",133,14,6,77.1006032252,0.0621993097015,0.038786965164,0.0861719150796,0.0114302067845,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+756,Guptill is on strike.,132,3,2,15.1949468797,0.0861719150796,0.0997656403194,0.35937720097,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+757,Coulter-Nile will open the attackGuptill on strike.,131,5,3,27.1375332234,0.35937720097,0.0114302067845,0.099352934011,0.0293899104361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+758,Will he do what he did to Ashwin the other day?,130,3,9,48.7236524975,0.099352934011,0.0,0.0239451472412,0.0213980760124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16905
+759,NCN with the ball.,129,3,2,14.5447248354,0.0239451472412,0.0293899104361,0.276937781649,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.215905
+760,Expect a lot of KW and NCN in the commentary in the first innings.,128,8,7,55.2355834896,0.276937781649,0.0213980760124,0.0,0.0975489194349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19228
+761,I don't want my fingers to be burnt typing their full names.,127,8,6,62.0540595286,0.0,0.0,0.0657331111888,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+762,Here we go...The Aussies follow their brothers in reciting the anthem.,126,8,6,59.6850301221,0.0657331111888,0.0975489194349,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+763,"Just like New Zealand, they have arms around each other's shoulders.",125,9,5,54.6263008274,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16082
+764,"Warner has a cheerful smile as he belts out ""Advance Australia Fair.""",124,10,5,57.7804017111,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+765,The Aussies are in a huddle.,123,3,4,21.9046118101,0.0,0.0,0.0260223881697,0.0162169834584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1875
+766,With Smith doing the talking.,122,3,3,22.9535051214,0.0260223881697,0.0,0.0155674970023,0.0839870090219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+767,The Black and Yellow outfit isn't eye-catching at all.,121,6,5,36.1264834399,0.0155674970023,0.0162169834584,0.0,0.036406489297,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.135715
+768,But that's what they have decided to go with for this tournament.,120,5,9,49.6221276355,0.0,0.0839870090219,0.0168643669572,0.0507944763877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+769,KW and Guptill stride out to the middle.,119,5,4,29.3316206568,0.0168643669572,0.036406489297,0.0403545447102,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20945
+770,Not far from the start...One side that will be rooting for the Aussies today would be India after their loss against the Kiwis in the first game.,118,15,15,125.025932727,0.0403545447102,0.0507944763877,0.202569438455,0.0865834159921,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.194895
+771,A New Zealand win today would put more pressure on India.,117,9,3,51.5011746317,0.202569438455,0.0,0.0,0.164979839046,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18815
+772,Right time for the anthems.,116,4,2,20.9162443345,0.0,0.0865834159921,0.0265106407341,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+773,First up it is the turn of New Zealand.,115,5,5,32.6755167019,0.0265106407341,0.164979839046,0.0,0.148324957683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+774,Then Australia.,114,2,1,9.30579943611,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+775,The entire New Zealand team stand as one with arms wrapped around each other's shoulders.,113,12,5,76.0376752996,0.0,0.148324957683,0.0,0.0655308928006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15936
+776,Their Biege kit is fabulous.,112,4,2,29.4536945209,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.041665
+777,I'm definitely ordering one before the tournament ends.,111,7,3,37.1021093577,0.0,0.0655308928006,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093745
+778,They should be playing in it more often.,110,3,6,38.4603063591,0.0,0.0,0.0359731797386,0.0327324404312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+779,A smattering of support for them in Dharamsala.Very interesting decision to play Warner at 4.,109,9,7,57.4509403497,0.0359731797386,0.0,0.120782385264,0.0571561907475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+780,I'm not too sure how the little pocket-rocket has taken that decision in his stride.,108,8,9,62.9290141014,0.120782385264,0.0327324404312,0.168770373771,0.0647092510489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+781,It will make him more angry for sure and that may reflect in his batting.,107,7,9,69.9353166013,0.168770373771,0.0571561907475,0.0564826294629,0.0744971967754,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106385
+782,But Usman Khawaja was the undisputed choice at number one after his stunning exploits in the Big Bash.,106,11,8,87.1886467498,0.0564826294629,0.0647092510489,0.184408637431,0.0165722358151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15833
+783,So it was a choice between Watson and Warner for the other spot.,105,5,9,50.6447658021,0.184408637431,0.0744971967754,0.0546173874902,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144045
+784,And Smith has decided that it is the former who will get a go first.,104,7,9,58.9276415032,0.0546173874902,0.0165722358151,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14706
+785,Still Australia look very strong.,103,5,1,26.9900700871,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+786,Expect a fantastic match today.,102,5,1,24.0748090151,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+787,My colleague - Akshay - tells me that Warner has been batting at 4 in recent games which I didn't follow.,101,13,10,93.4822569399,0.0,0.0,0.0185979162423,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102905
+788,"So there's the explanation if one was neededTeams:Australia (Playing XI): Usman Khawaja, Shane Watson, Steven Smith(c), David Warner, Glenn Maxwell, Mitchell Marsh, James Faulkner, Peter Nevill(w), Ashton Agar, Nathan Coulter-Nile, Adam ZampaNew Zealand (Playing XI): Kane Williamson(c), Martin Guptill, Colin Munro, Corey Anderson, Ross Taylor, Mitchell Santner, Grant Elliott, Luke Ronchi(w), Adam Milne, Mitchell McClenaghan, Ish SodhiSmith: ""We would have also batted.",100,99,7,316.28063297,0.0185979162423,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.109305
+789,It looks pretty dry.,99,4,1,21.7177357369,0.0,0.0,0.0340981246138,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+790,It is exciting to start our World Cup campaign here today.,98,7,5,55.8365145705,0.0340981246138,0.0,0.0881352635749,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+791,We have played against them recently and hopefully we can do well today.,97,6,8,64.4196771174,0.0881352635749,0.0,0.350372165762,0.0184286184662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+792,We have a very strong 15-man squad and have picked a side that will do well against New Zealand.,96,9,11,73.9973463253,0.350372165762,0.0,0.087011190746,0.203768074467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135385
+793,Usman and Watson (will open the batting).,95,7,3,30.0378516947,0.087011190746,0.0184286184662,0.0,0.0329243913654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+794,"""Williamson: ""We are going to have a bat.",94,7,5,27.4320900977,0.0,0.203768074467,0.0972753613769,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12903
+795,The pitch looks pretty dry and we want to make use of it first.,93,9,6,63.218673401,0.0972753613769,0.0329243913654,0.0128174538461,0.0576731907184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20956
+796,The slower bowlers will come in later on.,92,5,4,34.3365429477,0.0128174538461,0.0,0.0485218766621,0.0308595582696,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+797,"We have one change, Mitchell McClenaghan comes in for Nathan McCullum.",91,9,4,49.341445803,0.0485218766621,0.0576731907184,0.163451027664,0.0930481200463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.165065
+798,We have got a win early and hopefully we can make adjustments on a new wicket.,90,9,8,65.4446909357,0.163451027664,0.0308595582696,0.121703693782,0.19663512372,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+799,"""New Zealand have won the toss and have opted to batPitch report: ""Stunning conditions here at Dharamsala.",89,13,8,81.2283158114,0.121703693782,0.0930481200463,0.111938902182,0.00890864247705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.165005
+800,Thankfully we have some sun.,88,3,3,27.7612406578,0.111938902182,0.19663512372,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+801,The ground has been under covers since yesterday  .,87,5,4,42.6198926903,0.0,0.00890864247705,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+802,0 local time.,86,4,0,11.3483364209,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.038465
+803,This wicket won't spin that much.,85,6,2,22.1217203849,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0.125
+804,"Captains like to chase when there is rain predicted,"" assesses Scott Styris.Darren Lehmann, Steven Smith and selector Mark Waugh were seen in a conference.",84,20,8,123.335563742,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09434
+805,Deciding the playing XI?,83,4,1,20.7378539022,0.0,0.0,0.0,0.0145021646253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+806,Or who will open?,82,2,3,20.3885997896,0.0,0.0,0.0,0.0694640763446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+807,There are quite a few decisions to be made for the Australian team management.,81,7,8,63.9388676566,0.0,0.0145021646253,0.244424023579,0.0859951654159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153475
+808,We are five minutes away from the toss and all those questions will be answered.Here are a few insights regarding the team compositions.,80,11,13,103.531260993,0.244424023579,0.0694640763446,0.137535127977,0.0175102843158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.117415
+809,"Josh Hazlewood and Mitch Marsh are marking their run-ups, so too are Adam Milne, Corey Anderson and Mitchell McClenaghan.",79,15,7,85.240863103,0.137535127977,0.0859951654159,0.0661260874664,0.113177885664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19763
+810,Which means Hazlewood's hat-trick in the warm-up game against West Indies might have just got him a ticket to the starting XI.,78,14,10,95.1081356029,0.0661260874664,0.0175102843158,0.0130678473259,0.0649936413648,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+811,Trent Boult and Tim Southee are not going through the drills.,77,7,5,55.3032836612,0.0130678473259,0.113177885664,0.0112075684557,0.0389164074314,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+812,"So, once again the duo might miss out.Dharamsala has so far disappointed as the run-making mill but India, of late, has been a hula hoop of sorts - everything's spinning.",76,21,14,135.097732352,0.0112075684557,0.0649936413648,0.0338081963577,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+813,Let's not trust the forecast that either belies or disappoints; let's trust Ganesh who informs that there hasn't been any rain.,75,16,10,116.117291479,0.0338081963577,0.0389164074314,0.0277123088111,0.00516610406195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+814,Now over to Australia to try and decelerate a Kiwi motorcade that's threatening to speed to a semifinal spot.,74,11,10,78.9727721509,0.0277123088111,0.0,0.0,0.0549261182244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16413
+815,Toss time minutes away!Recent history only corroborates the middle-child theory.,73,11,2,54.8884337424,0.0,0.00516610406195,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.095835
+816,Think about this: Australia and New Zealand haven't contested a T20I since  .,72,10,5,53.9358428062,0.0,0.0549261182244,0.0,0.0155927905909,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+817,.,71,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+818,And they have never faced each other in a WT20.,70,4,7,44.5193154665,0.0,0.0155927905909,0.0,0.0826294543215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+819,"So, the occasion's big with red-hot New Zealand accounting for only a Super Over win over Australia.",69,12,8,69.1161771865,0.0,0.0,0.047648329049,0.185703477776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22076
+820,"In contrast, Australia have won four of the five Trans-Tasman T20Is.But hold on.",68,9,6,49.1790608351,0.047648329049,0.0826294543215,0.0580950572466,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.128205
+821,Australia aren't a doormat opposition and the recent history gives them the wood over New Zealand.,67,11,7,71.2341081993,0.0580950572466,0.185703477776,0.0,0.00588213133284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18087
+822,Steven Smith has kept his playing XI cards close to his chest.,66,9,4,62.2787568705,0.0,0.0,0.00413560543917,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+823,What interests me is if David Warner's middle-order rescue operations will be persisted with; if Hazlewood's hat-trick was enough to book him a last-minute berth; if Agar and Zampa's nascent spin can turn tables.,65,25,15,158.497879977,0.00413560543917,0.00588213133284,0.106879391101,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+824,And if Dilshan's a well-aged wine.Nothing subtle about Dharamsala's magnificent setup though.,64,11,4,51.7551562633,0.106879391101,0.0,0.0791294038835,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+825,Or the low-hanging grey clouds but more about that later.,63,5,6,44.6631150949,0.0791294038835,0.0,0.0319397159879,0.0408156768669,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+826,Let's all concur that New Zealand are having a moment.,62,7,5,45.8693007223,0.0319397159879,0.0,0.183450091661,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163515
+827,"India were ruthlessly tamed in front of a raucous Nagpur crowd, on an ICC-bullying tailored turn-top and with tools that are all but scarce in New Zealand.",61,16,13,118.26220778,0.183450091661,0.0408156768669,0.0883643372261,0.09561083925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15659
+828,"In compliance with the McCullum playbook, Williamson had boldly benched Boult and Southee in what proved to be the investment of this millennium.",60,13,12,110.336284654,0.0883643372261,0.0,0.0189445688539,0.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18182
+829,"The spin triumvirate overwhelmed, ramping hopes and shaming us all for trivializing New Zealand...again.",59,13,5,79.1314127183,0.0189445688539,0.09561083925,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+830,.,58,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+831,0pm local: Everyone - almost everyone - agrees.,57,10,0,39.9857560076,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02174
+832,"They are the nicest, if not the most pursued.",56,4,7,42.9353740379,0.0,0.0,0.0293037493634,0.124665160273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+833,"""I was the classic middle child in some ways, the one who could have been a priest in an alternate universe,"" confessed Chiwetel Ejiofor.",55,17,12,115.709023959,0.0293037493634,0.0,0.18363885975,0.0370492637937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131575
+834,Middle children indeed are a distinctive breed; they don't have the first child's privileges or the youngest child's liberties.,54,16,8,98.63519972,0.18363885975,0.124665160273,0.0953610973745,0.0875884125578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+835,"But they still stun, doing a Gandhi or a Mandela in a sibling warfare.",53,8,8,63.2729088418,0.0953610973745,0.0370492637937,0.0324773934693,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119045
+836,Ashes bullies its way to being the eldest kid in the family while the IndoPak frenemy slots in rather nicely as the hot-tempered youngest one.,52,15,11,124.923572337,0.0324773934693,0.0875884125578,0.0169357782588,0.00464115358839,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14957
+837,"What remains is the Trans-Tasman rivalry, cricket's perennial middle child who's easy-going, cooperative yet competitive.",51,16,4,72.0085082391,0.0169357782588,0.0,0.0411543325669,0.0214016044223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+838,A hello and welcome from Pratyush Sinha to what feels like a celebration of subtlety.,50,9,7,69.3229815243,0.0411543325669,0.00464115358839,0.00673682310189,0.0212975185192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+839,"Preview by Ganesh Chandrasekaran:
+
+It is turning out to be quite a damp squib in Dharamsala.",49,10,8,75.8935901257,0.00673682310189,0.0214016044223,0.0559021568767,0.0140760527924,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.198875
+840,Only two of the six games played here were unaffected by rain.,48,7,6,59.862624892,0.0559021568767,0.0212975185192,0.12733564585,0.102590259644,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.1
+841,There's a very good chance that it will remain just two even after the game between Australia and New Zealand here tomorrow (March 18).,47,16,12,107.5492763,0.12733564585,0.0140760527924,0.0611773402161,0.177857019705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172105
+842,Both teams managed to practice only indoors a day ahead of the game.,46,8,6,62.5627069235,0.0611773402161,0.102590259644,0.0158843233363,0.13976528293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153465
+843,Australia had it a little better and enjoyed a spell of on-ground training on Wednesday (March 17) but New Zealand did not have that luxury.,45,16,12,109.283353371,0.0158843233363,0.177857019705,0.0642052078548,0.116150236163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.216665
+844,They would go into the day of the match without having had a look at the pitch.,44,8,10,72.0151531476,0.0642052078548,0.13976528293,0.0,0.0949125844726,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24633
+845,Australia are definitely luckier on that count.,43,5,3,34.8998230073,0.0,0.116150236163,0.0546932574681,0.042815019476,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+846,But it cannot be dismissed that New Zealand will be high on confidence having beaten India in Nagpur.,42,9,11,87.6944249627,0.0546932574681,0.0949125844726,0.117118551209,0.0179815367777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+847,"They have the rather unflattering reputation of being dark horses in tournaments such as these but after that victory, that reputation would be tilting towards contenders.",41,14,14,138.376719784,0.117118551209,0.042815019476,0.104716185922,0.119191352807,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12131
+848,This is not the kind of setting that Australia would have hoped for to kick-start their ICC World T20 campaign.,40,11,10,87.2530366831,0.104716185922,0.0179815367777,0.0652373936889,0.0503984909772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10204
+849,"It's probably everything that they wouldn't have liked - facing a team on a high, in damp conditions in what is likely to be a rain-hit game.",39,17,14,104.097306658,0.0652373936889,0.119191352807,0.0848583901927,0.126733515523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15853
+850,Shortened games are a lottery in this format and in a strange way that could actually even the odds.,38,11,9,84.4299490352,0.0848583901927,0.0503984909772,0.0972778006078,0.0781709776348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118645
+851,"But for the fans, organisers and everyone involved in setting up the game here in Dharamsala, it amounts to shortchange.",37,12,11,90.6632870045,0.0972778006078,0.126733515523,0.117407209118,0.0797898205171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167575
+852,"After the shift of the India-Pakistan game to Kolkata, this was their big one and they like many others will be looking over the mountains and into the skies, praying not to see more clouds shifting in.",36,19,21,159.888069982,0.117407209118,0.0781709776348,0.105611169662,0.0277435602197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16449
+853,"If the game ends with split-points then it throws another dimension into the qualification scenarios but neither team will want that, not particularly two teams who have a historical sporting rivalry.",35,19,14,149.468040334,0.105611169662,0.0797898205171,0.120381933674,0.120619159077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131055
+854,"Everything else points to a lip-smacking contest, if only the weather permits.",34,9,5,54.4197897327,0.120381933674,0.0277435602197,0.342129652482,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+855,If only.,33,1,2,10.1101722518,0.342129652482,0.120619159077,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+856,"When: Australia vs New Zealand, 18 March, Group 2 -  .",32,13,1,43.4405909585,0.0,0.0,0.0,0.108583364644,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+857,"0 PM IST
+
+Where: HPCA Stadium, Dharamsala
+
+What to expect: A lot of prayers from all concerned for the rain to stay away and let the cricket happen.",31,20,12,129.274350332,0.0,0.0,0.0197625085871,0.0262414438573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17781
+858,"Team News:
+
+Australia:
+
+There aren't any major injury concerns for Australia.",30,11,4,59.9123368488,0.0197625085871,0.108583364644,0.079744817657,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+859,Their main focus will be to get the team balance right.,29,7,5,51.2979354505,0.079744817657,0.0262414438573,0.154794877902,0.0974344231113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.24048
+860,Steve Smith reckons that the Dharamsala pitch will be a turner.,28,7,5,48.3952783344,0.154794877902,0.0,0.0867534997479,0.0565230691783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+861,So expect more spinners to be deployed.,27,4,4,34.738355821,0.0867534997479,0.0974344231113,0.0101971154273,0.0796023767677,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095835
+862,Both Ashton Agar and Adam Zampa will probably have a big role to play along with Glenn Maxwell.,26,12,7,81.1310700835,0.0101971154273,0.0565230691783,0.00698196911986,0.0349696729306,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.239765
+863,If it is a shortened game then there are likely to be changes in the batting order as well.,25,8,12,81.1101146,0.00698196911986,0.0796023767677,0.130546575076,0.0833885602289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.183775
+864,Australia experimented with David Warner in the middle-order recently against South Africa.,24,9,4,55.67349526,0.130546575076,0.0349696729306,0.00815937797021,0.0608396340043,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+865,But he could shift right back if the innings was to last just around ten overs.,23,10,7,73.1385273216,0.00815937797021,0.0833885602289,0.0167874830644,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+866,"New Zealand:
+
+Their team combination and the gutsy move to drop Tim Southee and Trent Boult for a match against India hit the headlines, particularly after it paid off.",22,20,12,135.521489587,0.0167874830644,0.0608396340043,0.0144889095536,0.00782392828807,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.16449
+867,A lot of attention will be focussed on what Mike Hesson and Kane Williamson come up with in Dharamsala.,21,10,10,86.9953870363,0.0144889095536,0.0,0.191384758543,0.0406704592612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137935
+868,Steve Smith second-guessed that they will go in with three spinners again but Ross Taylor pointed out that the boundaries in Dharamsala are a lot shorter than in Nagpur.,20,15,15,125.012283112,0.191384758543,0.00782392828807,0.135918869502,0.164759856984,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+869,"Add that the ball travels faster and further in this altitude, we may well see one of the three spin heroes sitting out.",19,15,10,110.426404181,0.135918869502,0.0406704592612,0.0370710575561,0.0746873699685,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13142
+870,"What they said:
+
+Steve Smith:
+
+We haven't picked a team yet.",18,10,5,52.0073506702,0.0370710575561,0.164759856984,0.105721819111,0.128732470741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+871,We are waiting.,17,2,2,14.7921827069,0.105721819111,0.0746873699685,0.115564052102,0.315005689081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+872,We don't know what's going to happen with the weather.,16,7,6,46.8650379092,0.115564052102,0.128732470741,0.155308308411,0.0841377238986,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+873,There are a few variables there so we are going to wait and see.,15,5,10,60.478318417,0.155308308411,0.315005689081,0.193090603926,0.0788220519933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+874,We are not set on the team for each game.,14,4,7,42.9095622411,0.193090603926,0.0841377238986,0.0860404157221,0.0929424833472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+875,We could chop and change a bit.,13,5,3,30.9229107352,0.0860404157221,0.0788220519933,0.0497717332151,0.0517365515847,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+876,"The guys have to be flexible throughout the tournament and I think it will take all fifteen of us if we have to win it
+
+Ross Taylor:
+
+Anytime you play Australia, they are our big brother I guess.",12,20,21,170.856827535,0.0497717332151,0.0929424833472,0.204538974804,0.0524694816181,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127505
+877,"They have a lot of success against us in a few games but at the same time I'd like to think, in the Trans-Tasman rivalry we get the bar up and get the best out of players here.",11,17,24,145.879680007,0.204538974804,0.0517365515847,0.0349823116998,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15032
+878,Whatever happened 12 months ago is gone and this is a new team that is looking forward to play in bigger matches.,10,14,9,103.350050973,0.0349823116998,0.0524694816181,0.0,0.0524379572619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+879,Did you know?,9,2,2,18.4038510886,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+880,- Australia have beaten New Zealand in four of the five T20Is they played against each other.,8,10,8,72.3571615408,0.0,0.0524379572619,0.249061068109,0.20647997073,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.20348
+881,The other one ended in a tie and New Zealand prevailed in the Super Over.,7,8,8,60.0268927453,0.249061068109,0.0,0.197254085402,0.235777796515,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2383
+882,- This is the first time Australia are playing New Zealand in World T20.,6,10,5,55.1107143303,0.197254085402,0.20647997073,0.128470472336,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.231815
+883,"On the other hand, they have faced each other in every edition of the 50-over World Cup since  .",5,10,10,81.3945418006,0.128470472336,0.235777796515,0.0,0.145263800305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151515
+884,.,4,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+885,- Colin Munro hits a six every  .,3,7,1,28.4978729503,0.0,0.145263800305,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.163475
+886,9 balls in T20Is - the best among all with a minimum of 15 career sixes.,2,11,6,67.8453647942,0.0,0.0,0.122929732348,0.147177081336,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.20348
+887,Glenn Maxwell has the best rate for Australia ( .,1,7,3,36.1515471755,0.122929732348,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181315
+888,9 balls per six).,0,6,0,17.6698819135,0.0,0.147177081336,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.05882

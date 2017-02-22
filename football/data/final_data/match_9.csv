@@ -1,0 +1,281 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Afternoon all!,1.16pm,2,1,8.33506691606,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live La Liga coverage continues from Camp Nou and it is quite a special one as Barcelona welcome Real Madrid for the first Clasico of the season.,1.16pm,21,10,106.391826722,0.0,0.0,0.0621551156886,0.0660669004704,0,0.19573,0,0,0,0,0,0,0,0,0,0
+2,Six points currently separate these two teams in Spain's top flight and victory for Real Madrid would see them open up a very healthy advantage ahead of the winter break in Spain.,1.16pm,23,11,127.829193362,0.0621551156886,0.0,0.144537659294,0.087758444016,0,0.149025,0,1,0,0,0,0,0,0,0,0
+3,It should be an absolute cracker from Spain!,1.16pm,4,5,35.4311705553,0.144537659294,0.0660669004704,0.0281507870737,0.0,0,0.054055,0,0,0,0,0,0,0,0,0,0
+4,"Kickoff at Camp Nou is not actually for another two hours (3.15pm UK time), but be sure to stick with me for all of the build-up and indeed the team news, which is expected to land around the 2.15pm mark.",1.19pm,26,19,142.806230154,0.0281507870737,0.087758444016,0.0829079291136,0.0119582307398,0,0.11905,0,0,0,0,0,0,0,0,0,0
+5,"Both of these teams were in Copa del Rey action during the week, but sweeping changes are expected.",1.19pm,11,9,74.0288398778,0.0829079291136,0.0,0.0,0.148801382083,0,0.17021,0,0,0,0,0,0,0,0,0,0
+6,Cristiano Ronaldo and Lionel Messi will once again lock horns here.,1.19pm,7,5,49.4946062777,0.0,0.0119582307398,0.0,0.0,0,0.090015,0,0,0,0,0,0,0,0,0,0
+7,"Matches between these two teams are always important, they always mean something.",1.22pm,10,4,56.6902045508,0.0,0.148801382083,0.0,0.0367314411295,0,0.041665,0,0,0,0,0,0,0,0,0,0
+8,But you just get the feeling that this is one of the biggest in recent seasons.,1.22pm,7,10,56.813802451,0.0,0.0,0.0924385725571,0.0650666979621,0,0.113435,0,0,0,0,0,0,0,0,0,0
+9,We are now in December and this cannot be considered early in the season.,1.22pm,5,11,52.6624988002,0.0924385725571,0.0367314411295,0.0917690501418,0.14086063629,0,0.128645,0,0,0,0,0,0,0,0,0,0
+10,"Victory for Real Madrid would see them take a nine-point lead over their rivals in La Liga, which would be some advantage at this stage of the campaign.",1.22pm,17,13,97.7092826351,0.0917690501418,0.0650666979621,0.338750265485,0.0398057920575,0,0.184145,0,0,0,0,0,0,0,0,0,0
+11,"In England, a nine-point lead can evaporate very quickly indeed, but it would be difficult to see Real Madrid throwing away that advantage, especially when considering that they have still not lost in the league this season.",1.25pm,24,17,134.057687184,0.338750265485,0.14086063629,0.14802445057,0.0,0,0.16556,0,1,0,1,0,0,0,0,0,0
+12,"Zinedine Zidane's side have not always been great this term, but they have managed to grind out wins and that has not been the case for Barcelona in recent weeks.© Getty Images",1.25pm,17,17,120.808559698,0.14802445057,0.0398057920575,0.0,0.0434099688053,0,0.165545,0,1,0,0,0,0,0,0,0,0
+13,H2H!,1.28pm,2,0,5.94520748877,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+14,This afternoon will be the 232nd meeting between the two rivals in all competitions.,1.28pm,7,8,53.3404617574,0.0,0.0434099688053,0.0713674101013,0.187497189324,0,0.09091,0,0,0,0,0,0,0,0,0,0
+15,"Real Madrid have won 93 of those matches to Barcelona's 90, while the remaining 48 have finished all square.",1.28pm,13,9,75.3239422533,0.0713674101013,0.0,0.064033720904,0.117770438371,0,0.1254,1,0,0,0,0,0,0,0,0,0
+16,"In La Liga, Real Madrid also lead the head-to-head 72 wins to Barcelona's 68, but home advantage is absolutely massive when dissecting the statistics between these two Clasico rivals.",1.28pm,24,9,111.232164094,0.064033720904,0.187497189324,0.164937202174,0.125987804286,0,0.15357,0,1,0,0,0,0,0,0,0,0
+17,"Indeed, Real Madrid have 52 home wins in this fixture and Barcelona 49.",1.32pm,11,4,46.2615779576,0.164937202174,0.117770438371,0.216657358537,0.288271180447,0,0.1232,0,1,0,0,0,0,0,0,0,0
+18,"Away from home, Real Madrid have only won 20 to Barcelona's 19.",1.32pm,10,5,42.4341381635,0.216657358537,0.125987804286,0.144496409041,0.054916389705,0,0.12357,1,0,0,0,0,0,0,0,0,0
+19,Real Madrid have also scored the most goals in this fixture – 390 to Barcelona's 376.,1.32pm,12,6,54.4386199923,0.144496409041,0.288271180447,0.0838470478685,0.0832087636087,1,0.15659,0,0,0,0,0,0,0,0,0,0
+20,"Real Madrid are ahead in almost every area, but there is not much in it.",1.32pm,9,8,53.2842320389,0.0838470478685,0.054916389705,0.0307285344862,0.0209613963992,0,0.137445,0,0,0,0,0,0,0,0,0,0
+21,The last four El Clasicos have actually all taken place in the league and both teams have won twice.,1.35pm,11,9,74.4780612353,0.0307285344862,0.0832087636087,0.255611984081,0.0565180979286,0,0.16848,1,0,0,0,0,0,0,0,0,0
+22,"Indeed, both won their home match during the 2014-15 campaign, but incredibly, both won the away match last season.",1.35pm,14,9,67.5440883633,0.255611984081,0.0209613963992,0.0819920373026,0.0407649130465,0,0.097865,1,0,0,0,0,0,0,0,0,0
+23,"Barcelona were 4-0 winners when they travelled to the Bernabeu in November 2015, but Real Madrid recorded a 2-1 victory when they travelled to Camp Nou last season.© AFP",1.35pm,19,11,100.601782673,0.0819920373026,0.0565180979286,0.101830713718,0.0360494862558,0,0.145445,0,1,0,0,0,0,0,0,0,0
+24,"Real Madrid might have the better record in this fixture, but they have not lifted the Spanish title since 2012, with Barcelona and Atletico Madrid sharing the crown since then.",1.38pm,20,13,113.020296701,0.101830713718,0.0407649130465,0.0864661035266,0.132444136492,0,0.13193,0,0,0,0,0,0,0,0,0,0
+25,"It is just not good enough for a team of Real Madrid's ilk, but there is a general feeling that this could be their year.",1.38pm,13,15,85.0256921941,0.0864661035266,0.0360494862558,0.0647329462287,0.0245882543252,0,0.16501,0,0,0,0,0,0,0,0,0,0
+26,"If the opening 13 matches of the 2016-17 campaign are anything to go by, then that might well be the case.",1.38pm,12,11,77.0249278087,0.0647329462287,0.132444136492,0.226175785518,0.0416309593005,0,0.1631,0,0,0,0,0,0,0,0,0,0
+27,"Indeed, we are 13 games into the 2016-17 La Liga season and Real Madrid lead the way on 33 points, having recorded 10 wins and three draws.",1.42pm,21,9,102.45243779,0.226175785518,0.0245882543252,0.0380631204846,0.146295996988,0,0.121685,0,1,0,0,1,0,0,0,0,0
+28,They have also scored the most goals – 36 – and have the second-best defensive record of just 11 goals conceded behind sixth-place Villarreal.,1.42pm,16,9,82.5888766913,0.0380631204846,0.0416309593005,0.0884735096319,0.053126011355,1,0.094255,0,0,0,0,0,0,0,0,0,0
+29,Barcelona entered the weekend in second position in La Liga and they are going to stay there as Sevilla are currently losing 2-0 at Granada in the very latter stages of that match.,1.45pm,18,16,120.333593515,0.0884735096319,0.146295996988,0.0283906841749,0.0760804874925,0,0.174065,0,0,0,0,0,0,1,0,0,0
+30,"From 13 league matches, Barcelona have recorded eight wins, three draws and two defeats.",1.45pm,14,3,58.0406771172,0.0283906841749,0.053126011355,0.0364443122741,0.0,0,0.06383,0,1,0,0,1,0,0,0,0,0
+31,"They have scored 33 times and conceded 14, leaving them with a goal difference of plus 19 at this stage of the season.© SilverHub",1.45pm,14,11,93.6467460647,0.0364443122741,0.0760804874925,0.0663753378547,0.0404743630439,1,0.11344,0,0,0,0,0,0,0,0,0,0
+32,"Sevilla are really impressing this season under new boss Jorge Sampaoli, while a change of management for Villarreal has not curtailed their progress.",1.48pm,15,10,101.862607078,0.0663753378547,0.0,0.0259250236393,0.029667705337,0,0.06557,0,0,0,0,0,0,0,0,0,0
+33,Real Sociedad are also enjoying a fine campaign and dominated Barcelona in Sunday's 1-1 draw at the Anoeta.,1.48pm,14,6,63.0268284885,0.0259250236393,0.0404743630439,0.0125014154931,0.0413860499814,0,0.170205,0,0,0,0,1,0,0,0,0,0
+34,"Those two teams will hope to challenge for the top four, but it remains to be seen whether Atletico Madrid can challenge for the title.",1.48pm,15,12,96.4485428015,0.0125014154931,0.029667705337,0.0661576191815,0.124664338235,0,0.18324,0,0,0,0,0,0,0,0,0,0
+35,"Indeed, Atletico currently sit nine points behind Real Madrid at the summit, with Diego Simeone's side already suffering three league defeats this season.",1.52pm,23,4,96.474368796,0.0661576191815,0.0413860499814,0.0423032551454,0.0707546866503,0,0.1301,0,0,0,0,0,0,0,0,0,0
+36,"It would take some response to cut that back, especially if Real Madrid win this match, and it does appear that the big two in Spain will battle once again.",1.52pm,18,15,116.466251583,0.0423032551454,0.124664338235,0.0491650313128,0.0727978078546,0,0.121305,0,1,0,0,0,0,0,0,0,0
+37,"That said, Sevilla are going along nicely indeed at the moment despite today's defeat.",1.52pm,13,4,61.3657677938,0.0491650313128,0.0707546866503,0.0246164794204,0.0699256018326,0,0.07209,0,0,0,0,0,0,0,0,0,0
+38,"Right, let's take a closer look at how each team has performed this season.",1.55pm,11,6,59.0893213493,0.0246164794204,0.0727978078546,0.0390662282532,0.0159983281086,0,0.054545,0,0,1,0,0,0,0,0,0,0
+39,"Barcelona won the Spanish Super Cup at the start of the season with a 5-0 aggregate victory over Sevilla, before beating Real Betis and Athletic Bilbao in their first two league matches to make it a strong start to the campaign.📍 Camp Nou #fcblive #ForçaBarça #ElClasico pic.twitter.com/EarA2zBliK— FC Barcelona (@FCBarcelona) December 3, 2016",1.55pm,43,18,185.143116518,0.0390662282532,0.0699256018326,0.208873277296,0.18444809758,0,0.171985,1,0,0,0,0,0,0,0,0,0
+40,"The Catalan outfit incredibly lost 2-1 at home to tiny Alaves in the league on September 10, but responded with a 7-0 win over Scottish champions Celtic to start their Champions League campaign in style.",1.58pm,24,13,130.808997566,0.208873277296,0.0159983281086,0.279199143966,0.155750762892,0,0.26447,0,1,0,1,0,0,0,0,0,0
+41,"A 5-1 win over Leganes saw Enrique's side bounce back from the Alaves defeat in the league, before the points were shared in a 1-1 draw with Atletico Madrid at the Camp Nou on September 21.",1.58pm,24,15,122.064459328,0.279199143966,0.18444809758,0.23738585796,0.107841210359,0,0.18846,0,1,0,0,1,0,0,0,0,0
+42,"Wins over Sporting Gijon and Borussia Monchengladbach followed the Atletico draw, but Barcelona's second league defeat of the season came away at Celta Vigo at the start of October.",2.02pm,22,10,112.520815168,0.23738585796,0.155750762892,0.0957082366956,0.285700713214,0,0.146645,0,1,0,0,1,0,0,0,0,0
+43,"They then won their next four, however, including a 4-0 success over Manchester City in the Champions League and victories over Deportivo La Coruna, Valencia and Granada in Spain's top flight.",2.02pm,24,12,126.836707078,0.0957082366956,0.107841210359,0.288630611369,0.238129417579,0,0.21589,1,0,0,0,0,0,0,0,0,0
+44,"A 3-1 defeat to Manchester City at the Etihad then occurred at the start of November, but they responded with a 2-1 victory over Sevilla in the league.",2.05pm,15,15,89.8690716727,0.288630611369,0.285700713214,0.147621165242,0.0567528228064,0,0.145445,0,0,0,0,0,0,0,0,0,0
+45,"The Spanish champions have been far from convincing in recent weeks, however, with a 2-0 win over Celtic in the Champions League, which was unconvincing in itself, either side of league draws against Malaga and Real Sociedad.",2.05pm,25,17,141.410960646,0.147621165242,0.238129417579,0.018034455767,0.107504308497,0,0.137785,0,1,0,0,1,0,0,0,0,0
+46,"🎥 @neymarjr arrives at Camp Nou with a Chapecoense shirt #ForçaChapecoense #ForçaBarça pic.twitter.com/4mQjznRLRF— FC Barcelona (@FCBarcelona) December 3, 2016",2.08pm,23,3,70.5823801442,0.018034455767,0.0567528228064,0.056133559136,0.0,0,0.14216,0,0,0,0,0,0,0,0,0,0
+47,Barcelona were extremely poor in Sunday's 1-1 draw with Sociedad and were indeed extremely fortunate to escape with a point.,2.12pm,14,8,76.5048,0.056133559136,0.107504308497,0.154141993505,0.0145901542913,0,0.149715,0,0,0,0,1,0,0,0,0,0
+48,They were also in Copa del Rey action during the week – struggling to a 1-1 draw away to Hercules in the first leg of their last-32 clash.,2.12pm,17,12,92.385210351,0.154141993505,0.0,0.012854939014,0.0,0,0.19904,0,0,0,0,1,0,0,0,0,0
+49,"Right, the team news is just filtering through and it is a very interesting Real Madrid XI.",2.12pm,10,9,61.0261571851,0.012854939014,0.0145901542913,0.22729325416,0.0,0,0.13142,0,0,0,0,0,0,0,0,0,0
+50,Confirmed news is imminent here...,2.12pm,4,2,23.3316109189,0.22729325416,0.0,0.0,0.0472817737333,0,0.026315,0,0,0,0,0,0,0,0,0,0
+51,"TEAMS!FCB: Ter Stegen; Roberto, Mascherano, Pique, Alba; Gomes, Busquets, Rakitic; Neymar, Suarez, MessiREAL: Navas; Carvajal, Ramos, Varane, Marcelo; Kovacic, Modric, Isco; Vasquez, Benzema, Ronaldo",2.15pm,48,0,121.547003622,0.0,0.0,0.0,0.126604428738,0,0.079365,0,0,0,0,0,0,0,0,0,0
+52,It is the Barcelona XI that were expected to take to the field.,2.18pm,6,8,42.2346420988,0.0,0.0472817737333,0.0614070636057,0.0800164801975,0,0.28746,0,0,0,0,0,0,0,0,0,0
+53,"Andres Iniesta is not risked from the start after only just recovering from injury, meaning that Andre Gomes continues in midfield alongside Sergio Busquets and Ivan Rakitic.",2.18pm,18,11,120.398474403,0.0614070636057,0.126604428738,0.104131256896,0.0120986534631,0,0.347415,0,0,0,0,0,0,0,0,0,0
+54,"Sergi Roberto continues at right-back, while it is Neymar, Luis Suarez and Lionel Messi in the final third.",2.18pm,14,7,66.2382362246,0.104131256896,0.0800164801975,0.113551287481,0.0437254508669,0,0.151725,0,0,0,0,0,0,0,0,0,0
+55,Luis Enrique has taken no risks in his selection!,2.18pm,6,4,41.9508824445,0.113551287481,0.0120986534631,0.0135170540025,0.0113931632413,0,0.14459,0,0,0,0,0,0,0,0,0,0
+56,"As for Real Madrid, Toni Kroos and Gareth Bale are still missing, meaning that Isco and Mateo Kovacic are given positions in the team.",2.22pm,18,9,97.964878773,0.0135170540025,0.0437254508669,0.0383167680956,0.0396089846759,0,0.24408,0,0,0,0,0,0,1,0,0,0
+57,"Lucas Vasquez also starts in the final third alongside Cristiano Ronaldo and Karim Benzema, while Raphael Varane is preferred to Pepe at the heart of the defence alongside Sergio Ramos.",2.22pm,22,10,127.761303395,0.0383167680956,0.0113931632413,0.129789168546,0.0,0,0.43137,0,0,0,0,0,0,0,0,0,0
+58,Mariano Diaz's hat-trick in the Copa del Rey on Wednesday night has earned the Dominican Republic international a place on the bench alongside Casemiro and James Rodriguez.,2.22pm,20,9,110.295037764,0.129789168546,0.0396089846759,0.0,0.0883599319338,0,0.254725,0,0,0,0,0,0,0,0,0,0
+59,So there we have it.,2.25pm,1,5,17.6463446812,0.0,0.0,0.10200501554,0.0912939511937,0,0.058825,0,0,0,0,0,0,0,0,0,0
+60,The two teams are in and we are now just about 50 minutes from kickoff on this mild afternoon in Barcelona.,2.25pm,9,13,75.6585814957,0.10200501554,0.0883599319338,0.0334835077033,0.027661577466,0,0.103895,0,0,0,0,0,0,0,0,0,0
+61,The atmosphere has been building throughout the day and there is definitely an underlying tension among the home supporters.,2.25pm,11,9,81.2593103035,0.0334835077033,0.0912939511937,0.056625376862,0.0167088739838,0,0.12564,0,0,0,0,0,0,0,0,0,0
+62,They know that their team just cannot afford to suffer a damaging defeat to their rivals during what has been a difficult period.,2.25pm,10,15,90.9953714487,0.056625376862,0.027661577466,0.0229010612648,0.0,0,0.09692,0,0,0,0,0,0,0,0,0,0
+63,🚶🌱🏟 #RMClasicoExperience how it feels to walk out at the Camp Nou ahead of El Clásico...#HalaMadrid pic.twitter.com/2qko2zXvM4— Real Madrid C.F.,2.28pm,18,7,71.7976858424,0.0229010612648,0.0167088739838,0.0,0.00726818747277,0,0.12941,0,0,0,0,0,0,0,0,0,0
+64,"(@realmadriden) December 3, 2016",2.28pm,8,0,14.9452507084,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+65,This afternoon will see the top two players in world football collide once again.,2.32pm,9,6,56.1687610867,0.0,0.00726818747277,0.0577289789329,0.0149322233623,0,0.086135,0,0,0,0,0,0,0,0,0,0
+66,"Lionel Messi has 14 La Liga Clasico goals to his name, while Ronaldo has eight in the league in this particular fixture.",2.32pm,15,9,88.4922136179,0.0577289789329,0.0,0.023262443255,0.0324078357439,1,0.128025,0,0,0,0,0,0,0,0,0,0
+67,"Both have faced criticism over the last 12 months or so, but the pair continue to post staggering numbers.",2.32pm,12,9,82.3635965876,0.023262443255,0.0149322233623,0.0141567547415,0.0,0,0.14674,0,0,0,0,0,0,0,0,0,0
+68,"At 29 and 31 respectively, they remain the two best players in world football.",2.32pm,11,5,58.0137267644,0.0141567547415,0.0324078357439,0.0289769631108,0.0290749433264,0,0.115385,0,0,0,0,0,0,0,0,0,0
+69,"This season, Messi has netted 19 goals in 16 Barcelona appearances, including nine in 10 league fixtures.",2.35pm,16,4,70.3037358836,0.0289769631108,0.0,0.424055819813,0.0976695158191,1,0.064515,0,0,0,0,0,0,0,0,0,0
+70,"Ronaldo, meanwhile, who struck a brilliant hat-trick against Atletico on November 19 and followed that up with a brace against Sporting Gijon, has 12 goals in 15 appearances this term, including 10 in 10 league fixtures.",2.35pm,27,14,146.89974734,0.424055819813,0.0290749433264,0.0228902222331,0.04898608491,1,0.10143,0,0,0,0,0,0,0,0,0,0
+71,Kickoff is fast approaching in the first Clasico of the season.,2.35pm,7,5,38.4364927278,0.0228902222331,0.0976695158191,0.086038967843,0.0824075388914,0,0.159265,0,0,0,0,0,0,0,0,0,0
+72,"Gareth Bale is out of action for Real Madrid this afternoon, but Neymar, Luis Suarez, Karim Benzema and Co. are all present and this should be a celebration of the top players in world football.",2.38pm,22,17,122.713640304,0.086038967843,0.04898608491,0.251156519454,0.0,0,0.23481,0,0,0,0,0,0,0,0,0,0
+73,Let's just hope that the football lives up to all of the build-up and it will be up to those special players in attendance to decide what is a massive football match all over the world.,2.38pm,15,23,128.560472123,0.251156519454,0.0824075388914,0.0430675646041,0.0475550495863,0,0.131245,0,0,0,0,0,0,0,0,0,0
+74,I just cannot wait.,2.38pm,2,4,16.6907531193,0.0430675646041,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+75,"Right, I have run through Barcelona's season, let's now take a look at how Real Madrid have fared this term.",2.42pm,16,9,72.9093572422,0.0,0.0475550495863,0.0404269473772,0.0233297028938,0,0.104935,0,0,0,0,0,0,0,0,0,0
+76,"Los Blancos overcame Sevilla to win the European Super Cup back in August, before starting their league season with three straight victories over Real Sociedad, Celta Vigo and Osasuna.© Getty Images",2.42pm,25,8,132.059016001,0.0404269473772,0.0,0.166134307249,0.137257748566,0,0.13619,0,1,0,0,0,0,0,0,0,0
+77,A 2-1 win over Sporting Lisbon in the Champions League saw Real Madrid start their campaign with all three points and a 2-0 victory away to Espanyol on September 18 continued what was a fine opening month.,2.45pm,24,14,133.3231531,0.166134307249,0.0233297028938,0.0986105917546,0.133341297465,0,0.22572,0,1,0,0,0,0,0,0,0,0
+78,"They had a bit of wobble over the next couple of weeks, however, drawing four straight matches - three of which were in the league against Villarreal, Las Palmas and Eibar.",2.45pm,21,14,122.214107088,0.0986105917546,0.137257748566,0.158477005656,0.15617167127,0,0.1328,0,1,0,0,1,0,0,0,0,0
+79,"Since the 1-1 draw with Eibar on October 10, Real Madrid have won 10 of their 11 matches in all competitions – remaining unbeaten in the process.",2.48pm,18,11,95.7717473079,0.158477005656,0.133341297465,0.118206734427,0.0887037241421,0,0.17924,1,0,0,0,1,0,0,0,0,0
+80,"Indeed, they have comfortably booked their spot in the knockout round of the Champions League and last-16 stage of the Copa del Rey, in addition to opening up a six-point lead at the top of Spain's top flight.",2.48pm,25,17,131.323408811,0.118206734427,0.15617167127,0.0556413811693,0.0717414505483,0,0.221035,0,0,0,0,0,0,0,0,0,0
+81,It is all going very well at the moment.,2.48pm,4,6,30.9843478636,0.0556413811693,0.0887037241421,0.0175615586867,0.0618498362955,0,0.080835,0,0,0,0,0,0,0,0,0,0
+82,"Meeting of the FC Barcelona and Real Madrid directors in the President Suñol box before today's match #ElClásico #ForçaBarça pic.twitter.com/qm5yX1iUHX— FC Barcelona (@FCBarcelona) December 3, 2016",2.52pm,27,6,96.1181216622,0.0175615586867,0.0717414505483,0.0611352043581,0.0226265180952,0,0.163465,0,0,0,0,0,0,0,0,0,0
+83,"A 6-1 win over Real Betis on October 15 was followed by victories over Athletic Bilbao and Alaves in the league, before recording 3-0 victories over Leganes and away to Atletico, which was a very damaging defeat for Simeone's side.",2.55pm,26,18,150.761920434,0.0611352043581,0.0618498362955,0.0494211169637,0.232165833752,0,0.153505,0,1,0,0,0,0,0,0,0,0
+84,"Los Blancos were far from their best against Sporting Gijon last weekend, but still managed to secure all the points in a 2-1 win to move six points clear at the summit.",2.55pm,21,13,122.184270826,0.0494211169637,0.0226265180952,0.121563751173,0.0514177762421,0,0.272895,0,1,0,0,0,0,0,0,0,0
+85,"Like Barcelona, Real Madrid were also in Copa del Rey action during the week and they absolutely breezed into the last-16 stage of the competition after recording a 6-1 win over Cultural Leonesa, which followed a 7-1 victory in the first leg back in October.",2.58pm,30,18,156.956380096,0.121563751173,0.232165833752,0.0453250236896,0.0441892391394,0,0.228595,0,1,0,0,0,0,0,0,0,0
+86,Not the toughest of tasks to be honest!,2.58pm,4,5,29.9600477972,0.0453250236896,0.0514177762421,0.0,0.0,0,0.108105,0,0,0,0,0,0,0,0,0,0
+87,💪⚽️🏃 #RMClasico¡Los jugadores están calentando sobre el césped del Camp Nou!,3.02pm,13,0,46.7202209926,0.0,0.0441892391394,0.0,0.0,0,0.12348,0,0,0,0,0,0,0,0,0,0
+88,"#HalaMadrid pic.twitter.com/MxAkJaoePs— Real Madrid C. F. (@realmadrid) December 3, 2016",3.02pm,15,0,25.0875054875,0.0,0.0,0.0,0.0,0,0.07442,0,0,0,0,0,0,0,0,0,0
+89,PREDICTION!,3.05pm,2,0,5.94520748877,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+90,Score draw for me.,3.05pm,3,2,17.9592644448,0.0,0.0,0.0,0.0778899232908,0,0.035715,0,0,0,0,1,0,0,0,0,0
+91,"Real Madrid will enter this match in the better form, but I am just finding it difficult to predict an away win, especially looking at the two sides.",3.05pm,18,13,104.600244941,0.0,0.0,0.0895815283421,0.0873061926435,0,0.16329,0,1,0,0,0,0,0,0,0,0
+92,It might well be cagey for long spells - plenty of challenges and a busy game for the referee - and I am backing a 1-1 here.,3.05pm,15,13,86.8523011969,0.0895815283421,0.0778899232908,0.0711003730318,0.107221237686,0,0.127275,0,0,0,0,0,0,0,0,0,0
+93,Can Barcelona win without Messi playing well this afternoon?,3.08pm,8,2,37.3144280614,0.0711003730318,0.0873061926435,0.0,0.568815371337,0,0.04762,0,1,0,0,0,0,0,0,0,0
+94,Not for me.,3.08pm,1,3,11.1510107387,0.0,0.107221237686,0.0,0.0,0,0.044445,0,0,0,0,0,0,0,0,0,0
+95,Can Real Madrid win without Ronaldo playing at his best?,3.08pm,8,3,40.2773691566,0.0,0.568815371337,0.0,0.0,0,0.106725,0,1,0,0,0,0,0,0,0,0
+96,Yes.,3.08pm,2,0,5.94520748877,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+97,And that is the difference.,3.08pm,2,4,14.913104136,0.0,0.0,0.234781093128,0.138304784956,0,0.066665,0,0,0,0,0,0,0,0,0,0
+98,I mentioned that there was a strange atmosphere around the stadium ahead of this match and that is still present.,3.08pm,10,11,71.5574278571,0.234781093128,0.0,0.0908866598476,0.0563428884874,0,0.090905,0,0,0,0,0,0,0,0,0,0
+99,Let's just hope that the football matches the build-up.,3.08pm,7,4,28.7954606384,0.0908866598476,0.138304784956,0.0,0.0201500199418,0,0.078945,0,0,0,0,0,0,0,0,0,0
+100,There are so many sensational players on display at Camp Nou.,3.08pm,7,5,46.5850842892,0.0,0.0563428884874,0.114852684049,0.0639810190872,0,0.225675,0,0,0,0,0,0,0,0,0,0
+101,Here we go then - both sets of players join us on the field ahead of kickoff.,3.12pm,10,8,67.1748464737,0.114852684049,0.0201500199418,0.0162989888943,0.0,0,0.090605,0,0,0,0,0,0,0,0,0,0
+102,You just get the feeling that the first goal - if there indeed is one - could be vital.,3.12pm,11,9,63.5454406921,0.0162989888943,0.0639810190872,0.0,0.0402209283915,1,0.111625,0,0,0,0,0,0,0,0,0,0
+103,"Real Madrid have not won back-to-back games at Camp Nou since 1965, but they have a chance this afternoon.",3.12pm,12,9,61.5922554437,0.0,0.0,0.0,0.0,0,0.18573,1,0,0,0,0,0,0,0,0,0
+104,El Clasico is upon us!,3.12pm,5,1,22.474160687,0.0,0.0402209283915,0.0,0.0,0,0.06083,0,0,0,0,0,0,0,0,0,0
+105,KICKOFF!,0 min,2,0,4.84659520011,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+106,Real Madrid kick things off at Camp Nou...,0 min,7,2,30.4818999072,0.0,0.0,0.0561779682822,0.0,0,0.26111,0,0,0,0,0,0,0,0,0,0
+107,"... interestingly, Real Madrid have already looked long to Ronaldo on a couple of occasions in the early stages.",2 min,14,7,64.0991851652,0.0561779682822,0.0,0.0780129780492,0.369964157381,0,0.19338,0,0,0,0,0,0,0,0,0,0
+108,Ronaldo has pulled onto Roberto and that is a no-contest in the air.,2 min,7,7,41.2255886916,0.0780129780492,0.0,0.0547682613602,0.0454189330228,0,0.11741,0,0,0,0,0,0,0,0,0,0
+109,"Barcelona have attempted to get hold of the ball on a couple of occasions, but it is quite scrappy in the early moments.",2 min,13,12,79.5173527244,0.0547682613602,0.369964157381,0.0370105629766,0.0851294296424,0,0.193845,0,0,0,0,0,0,0,0,0,0
+110,Already some very lively challenges flying in here as Modric is clattered!,3 min,7,6,53.0300728472,0.0370105629766,0.0454189330228,0.024092698693,0.101362783138,0,0.09756,0,0,0,0,0,0,0,0,0,0
+111,"Vasquez goes down inside the Barcelona box and calls for a spot kick, but the referee is not interested.",4 min,12,9,69.3553344987,0.024092698693,0.0851294296424,0.0,0.166559396807,0,0.298415,0,0,0,0,0,0,0,0,0,0
+112,It would have been very soft indeed.,4 min,4,4,27.4547173354,0.0,0.101362783138,0.0,0.149051238163,0,0.112745,0,0,0,0,0,0,0,0,0,0
+113,Already a busy game for the referee here.,4 min,5,4,28.2322056644,0.0,0.166559396807,0.0513493978422,0.0239980825062,0,0.114285,0,0,0,0,0,0,0,0,0,0
+114,On second look - that might well have been a penalty for Real Madrid.,6 min,9,6,42.994171171,0.0513493978422,0.149051238163,0.0,0.373527654252,0,0.144045,0,0,0,0,0,1,0,0,0,0
+115,"Mascherano came across and made no contact with the ball, fouling Vasquez in the process.",6 min,11,6,62.7744905287,0.0,0.0239980825062,0.0,0.0,0,0.127955,0,0,0,0,0,0,0,0,0,0
+116,"I thought it would have been harsh on first view, but replays show that it might well have been given.",6 min,12,10,78.7858184027,0.0,0.373527654252,0.0,0.0121170312772,0,0.123315,0,0,0,0,0,0,0,0,0,0
+117,Early talking point here!,6 min,4,1,19.3500131563,0.0,0.0,0.0,0.092979844038,0,0.044445,0,0,0,0,0,0,0,0,0,0
+118,"Rakitic looks to cushion a header into Messi as Barcelona enjoy some possession outside the Real Madrid box, but play resumes from the dead-ball line as Ramos uses his body to block the attacker.",8 min,23,13,131.251755144,0.0,0.0121170312772,0.0842767350615,0.0380310639518,0,0.19567,0,0,0,0,0,0,0,0,1,0
+119,"It has been a very lively opening eight minutes, with the away side shading the play so far here.",8 min,11,10,70.9838732528,0.0842767350615,0.092979844038,0.0558967092027,0.164722988124,0,0.21534,0,0,0,0,0,0,0,0,0,0
+120,"Neymar does not look entirely happy after a coming-together with Carvajal, but it does appear that the Brazilian international will be able to continue.",9 min,13,13,91.7630112952,0.0558967092027,0.0380310639518,0.027304174116,0.0,0,0.16738,0,0,0,0,0,0,0,0,0,0
+121,"It has been better from Barcelona in the last couple of minutes, although we are still waiting for the first chance of El Clasico at Camp Nou.",9 min,16,13,94.6487666395,0.027304174116,0.164722988124,0.205243946917,0.103269771555,0,0.19643,0,0,0,0,0,0,0,0,0,0
+122,CHANCE!,10 min,2,0,3.99929733972,0.205243946917,0.0,0.164449655327,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+123,"Wonderful chance for the home side as Neymar races past Carvajal before picking out Roberto at the far post, but Ramos manages to get hid body in the way to block!",10 min,21,12,125.035585152,0.164449655327,0.103269771555,0.0,0.144058703107,0,0.30078,1,0,0,0,0,0,0,0,0,0
+124,BOOKING!,13 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+125,Isco (Real Madrid) is booked for taking out Neymar after the Brazilian had threatened to run away from the Spaniard.,13 min,14,9,77.0382196463,0.0,0.144058703107,0.0539109471867,0.051621566985,0,0.139285,0,0,0,0,0,0,0,0,0,0
+126,We have the first card of the match in the 13th minute of action.,13 min,7,8,45.4248011027,0.0539109471867,0.0,0.184072444966,0.10991377652,0,0.219535,0,0,0,0,0,0,0,0,0,0
+127,You just get the feeling that the first goal - if there indeed is one - could be vital in this match.,15 min,12,11,71.8688419945,0.184072444966,0.051621566985,0.0551194514381,0.0,1,0.121685,0,0,0,0,0,0,0,0,0,0
+128,"Neither side has really got going in the opening 15 minutes, but Real Madrid should have had a penalty in the early exchanges.",15 min,15,10,83.4439990787,0.0551194514381,0.10991377652,0.0,0.0539670253624,0,0.21685,0,0,0,0,0,1,0,0,0,0
+129,Barcelona want another booking as Modric takes out Messi!,15 min,8,2,38.6499039662,0.0,0.0,0.0251318591575,0.288478530539,0,0.06154,0,0,0,0,0,0,0,0,0,0
+130,"Pass, pass, pass from Real Madrid as they look to work some space in the final third, but Ronaldo can only head towards Ter Stegen after Carvajal delivers a smart cross from a wide position.",17 min,25,14,140.460633854,0.0251318591575,0.0539670253624,0.0909700480953,0.0271301651866,0,0.24183,0,0,0,0,0,0,1,0,0,0
+131,Barcelona have a free kick in a dangerous position as Modric fells Messi...,18 min,9,5,44.7297224648,0.0909700480953,0.288478530539,0.0684499064616,0.0443606267544,0,0.10848,0,0,0,0,0,0,1,0,0,0
+132,"... Messi takes the set piece, but the ball flies straight into the arms of Navas.",19 min,12,6,60.0962590282,0.0684499064616,0.0271301651866,0.0265136645702,0.0,0,0.127955,0,0,0,0,0,0,0,0,0,0
+133,"Well, 21 minutes on the clock and as expected, it has been a very close match.",21 min,10,9,57.2531177981,0.0265136645702,0.0443606267544,0.138181072562,0.0342119932713,0,0.17881,0,0,1,0,0,0,0,0,0,0
+134,Neither side has really taken control and chances have been few and far between.,21 min,8,7,57.6293405786,0.138181072562,0.0,0.0936375945471,0.0,0,0.31731,0,0,0,0,0,0,0,0,0,0
+135,It is a fascinating tactical battle though between two 4-3-3 formations.,21 min,8,4,41.9194840231,0.0936375945471,0.0342119932713,0.0,0.0211276369388,0,0.04762,0,0,0,0,0,0,0,0,0,0
+136,We are still waiting for things to take off at Camp Nou.,21 min,7,6,47.3028931381,0.0,0.0,0.0238299717513,0.0,0,0.21591,0,0,0,0,0,0,0,0,0,0
+137,"Half-chance for Barcelona as Neymar breaks into a wide position before crossing into Suarez, but the striker's effort is blocked and Real Madrid can clear their lines.",22 min,18,12,96.620972585,0.0238299717513,0.0211276369388,0.0,0.0748066281631,0,0.23361,0,0,0,0,0,0,1,0,0,0
+138,Decent opening there.,22 min,3,1,14.3698865635,0.0,0.0,0.0,0.0,0,0.033335,0,0,0,0,0,0,0,0,0,0
+139,"Barcelona want a yellow card for Ramos after the centre-back took a ride on the back of Suarez, but the referee takes no further action when the ball goes out of play, much to the disbelief of Enrique.",24 min,22,19,136.092099053,0.0,0.0748066281631,0.0945327596655,0.080856646113,0,0.18551,0,0,0,0,0,0,0,0,0,0
+140,"Real Madrid break down the other end with Marcelo, but Alba heads his cross clear of the box.",24 min,12,8,70.0888982827,0.0945327596655,0.0,0.0995489084881,0.0500590109221,0,0.22532,0,0,0,0,0,0,0,0,0,0
+141,"Smart work from Luis Suarez brings a corner for Barcelona, but Neymar's set piece fails to beat the first man and Real Madrid can clear their lines once again.",26 min,21,11,113.472999795,0.0995489084881,0.080856646113,0.0,0.0542862353417,0,0.17176,0,0,0,0,0,0,0,0,0,0
+142,Still goalless with 26 minutes played!,26 min,6,1,28.2402415099,0.0,0.0500590109221,0.0,0.0,1,0.03921,0,0,0,0,0,0,0,0,0,0
+143,"Just a reminder that Real Madrid currently sit six points above Barcelona at the top of the table, which is why the home side just cannot afford to lose this match.",28 min,17,17,115.010664254,0.0,0.0542862353417,0.100628558454,0.0,0,0.25238,0,0,1,0,0,0,0,0,0,0
+144,Neither team is giving too much away at the moment as both defences remain on top.,28 min,10,7,64.964488976,0.100628558454,0.0,0.0,0.0,0,0.130345,0,0,0,0,0,0,0,0,0,0
+145,Chances have been few and far between here.,28 min,3,6,31.7755656456,0.0,0.0,0.0,0.0,0,0.416665,0,0,0,0,0,0,0,0,0,0
+146,BOOKING!,28 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+147,Neymar (Barcelona) is booked for a poor challenge on Vasquez.,28 min,9,4,34.2322400537,0.0,0.0,0.0703394144981,0.0407776659691,0,0.14067,0,0,0,0,0,0,0,0,0,0
+148,There is just no time to breathe on the ball at the moment as both midfielders continue to press high up the field.,31 min,10,14,86.8075524304,0.0703394144981,0.0,0.118797739497,0.0989798317433,0,0.191515,0,0,0,0,0,0,0,0,0,0
+149,"Marcelo finally breaks clear down the left and looks to deliver into the near post, but the offside flag is raised and Barcelona take their time in resuming with a deep free kick.",31 min,21,14,131.055850608,0.118797739497,0.0407776659691,0.146442373303,0.0455024275217,0,0.170905,0,0,0,0,0,0,0,0,0,1
+150,"Ronaldo goes up to challenge for a deep Carvajal cross, but Pique just about does enough and Barcelona scramble clear once again.",33 min,13,11,87.706486755,0.146442373303,0.0989798317433,0.078927773975,0.0991008226118,0,0.125505,0,0,0,0,0,0,0,0,0,0
+151,Benzema was also involved and it might well have landed for the Frenchman if Ronaldo had not tried to make contact.,33 min,12,10,86.3904414097,0.078927773975,0.0455024275217,0.167801724073,0.0510767116351,0,0.118645,0,0,0,0,0,0,0,0,0,0
+152,Try telling Ronaldo not to go for it though!,33 min,6,4,36.9873146613,0.167801724073,0.0991008226118,0.0386096498707,0.0420373226309,0,0.07895,0,0,0,0,0,0,0,0,0,0
+153,Little over 10 minutes of the first period remaining and it is still goalless at Camp Nou.,35 min,11,7,60.398505416,0.0386096498707,0.0510767116351,0.0545587038018,0.0,1,0.24649,0,0,0,0,0,0,0,0,0,0
+154,"In truth, neither side has done enough to deserve to be leading at this stage of the contest.",35 min,11,9,69.8188092229,0.0545587038018,0.0420373226309,0.0434915393931,0.0,0,0.13619,0,0,0,0,0,0,0,0,0,0
+155,Barcelona have another chance to threaten from a free kick here...,36 min,7,5,38.3218321016,0.0434915393931,0.0,0.0,0.0,0,0.08836,0,0,0,0,0,0,0,0,0,0
+156,"... Messi delivers, but again it is comfortable for Real Madrid as they clear their lines.",37 min,10,8,53.8116382524,0.0,0.0,0.0,0.0,0,0.183985,0,0,0,0,0,0,0,0,0,0
+157,The overall quality has been a little bit disappointing when considering the talent on display this afternoon.,37 min,10,8,69.6999147466,0.0,0.0,0.0,0.0690820532453,0,0.087945,0,0,0,0,0,0,0,0,0,0
+158,SAVE!,38 min,2,0,5.25206030821,0.0,0.0,0.0,0.0,0,0.017545,0,0,0,0,0,0,0,0,0,0
+159,Ter Stegen has to push a Ronaldo effort wide of the post after the attacker broke into the Barcelona box and unleashed.,38 min,13,10,80.960894165,0.0,0.0690820532453,0.0263285409522,0.0,0,0.271255,0,0,0,0,0,0,0,0,0,0
+160,Danger signs for Barcelona in that moment!,38 min,5,3,26.1902846946,0.0263285409522,0.0,0.0,0.0227697143581,0,0.094345,0,0,0,0,0,0,0,0,0,0
+161,SAVE!,39 min,2,0,5.25206030821,0.0,0.0,0.23475241133,0.0,0,0.017545,0,0,0,0,0,0,0,0,0,0
+162,Again Ter Stegen has to save from Ronaldo as the Portugal captain somehow dances into the Barcelona box and pokes the ball towards the bottom corner.,39 min,16,11,103.214538425,0.23475241133,0.0227697143581,0.0,0.117236505972,0,0.34421,0,0,0,0,0,0,0,0,0,0
+163,Good pressure!,39 min,3,0,11.0794847613,0.0,0.0,0.0,0.0,0,0.015625,0,0,0,0,0,0,0,0,0,0
+164,"If this were a boxing match, I would have Real Madrid ahead on points, but Barcelona are still having their fair share of the ball and look dangerous when they break into the final third.",41 min,20,18,124.505257264,0.0,0.117236505972,0.136628555708,0.152360089395,0,0.20798,0,0,0,0,0,0,0,0,0,0
+165,"It does appear that the two teams will enter the break at 0-0, but still around five minutes left in the first period.",41 min,15,10,80.5611158734,0.136628555708,0.0,0.110298406574,0.0260490546896,0,0.158405,0,0,0,0,0,0,0,0,0,0
+166,Not too much to report in terms of chances in the last few moments as both teams share possession of the ball.,43 min,11,12,81.9012370505,0.110298406574,0.152360089395,0.0344290395538,0.0583694759679,0,0.19848,0,0,0,0,0,0,0,0,0,0
+167,There have also been a couple more challenges for the referee to act on.,43 min,6,9,49.8125322021,0.0344290395538,0.0260490546896,0.0387023979759,0.0436600111087,0,0.18718,0,0,0,0,0,0,0,0,0,0
+168,"Excellent defending from Pique as the Barcelona centre-back sticks out a leg to clear a cross from Benzema, which looked to be finding Ronaldo.",44 min,15,11,86.0731117421,0.0387023979759,0.0583694759679,0.0,0.0949756343051,0,0.17378,0,0,0,0,0,0,0,0,0,0
+169,That could have gone absolutely anywhere!,44 min,5,2,27.1095565013,0.0,0.0436600111087,0.0,0.0,0,0.087445,0,0,0,0,0,0,0,0,0,0
+170,"From the resulting corner, Varane heads at Ter Stegen as the away side impress late in the first period here.",44 min,14,8,76.4550458732,0.0,0.0949756343051,0.0,0.0,0,0.262585,0,0,0,0,0,0,0,0,0,0
+171,HALF-TIME: Barcelona 0-0 Real Madrid,45 min+1,6,0,6.93680197457,0.0,0.0,0.0,0.0,0,0.08745,0,0,0,0,0,0,0,0,0,0
+172,So there we have it.,4.02pm,1,5,17.6463446812,0.0,0.0,0.0,0.220956828173,0,0.058825,0,0,0,0,0,0,0,0,0,0
+173,The referee brings the first period to a close with the two teams level at 0-0.,4.02pm,10,7,48.2459676076,0.0,0.0,0.104133487226,0.0,0,0.176165,0,0,1,0,0,0,0,0,0,0
+174,"There was not too much in the match in the opening 30 minutes or so, but Real Madrid ended the half on the front foot and might well have made the breakthrough.",4.02pm,17,17,117.568123765,0.104133487226,0.220956828173,0.0600825776121,0.0,0,0.272575,0,0,0,0,0,0,0,1,0,0
+175,It has been a fascinating match!,4.02pm,3,4,18.7234377276,0.0600825776121,0.0,0.0,0.0,0,0.116015,0,0,0,0,0,0,0,0,0,0
+176,STATISTICS!,4.07pm,2,0,5.53974238067,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+177,"Barcelona have just about shaded the possession with 55%, but they have only managed four shots to Real Madrid's seven, while the visitors have had four shots on target to Barcelona's one.",4.07pm,22,16,123.999571202,0.0,0.0,0.0385999371707,0.0,0,0.16029,0,0,0,0,0,0,0,0,0,0
+178,Two yellow cards to report - Isco in the 13th minute and Neymar in the 28th minute.,4.07pm,12,6,62.0878844754,0.0385999371707,0.0,0.0,0.0244822616745,0,0.202065,0,0,0,0,0,0,0,0,0,0
+179,BENCH WATCH!,4.12pm,3,0,10.6376520091,0.0,0.0,0.130681466292,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+180,"Barcelona have fit-again Andres Iniesta on their bench this afternoon, while Paco Alcacer, Denis Suarez and Arda Turan are also available for the home side.",4.12pm,19,9,98.0081011235,0.130681466292,0.0244822616745,0.0384414047484,0.103464799746,0,0.18324,0,0,0,0,0,0,0,0,0,0
+181,"Real Madrid, meanwhile, have options in the shape of Marco Asensio, Mariano Diaz and James Rodriguez.",4.12pm,15,5,65.217573635,0.0384414047484,0.0,0.0179182821144,0.0,0,0.185065,0,0,0,0,0,0,0,0,0,0
+182,You just get the feeling that this game could be decided from the bench.,4.12pm,7,8,52.2510584078,0.0179182821144,0.103464799746,0.0570025245636,0.0137849528065,0,0.11182,0,0,0,0,0,0,0,0,0,0
+183,It is just so tight as things stand!,4.12pm,4,5,33.2952138701,0.0570025245636,0.0,0.0,0.0,0,0.054055,0,0,0,0,0,0,0,0,0,0
+184,Lucky charm for Real Madrid...0 - Real Madrid have not lost any of their 19 games with Lucas Vazquez in the starting XI (W17 D2; all competitions).,4.17pm,23,10,106.899380427,0.0,0.0137849528065,0.0,0.0,0,0.15531,0,0,0,1,0,0,0,0,0,0
+185,Amulet.,4.17pm,2,0,5.94520748877,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+186,"pic.twitter.com/Xu45TMr1zn— OptaJose (@OptaJose) December 3, 2016",4.17pm,10,0,20.8904581972,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+187,RESTART!,46 min,2,0,5.94520748877,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+188,Barcelona resume the action on home soil...,46 min,6,2,27.2058568961,0.0,0.0,0.0133899626679,0.0123728454904,0,0.1,0,0,0,0,0,0,0,0,0,0
+189,"... no changes from either side at the break, which is not too much of a surprise.",47 min,9,10,58.3739723523,0.0133899626679,0.0,0.00867961460172,0.193795339693,0,0.09331,0,0,0,0,0,0,0,0,0,0
+190,"However, I suspect that both managers will have alterations in mind for the second 45 minutes.",47 min,10,8,62.488021714,0.00867961460172,0.0123728454904,0.0650226944058,0.0,0,0.124085,0,0,0,0,0,0,0,0,0,0
+191,"Not too many predicted a goalless draw in this match, but that is the case at the moment.",47 min,9,11,60.1984509603,0.0650226944058,0.193795339693,0.0,0.0627682331026,1,0.125,0,0,0,0,1,0,0,0,0,0
+192,Brings us goals please!,47 min,5,0,21.0082412329,0.0,0.0,0.0,0.0,1,0.04,0,0,0,0,0,0,0,0,0,0
+193,"Super work from Messi as the Argentine finds space outside the Real Madrid box before chipping a cross into Suarez, but Ramos is again across to make a vital block.",48 min,20,12,114.654035411,0.0,0.0627682331026,0.0443300655395,0.120265865597,0,0.22935,0,0,0,0,0,0,0,0,0,0
+194,The home supporters are in fine voice at the start of this second period as Barcelona threaten with a couple of set pieces.,48 min,13,11,80.784692763,0.0443300655395,0.0,0.156091967128,0.081094530526,0,0.18901,0,0,0,0,0,0,0,0,0,0
+195,"Real Madrid are winning the midfield battle at the moment, with Gomes and Rakitic both struggling to make their mark for the home side.",50 min,15,11,86.5563704148,0.156091967128,0.120265865597,0.121231662001,0.087370792503,0,0.20195,0,1,0,0,0,0,0,0,0,0
+196,"Iniesta is surely in the thoughts of Enrique, but I should not think that we will see the Spanish international until at least the hour mark, or possibly beyond.",50 min,16,16,117.098193715,0.121231662001,0.081094530526,0.0819254960011,0.0196459836671,0,0.116375,0,0,0,0,0,0,0,0,0,0
+197,"Not an awful lot to report in terms of chances in this second period, but Real Madrid are looking the most likely.",52 min,13,11,83.1710721433,0.0819254960011,0.087370792503,0.00812489369394,0.0,0,0.24355,0,0,0,0,0,0,0,0,0,0
+198,"Indeed, Ronaldo has just fired over the crossbar after a super Modric pass.",52 min,9,6,50.0239983051,0.00812489369394,0.0196459836671,0.0,0.0,0,0.124535,0,0,0,0,0,0,0,0,0,0
+199,GOAL!,53 min,2,0,4.441130092,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+200,Barcelona 1-0 Real Madrid (Suarez),53 min,7,0,10.7419432998,0.0,0.0,0.0,0.187792975435,0,0.09884,0,0,0,0,0,0,0,0,0,0
+201,Breakthrough!,54 min,2,0,5.53974238067,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,1,0,0
+202,Barcelona open the scoring in the 53rd minute as Suarez heads a brilliant Neymar free kick into the back of the net!,54 min,14,9,78.4080421385,0.0,0.187792975435,0.0948902767787,0.0899520588681,0,0.340325,0,0,0,0,0,0,0,0,0,0
+203,"It is against the run of play, but the home side lead here!",54 min,7,8,44.4677631636,0.0948902767787,0.0,0.0719854737198,0.0643459856133,0,0.14957,0,0,0,0,0,0,0,0,0,0
+204,"A long way to go in this match, but that is a massive goal from Suarez, who has pretty poor in the first period.",56 min,14,13,82.2567589297,0.0719854737198,0.0899520588681,0.0763212843756,0.0614759490584,1,0.20126,0,0,0,0,0,0,0,0,0,0
+205,Now it is up to Real Madrid to turn this one around or at least secure a point.,56 min,9,10,64.4957418035,0.0763212843756,0.0643459856133,0.0832378196448,0.0,0,0.117645,0,0,0,0,0,0,0,0,0,0
+206,"As it stands, Barcelona are cutting the gap at the top of La Liga to just three points from their rivals.",56 min,12,11,75.2649825847,0.0832378196448,0.0614759490584,0.0857375654572,0.153713182475,0,0.244625,0,0,0,0,0,0,0,0,0,0
+207,We are entering the stage of the match where both managers will be considering changes.,58 min,7,9,59.4056074816,0.0857375654572,0.0,0.0303088163334,0.0676122446938,0,0.11395,0,0,0,0,0,0,0,0,0,0
+208,"The needs for Iniesta is not quite as strong as it would have been at 0-0, but Real Madrid have plenty of attacking options on their bench.",58 min,14,15,93.9406841393,0.0303088163334,0.153713182475,0.0699295910099,0.0,0,0.15032,0,0,0,0,0,0,0,0,0,0
+209,"To be honest, Benzema has not done too much for the visitors.",58 min,7,7,45.742566196,0.0699295910099,0.0676122446938,0.0,0.0287146947282,0,0.114685,0,0,0,0,0,0,0,0,0,0
+210,BARCELONA SUB!,60 min,3,0,7.02673409641,0.0,0.0,0.0,0.0546700924421,0,0.02857,0,0,0,0,0,0,0,0,0,0
+211,Iniesta replaces Rakitic in the first change of the match.,60 min,7,4,33.9686104503,0.0,0.0287146947282,0.106498712105,0.121171002041,0,0.181215,0,0,0,0,0,0,0,0,0,0
+212,"Still no movement on the Real Madrid bench, but something has to be imminent because Barcelona are in control of the ball at the moment.",62 min,13,14,86.147592524,0.106498712105,0.0546700924421,0.0386120570105,0.195974513452,0,0.198,0,0,0,0,0,0,0,0,0,0
+213,"Almost immediately, Iniesta has calmed those around him.",62 min,7,3,40.6753836629,0.0386120570105,0.121171002041,0.0,0.0,0,0.03704,0,0,0,0,0,0,0,0,0,0
+214,"Real Madrid have started to see more of the ball in the last few moments, but they are not really threatening to level as Barcelona sit back and defend their lines.",65 min,17,16,112.927858518,0.0,0.195974513452,0.0406194611637,0.0841410062671,0,0.195845,0,0,0,0,0,0,0,0,0,0
+215,You just wonder whether someone like an Asensio or a Mariano might be thrown on in a bid to offer Barcelona a different challenge.,65 min,14,11,96.4721146983,0.0406194611637,0.0,0.0,0.0,0,0.11878,1,0,0,0,0,0,0,0,0,0
+216,REAL MADRID SUB!,66 min,4,0,9.29495691872,0.0,0.0841410062671,0.1910863749,0.0,0,0.099,0,0,0,0,0,0,0,0,0,0
+217,Casemiro replaces Isco for Real Madrid.,66 min,6,1,22.4076261634,0.1910863749,0.0,0.0,0.0,0,0.13852,0,0,0,0,0,0,0,0,0,0
+218,You just get the feeling that there is going to be late drama in this match.,68 min,7,10,57.1461275868,0.0,0.0,0.13231425534,0.0396357892169,0,0.107145,0,0,0,0,0,0,0,0,0,0
+219,I am finding it hard to believe that Barcelona will just see this game out at 1-0.,68 min,8,10,58.4628369918,0.13231425534,0.0,0.0,0.062349047456,0,0.078125,0,0,0,0,0,0,0,0,0,0
+220,Not in El Clasico.,68 min,3,2,13.9282147329,0.0,0.0396357892169,0.182520362765,0.0,0,0.103775,0,0,0,0,0,0,0,0,0,0
+221,Not with this Real Madrid team.,68 min,4,3,18.1999529159,0.182520362765,0.062349047456,0.0806483588252,0.0,0,0.090075,0,0,0,0,0,0,0,0,0,0
+222,"That said, the visitors are just struggling to get going with little over 20 minutes left here.",68 min,11,8,67.5151756534,0.0806483588252,0.0,0.0,0.0,0,0.07937,0,0,0,0,0,0,0,0,0,0
+223,CHANCE!,69 min,2,0,3.99929733972,0.0,0.0,0.329497081873,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+224,Oh my word what a chance!,69 min,4,3,26.8638365629,0.329497081873,0.0,0.0,0.0813666800354,0,0.055555,0,0,0,0,0,0,0,0,0,0
+225,"Barcelona have a brilliant opportunity to make it 2-0 as Neymar breaks into the Real Madrid box, but the Brazilian somehow fires over the crossbar!",69 min,16,11,82.7919581529,0.0,0.0,0.062088770214,0.0219003327853,0,0.258095,0,0,0,0,0,0,0,0,0,0
+226,"Another half-chance for Barcelona, but Iniesta hits the side netting from close range.",70 min,11,4,48.2887862828,0.062088770214,0.0813666800354,0.00854021568924,0.00873270156487,0,0.183715,0,0,1,0,0,0,0,0,0,0
+227,Little under 20 minutes of El Clasico remaining and Suarez's header still separates the two teams.,72 min,14,4,65.3372102393,0.00854021568924,0.0219003327853,0.0276588222696,0.0564595247534,0,0.156405,0,0,0,0,0,0,0,0,1,0
+228,The home supporters are in fine voice as we approach a really key period of this match.,72 min,10,8,62.8066081561,0.0276588222696,0.00873270156487,0.0,0.149964083418,0,0.12888,0,0,0,0,0,0,0,0,0,0
+229,"Real Madrid have just not recovered from that Suarez goal, not yet anyway.",74 min,9,6,49.1691715814,0.0,0.0564595247534,0.0247920418124,0.0,1,0.09643,0,0,0,0,0,0,0,0,0,0
+230,"They should have led late in the first period, but they are facing the possibility of their first defeat of the season.",74 min,11,13,76.7804006814,0.0247920418124,0.149964083418,0.0577219457709,0.106069524981,0,0.192955,0,0,0,0,0,0,0,0,0,0
+231,"Ronaldo has the chance to break away down the left, but he is forced back and Barcelona can shift into position.",74 min,12,11,78.463375353,0.0577219457709,0.0,0.101618215963,0.0740920406523,0,0.150685,0,0,0,0,0,0,1,0,0,0
+232,Mascherano absolutely hammers the ball down-field as Barcelona resist another period of pressure.,75 min,11,3,49.7202712161,0.101618215963,0.106069524981,0.0168514304649,0.0,0,0.09756,0,0,0,0,0,0,0,0,0,0
+233,"Suarez wants handball from Varane, but the referee is simply not interested in the claims.",75 min,10,7,59.4521666471,0.0168514304649,0.0740920406523,0.0,0.136964427605,0,0.1949,0,0,0,0,0,0,0,0,0,0
+234,BOOKING!,75 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+235,Suarez (Barcelona) is booked for dissent.,75 min,7,2,21.5597214751,0.0,0.136964427605,0.0363920105374,0.0,0,0.10395,0,0,0,0,0,0,0,0,0,0
+236,Little over 10 minutes of this Clasico remaining and it is so open at the moment as both teams continue to commit players in the final third.,77 min,14,14,98.2833231719,0.0363920105374,0.0,0.172091054752,0.0,0,0.325395,0,0,0,0,0,0,0,0,0,0
+237,Real Madrid are throwing caution to the wind and that will be the case in these latter stages as they continue to chase it down.,77 min,11,15,92.4390783912,0.172091054752,0.0,0.0,0.0915465581525,0,0.170205,0,1,0,0,0,0,0,0,0,0
+238,Some conclusion we could have!,77 min,3,3,21.3633950123,0.0,0.0,0.0,0.0,0,0.09007,0,0,0,0,0,0,0,0,0,0
+239,REAL MADRID SUB!,77 min,4,0,9.29495691872,0.0,0.0915465581525,0.0,0.735699961436,0,0.099,0,0,0,0,0,0,0,0,0,0
+240,Asensio replaces Benzema for the away side.,77 min,6,2,25.9986134429,0.0,0.0,0.0,0.185461618187,0,0.12419,0,0,0,0,0,0,0,0,0,0
+241,BARCELONA SUB!,78 min,3,0,7.02673409641,0.0,0.735699961436,0.0900448311919,0.0687972311057,0,0.02857,0,0,0,0,0,0,0,0,0,0
+242,Turan replaces Gomes in Barcelona's second change.,78 min,8,1,29.1619194166,0.0900448311919,0.185461618187,0.0312281624691,0.0,0,0.08424,0,0,0,0,0,0,0,0,0,0
+243,"As it stands, Barcelona are moving to within three points of Real Madrid at the summit.",80 min,11,7,55.9088255448,0.0312281624691,0.0687972311057,0.151619549669,0.0,0,0.18661,0,0,0,0,0,0,0,0,0,0
+244,That sounds a lot better than the nine points it would have been/still could be if the visitors secured all the points.,80 min,12,11,80.0509388995,0.151619549669,0.0,0.0,0.0,0,0.193845,0,0,0,0,0,0,0,0,0,0
+245,BOOKING!,81 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+246,Carvajal (Real Madrid) is booked for a late challenge on Neymar.,81 min,10,4,35.9408470881,0.0,0.0,0.0,0.0729880892519,0,0.151315,0,0,0,0,0,0,0,0,0,0
+247,CHANCE!,83 min,2,0,3.99929733972,0.0,0.0,0.191515350114,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+248,"Wonderful chance for Messi to send Barcelona two goals ahead after breaking into the Real Madrid box, but the Argentine somehow fires wide of the post.",83 min,19,9,97.8902458368,0.191515350114,0.0729880892519,0.0317118453493,0.0,1,0.36167,1,0,0,0,0,0,0,0,0,0
+249,Had to score!,83 min,2,2,12.2003865342,0.0317118453493,0.0,0.0,0.0,0,0.04651,0,0,0,0,0,0,0,0,0,0
+250,BOOKING!,84 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+251,Busquets (Barcelona) is booked for a foul on Asensio.,84 min,8,4,31.5828694309,0.0,0.0,0.0327208241128,0.0,0,0.14405,0,0,0,0,0,0,0,0,0,0
+252,Not too much from Real Madrid at the moment and it is obvious that they miss Bale down that left.,86 min,9,12,71.7927717739,0.0327208241128,0.0,0.0975472908346,0.0216379526246,0,0.1254,0,0,0,0,0,0,0,0,0,0
+253,"Ronaldo had a couple of chances late in the first period, but he has not been too active in this second period.",86 min,11,13,77.4282580033,0.0975472908346,0.0,0.0,0.0,0,0.24355,0,0,0,0,0,0,0,0,0,0
+254,Little under five minutes remaining and Barcelona still lead El Clasico 1-0.,86 min,11,2,45.932959414,0.0,0.0216379526246,0.0,0.0,0,0.104065,0,0,0,0,0,0,0,0,0,0
+255,REAL MADRID SUB!,87 min,4,0,9.29495691872,0.0,0.0,0.0,0.0,0,0.099,0,0,0,0,0,0,0,0,0,0
+256,Mariano replaces Kovacic for the away side.,87 min,6,2,26.6917606234,0.0,0.0,0.0,0.0173717419074,0,0.12419,0,0,0,0,0,0,0,0,0,0
+257,CLOSE!,88 min,2,0,5.0289167569,0.0,0.0,0.0,0.0,0,0.01852,0,0,1,0,0,0,0,0,0,0
+258,Ramos heads over the crossbar and Barcelona can breathe again!,88 min,6,5,38.1982626045,0.0,0.0173717419074,0.0815891408844,0.0168034160805,0,0.113975,0,0,0,0,0,0,0,0,0,0
+259,BARCELONA SUB!,88 min,3,0,7.02673409641,0.0815891408844,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+260,Denis Suarez replaces Neymar for the home side.,88 min,7,2,29.6859717325,0.0,0.0168034160805,0.0,0.0223258250908,0,0.16587,0,0,0,0,0,0,0,0,0,0
+261,CHANCE!,89 min,2,0,3.99929733972,0.0,0.0,0.0,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+262,"Marcelo picks out Ronaldo with a deep cross, but Alba manages to turn the attacker's header wide of the post.",89 min,15,8,78.5930128145,0.0,0.0223258250908,0.0421238807076,0.0,0,0.210795,0,0,0,0,0,0,0,0,1,0
+263,We are entering the very final moments of this game.,89 min,5,6,37.7484616826,0.0421238807076,0.0,0.0,0.0,0,0.058825,0,0,0,0,0,0,0,0,0,0
+264,BOOKING!,89 min,2,0,4.55891312765,0.0,0.0,0.0,0.0,0,0.03333,0,0,0,0,0,0,0,0,0,0
+265,Mascherano (Barcelona) is booked for dissent.,89 min,7,2,22.7834969068,0.0,0.0,0.0,0.0940321721703,0,0.10395,0,0,0,0,0,0,0,0,0,0
+266,GOAL!,90 min,2,0,4.441130092,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+267,Barcelona 1-1 Real Madrid (Ramos),90 min,7,0,11.2725715509,0.0,0.0940321721703,0.0,0.2589031915,0,0.15846,0,0,0,0,0,0,0,0,0,0
+268,Would you believe it!,90 min+1,3,2,17.1062685633,0.0,0.0,0.0,0.146097713232,0,0.0303,0,0,0,0,0,0,0,0,0,0
+269,Real Madrid have levelled in the final minute of this match as Ramos heads a brilliant Modric free kick into the back of the net!,90 min+1,15,11,85.0884828366,0.0,0.2589031915,0.0,0.225445676624,0,0.316725,0,0,0,0,0,0,0,0,0,0
+270,It just had to be him didn't it!,90 min+1,2,8,24.2429099781,0.0,0.146097713232,0.0,0.0,0,0.07895,0,0,0,0,0,0,0,0,0,0
+271,We are into the second minute of added time and Barcelona have been flattened!,90 min+2,7,8,51.3536748106,0.0,0.225445676624,0.0,0.120663965201,0,0.21157,0,0,0,0,0,0,0,0,0,0
+272,CHANCES!,90 min+3,2,0,4.69244452028,0.0,0.0,0.0,0.0,0,0.07692,0,0,0,0,0,0,0,0,0,0
+273,"The ball is live inside the Barcelona box and a couple of players have shots, but Real Madrid manage to survive and clear their lines.",90 min+3,16,11,85.0846705738,0.0,0.120663965201,0.0,0.0977918582269,0,0.193655,0,0,0,0,0,0,0,0,0,0
+274,That should be that for this one!,90 min+3,2,6,23.727064692,0.0,0.0,0.0,0.0,0,0.056605,0,0,0,0,0,0,0,0,0,0
+275,FULL-TIME: Barcelona 1-1 Real Madrid,90 min+4,6,0,6.93680197457,0.0,0.0977918582269,0.0,0.0619821683964,0,0.13615,0,0,0,0,0,0,0,0,0,0
+276,"Incredible, just incredible!",5.08pm,4,1,14.316642049,0.0,0.0,0.0,0.383530720561,0,0.0,0,0,0,0,0,0,0,0,0,0
+277,Real Madrid come from one goal behind to level at the death as they remain six points clear at the top of La Liga.,5.08pm,16,9,89.9895057855,0.0,0.0619821683964,0.0,0.0157626458388,1,0.373625,0,0,0,0,0,0,0,0,0,0
+278,It was an incredible conclusion and a point apiece is just about right in this match.,5.08pm,7,10,59.9543571886,0.0,0.383530720561,0.0,0.0,0,0.112145,0,0,0,0,0,0,0,0,0,0
+279,Thanks for joining Sports Mole for the action once again!,5.08pm,6,5,43.2419948939,0.0,0.0157626458388,0.0,0.0,0,0.07209,0,0,0,0,0,0,0,0,0,0

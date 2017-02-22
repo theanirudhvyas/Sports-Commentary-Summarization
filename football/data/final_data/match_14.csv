@@ -1,0 +1,213 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Good evening and welcome to what should be an exciting La Liga encounter between Sevilla and Barcelona.,6.48pm,10,8,73.089857657,0.0,0.0,0.172310399274,0.0300107334426,0,0.118445,0,0,0,0,0,0,0,0,0,0
+1,"Just under an hour from now, we will see if the Catalans can reduce Real Madrid's lead at the top of La Liga.",6.48pm,13,13,98.7990289172,0.172310399274,0.0,0.0571098881792,0.0284165726891,0,0.09375,0,0,0,0,0,0,0,0,0,0
+2,"Sevilla have also made a wretched start to the defence of their Europa League crown, by putting themselves on the verge of reaching the Champions League knockout stages.",6.48pm,18,12,113.407346481,0.0571098881792,0.0300107334426,0.119542365913,0.0538565671795,0,0.132795,0,0,0,0,0,0,0,0,0,0
+3,"OK, wretched maybe a strange choice of word, but the Andalusians have shown promising form both domestically and in Europe.",6.48pm,15,8,86.3307297292,0.119542365913,0.0284165726891,0.0230728863525,0.075934852067,0,0.115385,0,0,0,0,0,0,0,0,0,0
+4,"Indeed, Spanish football writer Sid Lowe has suggested that Sevilla are, in his opinion, arguably favourites to win this evening, which is testament to how the Sevillistas are playing at the moment.",6.50pm,22,15,134.704711531,0.0230728863525,0.0538565671795,0.069124662605,0.0902745850405,0,0.10494,0,1,0,0,0,0,0,0,0,0
+5,They have lost only once in the league this season.,6.50pm,4,7,38.1721574492,0.069124662605,0.075934852067,0.219787380575,0.0103379000936,0,0.079885,0,0,0,1,0,0,0,0,0,0
+6,"That said, Barca have won their last three in the league and sat only two points off the top coming into this weekend (with Real Madrid beating Leganes, that deficit is now five).",6.51pm,22,16,137.503769477,0.219787380575,0.0902745850405,0.0102977160209,0.0495989089159,0,0.135245,1,0,0,0,0,0,0,0,0,0
+7,Luis Enrique's side were left smarting after slumping to a 3-1 defeat at the Etihad Stadium on Tuesday.,6.51pm,13,7,69.4652848134,0.0102977160209,0.0103379000936,0.0146814897373,0.0361528056565,0,0.213845,0,0,0,0,0,0,0,0,0,0
+8,"With further ado, let's bring you the team news from the Ramon Sanchez Pizjuan.",6.52pm,11,6,62.8950075542,0.0146814897373,0.0495989089159,0.0,0.0515636481172,0,0.182505,0,0,0,0,0,0,0,0,0,0
+9,"SEVILLA XI: Rico, Mariano, Rami, Carrico, Escudero, N'Zonzi, Vazquez, Nasri, Sarabia, Vitolo, ViettoBARCELONA XI: Ter Stegen, Sergi Roberto, Mascherano, Umtiti, Digne, Denis Suarez, Busquets, Rakitic, Messi, Luis Suarez, Neymar",6.56pm,51,0,127.379290929,0.0,0.0361528056565,0.0,0.137565211207,0,0.11349,0,0,0,0,0,0,0,0,0,0
+10,"So, a much changed lineup for the visitors, with Pique, Vidal, Alba, Mathieu and Iniesta all sidelined.",6.57pm,16,7,74.004257574,0.0,0.0515636481172,0.0088754907007,0.0545402669895,0,0.08163,0,0,0,0,0,0,0,0,0,0
+11,"That said, the front three still reads Messi, Suarez, Neymar.",6.57pm,12,2,41.7342851977,0.0088754907007,0.137565211207,0.00916300084941,0.0265128368075,0,0.07317,0,0,0,0,0,0,0,0,0,0
+12,"For Sevilla, Samir Nasri returns after being absent in midweek for the 4-0 win against Dinamo Zagreb.",6.59pm,12,7,69.3304364722,0.00916300084941,0.0545402669895,0.0196462784834,0.0735576181573,0,0.08451,0,1,0,0,0,0,0,0,0,0
+13,The hosts are without the injured Nico Pareja.,6.59pm,6,3,33.2193741138,0.0196462784834,0.0265128368075,0.0,0.0446413478643,0,0.086055,0,0,0,0,0,0,0,0,0,0
+14,Gabriel Mercado is suspended for this clash.,6.59pm,5,3,31.8863188649,0.0,0.0735576181573,0.0,0.0736764365156,0,0.033335,0,0,0,0,0,0,0,0,0,0
+15,"As mentioned before, one Spanish football writer has suggested that Sevilla could be favourites to win and Barcelona coach Luis Enrique reckons that may be down to the Andalusians' home form.He told reporters: ""Sevilla has had a spectacular start to the season playing good football and they are very hard to beat at home.",7.02pm,36,23,214.028125085,0.0,0.0446413478643,0.099078896189,0.151316269148,0,0.12698,0,1,0,0,0,0,0,0,0,0
+16,If they are in a strong league position it is because they deserve it and this will be a tough game against a difficult opponent.,7.02pm,9,17,92.0599005607,0.099078896189,0.0736764365156,0.241020715684,0.187732742615,0,0.089745,0,0,0,0,0,0,1,0,0,0
+17,"""They are a club that has a high turnover of players and this year they also have a new manager but they are improving all the time.",7.02pm,12,17,97.1692019972,0.241020715684,0.151316269148,0.161791940855,0.0,0,0.1,0,0,0,0,0,0,0,0,0,0
+18,"From what they have shown so far, Sevilla could be in with a chance of winning the league.",7.02pm,9,11,64.4043009664,0.161791940855,0.187732742615,0.0,0.0471810120067,0,0.1,0,1,0,0,0,0,0,0,0,0
+19,"""© SilverHub",7.02pm,3,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+20,Meanwhile his Sevilla counterpart Jorge Sampaoli has been keen to play down talk that tonight's opponents are in crisis.,7.05pm,13,8,84.2740729361,0.0,0.0471810120067,0.0649273281277,0.0126558285128,0,0.09628,0,0,0,0,0,0,0,0,0,0
+21,"""They are one of the two or three best teams in the world and the quality they have, in addition to Messi, makes them practically unstoppable,"" the Chilean told reporters.",7.05pm,21,15,119.685321278,0.0649273281277,0.0,0.0372845580189,0.15812601178,0,0.161825,0,0,0,0,0,0,0,0,0,0
+22,"""It would be very good for us to win – for our self-esteem and the belief it would give us.""",7.05pm,13,10,74.8023788978,0.0372845580189,0.0126558285128,0.0191560649633,0.0278581835111,0,0.07143,0,1,0,0,0,0,0,0,0,0
+23,"While Sampaoli has paid tribute to the quality Barca already have, reports claim that the champions have their eye on snaffling one of Sevilla's star players - Steven N'Zonzi.",7.09pm,21,11,111.911637334,0.0191560649633,0.15812601178,0.043054836896,0.08612505319,0,0.133125,0,0,0,0,0,0,0,0,0,0
+24,"So, if the rumours are true, we could see the former Stoke midfielder moving to the Camp Nou soon.",7.09pm,14,8,80.3113187351,0.043054836896,0.0278581835111,0.0541269839838,0.0480685246071,0,0.08621,0,0,0,0,0,0,0,0,0,0
+25,"However, Samir Nasri is the one who has stole the headlines since his move from Manchester City in the summer.",7.12pm,13,9,81.8368486094,0.0541269839838,0.08612505319,0.0732123692229,0.0322180565732,0,0.091595,0,0,0,0,0,0,0,0,0,0
+26,"The Frenchman was out of favour at the Etihad last season, but has had a lease of life under the guide ex-Chile boss Sampaoli.",7.12pm,13,13,89.3918898564,0.0732123692229,0.0480685246071,0.0593194567034,0.0170495913655,0,0.106535,0,0,0,0,0,0,0,0,0,0
+27,"Trying to beat a Sevilla side who have won five out of five might be hard enough for most teams, but Enrique's side now have a five-point gap to make up on bitter rivals Real Madrid.",7.16pm,22,17,142.38337638,0.0593194567034,0.0322180565732,0.0210571072843,0.0975312320612,0,0.13968,1,0,0,0,0,0,0,0,0,0
+28,Gareth Bale inspired the European champions to a 3-0 win over newly-promoted Leganes earlier today.,7.16pm,12,4,56.4309505551,0.0210571072843,0.0170495913655,0.00431365362468,0.0,0,0.061225,0,1,0,0,0,0,0,0,0,0
+29,"However, while we have been looking at Sevilla's good form so far this season, their record against the Catalan giants is less than impressive.1 - Sevilla have won just one of their last 18 league games against Barcelona (D4 L13).",7.19pm,28,18,162.054794384,0.00431365362468,0.0975312320612,0.0,0.0,0,0.078945,1,0,0,0,0,0,0,0,0,0
+30,Precedent.,7.19pm,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+31,"pic.twitter.com/B8k61e8Swu— OptaJose (@OptaJose) November 6, 2016",7.19pm,10,0,19.4537041157,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+32,"To make things worse for the Andalusians, Lionel Messi has a knack of scoring against Sevilla.",7.24pm,11,7,60.2440932637,0.0,0.0,0.0921869688225,0.0,0,0.14083,0,0,0,0,0,0,0,0,0,0
+33,"The Argentine has netted 26 times in this fixture, which is more than against any other club.",7.24pm,8,11,74.7530066744,0.0921869688225,0.0,0.0,0.0114718267156,0,0.061225,0,0,0,0,0,0,0,0,0,0
+34,With Barca missing several players through injury.,7.28pm,6,2,34.3588949022,0.0,0.0,0.0724742250466,0.0,0,0.042555,0,0,0,0,0,0,0,0,0,0
+35,"They have promoted two players from the B team, so watch for Nili and Marlon from the bench, who could be making their senior bow.",7.28pm,16,12,99.5958714689,0.0724742250466,0.0114718267156,0.075351948459,0.0397213879795,0,0.09892,0,0,0,0,0,0,0,0,0,0
+36,"Indeed, one of the injured party, Gerard Pique has decided to stay in Catalunya and watch basketball's version of El Clasico.",7.30pm,18,7,93.8466583654,0.075351948459,0.0,0.0,0.0,0,0.113945,0,0,0,0,0,0,0,0,0,0
+37,"Barca beat Real by 10 points, so he wasn't disappointed.#ClasicoACB & @3gerardpique 🏀 Força @FCBbasket!!",7.30pm,19,4,55.4121981337,0.0,0.0397213879795,0.0,0.19735928469,0,0.072725,0,0,0,0,0,0,0,0,0,0
+38,👏 Som-hi Palau!,7.30pm,4,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+39,!🔵🔴 Força Barça!!,7.30pm,6,0,0.0,0.0,0.19735928469,0.0,0.0,0,0.07081,0,0,0,0,0,0,0,0,0,0
+40,"pic.twitter.com/PGbdG0Qvnx— FCB Basket (@FCBbasket) November 6, 2016",7.30pm,11,0,26.1026783539,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+41,The visitors will need to be alert until the final whistle this evening.,7.36pm,7,7,53.7650405655,0.0,0.0,0.0161571411481,0.0289919027009,0,0.19022,0,0,0,0,0,0,0,0,0,0
+42,"Sevilla may boast a perfect home record, but have required a couple of last-minute goals against Las Palmas and Alaves to preserve that record.",7.36pm,17,9,93.0167417969,0.0161571411481,0.0,0.030335277194,0.207799351984,1,0.10606,0,0,0,0,0,0,0,0,0,0
+43,"PREDICTION: With kickoff nearing in Andalucia, time for a prediction and I think this is a difficult one, but I'm leaning towards a score draw.",7.43pm,18,12,87.9505312494,0.030335277194,0.0289919027009,0.0183502633639,0.0,0,0.11425,0,0,0,0,1,0,0,0,0,0
+44,"Although Sevilla have a poor record against Barca, their form this season has been almost perfect (their only loss was a strange defeat against Athletic Bilbao two months ago).",7.43pm,21,12,122.542348314,0.0183502633639,0.207799351984,0.0,0.0441596194359,0,0.09756,0,0,0,0,0,0,0,0,0,0
+45,The teams are heading out at a noisy Ramon Sanchez Pizjuan.,7.45pm,7,5,42.8271994652,0.0,0.0,0.0,0.0,0,0.15415,0,0,0,0,0,0,0,0,0,0
+46,This should be a belter!,7.45pm,2,4,17.6421420192,0.0,0.0441596194359,0.0,0.0,0,0.05172,0,0,0,0,0,0,0,0,0,0
+47,Kickoff is moments away.,7.45pm,4,1,17.6872624545,0.0,0.0,0.245186082118,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+48,KICKOFF: We're underway!,0 min,5,1,14.7663883836,0.245186082118,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+49,Already Sevilla on the attack as Vietto takes aim and Ter Stegen gathers.,1 min,10,4,52.4954413027,0.0,0.0,0.0,0.0,0,0.13034,0,0,0,0,0,0,0,0,0,0
+50,Electric atmosphere this evening!,1 min,4,1,19.2713825589,0.0,0.0,0.0,0.0,0,0.028575,0,0,0,0,0,0,0,0,0,0
+51,SAVE!,2 min,2,0,4.56953269648,0.0,0.0,0.0,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+52,"Barca were initially pinned in their area, but broke out with some venom.",2 min,8,7,58.632380072,0.0,0.0,0.0665166036732,0.0,0,0.083335,0,0,0,0,0,0,0,0,0,0
+53,"First Messi, then Neymar, with the Brazilian teeing up Suarez on the left, but the Uruguayan's effort was tipped away by Rico",2 min,16,10,86.4248797289,0.0665166036732,0.0,0.0183020554418,0.0,0,0.167375,0,0,0,0,0,0,0,0,0,0
+54,"As soon as Ter Stegen takes a short goal kick, Sevilla are pressing immediately and try to unsettle the visitors.",4 min,15,7,79.2625497905,0.0183020554418,0.0,0.0,0.0229522078591,1,0.148095,0,0,0,0,0,0,0,0,0,0
+55,Can keep that high-octane press going for 90 minutes?,4 min,7,3,35.7043447656,0.0,0.0,0.0,0.0,0,0.039215,0,0,0,0,0,0,0,0,0,0
+56,Enrique looks calm on the sidelines while Sampaoli is screaming instructions to his side at every moment.,6 min,11,7,73.3794106573,0.0,0.0229522078591,0.0103129610585,0.0537965461708,0,0.08163,0,0,0,0,0,0,0,0,0,0
+57,Two very differing styles from the managers.,6 min,5,3,30.8188951177,0.0103129610585,0.0,0.027980572457,0.0158278555156,0,0.070905,0,0,0,0,0,0,0,0,0,0
+58,Only the one shot of note on the pitch thus far.,6 min,7,5,42.0484022092,0.027980572457,0.0537965461708,0.0825644502291,0.124212746208,0,0.121665,0,0,0,0,0,0,0,0,0,0
+59,Vitolo has left Mascherano on the deck in pain.,8 min,6,4,34.4350340006,0.0825644502291,0.0158278555156,0.0964346153747,0.0,0,0.0825,0,0,0,0,0,0,0,0,0,0
+60,"He tries to keep the ball in play, but only succeeds in clipping the Argentine's shins.",8 min,11,8,61.9431157981,0.0964346153747,0.124212746208,0.0788805686017,0.102835460036,0,0.12245,0,0,0,0,0,0,0,0,0,0
+61,He apologises and escapes a yellow.,8 min,4,3,21.39856822,0.0788805686017,0.0,0.153554600878,0.048106123891,0,0.05263,0,0,0,0,0,0,0,0,0,0
+62,"YELLOW CARD: Surprisingly, Neymar is the first in the book and rightly so.",10 min,10,6,47.2561207649,0.153554600878,0.102835460036,0.0591262903761,0.0172011705448,0,0.123315,0,0,0,0,0,0,0,0,0,0
+63,His foot goes over the ball and clatters into Escudero.,10 min,6,5,40.5038791363,0.0591262903761,0.048106123891,0.00900644848131,0.0556681242611,0,0.09756,0,0,0,0,0,0,0,0,0,0
+64,"Sevilla are persisting with a high press, but that does leave MSN three-on-three at the other end.",11 min,10,9,63.3473389063,0.00900644848131,0.0172011705448,0.0,0.0353437454903,0,0.1,0,0,0,0,0,0,0,0,0,0
+65,Clearly Sampaoli has a great deal of trust in his back line!,11 min,8,5,48.7376090431,0.0,0.0556681242611,0.0303032372772,0.0,0,0.076925,0,0,0,0,0,0,0,0,0,0
+66,"Neymar is left in a heap, but Barca continue to try and pass their way into the game.",13 min,11,9,64.7960321614,0.0303032372772,0.0353437454903,0.0,0.0,0,0.140835,0,0,0,0,0,0,0,0,0,0
+67,"A fairly cagey, if hotly-contested affair so far.",13 min,7,3,29.7985958817,0.0,0.0,0.0,0.0,0,0.02439,0,0,0,0,0,0,0,0,0,0
+68,GOAL!,15 min,2,0,4.16406758837,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+69,Sevilla 1-0 Barcelona (Vitolo),15 min,6,0,10.4251837434,0.0,0.0,0.118697747846,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+70,"The place erupts and Vitolo, who had a shot blocked moments earlier, seizes on a mistake by Sergi Roberto and after getting in-front of the full-back, slots low past Ter Stegen.",16 min,23,12,116.693551627,0.118697747846,0.0,0.0,0.0367077472743,0,0.272525,0,0,0,0,0,0,0,0,0,0
+71,Barca look for a quick response.,17 min,5,2,22.1380628983,0.0,0.0,0.0,0.0,0,0.051445,0,0,0,0,0,0,0,0,0,0
+72,"Neymar finds space on the right flank, his cross is turned behind.",17 min,10,4,49.1124110065,0.0,0.0367077472743,0.0142998583366,0.0170510401909,0,0.136155,0,0,0,0,0,0,0,0,0,0
+73,Sevilla see out the subsequent corner too.,17 min,5,3,28.0563567313,0.0142998583366,0.0,0.0225227264504,0.0204616364044,0,0.046515,0,0,0,0,0,0,0,0,0,0
+74,The game has come to life.,18 min,4,3,21.5000918912,0.0225227264504,0.0170510401909,0.0243982965768,0.0222129346447,0,0.106725,0,0,0,0,0,0,0,0,0,0
+75,"Well, on the pitch at least.",18 min,5,3,23.6160357663,0.0243982965768,0.0204616364044,0.0971562724668,0.0404945790996,0,0.08605,0,0,0,0,0,0,0,0,0,0
+76,The fans have been on it from minute one!,18 min,4,6,32.5890295165,0.0971562724668,0.0222129346447,0.0368674688485,0.0123820574836,0,0.074995,0,0,0,0,0,0,0,0,0,0
+77,Sarabia rampages down the right for the hosts.,20 min,5,4,29.1792511057,0.0368674688485,0.0404945790996,0.0248464510737,0.0,0,0.12861,0,0,0,0,0,0,0,0,0,0
+78,His cross comes to nothing and the Catalans try and build a spell of possession again.,20 min,9,8,60.3413830282,0.0248464510737,0.0123820574836,0.0419435479736,0.0,0,0.107805,0,0,0,0,0,0,0,0,0,0
+79,2 - Vitolo has scored in his last two league games against Barcelona (two goals).,21 min,14,4,53.194543209,0.0419435479736,0.0,0.0,0.0,1,0.083335,0,0,0,0,0,0,0,0,0,0
+80,Panzer.,21 min,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+81,"pic.twitter.com/h3rWFG4DYe— OptaJose (@OptaJose) November 6, 2016",21 min,10,0,19.4537041157,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+82,"As Sevilla fans sing to the tune of ""Will Grigg's on fire!"".",23 min,11,6,47.8549495173,0.0,0.0,0.011574022098,0.0151246992195,0,0.11321,0,0,0,0,0,0,0,0,0,0
+83,Umtiti hits the floor and isn't happy with a tackle.,23 min,7,5,37.3710322464,0.011574022098,0.0,0.016030800777,0.0096573176375,0,0.093025,0,0,0,0,0,0,0,0,0,0
+84,Not sure who the culprit is.,23 min,3,4,24.5519136314,0.016030800777,0.0151246992195,0.0126199883928,0.0,0,0.04878,0,0,0,0,0,0,0,0,0,0
+85,"Needless to say, plenty of tasty challenges flying in, but just the one yellow so far.",23 min,12,7,66.954832758,0.0126199883928,0.0096573176375,0.0825899941372,0.0574773703073,0,0.083335,0,0,0,0,0,0,0,0,0,0
+86,YELLOW CARD: I spoke too soon!,26 min,6,2,22.9246245235,0.0825899941372,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+87,"Neymar skips away from Nasri, but Rami wasn't going to allow the Brazilian past him.",26 min,12,6,63.0789190101,0.0,0.0574773703073,0.0,0.043464466492,0,0.076925,0,0,0,0,0,0,0,0,0,0
+88,He gets a booking for his trouble.,26 min,4,4,24.5991665163,0.0,0.0,0.0,0.0,0,0.065215,0,0,0,0,0,0,0,0,0,0
+89,"Messi over the free kick, which comes to nothing in the end.",26 min,8,6,46.1999594359,0.0,0.043464466492,0.0,0.0504064606219,0,0.137445,0,0,0,0,0,0,0,0,0,0
+90,FOUL!,28 min,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+91,This time Busquets gets stuck in.,28 min,5,2,24.8685229107,0.0,0.0504064606219,0.0662273037447,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+92,It feels as though this could boil over before long.,28 min,6,5,45.5048086408,0.0662273037447,0.0,0.0,0.0,0,0.04,0,0,0,0,0,0,0,0,0,0
+93,CHANCE!,30 min,2,0,4.75185425328,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+94,"Sarabia latches onto a decent cross from Vietto and instead of going for goal, tries a strange flick back and no teammates were on hand to react.",30 min,18,11,109.569224659,0.0,0.0,0.0418633338796,0.0,1,0.125,0,0,0,0,0,0,0,0,0,0
+95,Unmarked and just outside the six-yard box.,30 min,5,3,24.5409845609,0.0418633338796,0.0,0.0,0.0,0,0.083335,0,0,0,0,0,0,0,0,0,0
+96,A wasted opportunity.,30 min,3,1,11.3362899703,0.0,0.0,0.0,0.0,0,0.047615,0,0,0,0,0,0,0,0,0,0
+97,CLOSE!,32 min,2,0,4.97499780459,0.0,0.0,0.0,0.0,0,0.02381,0,0,1,0,0,0,0,0,0,0
+98,Barca almost gift a second goal as Vietto muscles Mascherano out and fires across the face of goal.,32 min,13,6,71.9336624523,0.0,0.0,0.0113747581128,0.0117470506385,1,0.10345,0,0,0,0,0,0,0,0,0,0
+99,Sevilla look the more likely to score.,32 min,5,3,26.8580819481,0.0113747581128,0.0,0.0205734903277,0.0,0,0.076925,0,0,0,0,0,0,0,0,0,0
+100,The hosts are pushing forward again.,34 min,4,3,24.4778056593,0.0205734903277,0.0117470506385,0.0,0.0,0,0.067705,0,0,0,0,0,0,0,0,0,0
+101,"Vazquez finds Sarabia, but his effort his blocked and Barcelona remain one behind.",34 min,11,4,53.3551616831,0.0,0.0,0.0,0.122198390898,0,0.095075,0,0,0,0,0,0,0,0,0,0
+102,Messi tries to get Barca going in attack.,36 min,7,2,29.8242196451,0.0,0.0,0.169050653676,0.0,0,0.126315,0,0,0,0,0,0,0,0,0,0
+103,"Sergi Roberto crosses for Neymar, but as the Brazilian tries to square the ball from Messi, he is blocked and Sevilla clear the danger.",36 min,16,11,88.8476656173,0.169050653676,0.122198390898,0.0,0.0501467722897,0,0.17564,0,0,0,0,0,0,0,0,0,0
+104,SHOT!,37 min,2,0,3.87638551592,0.0,0.0,0.0,0.334921058142,0,0.0,0,0,0,0,0,0,0,0,0,0
+105,I think Messi might be getting frustrated.,37 min,6,2,27.7744591852,0.0,0.0501467722897,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+106,He takes a shot from just outside the area.,37 min,5,5,31.4764048087,0.0,0.334921058142,0.0,0.0245607376615,0,0.0625,0,0,0,0,0,0,0,0,0,0
+107,It doesn't trouble Rico.,37 min,4,2,17.9904487135,0.0,0.0,0.0,0.0,0,0.02778,0,0,0,0,0,0,0,0,0,0
+108,Roberto is trying to exploit rare space afforded by the hosts on the right side.,39 min,10,6,60.2795320947,0.0,0.0245607376615,0.0200167472998,0.192612927196,0,0.131055,0,0,0,0,0,0,0,0,0,0
+109,Los Rojiblanos have been quick to close down everything and another Barcelona attack breaks down.,39 min,10,6,64.9651042483,0.0200167472998,0.0,0.0237309689816,0.0,0,0.081635,0,0,1,0,0,0,0,0,0,0
+110,The visitors are intent on trying to get this passing game going.,41 min,8,5,46.3245548122,0.0237309689816,0.192612927196,0.0120457287756,0.0,0,0.11472,0,0,0,0,0,0,0,0,0,0
+111,It seems that Plan B isn't an option for the champions!,41 min,7,6,40.1173752704,0.0120457287756,0.0,0.0,0.0,0,0.039215,0,0,0,0,0,0,0,0,0,0
+112,GOAL!,43 min,2,0,4.16406758837,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+113,Sevilla 1-1 Barcelona (Lionel Messi),43 min,7,0,14.4838908162,0.0,0.0,0.098238682799,0.0,0,0.126315,0,0,0,0,0,0,0,0,0,0
+114,A stunning low finish from Messi and Neymar works inside from the left.,43 min,9,5,48.9577655183,0.098238682799,0.0,0.0344350859739,0.0,0,0.2475,0,0,0,0,0,0,0,0,0,0
+115,Rico at full stretch can't reach it and the Blaugrana are back on level terms.,43 min,11,6,56.7772919267,0.0344350859739,0.0,0.0644533681781,0.0870981032154,0,0.194615,0,0,0,0,0,0,0,0,0,0
+116,Whether it's deserved is another matter.,43 min,6,2,27.3371534712,0.0644533681781,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0
+117,YELLOW CARD: Sergi Roberto can have no complaints as picks up a booking for a shirt pull on Vitolo.,44 min,12,9,74.5818461823,0.0,0.0870981032154,0.0,0.0,0,0.133905,0,0,0,0,0,0,0,0,0,0
+118,The crowd are a little bit quieter.,45 min,5,3,26.4237158083,0.0,0.0,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+119,"Neymar tries to start another attack, but it breaks down.",45 min,8,4,39.6785928362,0.0,0.0,0.0,0.0,0,0.04762,0,0,0,0,0,0,0,0,0,0
+120,HALF TIME: Sevilla 1-1 Barcelona,45 min,6,0,14.435100652,0.0,0.0,0.0725416024026,0.0,0,0.049995,0,0,0,0,0,0,0,0,0,0
+121,"Well, Sevilla must be sick of the sight of Lionel Messi.",8.35pm,9,4,43.7707091425,0.0725416024026,0.0,0.0122397358574,0.0920768808864,0,0.128605,0,0,0,0,0,0,0,0,0,0
+122,That's 27 goals for the Argentine against Los Rojiblancos.,8.35pm,7,4,37.796938982,0.0122397358574,0.0,0.00922191813477,0.0649599373615,1,0.08992,0,0,0,0,0,0,0,0,0,0
+123,"It's not a fair reflection on Sevilla's approach, which has been full of energy and they would have deserved the lead.",8.35pm,13,12,82.7059304682,0.00922191813477,0.0920768808864,0.134161160724,0.0613697563469,0,0.11111,0,0,0,0,0,0,0,0,0,0
+124,STATS: The home side have had more of the possession and that shows the lengths they have gone to to disrupt Barcelona's passing game.,8.38pm,14,13,91.8345702796,0.134161160724,0.0649599373615,0.251920287922,0.133327116079,0,0.17608,0,0,0,0,0,0,0,0,0,0
+125,"Sampaoli's men have also had more efforts at goal (9 to Barca's 4), but have only hit the target once.",8.38pm,16,10,74.035719147,0.251920287922,0.0613697563469,0.0358622370551,0.0213774407229,1,0.08118,0,0,0,0,0,0,0,0,0,0
+126,"BENCH WATCH: If the Sevillistas are to win this game, they may look to Wissam Ben Yedder as an extra attacking option.",8.42pm,16,9,95.8081624745,0.0358622370551,0.133327116079,0.0186222357424,0.00710153494492,0,0.074075,0,1,0,0,0,0,0,0,0,0
+127,The former Toulouse forward scored twice in the dying stages of the victory over Alaves.,8.42pm,10,6,62.4704252163,0.0186222357424,0.0213774407229,0.0258455427635,0.0245316946576,0,0.146825,0,0,0,0,0,0,0,0,0,0
+128,The obvious change for Barca might be Andre Gomes for Denis Suarez.,8.42pm,9,4,49.3332691474,0.0258455427635,0.00710153494492,0.295601542487,0.0455326463132,0,0.08511,0,0,0,0,0,0,0,0,0,0
+129,"It was Suarez, who made way for Gomes for the game against Manchester City.",8.42pm,9,7,56.8921615288,0.295601542487,0.0245316946576,0.0420495984493,0.00899935859832,0,0.08795,0,0,0,0,0,0,0,0,0,0
+130,"While the Blaugrana have escaped from that first-half examination on level terms, as it stands they will be four points behind Real.",8.46pm,13,11,88.9074680462,0.0420495984493,0.0455326463132,0.100732539642,0.0482846022403,0,0.08772,0,0,0,0,0,0,0,0,0,0
+131,"So, I doubt they will show any less ambition in the second period.",8.46pm,8,7,53.5438494461,0.100732539642,0.00899935859832,0.010054383129,0.11439759037,0,0.0677,0,0,0,0,0,0,0,0,0,0
+132,I'd be surprised if the hosts can keep this tempo up too.,8.46pm,6,8,46.689480375,0.010054383129,0.0482846022403,0.0231701652237,0.0,0,0.061225,0,0,0,0,0,0,0,0,0,0
+133,KICKOFF: The second half is underway at the Ramon Sanchez Pizjuan.,46 min,9,4,43.2768330771,0.0231701652237,0.11439759037,0.0,0.029467025589,0,0.221345,0,0,0,0,0,0,0,0,0,0
+134,"Sarabia tries what turns into a wasteful cross, but as it bends towards goal, a cool Ter Stegen soon looks momentarily panicked.",46 min,18,7,93.3214468686,0.0,0.0,0.0,0.0,1,0.098365,0,0,0,0,0,0,0,0,0,0
+135,The ball doesn't bend enough though.,46 min,6,2,27.4533352255,0.0,0.029467025589,0.0,0.0,0,0.052635,0,0,0,0,0,0,0,0,0,0
+136,SHOT!,48 min,2,0,3.87638551592,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+137,Clever work from Vietto with back heel into Nasri's path.,48 min,9,3,45.6305598461,0.0,0.0,0.0,0.0,0,0.04651,0,0,0,0,0,0,0,0,0,0
+138,"The Frenchman shoots straight at Ter Stegen, but neat play to draw a defender out of position.",48 min,12,7,67.9994286294,0.0,0.0,0.0,0.0,0,0.1213,0,0,0,0,1,0,1,0,0,0
+139,SAVE!,49 min,2,0,4.56953269648,0.0,0.0,0.316674772899,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+140,Rico produces a solid save after Neymar tees up Rakitic.,49 min,8,3,42.7758255777,0.316674772899,0.0,0.0,0.142293301821,0,0.10968,0,0,0,0,0,0,0,0,0,0
+141,"The Croatian is denied, but a brighter start to this half from the visitors.",49 min,8,8,48.4969550218,0.0,0.0,0.0847790732824,0.0,0,0.153165,0,0,0,0,0,0,0,0,0,0
+142,YELLOW CARD: Mariano is the latest in the book after a coming together with Neymar.,51 min,10,7,54.2987721554,0.0847790732824,0.142293301821,0.0,0.0,0,0.149885,0,0,0,0,0,0,0,0,0,0
+143,SHOT!,52 min,2,0,3.87638551592,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+144,Sevilla are living a bit dangerously.,52 min,5,2,22.4058307301,0.0,0.0,0.0,0.0,0,0.04348,0,0,0,0,0,0,0,0,0,0
+145,Suarez breaks at pace and finds Messi.,52 min,6,2,27.4773628183,0.0,0.0,0.0492500836503,0.0,0,0.085105,0,0,0,0,0,0,0,0,0,0
+146,Rami watches the Argentine and blocks his effort.,52 min,6,3,32.6583987063,0.0492500836503,0.0,0.0185657557796,0.0150797372624,0,0.105075,0,0,0,0,0,0,0,0,0,0
+147,Good work from the French international!,52 min,5,2,24.1699208795,0.0185657557796,0.0,0.416908147728,0.0,0,0.07262,0,0,0,0,0,0,0,0,0,0
+148,More good work from Suarez on the right a decent cross.,53 min,7,5,39.0237689041,0.416908147728,0.0150797372624,0.0,0.0159181056918,0,0.159265,0,0,0,0,0,0,0,0,0,0
+149,Just a bit too high for Messi.,53 min,4,4,24.8711002318,0.0,0.0,0.0,0.0,0,0.06383,0,0,0,0,0,0,0,0,0,0
+150,Barcelona have improved markedly since the break.,53 min,6,2,28.9217751328,0.0,0.0159181056918,0.0,0.0324319690183,0,0.046515,0,0,0,0,0,0,0,0,0,0
+151,SAVE!,55 min,2,0,4.56953269648,0.0,0.0,0.0,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+152,Sevilla are looking stretched for the first time in the game.,55 min,7,5,38.3606405506,0.0,0.0324319690183,0.109145026825,0.0455552392144,0,0.14181,0,0,0,0,0,0,0,0,0,0
+153,This time Mascherano's long ball finds Suarez.,55 min,8,1,28.7033145294,0.109145026825,0.0,0.0,0.144295339166,0,0.08424,0,0,0,0,0,0,0,0,0,0
+154,The Uruguay forward picks out Messi again and Rico tips his effort over the bar.,55 min,9,7,60.1187720055,0.0,0.0455552392144,0.10185482016,0.0640327921816,0,0.127955,0,0,0,0,0,0,0,0,0,0
+155,"Almost a inch-perfect ball from Messi for Denis Suarez, but Rico collects before the midfielder can get a foot to it.",57 min,13,10,69.4947514041,0.10185482016,0.144295339166,0.213222148726,0.0,0,0.12963,0,0,0,0,0,0,0,0,0,0
+156,"Busquets almost played his team into trouble, but Mascherano saves his colleague with a good tackle on Vitolo before he can get a shot away.",58 min,16,11,99.005462941,0.213222148726,0.0640327921816,0.0,0.0,0,0.089285,0,0,0,0,0,0,0,0,0,0
+157,GOAL!,61 min,2,0,4.16406758837,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+158,Sevilla 1-2 Barcelona (Luis Suarez),61 min,7,0,13.8961041513,0.0,0.0,0.0,0.135202379823,0,0.08041,0,0,0,0,0,0,0,0,0,0
+159,A quality finish from the former Liverpool frontman.,61 min,6,3,30.5957515663,0.0,0.0,0.0142779106785,0.0106298407378,0,0.12681,0,0,0,0,0,0,0,0,0,0
+160,Messi picks the right pass and Suarez calmly nutmegs Rico.,61 min,9,2,40.8856277178,0.0142779106785,0.135202379823,0.0354246388841,0.0072268928473,0,0.120835,0,0,0,0,0,0,0,0,0,0
+161,A frenetic start to this half and Barcelona are heading into the international break with three points at this rate.,61 min,11,10,74.1022181669,0.0354246388841,0.0106298407378,0.0313135991742,0.0518872893777,0,0.135385,0,0,0,0,0,0,0,0,0,0
+162,"Barcelona's attacking trio rightly earn the plaudits for their goalscoring prowess, but spare a thought a for Mascherano, two last-ditch tackles have stopped Sevilla netting a second.",63 min,22,9,103.735208519,0.0313135991742,0.0072268928473,0.00890689117636,0.0,1,0.09756,0,0,0,0,0,0,0,0,0,0
+163,"Suddenly, that passing game Barca were struggling to get going in the opening period is seeing them dominate at a crucial time in the match.",65 min,16,11,100.613498793,0.00890689117636,0.0518872893777,0.0,0.0182534878245,0,0.176715,0,0,0,0,0,0,0,0,0,0
+164,Sampaoli's side look stunned.,65 min,6,0,18.9837004865,0.0,0.0,0.0,0.0,0,0.08263,0,0,0,0,0,0,0,0,0,0
+165,YELLOW CARD: Now Digne goes into the book.,66 min,7,3,31.9872304325,0.0,0.0182534878245,0.0111798159064,0.0977976718189,0,0.02564,0,0,0,0,0,0,0,0,0,0
+166,The French left-back knew what he was doing when he brought down Mariano.,66 min,6,8,54.2235736063,0.0111798159064,0.0,0.0165627462903,0.111159426598,0,0.044445,0,0,0,0,0,0,0,0,0,0
+167,SEVILLA SUB: Ganso comes into the action at the expense of Vazquez in midfield.,68 min,10,6,54.8690211996,0.0165627462903,0.0977976718189,0.153106720704,0.0570466066502,0,0.10291,0,0,0,0,0,0,0,0,0,0
+168,"Ganso was a former teammate of Neymar back in Brazil, prior to Neymar's switch to Barcelona.",68 min,13,6,62.2599327825,0.153106720704,0.111159426598,0.0386696800703,0.0,0,0.10204,0,0,0,0,0,0,0,0,0,0
+169,21 - Luis Suárez has now scored against 21 of the 23 different sides that he has faced in La Liga.,70 min,13,9,81.9490149872,0.0386696800703,0.0570466066502,0.0,0.0,0,0.09434,0,0,0,0,0,0,0,0,0,0
+170,Wild.,70 min,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+171,"pic.twitter.com/Cyz0hVZzAJ— OptaJose (@OptaJose) November 6, 2016",70 min,10,0,19.4537041157,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+172,CLOSE!,72 min,2,0,4.97499780459,0.0,0.0,0.0,0.0,0,0.02381,0,0,1,0,0,0,0,0,0,0
+173,Luis Suarez is almost at it again.,72 min,4,4,26.4950401158,0.0,0.0,0.0,0.0475359945245,0,0.07831,0,0,0,0,0,0,0,0,0,0
+174,"Neymar plays him in on the right side of the area and he rounds Rico, but fires a shot wide of the left post.",72 min,14,12,86.5536826292,0.0,0.0,0.0908763590011,0.0,0,0.331395,0,0,0,0,0,0,0,0,0,0
+175,"BARCELONA SUB: Rakitic, once of this parish, gets a warm reception from the Sevilla fans as he is replaced by Andre Gomes.",73 min,16,10,88.437389294,0.0908763590011,0.0475359945245,0.0,0.0846588777569,0,0.107035,0,0,0,0,0,0,0,0,0,0
+176,CHANCE!,74 min,2,0,4.75185425328,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+177,Ter Stegen has another wobble as he comes for a corner and doesn't get off the ground.,74 min,10,9,65.8778368221,0.0,0.0846588777569,0.0100795704037,0.0110662086687,0,0.113495,0,0,0,0,0,0,0,0,0,0
+178,"N'Zonzi gets his head on it, but nods the ball wide.",74 min,8,5,39.1428282641,0.0100795704037,0.0,0.0134934814398,0.0,0,0.11628,0,0,0,0,0,0,0,0,0,0
+179,The midfielder knows that's a big chance to equalise.,74 min,7,4,33.6248392219,0.0134934814398,0.0110662086687,0.0,0.0,0,0.10291,0,0,0,0,0,0,0,0,0,0
+180,SAVE!,75 min,2,0,4.56953269648,0.0,0.0,0.0,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+181,Rico saves again.,75 min,3,1,13.5544474096,0.0,0.0,0.0,0.0,0,0.057145,0,0,0,0,0,0,0,0,0,0
+182,This time from point-blank range from another Suarez shot.,75 min,7,3,31.047223174,0.0,0.0,0.0,0.0,0,0.068185,0,0,0,0,0,0,0,0,0,0
+183,The Uruguay striker has come alive since the break!,75 min,7,3,37.5012247378,0.0,0.0,0.0151448538433,0.0,0,0.05,0,0,0,0,0,0,0,0,0,0
+184,"Umtiti finds himself in a rare shooting position, but the defender shows why he is not much-coveted goalscorer and drags his effort harmlessly wide.",78 min,15,11,98.1393547648,0.0151448538433,0.0,0.0,0.00686129124415,1,0.15482,0,0,0,0,0,0,1,0,0,0
+185,SHOT!,80 min,2,0,3.87638551592,0.0,0.0,0.25982895267,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+186,"Vietto has a shot blocked at the other end, which goes out for a corner.",80 min,8,9,52.2136904953,0.25982895267,0.00686129124415,0.0,0.0106908254547,0,0.08868,0,0,0,0,0,0,0,0,0,0
+187,"After an unconvincing clearance from Umtiti, Barca come away unscathed.",80 min,9,3,46.668547513,0.0,0.0,0.0,0.0,0,0.058825,0,0,0,0,0,0,0,0,0,0
+188,YELLOW CARD: N'Zonzi brings down Messi and the Argentine's boot comes off.,83 min,11,4,44.402737508,0.0,0.0106908254547,0.080610378311,0.111938374542,0,0.093305,0,0,0,0,0,0,0,0,0,0
+189,His antics see the Argentina star pick up a yellow too.,83 min,7,5,44.5964860786,0.080610378311,0.0,0.0146704293559,0.0,0,0.07843,0,0,0,0,0,0,0,0,0,0
+190,Whistles rain down from the stands.,83 min,4,3,25.2377615095,0.0146704293559,0.111938374542,0.0,0.0784776522678,0,0.07262,0,0,0,0,0,0,0,0,0,0
+191,BARCELONA SUB: Rafinha comes on for Denis Suarez.,86 min,8,2,32.6859436922,0.0,0.0,0.0,0.0,0,0.051285,0,0,0,0,0,0,0,0,0,0
+192,"After a farcial few minutes where the referee appeared to be losing control, things would seem to have calmed down.",86 min,12,10,86.8800926004,0.0,0.0784776522678,0.00576611090149,0.00731856358874,0,0.109775,0,0,0,0,0,0,0,0,0,0
+193,"Mascherano is incensed with the official, I think, as Vietto raced into space, but his cross was collected by Ter Stegen.",88 min,15,10,84.2178396961,0.00576611090149,0.0,0.00793132233043,0.0518187332911,0,0.10781,0,0,0,0,0,0,0,0,0,0
+194,The ex-Liverpool man clearly expected an offside flag.,88 min,7,2,33.8836202627,0.00793132233043,0.00731856358874,0.00984707449381,0.0222563675189,0,0.040815,0,0,0,0,0,0,0,0,0,1
+195,YELLOW CARD: Luis Suarez goes into the book for grabbbing Adil Rami's shirt.,88 min,13,3,54.4736000251,0.00984707449381,0.0518187332911,0.0980745705738,0.0,0,0.109685,0,0,0,0,0,0,0,0,0,0
+196,The referee wasn't fooled and gets to flash the card again.,88 min,7,6,41.4127032556,0.0980745705738,0.0222563675189,0.0,0.0464273090448,0,0.113635,0,0,0,0,0,0,0,0,0,0
+197,Three minutes of added time left.,90 min,6,1,25.7995614992,0.0,0.0,0.0,0.0,0,0.08108,0,0,0,0,0,0,0,0,0,0
+198,Sevilla fans are far from happy as Barca try their best to wind the clock down.,90 min,10,7,64.0435231833,0.0,0.0464273090448,0.0,0.0,0,0.08772,0,1,0,0,0,0,0,0,0,0
+199,YELLOW CARD: Now Mascherano gets a yellow.,90+1 min,7,2,24.6727783336,0.0,0.0,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+200,No idea what for.,90+1 min,2,3,18.1399804474,0.0,0.0,0.0,0.0,0,0.023255,0,0,0,0,0,0,0,0,0,0
+201,Not sure the referee knows either to be honest!,90+1 min,6,4,38.9165066358,0.0,0.0,0.0160563496396,0.0682249908636,0,0.09199,0,0,0,0,0,0,0,0,0,0
+202,I make that 10 players in the book.,90+1 min,5,4,26.9768654841,0.0160563496396,0.0,0.0381036167782,0.0294155870651,0,0.076315,0,0,0,0,0,0,0,0,0,0
+203,Mariano tries to get the ball into the box.,90+3 min,6,4,31.8054104328,0.0381036167782,0.0682249908636,0.171028202064,0.0,0,0.1232,0,0,0,0,0,0,0,0,0,0
+204,"Barca then break out of defence at pace and Messi races into the area, but Rico claims the ball before the little magician can do his worst.",90+3 min,15,14,108.930293798,0.171028202064,0.0294155870651,0.0,0.0,0,0.155785,0,0,0,0,0,0,0,0,0,0
+205,Not much time left surely?,90+3 min,5,1,23.1477680749,0.0,0.0,0.190997696164,0.0,0,0.048785,0,0,0,0,0,0,0,0,0,0
+206,FULL TIME: Sevilla 1-2 Barcelona,90+4 min,6,0,14.7715728886,0.190997696164,0.0,0.168061569368,0.0,0,0.071425,0,0,0,0,0,0,0,0,0,0
+207,"Well, that was a breathtaking second half and Barcelona see off a dogged Sevilla.",9.42pm,10,6,50.7744106428,0.168061569368,0.0,0.0,0.0,0,0.074625,0,0,0,0,0,0,0,0,0,0
+208,"More importantly for the Blaugrana, they go into the international break just two points behind Real.",9.42pm,11,7,65.7536332187,0.0,0.0,0.0623282746258,0.0253902484192,0,0.10083,0,0,0,0,0,0,0,0,0,0
+209,Luis Enrique's men have a fortnight before they take on Malaga at the Camp Nou.,9.42pm,10,7,60.447328293,0.0623282746258,0.0,0.0411567746839,0.0,0,0.147645,0,0,0,0,0,0,0,0,0,0
+210,Sports Mole will bring you coverage of that game and all those that matter at the top of the Primera Division.,9.42pm,10,12,89.0194262939,0.0411567746839,0.0253902484192,0.0,0.0,0,0.116155,0,0,0,0,0,0,0,0,0,0
+211,"Until then, it's goodbye for now.",9.42pm,4,5,26.5858986598,0.0,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0

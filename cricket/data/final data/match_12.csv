@@ -1,0 +1,1085 @@
+,sentences,pos,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,century,out,bold,caught,stumped,wicket,hattrick,catch,six,four,amazing,hundred,ton,boundary,drop,toss,won,lost,score
+0,Amazing how he relishes pressure situations and brings out the best.,1065,7,5,55.3064706569,0.0,0.0,0.0261791171182,0.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0.098995
+1,"Anyway, India have registered their first victory of the tournament and the dressing room will be a little more relaxed now.",1064,12,11,96.0230590046,0.0261791171182,0.0,0.0,0.0195708894475,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+2,So that's it from this game then.,1063,3,6,27.1961975566,0.0,0.0,0.0,0.0488366513397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+3,Hope you enjoyed the coverage.,1062,4,2,28.0062608006,0.0,0.0195708894475,0.0138485209492,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+4,The action continues tomorrow and it's a double-header.,1061,6,4,27.8160533044,0.0138485209492,0.0488366513397,0.034017347929,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+5,"First up, it's South Africa v Afghanistan in Mumbai and then Sri Lanka v West Indies in Bangalore.",1060,15,6,87.9236793352,0.034017347929,0.0,0.0767606383629,0.0521281801841,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+6,Looking forward to your company then.,1059,4,3,30.7412979003,0.0767606383629,0.0,0.011222163419,0.0108968959726,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+7,"Good night, goodbye!It was pretty gloomy out there in the evening and dark clouds threatened to play spoilsport.",1058,14,8,96.6593284763,0.011222163419,0.0521281801841,0.0190504802718,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+8,"However, the rain gods were kind enough to allow us an 18-over contest and India picked up a much needed win.",1057,16,7,97.1720715997,0.0190504802718,0.0108968959726,0.0,0.0135154433757,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.104165
+9,"6 matches, 6 inninngs, 3 not-outs,  .",1056,10,0,13.8657709609,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+10,"runs, a best of 78*, and average of  .",1055,7,4,25.6937062907,0.0,0.0135154433757,0.183324269647,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.252745
+11,6 and a strike-rate of  .,1054,3,3,5.21164591501,0.183324269647,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+12,9.,1053,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+13,This is Virat Kohli's record against Pakistan in T20Is.,1052,7,4,39.3430216347,0.0,0.0,0.0778330364041,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.36029
+14,"Now hang on, read this.",1051,4,3,25.2352154281,0.0778330364041,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+15,"3 matches, 3 not-outs,  .",1050,7,0,6.58631189018,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+16,runs.,1049,2,0,4.38908731285,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+17,"This is Kohli's record against Pakistan in World T20s.Dhoni: ""I didn't expect it to spin so much.",1048,13,9,63.7837434609,0.0,0.0,0.0,0.0492685231735,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.27814
+18,The spinners got plenty of help out there.,1047,5,4,37.5016335128,0.0,0.0,0.108109644112,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+19,It got slightly better in the second half and they had only one spinner.,1046,8,7,62.389310417,0.108109644112,0.0492685231735,0.117635945435,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155235
+20,I think we can still do better (playing against spin).,1045,8,5,46.4923767812,0.117635945435,0.0,0.311942807067,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+21,There are areas where we can still improve.,1044,4,5,42.0483960612,0.311942807067,0.0,0.115591674545,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+22,It is important that you when you win games you address all those areas.,1043,6,9,71.3074746637,0.115591674545,0.0,0.186457590325,0.124951498911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+23,You won't get a second chance in the knockout stages.,1042,8,4,41.0010229206,0.186457590325,0.0,0.0528709520027,0.0325777308285,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.155555
+24,"The third seamer can give you a bit of help if there is dew around, but if I knew that there was so much turn on offer, then I don't have a problem playing an extra spinner.",1041,19,22,161.202208446,0.0528709520027,0.124951498911,0.0176247785159,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.082505
+25,In this format every team is a good team.,1040,6,4,37.1094965551,0.0176247785159,0.0325777308285,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+26,We want to compete.,1039,3,2,19.3556603104,0.0,0.0,0.48932533418,0.226348351381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+27,"We want to be here for the final, but as of now we want to take one game at a time.",1038,9,14,82.7994875473,0.48932533418,0.0,0.264465249829,0.0620676727607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+28,"""Afridi: ""First of all, I want to congratulate Dhoni and his team for playing well.",1037,13,7,59.60253999,0.264465249829,0.226348351381,0.0131887696022,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+29,"I did not expect the pitch to spin so much, but no excuse.",1036,7,8,52.6341789497,0.0131887696022,0.0620676727607,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+30,I think we didn't score enough runs.,1035,6,3,31.3812982178,0.0,0.0,0.146021416004,0.343499582615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+31,We were short by  .,1034,2,3,18.3517752811,0.146021416004,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+32,5 runs.,1033,3,0,4.38908731285,0.0,0.343499582615,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+33,Their spinners bowled well.,1032,4,1,20.4340698917,0.0,0.0,0.0853201486028,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+34,I think we didn't bowl in the right areas and I didn't bowl well.,1031,9,8,54.3668928477,0.0853201486028,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12348
+35,Virat Kohli played an awesome innings.,1030,6,1,32.4435428623,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+36,I would have picked another spinner for this pitch.,1029,6,4,37.8732241698,0.0,0.0,0.0,0.0444939561258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+37,India play very well under pressure.,1028,5,2,27.9129615333,0.0,0.0,0.366743981414,0.270275547258,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+38,Their batsmen play well under pressure and our batsmen have to learn from them in that aspect.,1027,8,10,80.1409248759,0.366743981414,0.0444939561258,0.10461633649,0.00880404142587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+39,"We are playing Australia and New Zealand next, so we've got to play very well.",1026,11,7,69.0467431369,0.10461633649,0.270275547258,0.222521701327,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+40,"This game is done, we need to quickly focus on the next game.",1025,9,6,56.916311275,0.222521701327,0.00880404142587,0.0,0.112857682163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+41,"""Kohli: ""It was a challenging wicket out there.",1024,7,5,29.465609269,0.0,0.0,0.0,0.142299757256,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16348
+42,You need new challenges every innings that you play.,1023,7,3,48.3621527359,0.0,0.112857682163,0.03309809178,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+43,I was disappointed that I got out for about 25 in the last game.,1022,6,9,52.696759587,0.03309809178,0.142299757256,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+44,I knew if I had scored  .,1021,3,4,22.2178611913,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+45,5 we could have won.,1020,3,3,19.2221289178,0.0,0.0,0.0997744882585,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.083335
+46,That really hurt because we don't bat like that at home.,1019,7,6,54.6816174489,0.0997744882585,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+47,Today it was all about keeping calm and luckily I got a great partnership with Yuvraj.,1018,9,8,69.8705107269,0.0,0.0,0.0316090459563,0.0419743253814,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+48,49 odd I scored in Dhaka against Pakistan was probably one of my better knocks.,1017,10,6,75.4040049568,0.0316090459563,0.0,0.038862032565,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+49,I think the seamers bowling cutters was a little difficult.,1016,7,4,42.7120015626,0.038862032565,0.0419743253814,0.00965071495794,0.0115289413946,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+50,You need to watch the ball to play it late to dab it down to third man.,1015,9,9,68.4070912539,0.00965071495794,0.0,0.00922066724636,0.0548357220441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+51,"Yuvraj came out, weathered the storm and smacked a few.",1014,7,5,45.8978541907,0.00922066724636,0.0115289413946,0.198778564347,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+52,It's great for him that he came out in a pressure situation.,1013,6,8,48.1524396245,0.198778564347,0.0548357220441,0.0689422213254,0.0226529056294,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+53,He's feeling confident.,1012,4,1,16.9238857787,0.0689422213254,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+54,I think a score on the board always helps me calculate better (talking about his success in run-chases).,1011,13,8,82.5880425973,0.0,0.0226529056294,0.0260600632892,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+55,"""Virat Kohli is the Man of the MatchAfridi took the ball.",1010,8,5,41.9817055244,0.0260600632892,0.0,0.0,0.0413864773259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26061
+56,Then Malik.,1009,2,1,8.82881835851,0.0,0.0,0.0,0.332397023814,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.050005
+57,This should have been the phase where Pakistan win it.,1008,4,7,44.6586360881,0.0,0.0413864773259,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17647
+58,And then Kohli took charge.,1007,4,2,23.9030220202,0.0,0.332397023814,0.0,0.0156665868147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+59,What a player.,1006,2,2,11.2267136313,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+60,He ensured that the strike kept rotating and put on a 61-run partnership with an ever-gaining-in-confidence Yuvi that nearly sealed it.,1005,12,10,85.7182795007,0.0,0.0156665868147,0.0422057076894,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146825
+61,Just the way he carried himself.,1004,3,4,28.4007771798,0.0422057076894,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+62,His presence.,1003,2,1,10.6569454719,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+63,Looked a class apart.,1002,4,1,19.8924670632,0.0,0.0,0.127120167326,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+64,"Admittedly, Pakistan's spin duo of Malik and Afridi greatly underwhelmed and looked nowhere near threatening on a spin haven.",1001,16,6,93.9579609724,0.127120167326,0.0,0.0146835223883,0.0296354516547,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+65,That's where they lost it.India knew they had a game on their hands chasing a decent looking  .,1000,10,9,71.020160115,0.0146835223883,0.0,0.0350662042833,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.11472
+66,on a carnivorous turner.,999,3,2,16.9165731318,0.0350662042833,0.0296354516547,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+67,But what hit them wasn't turn.,998,4,4,27.7895825121,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.045455
+68,Rohit fell early to Amir in trying to loft him over the top.,997,8,6,57.8074017215,0.0,0.0,0.116923528044,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+69,Then Sami rattled in and struck twice in one over to leave Eden Gardens in trauma and India tottering at  .,996,12,9,94.3054155119,0.116923528044,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+70,.,995,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+71,Pakistan were right on top.,994,4,2,22.5853561655,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+72,They hadn't even introduced spin and had India at their mercy.,993,7,6,52.7245941806,0.0,0.0,0.0,0.041836053487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08108
+73,In walked Yuvraj Singh.,992,4,1,19.4320384311,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18636
+74,"A man who has taken a lot of flak, some would say he has been made the scapegoat whenever they lose.",991,12,11,99.2716698725,0.0,0.041836053487,0.0295436091388,0.0133873565147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+75,Imagine the pressure.Another opportunity for Dhoni to finish a game and he doesn't miss out.,990,9,8,58.0836908594,0.0295436091388,0.0,0.0170802437124,0.0550597713969,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+76,"Kohli punches the air in delight, before the players exchange handshakes.",989,9,4,56.1242341615,0.0170802437124,0.0133873565147,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
+77,Much needed win for India to get their  .,988,6,3,34.613894392,0.0,0.0550597713969,0.0,0.0121217454315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+78,World T20 campaign back on track.,987,6,1,29.6909468152,0.0,0.0,0.0265752425482,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14091
+79,They were under a lot of pressure on the team after losing the first game to New Zealand and they have responded well.,986,11,13,97.1279373661,0.0265752425482,0.0121217454315,0.263354034768,0.0631816100817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125905
+80,How well is Kohli under pressure and how well he handles pressure!,985,7,6,53.5575440947,0.263354034768,0.0,0.130665439598,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+81,"Gee, he's such a player and it was great to see him take responsibility and perform so well.",984,11,10,79.8967127828,0.130665439598,0.0631816100817,0.0,0.0433710905823,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+82,.,983,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+83,"Irfan to Dhoni, 1 run, it's a clean sheet ( . )",982,12,3,31.5119242541,0.0,0.0433710905823,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11274
+84,for India over Pakistan in World Cup contests.,981,6,3,35.5074563928,0.0,0.0,0.0600432819012,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.330435
+85,Batting maestro Sachin Tendulkar waves the Indian flag in joy in the stands.,980,10,4,68.1669931096,0.0600432819012,0.0,0.0199656472725,0.0154085914439,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+86,"Meanwhile, Kohli points his bat towards the sky.",979,8,2,38.4327346619,0.0199656472725,0.0,0.0111289365566,0.0149693630025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+87,"Shortish delivery on the off stump, Dhoni easily pulls it through mid-wicket and jogs across .",978,11,6,61.7290619043,0.0111289365566,0.0154085914439,0.112180540432,0.128336948841,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15936
+88,"Irfan to Dhoni, SIX, in the slot and baaaaaang.",977,8,4,37.6952572136,0.112180540432,0.0149693630025,0.137363464064,0.120463420019,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.229165
+89,Dhoni muscles one down the ground and sends it towards the sightscreen.,976,8,5,53.1716521594,0.137363464064,0.128336948841,0.0994238192273,0.0243013711434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+90,"Slower delivery outside off stump, Dhoni goes over mid-on.",975,9,2,32.8641512608,0.0994238192273,0.120463420019,0.0,0.189208997058,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+91,The Indian dug-out is delightedJust 7 to get now for India .,974,7,5,35.323431346,0.0,0.0243013711434,0.042222104268,0.0325132174279,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+92,"Irfan to Kohli, 1 run, shortish slower delivery on the stumps, Kohli works it to square leg .",973,16,5,57.8084556806,0.042222104268,0.189208997058,0.359686258558,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.103945
+93,"Irfan to Kohli, FOUR, Kohli wants to celebrate early.",972,10,2,38.3055360835,0.359686258558,0.0325132174279,0.0,0.100783948813,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08
+94,He's batting brilliantly out there.,971,4,3,24.2937871365,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+95,"Short and wide outside off stump, Kohli cuts off the back foot, once it beat backward point, the ball rocketed to the fence.",970,18,9,92.1192606559,0.0,0.100783948813,0.0333848535754,0.144263234069,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15762
+96,The crowd is absolutely loving this .,969,4,3,28.091870737,0.0333848535754,0.0,0.0111280765053,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+97,"Irfan to Dhoni, 1 run, slower delivery on the off stump, Dhoni steps out and guides it to third manMohammad Irfan [ .",968,18,8,79.5349454947,0.0111280765053,0.144263234069,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+98,- .,967,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+99,. ],966,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+100,is back into the attack .,965,3,3,18.3161063836,0.0,0.0,0.0167383431603,0.0210225981923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+101,"Afridi to Kohli, no run, Kohli tries to work it on the on-side, gets a soft leading edge that rolls to cover .",964,17,9,76.7946859802,0.0167383431603,0.0,0.194364353316,0.199153163142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09302
+102,"Afridi to Dhoni, 1 run, down the leg-side, glanced away to backward square leg .",963,14,4,45.8316176584,0.194364353316,0.0210225981923,0.236526549239,0.122202414415,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+103,"Afridi to Dhoni, no run, how did that miss the stumps?",962,8,6,42.2386508603,0.236526549239,0.199153163142,0.194142800213,0.127579167545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+104,"Dhoni was on the front foot to drive, got an inside edge onto pad, Afridi kept appealing for LBW, and the ball almost disturbed the stumps as well .",961,22,10,123.545028885,0.194142800213,0.122202414415,0.0430606448378,0.0187551113333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12069
+105,"Afridi to Kohli, 1 run, tell him that he's playing against Pakistan in T20Is and he'll score runs at will.",960,15,10,75.8416993948,0.0430606448378,0.127579167545,0.0599735860402,0.0553224107994,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17589
+106,"Flighted delivery outside off stump, Kohli drives to long-off and brings his up fifty.",959,11,5,54.2978311478,0.0599735860402,0.0187551113333,0.106331905392,0.13675001788,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.097565
+107,"No great celebration from Kohli, just lifts his bat to the crowd and the dressing room .",958,10,8,69.0212041058,0.106331905392,0.0553224107994,0.126144544049,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+108,"Afridi to Kohli, FOUR, and again!",957,6,3,20.3968003022,0.126144544049,0.13675001788,0.0,0.162532944265,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.18182
+109,He's played that inside-out cover drive so well today.,956,8,3,36.2299343801,0.0,0.0,0.0,0.0895901075549,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+110,Once again those wrists come ino play.,955,5,3,41.6156675676,0.0,0.162532944265,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+111,"Too full from Afridi, Kohli nails the drive after leaning forward, the fielder in the deep had no chance .",954,13,9,82.8937145843,0.0,0.0895901075549,0.0891442533602,0.0316929231974,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+112,"Afridi to Dhoni, 1 run, flighted delivery from Afridi, Dhoni drives it to long-offIt's 20 needed off 24 now.",953,18,6,71.3150647192,0.0891442533602,0.0,0.0,0.0322428512882,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+113,The Indian captain looks relaxed out there .,952,5,3,34.4708004971,0.0,0.0316929231974,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+114,"Amir to Kohli, FOUR, wow!",951,7,1,20.9076203798,0.0,0.0322428512882,0.536617625912,0.131738099019,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09524
+115,Just wow!,950,2,1,11.3400423166,0.536617625912,0.0,0.0,0.0973887311042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+116,What timing from Kohli.,949,3,2,18.5216016299,0.0,0.131738099019,0.0458955576238,0.1112832431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+117,"Full and in the slot, Kohli leans forward and places the drive through cover, he didn't try to hit it hard, just timed it so sweetly through extra-cover .",948,19,14,122.194467544,0.0458955576238,0.0973887311042,0.0478129990471,0.113639900005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13805
+118,"Amir to Kohli, no run, ah beaten!",947,8,2,28.8834751404,0.0478129990471,0.1112832431,0.0,0.132155329465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+119,"Good length delivery wide outside off stump, pokes and plays a long way away from the body, he does that every now and then and luckily he didn't edge this .",946,19,15,125.407425134,0.0,0.113639900005,0.0726599797497,0.194827347115,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08424
+120,"Amir to Dhoni, 1 run, round the wicket, short of length delivery on the stumps, Dhoni works it through mid-wicket .",945,18,7,68.2934384653,0.0726599797497,0.132155329465,0.100058187973,0.358608605052,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.188315
+121,"Amir to Kohli, 1 run, he's so good in guiding the ball to third man and Pakistan will have to stop giving time and width outside off stump to Kohli .",944,21,13,110.502388519,0.100058187973,0.194827347115,0.237500743591,0.420180287298,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14614
+122,"Amir to Dhoni, 1 run, slower delivery just outside off stump, Dhoni tries to punch, goes off the inner half of the bat to long-on .",943,21,9,89.6180030668,0.237500743591,0.358608605052,0.348727371571,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125905
+123,"Amir to Kohli, 1 run, slower delivery outside off stump, Kohli dabs it down to third manMohammad Amir [ .",942,18,5,67.5895969196,0.348727371571,0.420180287298,0.0,0.0305109322833,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+124,- .,941,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+125,-1] is back into the attackJust 28 needed off 30 balls.,940,9,4,49.775337136,0.0,0.0305109322833,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+126,"However, a couple a wickets could tighten things up.",939,8,3,43.1117767947,0.0,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+127,.,938,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+128,"Afridi to Kohli, 1 run, a forward press and then a gentle nudge through mid-on.",937,12,6,50.3211660694,0.0,0.0,0.0185520382821,0.0830238426418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+129,Batting is so easy for this man and keeps strike .,936,6,5,44.7125381206,0.0185520382821,0.0,0.0102650447846,0.0560191304458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+130,"Afridi to Dhoni, 1 run, too full and on the off stump, Dhoni drives it crisply along the ground to long-offThe crowd goes ""Dhoni, Dhoni,"" as the Indian skipper gets ready to face .",935,29,12,126.819349906,0.0102650447846,0.0830238426418,0.162286553842,0.143375094356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+131,"Afridi to Kohli, 1 run, short enough for Kohli to rock back and punch to long-on .",934,14,5,51.9738905057,0.162286553842,0.0560191304458,0.321961848025,0.258876075845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106385
+132,"Afridi to Kohli, no run, Kohli tries to run it down to third man, but the ball spins past the outside edge .",933,17,9,78.4848362995,0.321961848025,0.143375094356,0.303292698228,0.226972377116,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+133,"Afridi to Kohli, no run, flighted delivery just around the off stump line, Kohli watchfully defends .",932,15,5,65.4484349673,0.303292698228,0.258876075845,0.187863170173,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+134,"Afridi to Kohli, FOUR, a wicket fell at the other end, but nothing stops Kohli from playing his shots!",931,15,8,80.7503019507,0.187863170173,0.226972377116,0.0,0.145246643527,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0.137445
+135,What a shot that is.,930,2,4,15.5432997995,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+136,"Flighted very full from Afridi, Kohli drives through cover and beats the man inside the ring, sweeper cover had no chanceShahid Afridi [ .",929,18,8,99.5557925255,0.0,0.145246643527,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+137,- .,928,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+138,. ],927,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+139,"is back into the attackMS Dhoni, right handed bat, comes to the crease .",926,11,5,52.2241618737,0.0,0.0,0.0201608594931,0.0931480135812,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17831
+140,"Riaz to Yuvraj, out Caught by Sami!!",925,7,3,28.7073527648,0.0201608594931,0.0,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+141,"In the airrr, this is not going the distance.",924,5,6,36.9229251215,0.0,0.0931480135812,0.105430851206,0.0628877263244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+142,There is a man stationed under it and the catch is taken.,923,5,8,45.7598547046,0.105430851206,0.0,0.0282819114391,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.15152
+143,"The umpire has asked Yuvraj to wait to check for the no-ball, well, that was well inside the line.",922,13,9,71.9629509518,0.0282819114391,0.0628877263244,0.18980968812,0.0750027201166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18083
+144,Not sure why he even wanted to check that again.,921,5,6,48.7442803783,0.18980968812,0.0,0.0288912083962,0.0426832034345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+145,So Pakistan have broken this dangerous looking 61-run partnership that was running away with the game.,920,10,7,69.6961234482,0.0288912083962,0.0750027201166,0.0377305392027,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15083
+146,"Slower delivery short and outside off stump, maybe Yuvraj could have gone off-side, instead he opts to pull, gets the bottom of the bat and it goes straight to deep mid-wicket.",919,24,11,118.149039248,0.0377305392027,0.0426832034345,0.0794936199527,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14614
+147,Yuvraj c Sami b Riaz  .,918,6,0,13.6368541298,0.0794936199527,0.0,0.0,0.644789567983,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+148,3) [4s- .,917,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+149,"s-1]Riaz to Yuvraj, THAT'S OUT!!",916,8,3,17.8726208912,0.0,0.644789567983,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+150,Caught!!,915,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+151,.,914,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+152,"Riaz to Kohli, 1 run, he goes that so well!",913,9,4,33.302389217,0.0,0.0,0.0718419103131,0.141943410916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+153,"Allows the ball to come, plays very close to the body and taps it fine for the ball to run towards third man .",912,15,10,91.1768414283,0.0718419103131,0.0,0.172025490566,0.188631998962,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18182
+154,"Riaz to Yuvraj, 1 run, pace off the ball and a sensible Yuvraj Singh just opens the face of the bat and guides it through backward point .",911,18,12,101.128324783,0.172025490566,0.141943410916,0.144474647643,0.362753486525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167575
+155,"Riaz to Kohli, 1 run, slower delivery outside off stump, Kohli dabs it to third manThe crowd is very loud now and right behind the Indian team .",910,22,9,108.576053808,0.144474647643,0.188631998962,0.216826258424,0.100686423961,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+156,"Riaz to Yuvraj, 1 run, Yuvraj is swinging his bat at it now!",909,10,6,46.4026616524,0.216826258424,0.362753486525,0.133070845455,0.306329760606,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+157,"Backs away but the bowler follows him with a shortish delivery, Yuvraj gets a thick outside edge that falls short of Irfan at third man .",908,18,9,105.753582704,0.133070845455,0.100686423961,0.103212641353,0.131281349463,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+158,"Riaz to Yuvraj, SIX, Yuvraj Singh joins the party and look at the roar from the capacity Eden Gardens crowd.",907,16,7,92.02548813,0.103212641353,0.306329760606,0.135619105388,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.179845
+159,"Short delivery just outside off stump, not that high enough to trouble the batsman, Yuvraj rocks back and muscles the pull shot for a flat six over mid-wicketKohli is playing a blinder of an innings.",906,23,15,141.964898557,0.135619105388,0.131281349463,0.0,0.0368631385926,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0.148095
+160,.,905,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+161,"Shoaib Malik to Kohli, no run, Kohli tries to run it fine to third man, but picks out the man inside the ring .",904,18,9,86.269240383,0.0,0.0368631385926,0.229566459413,0.122048163258,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+162,"Shoaib Malik to Kohli, FOUR, lovely hit to bring up the fifty partnership.",903,12,4,56.2039502968,0.229566459413,0.0,0.0543778703513,0.258732704786,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.131255
+163,"Flighted delivery on the stumps, Kohli sweeps and sweeps very hard, sends it along the ground and there was no one in the deep .",902,15,12,96.1033282316,0.0543778703513,0.122048163258,0.104725195712,0.0691113644936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156585
+164,"Shoaib Malik to Kohli, no run, Kohli pushes this towards mid-wicket .",901,11,3,38.1056722663,0.104725195712,0.258732704786,0.216266853627,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+165,"Shoaib Malik to Kohli, SIX, top-edgeeeeee and shouts of ""catch itttttttt,"" from the keeper.",900,15,5,55.934075112,0.216266853627,0.0691113644936,0.0,0.0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.153465
+166,Has he holed out?,899,2,3,17.8773742831,0.0,0.0,0.0,0.155379421425,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+167,Oh my word!,898,3,1,19.8234741917,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+168,This has gone all the way?,897,3,4,25.4018390414,0.0,0.155379421425,0.0254612377803,0.0140853084,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.244755
+169,So cruel for the bowler.,896,3,3,22.306108094,0.0254612377803,0.0,0.014123497643,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+170,"He's actually foxed the batsman a bit, yet six runs go against his name.",895,12,5,67.7029657278,0.014123497643,0.0140853084,0.0,0.0274463804086,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.125
+171,How good is that bat in Kohli's hand and how thick is that side?,894,8,8,55.8752166228,0.0,0.0,0.080661486394,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14459
+172,"Flighted delivery on the stumps, Kohli goes for the slog-sweep, went hard and that meant there was more speed on the ball and the extra legs to clear the fielder at deep backward square leg .",893,22,16,134.949015718,0.080661486394,0.0274463804086,0.246326872836,0.244553272894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136835
+173,"Shoaib Malik to Yuvraj, 1 run, flighted delivery on the stumps, Yuvraj sweeps to deep mid-wicket .",892,16,4,51.287422113,0.246326872836,0.0,0.344358272067,0.390336062598,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.18226
+174,"Shoaib Malik to Kohli, 1 run, Kohli uses his feet and carefully works this flighted delivery to deep square leg .",891,18,5,78.0500465967,0.344358272067,0.244553272894,0.23243207518,0.139566199171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+175,"Shoaib Malik to Yuvraj, 2 wides, poor from Shoaib Malik.",890,11,2,38.9392598436,0.23243207518,0.390336062598,0.0470354605148,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145605
+176,"Sprays the flighted delivery down the leg-side, Yuvraj tries to sweep fine, misses and the keeper can't collect cleanly, they get an extra run as well10 overs done.",889,24,9,119.35049702,0.0470354605148,0.139566199171,0.0,0.0463375721724,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+177,India need 59 off 48 balls.,888,6,1,33.6428967208,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+178,Kohli and Yuvraj have settled things after that double-blow from Sami.,887,7,5,42.8523148729,0.0,0.0463375721724,0.0,0.113674408078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12143
+179,.,886,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+180,"Riaz to Kohli, no run, oh a soft leading edge and Kohli is lucky that it didn't carry to the bowler.",885,15,10,81.3114627528,0.0,0.113674408078,0.168812348337,0.138534026632,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+181,"Short of a length delivery on the stumps, Kohli tries to work it on the on-side, closes the bat face a little early and gets the edge .",884,18,12,91.5239758357,0.168812348337,0.0,0.038662137867,0.0636559157393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163265
+182,"Riaz to Yuvraj, 1 run, bad shot I would say because that was ball way outside off stump to be playing the pull shot.",883,18,9,91.3045291056,0.038662137867,0.138534026632,0.00947929914968,0.0546423356599,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10969
+183,Better of attempting the slap or cut.,882,5,3,36.3433505957,0.00947929914968,0.0636559157393,0.0127183045128,0.0339795768647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+184,Yuvraj toe-ends it through the vacant mid-on region .,881,6,3,27.7179920913,0.0127183045128,0.0546423356599,0.148699679685,0.0532597511128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+185,"Riaz to Yuvraj, no run, back of a length on the off stump, Yuvraj defends towards short cover and sets off, Kohli quickly yells and stops Yuvraj.",880,22,10,104.987507355,0.148699679685,0.0339795768647,0.0709128236476,0.356359513184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106385
+186,A run was never on there .,879,3,4,19.0269431482,0.0709128236476,0.0532597511128,0.0766478546888,0.0351249193633,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+187,"Riaz to Yuvraj, no run, the slower ball outside off stump, Yuvraj tries to run it down to third man, but only connects with thin air .",878,20,11,103.131782235,0.0766478546888,0.356359513184,0.243555085225,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.097565
+188,"Riaz to Kohli, 1 run, don't give him width outside off stump, he'll keeping guiding and steering for ones and twos towards third man.",877,22,8,108.276076854,0.243555085225,0.0351249193633,0.0452958024626,0.110483373574,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+189,So easily done by Kohli .,876,4,2,24.1778006878,0.0452958024626,0.0,0.0743208378098,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+190,"Riaz to Kohli, FOUR, in the airrrr, not controlled at all!",875,9,6,46.9551764027,0.0743208378098,0.110483373574,0.0141617942971,0.123238761453,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.205555
+191,"Could have gone to hand, instead he picks up a boundary.",874,8,5,49.5645910632,0.0141617942971,0.0,0.0,0.00684034145711,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.09091
+192,"Skipper Afridi is not happy with Sharjeel Khan, who makes a mess at the rope.",873,10,7,67.4902136092,0.0,0.123238761453,0.043164701498,0.0251965666141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+193,"Shortish in length, Kohli played a half-hearted pull, put it to the right of mid-wicket, Sharjeel got there and put in the slide, but couldn't flick it back properlyWahab Riaz, left-arm fast medium, comes into the attack .",872,31,14,143.17164436,0.043164701498,0.00684034145711,0.0912663033427,0.0887232692046,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.161825
+194,"Shoaib Malik to Yuvraj, 2 runs, Yuvraj flicks uppishly, mid-wicket is empty and a smart Kohli pushes his partner through for the second run .",871,20,8,94.2787749913,0.0912663033427,0.0251965666141,0.208071257721,0.0472060928768,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14614
+195,"Shoaib Malik to Yuvraj, no run, half-shout for LBW as Yuvraj misses the sweep and gets hit on the body, hit him on the chest and was easily bouncing over the sticks.",870,21,15,125.924246847,0.208071257721,0.0887232692046,0.158365020198,0.229017883249,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+196,The sweep is going to be a dangerous shot to play unless it's very full because of the turn and bounce on offer on this surface .,869,13,15,105.650513905,0.158365020198,0.0472060928768,0.0195465809774,0.0872588769941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167575
+197,"Shoaib Malik to Yuvraj, 2 runs, that's played away nicely by Yuvraj.",868,13,3,46.2496978201,0.0195465809774,0.229017883249,0.0861275518791,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+198,"Flighted delivery on the stumps, Yuvraj gets down on knee and sweeps fine past short fine legNow there is a man at slip for Yuvi.",867,17,10,106.412350248,0.0861275518791,0.0872588769941,0.0,0.166283143883,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+199,.,866,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+200,"Shoaib Malik to Kohli, 1 run, flighted delivery on the stumps, Kohli flicks it to deep mid-wicket and brings up India's fifty .",865,20,7,76.4433241509,0.0,0.166283143883,0.297211377279,0.192539560915,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.17589
+201,"Shoaib Malik to Kohli, wide, spinning down the leg-side, Kohli lets it go .",864,13,4,49.1444006219,0.297211377279,0.0,0.16200859391,0.0472055806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12708
+202,"Shoaib Malik to Yuvraj, 1 run, and the trouble starts straightaway!",863,11,3,41.0586288228,0.16200859391,0.192539560915,0.0167390156329,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20945
+203,It's so surprising to see Afridi not having a slip!,862,6,6,41.8733492052,0.0167390156329,0.0472055806,0.0,0.155525841463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14815
+204,Yuvi would have been out if there was one!,861,4,6,41.3782868589,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+205,"Pitches on off and turns square, foxes Yuvraj on the defence, bounces extra and takes the glove en route to short third manInteresting to see no slip being employed for Yuvraj.",860,22,12,144.514734457,0.0,0.155525841463,0.0,0.0850004375481,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114755
+206,.,859,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+207,"Shoaib Malik to Kohli, 1 run, to keep the LBW in play, Malik bowls from round the wicket to Kohli, but bowls too full and gets clipped along the ground to deep mid-wicketShoaib Malik, right-arm off break, comes into the attackMailk comes on.",858,34,16,162.683926748,0.0,0.0850004375481,0.103568069319,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+208,Kohli won't mind because the ball will be spinning into him.,857,7,6,44.2486867929,0.103568069319,0.0,0.123797368966,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.107145
+209,"However, life will be difficult for Yuvraj, for he's a left-hander.",856,9,6,41.8423717735,0.123797368966,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+210,.,855,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+211,"Afridi to Kohli, 1 run, flighted delivery on the stumps, Kohli leans forward and drives along the ground to long-off and keeps strike .",854,20,7,81.466122115,0.0,0.0,0.159809001511,0.207458470455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+212,"Afridi to Yuvraj, 1 run, down the leg-side, easily tickled to fine leg, Kohli asks his partner if he wants two as fine leg had a bit of ground to cover to his left, but Yuvraj is happy with one .",853,29,17,155.905829776,0.159809001511,0.0,0.127955133413,0.140876342988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114755
+213,"Afridi to Kohli, 1 run, oh that wasn't convincing from Afridi.",852,11,4,39.4258319669,0.127955133413,0.207458470455,0.149621594056,0.135024457077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+214,"The quicker delivery from Afridi, Kohli was on the back foot, it came quickly onto him and he almost took this off the off stump, tapped it through cover-pointAfridi is bowling over wicket to Kohli and round the wicket for Yuvraj .",851,24,21,159.027992147,0.149621594056,0.140876342988,0.142832221339,0.265813798571,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.181345
+215,"Afridi to Yuvraj, 1 run, very full delivery on the stumps, Yuvraj sweeps well but long leg tidies up .",850,17,6,71.8715108008,0.142832221339,0.135024457077,0.203957489958,0.325206084014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.103445
+216,"Afridi to Kohli, 1 run, ""two, two,"" said Kohli as soon as he drove this flighted delivery crisply off the front foot and wide of long-off, but changes his mind, Yuvraj was halfway down the pitch for the second run, but had enough time to get backAfridi v Kohli is going to be interesting with the ball turning square .",849,45,24,235.74431071,0.203957489958,0.265813798571,0.24506261497,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.122475
+217,"Afridi to Yuvraj, 1 run, flighted delivery on the off stump, Yuvraj wrists it with the spin to long-onSo that 12-run over has settled things a bit for India.",848,20,13,95.6642314346,0.24506261497,0.325206084014,0.0,0.167159943762,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123315
+218,.,847,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+219,"Sami to Kohli, no run, fullish and outside off stump, Kohli drives it to cover .",846,13,6,54.3453176412,0.0,0.167159943762,0.359015094823,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.097565
+220,"Sami to Kohli, 2 runs, slower delivery on the off stump, Kohli works it off the inside half of the bat to backward square leg, calls for two and comes back in time.",845,25,13,118.488798481,0.359015094823,0.0,0.0881035606741,0.0872295271103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.185895
+221,The throw was wide of the keeper as well .,844,5,5,35.6864825136,0.0881035606741,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+222,"Sami to Yuvraj, 1 run, where is mid-wicket, Shahid Afridi?",843,11,3,31.0984714821,0.0,0.0872295271103,0.0,0.217107433052,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+223,It would have been a dolly.,842,3,4,24.0758826542,0.0,0.0,0.0529144289415,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+224,"Knowing Yuvraj's struggle against the short ball, Sami bangs it into the pitch, Yuvraj tries the pull, but splices it, mid-on had too much ground to cover and was never going to get there .",841,25,15,140.112134613,0.0529144289415,0.217107433052,0.188004208149,0.0800056208759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+225,"Sami to Yuvraj, FOUR, maybe this is why Yuvraj Singh wanted the strike and denied that second run.",840,14,7,77.0717832377,0.188004208149,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14052
+226,Lovely cover-drive.,839,3,0,6.36316833887,0.0,0.0800056208759,0.0,0.102227398829,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+227,Looks so good when he gets going.,838,5,3,33.2807648026,0.0,0.0,0.0620118897198,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+228,"Full and slanted across outside off stump, Yuvraj, with his big bat lift, nails the drive to perfection and even a full length dive to his left from Amir wasn't good enough .",837,25,12,137.577951739,0.0620118897198,0.102227398829,0.0603582140936,0.0253820576848,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+229,"Sami to Kohli, 1 run, slower delivery on the stumps, Kohli works it to deep square leg, wants two but Yuvraj says no .",836,21,7,84.2033642239,0.0603582140936,0.0,0.267272503855,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+230,"Sami to Kohli, FOUR, wow!",835,7,1,20.8768487212,0.267272503855,0.0253820576848,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09524
+231,Good shot!,834,3,0,9.64259352686,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+232,The crowd gets going with that hit from India's No.3.,833,8,4,36.2823744716,0.0,0.0,0.0601251316185,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+233,"Short of a length delivery wide outside off stump, Kohli allows the ball to come and punches it with an angled bat, beats both backward point and third man.",832,21,11,117.254203829,0.0601251316185,0.0,0.0307195908135,0.0608067240748,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14
+234,"So just like his first over, Sami concedes a boundary first ball .",831,9,5,53.2192209319,0.0307195908135,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.09524
+235,"Afridi to Yuvraj, no run, a short leg would have swallowed that.",830,10,5,42.6708557281,0.0,0.0608067240748,0.0625247942793,0.189240269863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+236,"Flighted delivery on the stumps, Yuvraj leans forward to defend, gets an inside edge onto pad, lobs in the air but falls safely .",829,20,7,104.684496166,0.0625247942793,0.0,0.13703259985,0.119114170975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+237,"Afridi to Yuvraj, wide, Afridi darts this in and also gets it to grip, too good for Yuvraj, but it went down the leg-side, another good take by the keeper as he was blinded by the batsman for a while .",828,24,22,156.781792323,0.13703259985,0.189240269863,0.280543743517,0.221426316364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12676
+238,"Afridi to Yuvraj, no run, waits for the ball to come back in and watchfully works it into the on-side .",827,13,10,69.2599860692,0.280543743517,0.119114170975,0.436039377453,0.142574580719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+239,"Afridi to Yuvraj, no run, flighted delivery on the stumps, turned into the on-side .",826,12,6,45.7695800513,0.436039377453,0.221426316364,0.124437943514,0.124463286018,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13668
+240,"Afridi to Yuvraj, wide, oh big turn and the keeper did really well to collect and save a few extra runs.",825,16,8,91.9791202949,0.124437943514,0.142574580719,0.101785163214,0.0661334943564,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+241,"Spinning down the leg-side, Sarfraz moves to his right and goes well .",824,9,5,46.3493722462,0.101785163214,0.124463286018,0.0158960449491,0.168960717783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+242,"Afridi to Kohli, 1 run, once again Kohli plays early.",823,10,3,36.8262339747,0.0158960449491,0.0661334943564,0.102183125967,0.112521848003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23398
+243,"Shortish and spinning away outside off stump, Kohli wanted to cut, the ball went off the inside half of the bat .",822,16,8,82.7653140475,0.102183125967,0.168960717783,0.116008425026,0.421995951817,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.167855
+244,"Afridi to Yuvraj, 1 run, round the wicket, on the leg stump, Yuvraj glances this to fine leg .",821,17,6,61.8426313615,0.116008425026,0.112521848003,0.199077993192,0.138894898522,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+245,"Afridi to Kohli, 1 run, shortish and spinning away outside off stump, Kohli goes early into the pull, under-edges it through backward square leg.",820,22,7,87.7023943356,0.199077993192,0.421995951817,0.15538935275,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+246,"Kohli went so deep in the crease that he almost stepped onto the stumpsShahid Afridi, right-arm leg break, comes into the attackWow!",819,17,8,94.1548963224,0.15538935275,0.138894898522,0.0,0.0371486159441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+247,What a turnaround for Sami.,818,3,3,19.5402520157,0.0,0.0,0.0444474944714,0.125090048304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+248,"Thrashed for four first ball and then oversteps to concede a free-hit, but he got two-in-two.",817,11,7,57.9558185816,0.0444474944714,0.0371486159441,0.0498162911342,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09677
+249,"Mind you, he was drafted into the side for this game at the expense of Imad Wasim and Sami has justified the selection.",816,12,13,102.165214226,0.0498162911342,0.125090048304,0.0,0.0607811279669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125905
+250,.,815,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+251,"Sami to Yuvraj, no run, cross-seamed length delivery close to the off stump, Yuvraj manages to defend .",814,15,6,59.790374709,0.0,0.0607811279669,0.279595509558,0.170362164409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+252,"Sami to Yuvraj, no run, the hat-trick ball is negotiated.",813,9,4,32.0439806343,0.279595509558,0.0,0.0856730476233,0.16382024003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+253,"Short of a length delivery on the stumps, Yuvraj was late on the defence, gets hit high on the thigh padYuvraj Singh, left handed bat, comes to the crease .",812,23,11,114.647319664,0.0856730476233,0.170362164409,0.0148129704666,0.0678464421188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16083
+254,"Sami to Raina, out Bowled!!",811,6,2,20.614026686,0.0148129704666,0.16382024003,0.0,0.187561215856,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+255,And there goes the leg-stump cartwheeling towards the keeper.,810,6,4,33.0638656394,0.0,0.0678464421188,0.0,0.0349118851755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+256,Sami is on a hat-trick.,809,3,3,10.1242287044,0.0,0.187561215856,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+257,Stunned faces in the crowd.,808,4,2,24.4953645017,0.0,0.0349118851755,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.22619
+258,Raina can't believe that he's been dismissed.,807,7,3,31.0403826048,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+259,It all happened so quickly for him.,806,3,5,32.9970103308,0.0,0.0,0.0,0.0387663120713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+260,Why on earth would you hop everytime on the crease when a pacy bowler is bowling short of length close to your body?,805,13,11,106.556443292,0.0,0.0,0.0163106707449,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+261,Raina awkwardly tries to defend and drags it back onto the stumps.,804,9,4,52.8873396737,0.0163106707449,0.0387663120713,0.227124755295,0.204923829708,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121215
+262,Raina b Sami  .,803,4,0,9.50426596197,0.227124755295,0.0,0.791222669475,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+263,")Sami to Raina, THAT'S OUT!!",802,7,3,18.2161314132,0.791222669475,0.204923829708,0.0,0.237520479646,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+264,Bowled!,801,2,0,5.48769960151,0.0,0.0,0.0,0.586848957097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+265,"!Suresh Raina, left handed bat, comes to the crease .",800,11,2,40.3096137185,0.0,0.237520479646,0.0265940332436,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+266,"Sami to Dhawan, out Bowled!!",799,6,2,20.0321051406,0.0265940332436,0.586848957097,0.0,0.113892624951,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+267,How quickly does fortune change?,798,4,2,30.2110867298,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+268,"Sami was struggling to get things right and all of a sudden, he roars in delight after castling the batsman.",797,12,10,89.9101978132,0.0,0.113892624951,0.0950347800043,0.00690331181747,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+269,"Short of a length delivery on the off stump, we all know that Dhawan is a lazy front foot mover, just tries to defend with soft hands and probably wanting to run it to third man, ends up playing it onto the stumps off the face of the bat.",796,29,24,196.668668539,0.0950347800043,0.0,0.250156044653,0.0858123392146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15756
+270,"Yes, you got to play with soft hands, but not with such soft hands.",795,10,7,68.6636229624,0.250156044653,0.00690331181747,0.134956286955,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05
+271,A bit more hard hands would have meant that it would have been a proper defence.,794,9,8,70.2238998339,0.134956286955,0.0858123392146,0.0,0.0447735107552,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+272,Dhawan b Sami  .,793,4,0,8.92234441652,0.0,0.0,0.630182157913,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+273,"5) [4s-1]Sami to Dhawan, THAT'S OUT!!",792,11,3,17.6342098678,0.630182157913,0.0447735107552,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+274,Bowled!!,791,3,0,5.48769960151,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+275,.,790,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+276,"Sami to Dhawan, no run, Dhawan fails to make use of the free-hit!",789,11,5,47.0421826199,0.0,0.0,0.0987117791926,0.147544535832,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+277,Sami gets away with a poor delivery.,788,6,2,27.1540860635,0.0987117791926,0.0,0.123822940579,0.150839344526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+278,"Once again short wide is this slower delivery, Dhawan backs away slightly and cuts hard, only manages to get the bottom of the bat onto it and straight to backward point .",787,21,13,133.040454499,0.123822940579,0.147544535832,0.0877956409231,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.154615
+279,"Sami to Dhawan, no ball, oh no!",786,7,3,27.3401872163,0.0877956409231,0.150839344526,0.160733370053,0.0200971145999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+280,What have you done Sami?,785,3,3,23.3195737569,0.160733370053,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+281,He's overstepped the line and it's going to be a free-hit.,784,7,7,34.2468886663,0.0,0.0200971145999,0.0233122468677,0.0708055780375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+282,"Slower delivery slanted across, swing and a miss .",783,8,2,34.3467113063,0.0233122468677,0.0,0.0187359012467,0.116434186868,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+283,"Sami to Dhawan, FOUR, Dhawan gets it in the gap and improves his strike-rate.",782,11,6,51.5505388093,0.0187359012467,0.0708055780375,0.168796360377,0.123404525969,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1683
+284,"Sami starts with a slower delivery first up, but he gave a lot of width for Dhawan to play with.",781,12,10,78.9844369664,0.168796360377,0.116434186868,0.0733170817565,0.0396646060969,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+285,"Mind you, Dhawan is very good square on the off-side and he generally won't miss out on an opportunity.",780,12,10,72.8477119729,0.0733170817565,0.123404525969,0.082122295115,0.12176868618,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.08795
+286,"This was the square drive timed sweetly between backward point and the diving cover-pointMohammad Sami, right-arm fast, comes into the attackJust 2 off that over.",779,17,11,96.947477032,0.082122295115,0.0396646060969,0.0,0.025118722698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123445
+287,Dhawan is struggling for timing.,778,4,2,23.6481719371,0.0,0.12176868618,0.0491221257132,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+288,Now what that does is it puts extra pressure on Kohli.,777,5,7,47.8765595542,0.0491221257132,0.025118722698,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+289,Interesting times ahead!,776,4,0,18.9761763313,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+290,.,775,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+291,"Irfan to Kohli, no run, the off-cutting slower delivery outside off stump and Kohli had no clue about it.",774,13,9,67.0884970668,0.0,0.0,0.0312340535152,0.16440437614,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+292,"However, he did well to drop his hands and let the ball go though after being out-thought by the bowler.",773,12,10,85.3336593809,0.0312340535152,0.0,0.0485697200694,0.0958352160172,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.09524
+293,The length was shortish from Irfan and that gave Kohli the time to make a last minute change .,772,11,8,70.7471206711,0.0485697200694,0.16440437614,0.174034859124,0.110946671817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+294,"Irfan to Dhawan, 1 run, good length delivery on the stumps, Dhawan swings across the line, the ball takes the inside half of the bat and goes on the bounce towards deep square leg .",771,28,11,126.774180518,0.174034859124,0.0958352160172,0.256618294685,0.144779446432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146135
+295,"Irfan to Dhawan, no run, another dot ball.",770,9,2,33.6129485892,0.256618294685,0.110946671817,0.111711715452,0.084737005905,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+296,Pressure builds on Dhawan and he desperately wants to get off strike.,769,8,5,53.1392989884,0.111711715452,0.144779446432,0.0388536065114,0.0855006298042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+297,Can't hit the ball straight to hand and expect your partner to respond though.,768,11,5,58.7476974466,0.0388536065114,0.084737005905,0.0320333109277,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+298,Once again Kohli rightly shouts loud and asks Dhawan to stay at his end.,767,9,6,70.425834685,0.0320333109277,0.0855006298042,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176315
+299,This was mistimed towards cover-point againDhawan has scored just 1 run off 9 balls now.,766,10,6,57.6331210515,0.0,0.0,0.0,0.12848224817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+300,.,765,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+301,"Irfan to Dhawan, no run, short of length delivery outside off stump, Dhawan goes for the cut, but the slow pitch meant he played a little early and toe-ended it to cover-point .",764,24,13,113.046396452,0.0,0.12848224817,0.349052381641,0.155713084298,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+302,"Irfan to Dhawan, no run, Dhawan defends this length ball towards short cover and looks for a non-existent run, but Kohli yells and stops him .",763,20,9,94.0498214202,0.349052381641,0.0,0.141375796751,0.134676643108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.089285
+303,"Irfan to Kohli, 1 run, slower delivery on the leg stump, Kohli works it to fine leg and opens his accountAmir has bowled two lovely overs.",762,22,8,102.53281041,0.141375796751,0.155713084298,0.116907171268,0.0552390032772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.097565
+304,Time for Irfan to step up.,761,4,3,25.2560717274,0.116907171268,0.134676643108,0.0,0.124107306452,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+305,His first over was very poor.,760,3,4,27.0335323947,0.0,0.0552390032772,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+306,Can he do justice this time around?,759,4,4,33.5169414446,0.0,0.124107306452,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+307,We'll wait and watch.,758,4,2,19.3942981031,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+308,.,757,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+309,"Amir to Dhawan, no run, once again Dhawan is hit on the thigh pad, short of length delivery angled in at  .",756,15,10,83.3153033804,0.0,0.0,0.126502547312,0.520666220321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+310,"kph, Dhawan is late in bringing his bat down, but luckily it was going down leg and also bouncing over .",755,13,10,90.5053521434,0.126502547312,0.0,0.0931353842752,0.110233424965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136675
+311,"Amir to Dhawan, no run, short of length once again, the cutter from the left-armer, Dhawan hangs back and defends .",754,16,9,75.3653418035,0.0931353842752,0.520666220321,0.340294737816,0.342101248339,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+312,"Amir to Dhawan, no run, full delivery outside off stump, Dhawan drives and finds the man at cover .",753,16,6,69.2798572116,0.340294737816,0.110233424965,0.349518706222,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+313,"Amir to Dhawan, no run, the slower delivery from Amir, the ball came back just a bit and also bounced extra, Dhawan was beaten on the defence and hit him high on the thigh pad.",752,25,15,137.977571991,0.349518706222,0.342101248339,0.0412156618992,0.293918606658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+314,Half-shout for LBW from Pakistan .,751,4,2,16.8893602284,0.0412156618992,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+315,"Amir to Dhawan, leg byes, 2 runs, short of length delivery down the leg-side, Dhawan misses the tickle, ball rolls towards fine leg off the thigh padVirat Kohli, right handed bat, comes to the crease .",750,34,9,136.690648607,0.0,0.293918606658,0.0810816276339,0.0412940880058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140985
+316,"Amir to Rohit, out Caught by Shoaib Malik!!",749,8,3,32.2291863524,0.0810816276339,0.0,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+317,It's high in the airrrrrrr.,748,4,3,20.1688694536,0.0,0.0412940880058,0.0971901025178,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+318,Who wants it?,747,2,2,14.1055696818,0.0971901025178,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+319,A couple of fielders are very close but Malik holds on.,746,6,6,49.7974121955,0.0,0.0,0.0,0.0793298961156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+320,Excellent catch.,745,3,0,12.9006900649,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+321,"Afridi came from mid-off, but Malik called for it rushing from extra-cover and took it cleanly.",744,11,7,62.2268981601,0.0,0.0793298961156,0.0,0.0257234031463,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+322,A bad stroke attempted by Rohit Sharma.,743,6,2,34.6978339459,0.0,0.0,0.0526937373897,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+323,"Good length delivery on the off stump, this is not a pitch to be playing the on the rise hinted Sunil Gavaskar on air in the last over and Rohit pays the price.",742,17,18,130.290745811,0.0526937373897,0.0257234031463,0.164864032424,0.102986087236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17735
+324,"Just goes for the lofted drive over mid-off, but the ball hit the bottom of the bat and went very high.",741,12,11,78.9785496891,0.164864032424,0.0,0.10883992644,0.072172580099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163925
+325,The fielder did the rest.,740,3,3,20.9735597936,0.10883992644,0.102986087236,0.0379279842297,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+326,Pakistan get the early breakthrough they were looking for.,739,6,4,42.0726905519,0.0379279842297,0.072172580099,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+327,Rohit c Shoaib Malik b Amir  .,738,7,0,17.1586877174,0.0,0.0,0.472921845486,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+328,"1) [4s-2]Amir to Rohit, THAT'S OUT!!",737,11,3,17.7573548466,0.472921845486,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+329,Caught!!,736,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+330,.,735,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+331,"Irfan to Rohit, 1 run, short of length delivery on the leg stump, Rohit glances it to fine leg .",734,17,6,66.2334129147,0.0,0.0,0.421617353982,0.0603600869772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+332,"Irfan to Rohit, FOUR, the slower ball attempted but it's way too short, Rohit swivels and pulls fine through the vacant backward square leg region.",733,22,8,112.189312849,0.421617353982,0.0,0.0223728164397,0.236112087635,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.106385
+333,Second boundary of the over for India .,732,4,4,27.1895805752,0.0223728164397,0.0603600869772,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.24696
+334,"Irfan to Rohit, no run, uppish, but safe!",731,9,3,35.3917208629,0.0,0.236112087635,0.158008190986,0.0121059741281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+335,Poor shot from Rohit.,730,4,1,18.9951830805,0.158008190986,0.0,0.0,0.294109381428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.047615
+336,It appeared as if he made up his mind at the last moment to attempt the on-the-rise drive.,729,9,10,75.9249324101,0.0,0.0121059741281,0.0367018131682,0.0358164439922,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.179845
+337,"Short of a length and climbing high, Rohit splices the shot to mid-off .",728,10,5,45.6410979257,0.0367018131682,0.294109381428,0.106555455737,0.312705115958,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138885
+338,"Irfan to Rohit, no run, cracking back foot punch and a brilliant piece of fielding there at backward point by Ahmed Shehzad.",727,17,8,97.2943893059,0.106555455737,0.0358164439922,0.107883673333,0.20336868948,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.100835
+339,"Short of a length delivery just outside off stump, Rohit plays the shot on one leg, Shehzad flies to his right and saves a certain boundary .",726,19,10,102.247281442,0.107883673333,0.312705115958,0.189806774035,0.149940787984,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.125
+340,"Irfan to Rohit, no run, much better from Irfan, keep it on a good length outside off stump, Rohit shoulders arms, good bounce for Irfan on that occasion .",725,24,10,120.173966083,0.189806774035,0.20336868948,0.297059602024,0.455782532353,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+341,"Irfan to Rohit, wide, Irfan goes round the wicket, but gets the radar wrong, bangs this short and it goes down the leg-side, Rohit tries to help it on its way but misses .",724,25,14,136.604665755,0.297059602024,0.149940787984,0.311689429744,0.142091135067,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+342,"Irfan to Rohit, FOUR, poor start from Irfan.",723,9,2,36.0280555905,0.311689429744,0.455782532353,0.156095494284,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.076925
+343,"The new ball will be the best time to bat and India would want to make full use of the overs, Irfan has to understand that and bowl well.",722,18,13,115.553548217,0.156095494284,0.142091135067,0.0405890654638,0.0693343672273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14083
+344,A dreadful ball first up in a big game.,721,6,4,33.2644770138,0.0405890654638,0.0,0.048858355714,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+345,"Short and angled across outside off stump, Rohit cuts deliberately over cover-point and picks up an easy boundaryMohammad Irfan, left-arm fast medium, comes into the attackSo a quiet start for both sides.",720,25,11,145.276050119,0.048858355714,0.0693343672273,0.0167090694064,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.084745
+346,Amir did not swing and India did not get freebies.,719,6,5,48.4916605013,0.0167090694064,0.0,0.0,0.112408300181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+347,.,718,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+348,"Amir to Dhawan, no run, beaten!",717,7,2,22.5084723439,0.0,0.112408300181,0.0,0.282879744287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+349,.,716,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+350,"kph on this full delivery outside off stump, Dhawan plays a loose drive and gets beaten .",715,13,5,67.5913341248,0.0,0.282879744287,0.0850457394788,0.170481353006,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+351,"Amir to Rohit, 1 run, with the left-armer's angle from over the wicket, Rohit uses the width on this good length delivery and runs it down to third man .",714,21,13,103.851149728,0.0850457394788,0.0,0.176301900759,0.165781037339,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14614
+352,"Amir to Dhawan, 1 run, no swing on this one too.",713,9,5,38.9868195516,0.176301900759,0.170481353006,0.0549265441307,0.0648539341406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+353,"Pacy full delivery, but the line is wrong and down the leg-side, Dhawan clips it away nicely with a strong bottom hand grip, fine leg runs to his right and tidies upDhawan not happy with movement behind the bowler's arm.",712,30,15,179.182070081,0.0549265441307,0.165781037339,0.0295475420741,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11344
+354,Sorted now and we are good to carry on.,711,4,6,37.2890783711,0.0295475420741,0.0648539341406,0.0,0.0394449746758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+355,Wide slip in place .,710,4,1,19.5120811387,0.0,0.0,0.0,0.169527220788,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+356,"Amir to Rohit, leg byes, 1 run, leg-stumpish from Amir, Rohit wanted to tickle it fine, but failed to connect and the short of length delivery rolled behind square off the thigh pad .",709,28,11,131.288444129,0.0,0.0394449746758,0.286523049694,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10909
+357,"Amir to Rohit, wide, Amir sprays this wide outside off stump, Rohit lets it go and an easy call for the umpire.",708,18,8,96.1191369126,0.286523049694,0.169527220788,0.0498435659998,0.282438968139,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+358,First runs for India .,707,4,1,16.0946028715,0.0498435659998,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23077
+359,"Amir to Rohit, no run, this is slightly tailing back into the right-hander, Rohit tucks this into the on-side .",706,14,9,68.8796411161,0.0,0.282438968139,0.30854216141,0.0370799687236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112145
+360,"Amir to Rohit, no run, beaten straightaway!",705,8,2,29.4748396267,0.30854216141,0.0,0.0,0.0743479867309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+361,The interesting thing was that the ball didn't swing.,704,6,5,38.6367230493,0.0,0.0370799687236,0.111175310889,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118595
+362,"Just a full delivery angled across the right-hander, Rohit hung his bat away from the body as he tried to defend, the ball missed the outside edgeRohit and Dhawan are at the crease.",703,21,15,129.160888065,0.111175310889,0.0743479867309,0.0939808473921,0.0748236431804,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118445
+363,Rohit is on strike.,702,3,2,15.4513051115,0.0939808473921,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+364,Amir will open the attackWelcome back for the chase.,701,6,4,39.7694562204,0.0,0.0748236431804,0.0757057053285,0.467541027838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129585
+365,The players are out in the middle.,700,3,5,25.6038226318,0.0757057053285,0.0,0.055122239879,0.0489060477707,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.32143
+366,Amir to open the bowling.,699,4,2,20.3830014339,0.055122239879,0.467541027838,0.0240609242666,0.0418223977083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+367,"Can he produce something similar to what he did in the Asia Cup?Malik: ""Well it was tough, but I scored some runs for my side which is a great sign.",698,18,18,135.664379159,0.0240609242666,0.0489060477707,0.118666261545,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137255
+368,"We have something to defend, pitch is not easy to score freely.",697,8,6,53.9174830976,0.118666261545,0.0418223977083,0.340191989099,0.104530501013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+369,If we score  .,696,2,2,14.9181994132,0.340191989099,0.0,0.143320941464,0.139207420333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+370,", we can give a tough time to the Indians.",695,6,5,36.4973915111,0.143320941464,0.104530501013,0.0339184183807,0.0242994596701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+371,"It is not easy to play the big shots, place your shots in the gaps for singles and doubles and score off the bad ball.",694,14,13,110.191019147,0.0339184183807,0.139207420333,0.0650258907667,0.272207607782,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196645
+372,"Honestly no (when asked if he was surprised with the amount of spin the pitch took), even the first match against Bangladesh was turning, but not as this much.",693,18,16,132.159404408,0.0650258907667,0.0242994596701,0.0962446209937,0.0792367017698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15168
+373,"It is not the curator's fault, it is the weather's and it is not in your control.",692,8,13,68.1523289049,0.0962446209937,0.272207607782,0.266930221372,0.0215381960082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+374,It is not going to be easy to chase this total.,691,5,7,45.7219999972,0.266930221372,0.0792367017698,0.048726144329,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+375,"""There's no doubt both teams have erred in reading this pitch.",690,8,6,55.2355300738,0.048726144329,0.0215381960082,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+376,India didn't play the extra spinner.,689,6,2,27.0056809683,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134575
+377,"Also, for once, Dhoni's use of part-timers was questionable.",688,9,4,38.7690685381,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+378,Surely he underbowled them.,687,3,2,23.1047325608,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+379,That point is only vindicated on having a glance at Bumrah's and Pandya's figures.,686,9,8,62.0290498219,0.0,0.0,0.0,0.0345783222472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114075
+380,"Meanwhile, Pakistan have four seamers in their artillery.",685,7,3,39.1576936701,0.0,0.0,0.330705073878,0.0229958473353,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2
+381,FOUR seamers on a spin paradise.,684,5,2,25.8125307932,0.330705073878,0.0345783222472,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08696
+382,Will it cost them?It's not often that we get to use common sense and a Pakistani batting lineup in the same sentence.,683,13,13,106.973687175,0.0,0.0229958473353,0.00741536976351,0.0524606427872,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.134365
+383,But they showed good application at the top (except Sharjeel).,682,9,4,48.9021304554,0.00741536976351,0.0,0.0,0.112948634893,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+384,Focus was to build along steadily and not aiming too high which can be a trap.,681,8,9,77.4579186491,0.0,0.0524606427872,0.106112272014,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+385,The run rate meandered along and wasn't great but they didn't panic.,680,9,6,55.3661743948,0.106112272014,0.112948634893,0.0,0.540028926894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+386,"Afridi promoted himself, played a labourous 14-ball 8.",679,8,2,29.6594391115,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+387,They didn't panic.,678,3,2,16.5730996998,0.0,0.540028926894,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15556
+388,Then Malik came along and showed his class being the protagonist of a 41-run partnership (off 24 balls) with Umar Akmal.Pakistan have put up a very competitive score on this monster of a pitch.,677,20,17,143.032540977,0.0,0.0,0.158341771953,0.0791226560936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121305
+389,"Such a priceless partnership between Shoaib Malik and Umar Akmal, coming at a rapid rate given how difficult it is to bat out there.",676,14,12,107.483664782,0.158341771953,0.0,0.0154493855338,0.0132195874474,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+390,The sinister nature of this track became pretty apparent when Ashwin turned it square with the new ball.,675,12,7,87.5534453777,0.0154493855338,0.0791226560936,0.0474229168104,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+391,"Huge huge turn, the kind which renders the skill level of a batsman irrelevant and shoves the game to a no-contest.",674,14,9,89.1025904241,0.0474229168104,0.0132195874474,0.0,0.0638037454372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.139535
+392,All bets off.,673,2,2,15.1855141829,0.0,0.0,0.147939699234,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+393,Real shame after all the grandiloquence of the buildup.,672,5,5,44.9047910552,0.147939699234,0.0638037454372,0.0318504190043,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+394,"Anyway, let's not allow the curator to steal the spotlight.I don't want to sound pedantic here.",671,13,7,76.2707250163,0.0318504190043,0.0,0.0919079018973,0.0576026748789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09756
+395,But let me reiterate - this isn't a T20I pitch.,670,7,5,40.5116934371,0.0919079018973,0.0,0.0915962938627,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+396,Not even an ODI pitch for that matter.,669,5,4,39.0920734831,0.0915962938627,0.0576026748789,0.0637100900585,0.100997701746,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+397,How can you expect a decent contest between bat and ball when the ball is turning six inches and we don't even have a ripping spinner like a Shane Warne or a Murali on display.,668,19,18,156.691664817,0.0637100900585,0.0,0.0596741166192,0.105584991866,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.092595
+398,Heard on air that Sourav Ganguly too was surprised as to how the pitch has behaved today.,667,9,9,81.2281041302,0.0596741166192,0.100997701746,0.0,0.0620925928257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+399,But a very poor advertisement for cricket and it is happening in a WT20 game between India and Pakistan.,666,9,11,75.8323645427,0.0,0.105584991866,0.081885713299,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.247875
+400,"Such a high-profile game, spoiled and at the mercy of a dubious pitch.",665,8,7,46.7896445844,0.081885713299,0.0620925928257,0.0722574372733,0.0101077363397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+401,Let's see what the pitch-happy ICC has to say about this track!,664,8,6,50.9791681283,0.0722574372733,0.0,0.0,0.0438126687126,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+402,With that I rest my case and give my bleeding fingers a well-deserved rest .,663,8,7,63.4458862123,0.0,0.0101077363397,0.0175800901724,0.0183385207506,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+403,"Bumrah to Hafeez, leg byes, 1 run, down leg again, another slower ball short delivery, Hafeez early into the slog, off the body and they take a leg-bye as the ball runs to the left of MS. That's the end of the innings .",662,32,19,150.503947534,0.0175800901724,0.0438126687126,0.159199330837,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13684
+404,"Bumrah to Sarfraz, byes, 1 run, ""MS you have thrown that wide"" says Nasser Hussain on air!",661,18,5,77.7439705461,0.159199330837,0.0183385207506,0.0,0.106628275538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+405,Perfectly put.,660,3,0,12.5440151209,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+406,"Sarfraz swings and misses as another slower delivery is delivered by Bumrah, the ball goes over the stumps and they sneak in a bye.",659,15,11,98.8344574756,0.0,0.106628275538,0.146687667948,0.100951318114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+407,Hafeez is very quick and got there as MS flinged it well wide of the stumps .,658,9,8,67.5097382582,0.146687667948,0.0,0.176828428436,0.174595750555,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+408,"Bumrah to Hafeez, 1 run, hat-trick of slower balls, Hafeez kneels down and plays a sweep to deep backward square leg, just the single .",657,21,8,89.2653935266,0.176828428436,0.100951318114,0.179792001818,0.0839436840183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08889
+409,"Bumrah to Hafeez, 2 runs, I heard ""bowler, bowler"" as soon as the shot was played.",656,16,6,64.024195132,0.179792001818,0.174595750555,0.00998848681753,0.0682053367495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+410,"Another heave to leg, placed wide of Ravindra Jadeja and it is a comfortable two .",655,11,6,60.8688797569,0.00998848681753,0.0839436840183,0.187385796175,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+411,"Bumrah to Sarfraz, 1 run, now the slower delivery, Sarfraz is setting himself up for a big heave to leg, is early into the slog, gets a single to deep mid-wicket.",654,23,14,112.370405913,0.187385796175,0.0682053367495,0.0486958254637,0.138606540959,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.13034
+412,These cutters are working well on this wicket .,653,5,4,39.9504739974,0.0486958254637,0.0,0.0249479979453,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+413,"Bumrah to Hafeez, 1 run, low full toss on off, drilled straight to the fielder at long-offJasprit Bumrah [ .",652,17,6,65.1442817341,0.0249479979453,0.138606540959,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.10811
+414,- .,651,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+415,. ],650,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+416,is back into the attack .,649,3,3,18.3161063836,0.0,0.0,0.0175485976375,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+417,"Nehra to Sarfraz, no run, I heard a ""come on yaar"" from Sarfraz to the square leg umpire.",648,15,8,67.044082509,0.0175485976375,0.0,0.0,0.423066619076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+418,After that wasn't given as wide.,647,4,4,26.4257610069,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+419,"The slower short ball from Nehra, Sarfraz early into the pull and the square leg umpire is ok with the height.",646,14,9,84.1205679884,0.0,0.423066619076,0.0530283524644,0.326563336327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+420,MS is ready for an under-arm flick if the batsmen attempt a bye.,645,8,6,53.8925313576,0.0530283524644,0.0,0.00868901764806,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16129
+421,No such thing as Sarfraz has issues to deal with the square leg umpire.,644,8,7,65.3659727326,0.00868901764806,0.326563336327,0.0126513665156,0.0774150160141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+422,Wonder what Richard Kettleborough had to say.,643,5,3,37.9671935281,0.0126513665156,0.0,0.0,0.0130815620545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.04762
+423,"If Gunner Gould was there, he would've dealt with it, with a smile and a joke .",642,10,10,69.1471062693,0.0,0.0774150160141,0.0123540162126,0.037288218803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+424,"Nehra to Sarfraz, FOUR, quick thinking from Sarfraz and four.",641,10,3,45.098904418,0.0123540162126,0.0130815620545,0.0321523127403,0.0611471845943,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.09091
+425,"Shuffles outside off and takes it on the full, knows where the field is and the ball runs away to the deep backward square leg fence.",640,16,12,100.449147015,0.0321523127403,0.037288218803,0.044073214186,0.300114546068,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17021
+426,Now what will Nehra do?Waqar Younis and Grant Flower look a bit pensive in the dug-out .,639,11,8,75.1694761209,0.044073214186,0.0611471845943,0.0509881561838,0.0695046477652,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+427,"Nehra to Hafeez, 1 run, low full toss outside off, Hafeez kneels down and paddles it to deep backward square leg .",638,19,6,84.8474983231,0.0509881561838,0.300114546068,0.103348743339,0.183016763045,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.07143
+428,"Nehra to Sarfraz, 1 run, Sarfraz is early into the shot, the ball takes the inside edge and ricochets into pad, the ball rolls back down the wicket.",637,22,11,106.409119163,0.103348743339,0.0695046477652,0.0435013207665,0.0761763623615,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+429,"They scramble a singleMohammad Hafeez, right handed bat, comes to the crease .",636,11,4,51.6538754507,0.0435013207665,0.183016763045,0.0184575595915,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+430,"Nehra to Shoaib Malik, out Caught by Ashwin!!",635,8,3,32.0190299966,0.0184575595915,0.0761763623615,0.182532661722,0.136240846395,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+431,So nearly popped out of Ashwin's hands at short fine leg.,634,9,4,51.2036202668,0.182532661722,0.0,0.0477484100212,0.0583240900807,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+432,"The short delivery, cramps Shoaib Malik for room on the pull and he gets a spiralling top edge which is held.",633,14,9,86.236830695,0.0477484100212,0.136240846395,0.0,0.0819069789705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+433,End of a cameo.,632,3,2,16.3442874912,0.0,0.0583240900807,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+434,But is it enough is the big question.,631,4,5,32.6881315434,0.0,0.0819069789705,0.0,0.0132617547583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+435,Malik rehearses his shot as he walks back.,630,6,3,37.1925805321,0.0,0.0,0.21117242035,0.134484045385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+436,Replays show that he was well outside his crease and swivelled on the shot.,629,8,7,59.4920548264,0.21117242035,0.0132617547583,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+437,Shoaib Malik c Ashwin b Nehra  .,628,7,0,16.9485313616,0.0,0.134484045385,0.0,0.691098697283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128785
+438,6) [4s- .,627,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+439,"s-1]Nehra to Shoaib Malik, THAT'S OUT!!",626,9,3,21.2141510862,0.0,0.691098697283,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+440,Caught!!,625,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+441,.,624,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+442,"Nehra to Shoaib Malik, 2 runs, Shoaib Malik makes room and then takes a step out to guide the slower delivery on the stumps, square on the off-side, runs hard and comes back for the secondAshish Nehra [ .",623,29,14,136.445537667,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118645
+443,- .,622,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+444,. ],621,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+445,is back into the attack .,620,3,3,18.3161063836,0.0,0.0,0.0173566046034,0.147771718719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+446,"Ravindra Jadeja to Sarfraz, 2 runs, the leading edge and goes tantalisingly over Ravindra Jadeja's head.",619,16,4,66.1662608436,0.0173566046034,0.0,0.106222475003,0.327923059448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15523
+447,"Sarfraz early into the flick and the ball stopped on his shot, but he gets awaySarfraz Ahmed, right handed bat, comes to the crease .",618,18,10,98.5705516259,0.106222475003,0.147771718719,0.013660517681,0.0481464902956,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.156585
+448,"Ravindra Jadeja to U Akmal, out Caught by Dhoni!!",617,9,3,32.7488810892,0.013660517681,0.327923059448,0.0937653660333,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+449,"Quick and flat outside off, Akmal went for the cut and feathered an edge.",616,10,6,60.4208757222,0.0937653660333,0.0481464902956,0.0451700660377,0.108864748471,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114715
+450,MS is good and immediately throws the ball up in celebration.,615,7,5,48.1651744911,0.0451700660377,0.0,0.0198073693252,0.0256732741895,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+451,Even Akmal knew he had got bat on that and walked.,614,7,5,47.9145822352,0.0198073693252,0.108864748471,0.165386481804,0.141518086705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10395
+452,Replays show Akmal was looking to play the late cut and got a toe end.,613,11,5,67.3467281555,0.165386481804,0.0256732741895,0.0177558383037,0.115123467368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+453,He swings the bat into the turf in frustration as he walks back.,612,7,7,56.2195821115,0.0177558383037,0.141518086705,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+454,U Akmal c Dhoni b Ravindra Jadeja  .,611,8,0,17.6783824542,0.0,0.115123467368,0.0,0.700301064384,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+455,6) [4s- .,610,5,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+456,"s-1]Ravindra Jadeja to U Akmal, THAT'S OUT!!",609,10,3,21.7498461643,0.0,0.700301064384,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.189585
+457,Caught!!,608,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+458,.,607,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+459,"Ravindra Jadeja to Shoaib Malik, 1 run, now comes down the track and has to adjust for the turn, does so by playing it softly into the off-side for a single .",606,18,17,110.606709587,0.0,0.0,0.316321860598,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+460,"Ravindra Jadeja to Shoaib Malik, FOUR, Shoaib Malik is playing a beautiful blinder.",605,13,3,53.2976237128,0.316321860598,0.0,0.0,0.0372550033249,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14459
+461,Wonder what Sania Mirza will make of all this.,604,5,5,46.7039344614,0.0,0.0,0.0,0.114385186236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.086955
+462,"But that is besides the point, isn't it?",603,5,6,29.1087363221,0.0,0.0372550033249,0.0837345072687,0.110899709642,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+463,But I have to say what I have to.,602,2,8,25.0475830123,0.0837345072687,0.114385186236,0.100695307737,0.0454208050939,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+464,"What a wonderful sweep that is, one on his knees and swept that powerfully down to the deep square leg fence, beat the fielder easily.",601,16,12,108.289669581,0.100695307737,0.110899709642,0.0108458598497,0.0233989570503,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.108695
+465,Malik always seems to play well against India!,600,7,2,36.0810481207,0.0108458598497,0.0454208050939,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+466,"No Indian has found out the exact reason why, maybe Mirza has the answer.",599,9,7,70.887498079,0.0,0.0233989570503,0.0,0.0307823914599,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+467,But we never know!,598,3,2,19.4408181187,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.052635
+468,Gentle reminder: the above description to be taken in the right spirit!,597,8,6,57.9168237591,0.0,0.0307823914599,0.0,0.0521664897062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+469,.,596,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+470,"Ravindra Jadeja to U Akmal, 1 run, skids on, on the stumps, Akmal defends to backward point and takes the single .",595,19,7,72.8714637357,0.0,0.0521664897062,0.298919347779,0.177587512988,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21157
+471,"Ravindra Jadeja to U Akmal, no run, look at that spin and turn, and stop as well.",594,14,7,63.4573598057,0.298919347779,0.0,0.118260078078,0.132845988131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12959
+472,Akmal went back and carefully defended it back to the bowler.,593,8,4,46.1785547768,0.118260078078,0.177587512988,0.123860677301,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13793
+473,"Hint of a leading edge, but the ball doesn't carry back to Ravindra JadejaRavindra Jadeja [ .",592,13,6,63.0006479192,0.123860677301,0.132845988131,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+474,- .,591,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+475,. ],590,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+476,is back into the attack .,589,3,3,18.3161063836,0.0,0.0,0.113804505203,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+477,"Bumrah to Shoaib Malik, no run, low full toss outside off, Shoaib Malik mistimes it back to Bumrah who is a disappointed soul .",588,19,8,92.8711664346,0.113804505203,0.0,0.526223751382,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.07442
+478,"Bumrah to Shoaib Malik, FOUR, another full toss and Shoaib Malik won't miss out.",587,15,3,54.0653488045,0.526223751382,0.0,0.0150584998921,0.0170540117288,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0.15543
+479,Flicked wristily over the square leg umpire and beats the deep fielder.,586,9,4,54.2775555132,0.0150584998921,0.0,0.0414963501662,0.0245485972147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+480,The Pakistani camp are all smiles and clapping .,585,5,4,39.6648783432,0.0414963501662,0.0170540117288,0.0139008555907,0.0110294562637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+481,"Bumrah to Shoaib Malik, FOUR, that has sped to the fence.",584,9,5,42.9566356238,0.0139008555907,0.0245485972147,0.139611072514,0.0379690441362,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.140485
+482,"Low full toss outside off, Shoaib Malik drilled that hard and even though Dhawan at sweeper cover had a few metres to cover to his right, couldn't get there despite a dive.",583,24,12,143.199536455,0.139611072514,0.0110294562637,0.0,0.121706096682,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.080835
+483,Such was the pace on the shot.,582,3,5,26.222132539,0.0,0.0379690441362,0.0637509207586,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+484,Not even a fingertip on that .,581,3,4,22.7586278868,0.0637509207586,0.121706096682,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+485,"Bumrah to U Akmal, 1 run, slower delivery outside off, Akmal cuts and finds backward point .",580,17,3,56.7123082987,0.0,0.0,0.172154855689,0.101917350246,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+486,"Bumrah to Shoaib Malik, 1 run, well bowled.",579,10,1,26.8641177695,0.172154855689,0.0,0.159460810996,0.275319824902,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+487,"Full and outside off, Shoaib Malik reaches out and squeezes out a drive square of the wicket, just a single .",578,13,10,74.3888283423,0.159460810996,0.101917350246,0.0,0.00886232824828,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.159355
+488,"Bumrah to U Akmal, no ball, 1 run, Bumrah grimaces but Gould has got it right.",577,15,5,57.8276879588,0.0,0.275319824902,0.129465602086,0.152007940933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129035
+489,There was nothing behind the line when Bumrah landed his heel.,576,7,5,54.9082559864,0.129465602086,0.00886232824828,0.0218526346458,0.0126156793128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+490,"It nipped in and struck Akmal on the thigh, he didn't want to take the single, but has to as Shoaib Malik is already halfway down the wicket.",575,16,16,113.979841127,0.0218526346458,0.152007940933,0.132116113427,0.220511444682,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+491,Akmal wanted to be on strike for the free-hit .,574,5,5,29.5338365263,0.132116113427,0.0126156793128,0.053502538726,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+492,"Bumrah to Shoaib Malik, 1 run, Shoaib Malik stays back, it is full outside off, slapped square of the wicket for a singleJasprit Bumrah [ .",573,22,8,88.0338705177,0.053502538726,0.220511444682,0.0,0.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+493,- .,572,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+494,. ],571,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+495,is back into the attack .,570,3,3,18.3161063836,0.0,0.0,0.0188296314885,0.0171380138614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+496,"Pandya to U Akmal, SIX, now Akmal repeats the dose to Pandya.",569,11,4,48.2269744799,0.0188296314885,0.0,0.112359147187,0.0143883589115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.10345
+497,"Again the slower delivery, well outside off, but Akmal has seen it early and hoicks a flat hit over wide long-on.",568,15,9,81.1285768245,0.112359147187,0.0171380138614,0.124494204791,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+498,It skimmed over the rope.,567,3,3,22.9344895065,0.124494204791,0.0143883589115,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+499,Pakistan getting some much needed momentum.,566,6,1,34.6841037531,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+500,"Pandya just hangs his head down, fiddles with his neckchain as he walks back disappointed .",565,10,7,76.9577711149,0.0,0.0,0.0645399780929,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+501,"Pandya to Shoaib Malik, 1 run, full toss on the stumps, was it above the waist?",564,13,7,58.1754030179,0.0645399780929,0.0,0.0,0.0560763264784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.163705
+502,No.,563,1,1,3.38763877263,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+503,"Swung away to deep mid-wicket, straight to the fielder .",562,8,3,32.2852493665,0.0,0.0560763264784,0.0358607705956,0.233654793339,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.191665
+504,"Pandya to Shoaib Malik, SIX, that has been tonked.",561,8,4,39.6733098235,0.0358607705956,0.0,0.11904936119,0.19370020342,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.114075
+505,Shoaib Malik picked the slower delivery around off and smashed it way back into the deep mid-wicket stands.,560,13,6,72.1692278309,0.11904936119,0.233654793339,0.0,0.0326153980839,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+506,"Pandya knows he has missed his length, grimaces.",559,7,3,39.1921439616,0.0,0.19370020342,0.0,0.175481472045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+507,First six of the game .,558,4,2,19.637799663,0.0,0.0326153980839,0.0179845239007,0.0269105748736,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.29762
+508,"Pandya to Shoaib Malik, no run, Pandya is using the short ball to great effect.",557,13,5,59.2906952158,0.0179845239007,0.175481472045,0.0138643095138,0.143861824894,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+509,Gould calls it one for the over.,556,4,4,29.5241796273,0.0138643095138,0.0269105748736,0.13498951696,0.0825417071171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+510,"Dug in short, Shoaib Malik was on the front foot to pull but left it alone, seeing it loop over his shoulder .",555,15,10,98.0975973251,0.13498951696,0.143861824894,0.150979594579,0.169552606832,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+511,"Pandya to U Akmal, 1 run, slower short ball outside off, Akmal had to wait for it and then bring his bat down on the cut, the ball finds short third .",554,23,13,112.101423329,0.150979594579,0.0825417071171,0.236475879454,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.101695
+512,"Pandya to Shoaib Malik, 1 run, short of length on the stumps, pushed to mid-on for a singleBenefit of doubt to the Pakistan team.",553,18,10,78.962035799,0.236475879454,0.169552606832,0.0,0.0408552746903,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.172105
+513,Why?,552,1,1,5.77538167397,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+514,Because even the curator wouldn't have expected this pitch to dance like a snake.,551,10,6,64.2924260447,0.0,0.0408552746903,0.11728725624,0.00922173510545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13126
+515,So the decision to play four seamers may prove to be a mistake but then they don't have a quality spinner like Ajmal or Babar to make full use of this track.,550,18,16,148.425012606,0.11728725624,0.0,0.0249934479494,0.0805087215188,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.091995
+516,Imad Wasim is more of a darter and rarely spins the ball .,549,7,6,51.4530144101,0.0249934479494,0.00922173510545,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+517,"Nehra to Shoaib Malik, 1 run, low full toss outside off, driven to sweeper cover .",548,16,3,60.0848935337,0.0,0.0805087215188,0.304280100835,0.0888416939778,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.09286
+518,"Nehra to Shoaib Malik, no run, Shoaib Malik isn't happy that it wasn't called a wide.",547,14,7,58.2428145267,0.304280100835,0.0,0.095122273827,0.0856291695548,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.084965
+519,Meanwhile Nehra smiles as he knows it was close to taking the edge.,546,8,6,57.9525849483,0.095122273827,0.0888416939778,0.0367203300824,0.0170755123981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+520,"Slower one outside off, Malik flays and misses the square drive, the ball goes over the top of the bat.",545,15,8,75.9974817318,0.0367203300824,0.0856291695548,0.0613633726645,0.0914385797366,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+521,Just inside the guideline .,544,3,2,18.9694436873,0.0613633726645,0.0170755123981,0.015842547563,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+522,"Nehra to Shoaib Malik, no run, fullish on middle and leg, clipped straight to the fielder at short mid-wicket .",543,16,7,68.6999693154,0.015842547563,0.0914385797366,0.167406469068,0.18843453201,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14524
+523,"Nehra to U Akmal, 1 run, slower one outside off, guided down to short third man, for an easy single .",542,19,6,74.3034049529,0.167406469068,0.0,0.22249139433,0.120419170669,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+524,"Nehra to U Akmal, no run, good cricket all-around.",541,10,2,27.4816765928,0.22249139433,0.18843453201,0.0765755962587,0.0167233339492,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.078945
+525,"Full outside off, Akmal gets forward and drives superbly, but Rohit at cover dives to his right and stops at least two.",540,17,8,98.6010437144,0.0765755962587,0.120419170669,0.0864951802659,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.084965
+526,Went full length parallel to the ground and produced the stop.,539,8,4,47.9244952008,0.0864951802659,0.0167233339492,0.0271730370241,0.0389789520043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+527,Kohli applauds the effort by clapping .,538,5,2,31.0199828228,0.0271730370241,0.0,0.0106021628437,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17647
+528,"Nehra to U Akmal, no run, shortish outside off, slapped straight to the fielder at cover where Rohit fieldsAshish Nehra [ .",537,18,7,80.5725504368,0.0106021628437,0.0389789520043,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+529,- .,536,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+530,. ],535,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+531,is back into the attack .,534,3,3,18.3161063836,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+532,"Pandya to U Akmal, 5 runs, now India have appealed.",533,10,3,34.4781676088,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+533,For a run-out.,532,2,2,3.144292514,0.0,0.0,0.0,0.295133314253,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+534,But Shoaib Malik is well in.,531,4,3,21.5036093581,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1875
+535,And it has run away for four more.,530,4,5,29.1372545963,0.0,0.295133314253,0.308618898639,0.130245932839,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.130435
+536,"The slower delivery outside off, dabbed to backward point, Jadeja was the fielder there, he unnecessarily shies and gives away four more.",529,17,9,94.9222484244,0.308618898639,0.0,0.0795290340993,0.104241644015,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.113635
+537,"Pandya is puzzled while MS - the canny old fox, takes some time away from the game by going for the appeal.",528,15,9,100.242706671,0.0795290340993,0.130245932839,0.037348468263,0.0279932331776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.098835
+538,"Malik was just in and the throw ricocheted after hitting the stumps, deep mid-wicket couldn't get there.",527,12,8,71.6022803148,0.037348468263,0.104241644015,0.0819004832219,0.0616655146854,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.272045
+539,Perhaps he didn't expect the ball to come there.,526,6,5,38.3877151395,0.0819004832219,0.0279932331776,0.0230352548325,0.0246821667548,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157055
+540,"Anyway bonus runs for Pakistan and they wouldn't mind itShoaib Malik, right handed bat, comes to the crease .",525,17,5,81.4845091142,0.0230352548325,0.0616655146854,0.0161257138617,0.126985479957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.126315
+541,"Pandya to Afridi, out Caught by Kohli!!",524,7,3,27.0211366516,0.0161257138617,0.0246821667548,0.0210768657092,0.111936054597,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+542,A one-handed mistimed loft and straight to the fielder at long-on.,523,7,5,33.7383523972,0.0210768657092,0.126985479957,0.0619848910946,0.0172117170415,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+543,Can't expect someone like Afridi to time the ball on this.,522,9,4,39.599990254,0.0619848910946,0.111936054597,0.0191806529651,0.131693172139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+544,With all due respect to him.,521,3,4,29.6797820542,0.0191806529651,0.0172117170415,0.021016228913,0.0883414262755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+545,"I can see only KW, Laxman and perhaps Damien Martyn to adapt to such a track and look at ease on this Eden Gardens wicket.",520,15,12,116.297542233,0.021016228913,0.131693172139,0.0576036093709,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.100835
+546,"This was bowled outside off, Afridi slogs and lost all timing on the lofted hit, holes out.",519,12,8,76.6545666938,0.0576036093709,0.0883414262755,0.0967555408567,0.140439806302,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.120235
+547,Afridi c Kohli b Pandya  .,518,6,0,11.9506380167,0.0967555408567,0.0,0.52590938456,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+548,"4) [4s-1]Pandya to Afridi, THAT'S OUT!!",517,11,3,17.1207140155,0.52590938456,0.140439806302,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+549,Caught!!,516,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+550,.,515,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+551,"Pandya to Afridi, no run, very high bouncer outside off, Afridi hooks and misses.",514,13,5,59.6940346314,0.0,0.0,0.123121986993,0.130113929929,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+552,Had to fetch it from outside off and that's why he missed.,513,5,9,48.0357607813,0.123121986993,0.0,0.0168397719087,0.0776561681728,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102565
+553,Not too high to be called a wide either .,512,5,5,38.3999950553,0.0168397719087,0.130113929929,0.036882911606,0.0235227404203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086955
+554,"Pandya to U Akmal, 1 run, waits for the slower delivery and opens the face of the bat to guide it to short third man .",511,18,10,85.3655884943,0.036882911606,0.0776561681728,0.241907437273,0.194749444184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.196645
+555,"Pandya to U Akmal, FOUR, fine shot.",510,9,1,25.3485950963,0.241907437273,0.0235227404203,0.107993835909,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.08
+556,"Short outside off and looked like Akmal was waiting for it, forehanded the pull.",509,10,6,59.1868227079,0.107993835909,0.194749444184,0.0663919953202,0.0155374597655,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+557,Hits it with lots of power and it rocketed away wide of long-on.,508,8,6,55.1870558242,0.0663919953202,0.0,0.0,0.00812960170817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+558,Again the crowd go silent .,507,4,2,24.1852095734,0.0,0.0155374597655,0.0257338834898,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+559,"Pandya to Afridi, leg byes, 1 run, Pandya bangs one in, Afridi is early into the pull, misses, off the body and a leg-byeHardik Pandya, right-arm medium, comes into the attackI'm sorry!",506,31,11,118.83446221,0.0257338834898,0.00812960170817,0.025475008798,0.0286167599512,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+560,But this is not a T20I pitch.,505,3,5,25.2322291408,0.025475008798,0.0,0.0,0.0954385991273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14787
+561,Totally doctored to suit the spinners.,504,5,2,31.821343588,0.0,0.0286167599512,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+562,Can't expect an even contest on this.,503,6,3,27.7812499774,0.0,0.0954385991273,0.0286479059623,0.0471272568998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+563,"""A shame and pitch a bit of a letdown"" says Sanjay Manjrekar on air and I completely agree.",502,13,8,73.6937901174,0.0286479059623,0.0,0.0457259273333,0.067002058933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06977
+564,Looks like the groundsman got strict orders from above to produce a pitch like this.,501,10,6,71.7205092566,0.0457259273333,0.0471272568998,0.295584008781,0.0212472297941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+565,And to produce a pitch like this for a WT20 event speaks poorly about the host nation .,500,10,8,76.9432551699,0.295584008781,0.067002058933,0.0541496087317,0.0214793609042,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14405
+566,"Ravindra Jadeja to Afridi, 1 run, now Afridi opens the face of the bat and angles one wide of backward point for a single .",499,18,9,86.7112354512,0.0541496087317,0.0212472297941,0.272030119174,0.202103894242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153165
+567,"Ravindra Jadeja to U Akmal, 1 run, full on the stumps, squeezed out of a thick outer half on the drive, wide of cover .",498,20,9,85.2197479041,0.272030119174,0.0214793609042,0.283879773973,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21937
+568,"Ravindra Jadeja to U Akmal, no run, beaten again.",497,9,3,31.3470674082,0.283879773973,0.202103894242,0.0,0.121241900245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+569,What else.,496,2,1,11.5143957038,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+570,MS is quick to whip the bails off but Akmal was safely in .,495,7,7,55.1599761422,0.0,0.121241900245,0.192594909434,0.0907884315247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+571,"Ravindra Jadeja to U Akmal, no run, now Afridi is sent back by Akmal.",494,12,5,51.1388720771,0.192594909434,0.0,0.11050868955,0.239955904079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14052
+572,"The ball runs towards short third man, Afridi is desperate to get on strike but the ball has gone straight to the fielder, so he has to rush back and does so .",493,19,16,126.832488314,0.11050868955,0.0907884315247,0.164283630128,0.0564154728584,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.132075
+573,"Ravindra Jadeja to Afridi, 1 run, very full and lofted to long-off, well in front of the fielder .",492,15,7,59.3685010774,0.164283630128,0.239955904079,0.240444282089,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17198
+574,"Ravindra Jadeja to Afridi, no run, ""unplayable, can't do anything about it.""",491,14,5,47.6061866039,0.240444282089,0.0564154728584,0.0,0.0474699601238,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+575,Is Wasim Akram's explanation on air.,490,6,2,31.1153080562,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.090905
+576,"Perfectly put, pitches outside off and rips past the outside edge of Afridi.",489,11,4,56.8065426848,0.0,0.0474699601238,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102385
+577,How can you play that?,488,2,4,22.4804726637,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+578,.,487,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+579,"Bumrah to Afridi, 1 run, even the seamers are bowling spin now.",486,11,4,45.2198784477,0.0,0.0,0.0720556686275,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+580,"This cutter stops on the pitch and Afridi's attempt to turn to leg, produces a thick edge that lands safely at short mid-wicket.",485,17,9,91.8611422723,0.0720556686275,0.0,0.0,0.129237610286,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.149885
+581,They take a single .,484,3,2,14.4901919501,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+582,"Bumrah to Afridi, no run, now Afridi is sent back after mistiming a pull to backward square leg.",483,14,7,69.7476585074,0.0,0.129237610286,0.190310041889,0.298957700875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085715
+583,Dhawan was there and Akmal spotted that and sent his captain back .,482,7,6,51.9550434869,0.190310041889,0.0,0.10734794297,0.0957790679397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+584,"Bumrah to Afridi, no run, Bumrah has his hands on his head.",481,9,6,47.0084865192,0.10734794297,0.298957700875,0.0754405179959,0.049038627302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+585,So nearly bowled Afridi there.,480,4,2,23.7470177718,0.0754405179959,0.0957790679397,0.0588247205335,0.198054955576,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+586,"Fantastic slower delivery, completely deceived Afridi who swung to leg, too early and the ball looped over the stumps .",479,15,7,84.5920191474,0.0588247205335,0.049038627302,0.115234557893,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+587,"Bumrah to Afridi, FOUR, Afridi will have a go.",478,8,4,31.2443661337,0.115234557893,0.198054955576,0.0,0.0219418201304,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.155555
+588,That's why he has come in at 3.,477,4,6,28.3908595215,0.0,0.0,0.0747617237743,0.0281021177254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+589,He wants to make a statement out there.,476,4,5,32.070513222,0.0747617237743,0.0219418201304,0.0605080367651,0.109894621341,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+590,"Gets a bit lucky that time, gets a top edge on the pull, since the pace of Bumrah is there, the ball flies away to the fine leg fence, one bounce over the ropesUmar Akmal, right handed bat, comes to the crease .",475,33,16,166.824545289,0.0605080367651,0.0281021177254,0.0707336177532,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14338
+591,"Bumrah to Ahmed Shehzad, out Caught by Ravindra Jadeja!!",474,9,3,36.1781925582,0.0707336177532,0.109894621341,0.0,0.275904539619,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131255
+592,And he responds well.,473,3,2,16.9001747982,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+593,Taking Ahmed Shehzad's wicket.,472,6,0,18.7679016406,0.0,0.275904539619,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.092865
+594,Helped by a brainless slog to leg from the opener.,471,6,5,42.628734713,0.0,0.0,0.0834342809804,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+595,"After getting a boundary he gets greedy, tries to heave a length delivery to leg and the thick edge loops to backward point where Jadeja goes to his right to grab that.",470,20,14,130.215696237,0.0834342809804,0.0,0.0274861901084,0.0712941666652,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.09259
+596,Never in danger of dropping that.,469,4,3,29.3288972397,0.0274861901084,0.0,0.0,0.0697866864815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.117645
+597,Ahmed Shehzad c Ravindra Jadeja b Bumrah  .,468,8,0,21.1076939232,0.0,0.0712941666652,0.519785994435,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106005
+598,"8) [4s-3]Bumrah to Ahmed Shehzad, THAT'S OUT!!",467,12,3,21.1988368512,0.519785994435,0.0697866864815,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106725
+599,Caught!!,466,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+600,.,465,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+601,"Bumrah to Ahmed Shehzad, FOUR, nicely done!",464,9,1,30.7928095858,0.0,0.0,0.13304141869,0.109866951019,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.116015
+602,Ahmed Shehzad kneels down and picks the fuller length delivery from outside off and then scoops over short fine.,463,12,8,81.9945612311,0.13304141869,0.0,0.0970553997157,0.102280656361,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.086055
+603,He was inside the ring and Shehzad played that to perfection.,462,6,6,43.6270879409,0.0970553997157,0.109866951019,0.0995227756969,0.0179475957244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+604,Knew where the fielder was and placed it over him.,461,4,7,42.9162548454,0.0995227756969,0.102280656361,0.0177884169336,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+605,Now the pressure is on BumrahJasprit Bumrah [ .,460,5,4,28.6161215568,0.0177884169336,0.0179475957244,0.0,0.0685761543773,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+606,- .,459,2,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+607,-0] is back into the attackThanks Mahendra Singh Dhoni.,458,8,3,37.2922827149,0.0,0.0685761543773,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+608,Thank you.,457,2,1,12.1165711061,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+609,For bringing in Bumrah.,456,3,2,17.3022054438,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+610,Whew!,455,2,0,7.27945907074,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+611,That was breakneck speed when Ravindra Jadeja and Raina were bowling.,454,7,5,52.9086181442,0.0,0.0,0.252325580271,0.0295765869952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155425
+612,How on earth is a text commentator expected to do justice when the duo are bowling at the speed of light.,453,10,12,98.5116028813,0.252325580271,0.0,0.0363956517241,0.0219196588687,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+613,And this is a square turner.,452,3,4,19.8456946637,0.0363956517241,0.0295765869952,0.0545491221794,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+614,As Bumble would say - every ball is an event.,451,8,3,46.0122156386,0.0545491221794,0.0219196588687,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08333
+615,The toughest job in cricket!,450,4,2,25.0549802896,0.0,0.0,0.0,0.0161339482164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+616,.,449,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+617,"Ravindra Jadeja to Afridi, no run, now the leading edge eludes slip.",448,11,4,49.3745526169,0.0,0.0161339482164,0.0437367008599,0.146008059934,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.148895
+618,Dangerous to play to leg while the ball is turning across you.,447,7,6,48.3900152226,0.0437367008599,0.0,0.0856331216643,0.15012020616,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+619,"Floated up on middle and leg, Afridi flicks and the edge flies safely to backward point .",446,12,6,67.7005485719,0.0856331216643,0.146008059934,0.235167391963,0.0840815903052,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+620,"Ravindra Jadeja to Ahmed Shehzad, 1 run, flat on middle and leg, clipped to deep square leg, for a single .",445,19,6,70.398854381,0.235167391963,0.15012020616,0.259488935538,0.0245888535458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125905
+621,"Ravindra Jadeja to Afridi, 1 run, no he doesn't.",444,9,4,29.4001373713,0.259488935538,0.0840815903052,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+622,"Fired in quicker on the stumps, pushed in the gap at cover.",443,8,6,51.2969231002,0.0,0.0245888535458,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.195485
+623,Sensible stuff .,442,3,0,14.1534530334,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+624,"Ravindra Jadeja to Afridi, no run, and again.",441,7,4,27.2707413515,0.0,0.0,0.187423929349,0.0817859897925,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+625,Closer to off and Afridi is not forward to play that.,440,5,7,40.0689774836,0.187423929349,0.0,0.220449213385,0.126286399426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09375
+626,Opts to play back and is beaten neck and crop.,439,7,4,44.5584514428,0.220449213385,0.0817859897925,0.0227607931555,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+627,Did well to miss that.,438,3,3,20.6537051699,0.0227607931555,0.126286399426,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+628,Nervy times for Afridi.,437,4,1,20.1055658248,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+629,Will he slog?,436,2,2,13.522688397,0.0,0.0,0.0,0.0909220883704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+630,.,435,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+631,"Ravindra Jadeja to Afridi, no run, first ball to Afridi and he is beaten.",434,11,6,48.1249274574,0.0,0.0909220883704,0.248544313807,0.239187533911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+632,"Too much turn for Ravindra Jadeja for Afridi to do anything, it pitched outside off and spun past his edge .",433,13,9,86.8129896038,0.248544313807,0.0,0.125821461305,0.00972414677263,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12024
+633,"Ravindra Jadeja to Ahmed Shehzad, 1 run, very full on the stumps, softly jammed out to leg .",432,15,6,62.4786698688,0.125821461305,0.239187533911,0.254581660467,0.196188376522,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.18226
+634,"Raina to Ahmed Shehzad, leg byes, 1 run, no chance of that being given out lbw.",431,14,6,64.7220488241,0.254581660467,0.00972414677263,0.116300253523,0.0820301033062,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11472
+635,"Ahmed Shehzad was almost halfway down the track as he missed the clip to leg, looked adjacent with the stumps but Kettleborough just walks away.",430,16,11,113.331880456,0.116300253523,0.196188376522,0.0585295215559,0.193185735892,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10733
+636,They take a leg-bye .,429,3,2,9.35079904285,0.0585295215559,0.0820301033062,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+637,"Raina to Ahmed Shehzad, no run, Ahmed Shehzad is dancing around the crease, yet again he manages to get bat as he is beaten in flight.",428,19,11,108.625150927,0.0,0.193185735892,0.154261056229,0.107824093497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+638,"Pushes it back to the bowlerShahid Afridi, right handed bat, comes to the crease .",427,12,5,54.935444224,0.154261056229,0.0,0.0359304257658,0.0611419221499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173165
+639,"Raina to Sharjeel Khan, out Caught by Pandya!!",426,8,3,33.1632716005,0.0359304257658,0.107824093497,0.0,0.0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+640,Has he taken it?,425,2,3,15.9191182983,0.0,0.0611419221499,0.375006313402,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+641,Yes he has.,424,2,2,14.1388745364,0.375006313402,0.0,0.0,0.0969779403357,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+642,What a superb catch that is.,423,3,4,23.2282239783,0.0,0.0,0.0590485824165,0.220210863896,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.08696
+643,Sharjeel Khan is unsure but he walks off.,422,5,4,34.5625706716,0.0590485824165,0.0969779403357,0.0,0.0308167040263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+644,Tremendous running catch from a fine athlete.,421,6,2,36.1895807302,0.0,0.220210863896,0.0,0.0507454982759,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.083335
+645,We have seen Pandya's ability in the field and this is another demonstration of his raw talent.,420,10,9,80.008148758,0.0,0.0308167040263,0.072935029852,0.0664281238529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.192855
+646,"The short-arm pull from Sharjeel, what else does he have when the length is short?",419,8,9,56.7464310785,0.072935029852,0.0507454982759,0.0952109186671,0.0749220230567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10811
+647,"Predictably he splices it as the ball skids on, it looked like it was falling short, but Pandya ran in and tumbled forward to take a diving catch with two hands.",418,20,14,137.572509553,0.0952109186671,0.0664281238529,0.103526585682,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.125905
+648,Was in pain for a moment as he seemed to have injured himself.,417,5,9,57.0150832303,0.103526585682,0.0749220230567,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+649,Is surrounded by his mates.,416,3,3,25.535924172,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+650,But looks ok. Sharjeel Khan c Pandya b Raina  .,415,9,1,27.5922656488,0.0,0.0,0.408825881905,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04348
+651,"4) [4s-2]Raina to Sharjeel Khan, THAT'S OUT!!",414,12,3,22.0509079904,0.408825881905,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+652,Caught!!,413,3,0,5.13939290725,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+653,.,412,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+654,"Raina to Ahmed Shehzad, 1 run, again uses his feet and flays it to deep backward point for a single .",411,15,8,75.2279018061,0.0,0.0,0.227191590759,0.103257070977,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+655,"Raina to Ahmed Shehzad, 2 runs, Ahmed Shehzad comes down the track and slices the lofted hit, luckily the ball lands wide of long-off.",410,21,7,92.3330792618,0.227191590759,0.0,0.0762450459872,0.20183061419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.152175
+656,"For a moment it looked like Shehzad had holed out, but gets lucky .",409,9,6,57.522335332,0.0762450459872,0.103257070977,0.0,0.0764732932654,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.102385
+657,"Raina to Sharjeel Khan, 1 run, clipped from the stumps to deep square legSuresh Raina, right-arm off break, comes into the attack .",408,20,7,82.5608278765,0.0,0.20183061419,0.0564948709202,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15762
+658,"Ravindra Jadeja to Ahmed Shehzad, no run, ooh!",407,9,2,31.6320863633,0.0564948709202,0.0764732932654,0.244492776026,0.0146874284443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14053
+659,Ahmed Shehzad nearly runs past that.,406,6,1,26.9829578478,0.244492776026,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+660,"Comes down the track and is beaten in the flight, but angles the bat and guides it away to the off-side.",405,11,12,74.4710351141,0.0,0.0146874284443,0.072754514882,0.0115646489645,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.25695
+661,"Did well because had he not got bat, MS was in business .",404,7,7,55.878919596,0.072754514882,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+662,"Ravindra Jadeja to Ahmed Shehzad, no run, loud shout for lbw.",403,11,3,47.1017047972,0.0,0.0115646489645,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+663,But Gould shakes his head.,402,4,2,27.2615438387,0.0,0.0,0.0545739529617,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+664,"This is the straighter delivery, but it slid on and would've gone down leg.",401,9,8,56.6254821782,0.0545739529617,0.0,0.0168353873494,0.0910183718404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.135715
+665,Ahmed Shehzad missed the defence.,400,5,1,21.6080276475,0.0168353873494,0.0,0.0245994560144,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.123165
+666,That is the ball to bowl on a turning track.,399,5,6,33.0613638033,0.0245994560144,0.0910183718404,0.12803492197,0.0199441545619,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+667,Ravindra Jadeja is an expert in that .,398,4,4,29.2485269647,0.12803492197,0.0,0.213535861928,0.392253059941,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140485
+668,"Ravindra Jadeja to Ahmed Shehzad, FOUR, lucky but gets four.",397,11,2,41.6111255193,0.213535861928,0.0199441545619,0.251451684704,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.127085
+669,Ravindra Jadeja is unhappy.,396,4,1,18.7851915101,0.251451684704,0.392253059941,0.0,0.332418918126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11859
+670,Guided wide of the diving slip and it races away .,395,7,4,44.7915557828,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16352
+671,"Ravindra Jadeja to Ahmed Shehzad, no run, what a ball.",394,9,4,32.9766512384,0.0,0.332418918126,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.158335
+672,How do you play that?,393,2,4,23.2113601723,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05882
+673,Harsha Bhogle on air is right when he asks whether this is a T20 game or not.,392,9,9,79.3084213982,0.0,0.0,0.0166295337941,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07442
+674,Pitches on middle and spins past the tentative blade of Shehzad who was looking to guide it off the back foot.,391,12,10,91.2127528685,0.0166295337941,0.0,0.0189072237911,0.0718461907525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+675,Should've come forward but misjudged the length .,390,6,3,33.5224214507,0.0189072237911,0.0,0.0165385203051,0.0140450035825,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13333
+676,"Ravindra Jadeja to Sharjeel Khan, leg byes, 1 run, Sharjeel Khan kneels down to sweep and misses, the ball rolls off the pad and they take a leg-bye.",389,23,10,98.9881862887,0.0165385203051,0.0718461907525,0.138359550262,0.342408309472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17807
+677,No appeal as Sharjeel was struck outside the line of off .,388,6,6,45.630993371,0.138359550262,0.0140450035825,0.173175600831,0.22923402956,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+678,"Ravindra Jadeja to Sharjeel Khan, no run, no bat and straight off the pad, before being caught by Mahendra Singh Dhoni.",387,16,9,88.9015336346,0.173175600831,0.342408309472,0.0266100778188,0.1937207857,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16506
+679,Clear not out and the appeal is negated.,386,4,5,35.6347131829,0.0266100778188,0.22923402956,0.0398678898485,0.0224994881151,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+680,"It spun in from middle, and the bat was well behind the pad as Sharjeel leant forward to defend .",385,12,9,78.2113746328,0.0398678898485,0.1937207857,0.0859661834246,0.0756441402733,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+681,"Ravindra Jadeja to Sharjeel Khan, wide, pitches outside leg and turns again.",384,12,3,50.2558994148,0.0859661834246,0.0224994881151,0.0782479792526,0.177526135535,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+682,"MS does well to collectRavindra Jadeja, left-arm orthodox, comes into the attack .",383,11,4,52.0337916891,0.0782479792526,0.0756441402733,0.0355883249354,0.0151988968673,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+683,"Ashwin to Sharjeel Khan, 1 run, flat on the stumps, clipped to deep mid-wicket .",382,14,4,45.0030217407,0.0355883249354,0.177526135535,0.350471228949,0.0963735478924,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.19228
+684,"Ashwin to Sharjeel Khan, no run, fabulous bowling.",381,9,2,33.7742578899,0.350471228949,0.0151988968673,0.117289551656,0.153427939053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+685,"Slower, looped up outside off, turns a long way and beats Sharjeel Khan's nervous neither here nor there push.",380,16,7,94.2228215659,0.117289551656,0.0963735478924,0.0499553384232,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.080405
+686,Ashwin knows he has Sharjeel in his back pocket and sticks his tongue out.,379,8,7,63.637392842,0.0499553384232,0.153427939053,0.0,0.0669709882222,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.228145
+687,Absolute swagger from the Tamil Nadu man .,378,6,2,38.5499717004,0.0,0.0,0.00875485237942,0.00723169890472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+688,"Ashwin to Ahmed Shehzad, 1 run, second time in two overs that Ahmed Shehzad is surprised by the amount of turn on offer.",377,18,8,91.7733923425,0.00875485237942,0.0669709882222,0.0408849320432,0.0305041665039,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17727
+689,"Is rocking back to cut a much fuller ball, pre-meditated and that's the problem with pre-meditation - you cannot change your shot.",376,15,11,85.6812430869,0.0408849320432,0.00723169890472,0.0713124269361,0.0339333841662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.113635
+690,Again the ball hits the bat and rolls away to cover .,375,7,5,42.1886704193,0.0713124269361,0.0305041665039,0.233127423774,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+691,"Ashwin to Sharjeel Khan, 1 run, nicely floated up on middle, Sharjeel Khan gets a sort of a thick outer edge on the forward defence, but the ball rolls in the gap at cover-point.",374,26,13,128.405839682,0.233127423774,0.0339333841662,0.0,0.112733345934,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151145
+692,They take a single .,373,3,2,14.4901919501,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+693,"Ashwin to Ahmed Shehzad, 1 run, now uses his feet and drives to long-on .",372,12,5,47.5850596842,0.0,0.112733345934,0.246216351189,0.0372065688979,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14067
+694,"Ashwin to Ahmed Shehzad, no run, floated up outside off, steered straight to the fielder at short third man .",371,16,7,77.1958372731,0.246216351189,0.0,0.0312501185847,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12861
+695,"Bumrah to Sharjeel Khan, FOUR, that will help.",370,8,3,32.5143380589,0.0312501185847,0.0372065688979,0.172470941621,0.229933440105,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.076925
+696,Surely will.,369,2,1,10.9345772085,0.172470941621,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+697,"Rare bad delivery from Bumrah, full and allows Sharjeel Khan to free his arms, thrashed through cover.",368,15,5,82.0271849762,0.0,0.229933440105,0.0308656824957,0.00799764634472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.068965
+698,No footwork again but a bit like S Ramesh - the former Indian opener who treated Wasim Akram and Waqar Younis with scant respect despite not moving his feet.,367,19,11,144.249151422,0.0308656824957,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+699,"He didn't survive long in international cricket, went on to act in a Tamil movie as well.",366,12,8,78.6001269446,0.0,0.00799764634472,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16351
+700,Let's see how Sharjeel goes?,365,6,1,25.5136412677,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+701,Excuse me for the comparison!,364,3,3,25.6202940987,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+702,.,363,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+703,"Bumrah to Sharjeel Khan, no run, Bumrah bowls a well-disguised slower delivery outside off, completely fools a pre-meditated pull to leg.",362,19,6,71.0645990385,0.0,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07317
+704,The ball stays low and beats the shot.,361,6,3,32.6584005313,0.0,0.0,0.0,0.0421794933577,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+705,He looks nervous too as he adjusts his helmet .,360,5,5,46.8345655078,0.0,0.0,0.0,0.0403770764001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+706,"Bumrah to Sharjeel Khan, no run, full and on the stumps, nearly catches Sharjeel Khan off-guard.",359,15,5,57.8097983248,0.0,0.0421794933577,0.044830077714,0.579002112343,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.12959
+707,His feet didn't move at all and somehow got an inside edge onto the pad on the defence .,358,11,9,83.1826993591,0.044830077714,0.0403770764001,0.0221709594739,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+708,"Bumrah to Sharjeel Khan, no run, and again.",357,7,4,27.7230341473,0.0221709594739,0.579002112343,0.0436342632606,0.0243557709582,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+709,What is he up to?,356,1,5,17.079318715,0.0436342632606,0.0,0.199194488331,0.0684953405139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+710,"When the length is anything but full, he swipes to leg.",355,7,6,43.9785237185,0.199194488331,0.0243557709582,0.0659269040649,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+711,This is too pacy and goes under the inside edge of the bat.,354,6,8,50.8404821418,0.0659269040649,0.0684953405139,0.0,0.0358002860954,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19228
+712,Poor batting .,353,3,0,11.6685463836,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+713,"Bumrah to Sharjeel Khan, no run, Sharjeel Khan is struggling.",352,10,3,38.5779871972,0.0,0.0358002860954,0.0383211737646,0.0222342152985,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.107145
+714,He wants to pull every delivery to leg.,351,6,3,31.2741952737,0.0383211737646,0.0,0.0360691897681,0.0999567958323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+715,"This is angled across him on a back of a length and still he goes for the short-arm jab, splices it and falls short of Rohit at mid-on.",350,15,15,98.4383927581,0.0360691897681,0.0222342152985,0.0381452083887,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+716,He needs to rotate the strike more often.,349,5,4,38.0645729143,0.0381452083887,0.0999567958323,0.0180150297882,0.0287503705974,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.155555
+717,Tends to play in one gear only .,348,5,3,33.0815258178,0.0180150297882,0.0,0.0221604125625,0.0208431217449,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.157895
+718,"Bumrah to Ahmed Shehzad, 1 run, back of a length outside off, Ahmed Shehzad cuts to third manJasprit Bumrah, right-arm medium, comes into the attack .",347,24,7,90.3935892834,0.0221604125625,0.0287503705974,0.263431002053,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111825
+719,"Ashwin to Ahmed Shehzad, 1 run, this is turning a mile!",346,10,4,36.0208374083,0.263431002053,0.0208431217449,0.324003053536,0.116578523898,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+720,An absolute mile.,345,3,1,17.9671762013,0.324003053536,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05556
+721,"Look at that delivery, Ahmed Shehzad was on the back foot to cut and was almost taken back by the spin on offer, it turned in and he awkwardly jabbed it to leg.",344,19,17,131.478652073,0.0,0.116578523898,0.0421036295801,0.093055759891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11531
+722,The ball hit the bat rather than the other way around.,343,7,5,47.3004423579,0.0421036295801,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+723,Caught Shehzad by total surpriseMindgames from Ashwin!,342,6,2,35.2376637554,0.0,0.093055759891,0.0659818837414,0.0884599206857,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+724,He stops in his delivery stride after seeing Ahmed Shehzad advance.,341,8,4,54.3843206106,0.0659818837414,0.0,0.0703884807736,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.170455
+725,Let's see what Shehzad will do now?,340,5,4,33.6539978085,0.0703884807736,0.0884599206857,0.0,0.0884278518858,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+726,.,339,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+727,"Ashwin to Ahmed Shehzad, no run, very full on off, dug out .",338,10,6,45.6890580278,0.0,0.0884278518858,0.330137897862,0.233580650016,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+728,"Ashwin to Ahmed Shehzad, FOUR, magnificent shot.",337,9,1,30.9961505099,0.330137897862,0.0,0.259426969917,0.0185388772651,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.116015
+729,That is trademark Ahmed Shehzad.,336,4,2,21.3239865257,0.259426969917,0.233580650016,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.092865
+730,Comes down and then to the pitch before lofting it over mid-on.,335,5,8,44.6917204791,0.0,0.0185388772651,0.0402355552391,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14706
+731,Hit really well and again the ball races across the quick outfield.,334,9,4,54.7546123989,0.0402355552391,0.0,0.0,0.032686893029,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+732,Confident blow that .,333,3,1,16.0392845578,0.0,0.0,0.0,0.0727572269414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+733,"Ashwin to Sharjeel Khan, 1 run, now pushes at a flatter delivery outside off and the thick edge runs wide of slip.",332,17,8,80.9683901434,0.0,0.032686893029,0.0566011697057,0.308609862053,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+734,He is off strike and that is good news for Pakistan .,331,5,7,40.9187204949,0.0566011697057,0.0727572269414,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+735,"Ashwin to Sharjeel Khan, no run, ooh!",330,8,2,27.6987716235,0.0,0.308609862053,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+736,Now a leading edge.,329,3,2,14.9331250635,0.0,0.0,0.0,0.090701319012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21026
+737,But drops safely in front of point.,328,5,3,33.4948410013,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.11111
+738,"The ball stopped and turned on Sharjeel Khan who was on the back foot to defend, got squared up and pushed out limply, thankfully for him, the edge didn't carry .",327,20,15,130.638214357,0.0,0.090701319012,0.0391467440873,0.0538926310892,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114755
+739,"Ashwin to Ahmed Shehzad, 1 run, flatter outside off, Ahmed Shehzad cuts and gets a single to cover-pointAlready Pakistan seem to have learnt their lessons from the Asia Cup debacle against India.",326,25,11,126.495015775,0.0391467440873,0.0,0.0313942812445,0.0151123027061,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120835
+740,They aren't going hell for leather from ball one.,325,7,4,42.8883642548,0.0313942812445,0.0538926310892,0.0783279637009,0.140809493414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.057145
+741,Instead aiming for a target in mind and treating the ball on merit.,324,8,6,57.4538285191,0.0783279637009,0.0151123027061,0.0436795846757,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15936
+742,But have they made a folly by going in with four pacers on a pitch which is turning square?,323,9,11,78.8838544227,0.0436795846757,0.140809493414,0.0,0.0874923928221,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.12348
+743,Only time will tell .,322,3,2,20.2853762514,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11765
+744,"Nehra to Sharjeel Khan, FOUR, well played.",321,9,1,28.4031110803,0.0,0.0874923928221,0.0,0.139906661524,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.153845
+745,The crowd have gone silent momentarily.,320,5,2,30.6945604224,0.0,0.0,0.0302286457191,0.0963327794805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+746,"Sharjeel Khan picked the slower delivery on middle and heaved it over backward square leg, no-one there and that will be the first boundary of the game .",319,16,13,101.064019814,0.0302286457191,0.139906661524,0.0773051041607,0.0974873910373,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.14373
+747,"Nehra to Ahmed Shehzad, 1 run, clipped to the right of Raina at mid-wicket, a diving half-stop but that draws appreciation from Neeta Ambani and Anjali Tendulkar in the crowd .",318,22,12,114.013326626,0.0773051041607,0.0963327794805,0.231584610328,0.0606656025335,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.168095
+748,"Nehra to Ahmed Shehzad, no run, Nehra is having the wood over Shehzad.",317,10,6,51.2926168119,0.231584610328,0.0974873910373,0.132133862496,0.027280666589,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14759
+749,"Once again Shehzad is early into the drive, then has to adjust as he spotted the cutter, dabbed towards cover.",316,12,11,89.6809989429,0.132133862496,0.0606656025335,0.085875143217,0.14976431155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.112745
+750,"Did well not to go hard on the stroke, if he had he may hit it in the air .",315,9,12,79.6790202916,0.085875143217,0.027280666589,0.00735515786632,0.0585274461268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+751,"Nehra to Ahmed Shehzad, no run, fullish around off, Ahmed Shehzad gets forward and pushes softly towards mid-offThe slip has gone out .",314,20,6,92.017807158,0.00735515786632,0.14976431155,0.181489331965,0.390137213122,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09884
+752,"Nehra to Sharjeel Khan, 1 run, fullish on the stumps, Sharjeel Khan flicks wide of mid-on for an easy single .",313,18,6,73.3216873861,0.181489331965,0.0585274461268,0.110904996755,0.0314885239701,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+753,"Nehra to Ahmed Shehzad, 1 run, another cutter on the middle and leg line, Ahmed Shehzad nudges it softly to short fine leg .",312,21,6,88.92160098,0.110904996755,0.390137213122,0.206642228618,0.190650982877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13806
+754,"Ashwin to Ahmed Shehzad, byes, 1 run, this is a superb opening over from Ashwin.",311,13,6,54.9724373328,0.206642228618,0.0314885239701,0.111646223484,0.0417010876203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+755,Now beats Ahmed Shehzad all ends up and nearly takes out the off stump.,310,8,7,60.6461135686,0.111646223484,0.190650982877,0.0905741673857,0.0198262288077,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.129595
+756,"Stays round the wicket and the ball drifts across Shehzad who was pushing forward to defend, once it pitches, it rips in and misses off by a kitten's whisker.",309,19,14,127.971359213,0.0905741673857,0.0417010876203,0.0522338764096,0.0244827148359,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.15385
+757,MS couldn't glove it properly and they take a bye after the ricochet eludes a leaping Raina at leg-slip.,308,13,8,83.0650074254,0.0522338764096,0.0198262288077,0.0652469682462,0.00818722469006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+758,That opening over from Ashwin should force MS to bring in more spin .,307,7,7,61.8378589542,0.0652469682462,0.0244827148359,0.0808636578098,0.0717056049981,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+759,"Ashwin to Sharjeel Khan, 1 run, pushed off the back foot wide of mid-on for a single.",306,14,6,53.7611159709,0.0808636578098,0.00818722469006,0.0,0.452380058795,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.151315
+760,Played that well .,305,3,1,12.5203041404,0.0,0.0717056049981,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+761,"Ashwin to Sharjeel Khan, no run, this is the carrom ball, seams in towards Sharjeel Khan who defends off the back foot .",304,17,9,88.8488542692,0.0,0.452380058795,0.496319026306,0.110524011005,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.137445
+762,"Ashwin to Sharjeel Khan, no run, and again.",303,7,4,27.7520216841,0.496319026306,0.0,0.0,0.0234272898687,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+763,This pitch is turning.,302,3,2,16.8099575563,0.0,0.110524011005,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+764,"Superb delivery, pitches outside off and turns a mile, beating the outside edge by a long way.",301,14,6,69.6786178821,0.0,0.0234272898687,0.0,0.0178821559199,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.095235
+765,Sharjeel Khan was nowhere in line to play that.,300,6,4,36.9622658718,0.0,0.0,0.0,0.276631025254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+766,Lovely loop and revs from Ashwin .,299,5,2,30.8894792419,0.0,0.0178821559199,0.13982043527,0.0245661565278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+767,"Ashwin to Sharjeel Khan, no run, what a ball!",298,8,4,29.0433364986,0.13982043527,0.276631025254,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+768,Pitched on middle and spun like a boomerang.,297,6,3,35.7926655039,0.0,0.0245661565278,0.0,0.0109311373951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+769,Afridi in the dug-out smiles.,296,4,2,14.8443274664,0.0,0.0,0.0614665989676,0.012363220056,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.210255
+770,"This is a ripper, drew Sharjeel Khan forward and then beat the groping forward defence, MS was quick to whip the bails off but the batsman went nowhereAshwin from round the wicket with a slip in .",295,22,17,155.099577181,0.0614665989676,0.0109311373951,0.149814869804,0.0387180521997,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14035
+771,"Ashwin to Sharjeel Khan, no run, down leg, poor delivery but Sharjeel Khan can only tickle it straight to the fielder at short fine.",294,18,10,96.1066079285,0.149814869804,0.012363220056,0.0542576213147,0.103375173268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119045
+772,"Should've put that awayRavichandran Ashwin, right-arm off break, comes into the attack .",293,11,5,52.0363328771,0.0542576213147,0.0387180521997,0.0288854070636,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09524
+773,"Nehra to Ahmed Shehzad, no run, look at that sly smile from Nehra.",292,11,5,55.6627075228,0.0288854070636,0.103375173268,0.12400910978,0.0137888520262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+774,He knows he has done Ahmed Shehzad in completely there.,291,6,5,43.6156328933,0.12400910978,0.0,0.0372711119324,0.0739318323448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+775,But the ball doesn't carry back to him in his followthrough.,290,6,7,45.0907152996,0.0372711119324,0.0137888520262,0.151920787799,0.0558984183322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+776,"Was the cutter, Shehzad was tentative and didn't pick it, stabbed at it from the crease and since he arrested the stroke, allied to the fact that the Eden Gardens wicket is a slow one, it didn't carry back to the bowler.",289,26,23,174.520172541,0.151920787799,0.0739318323448,0.0648026948864,0.0329079230371,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.145795
+777,Then Nehra flashes his wide grin at Shehzad who is stoic.,288,7,5,55.3533131095,0.0648026948864,0.0558984183322,0.0864388413624,0.192122410467,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.051285
+778,Terrific change of pace from Nehra .,287,5,2,30.1283236315,0.0864388413624,0.0329079230371,0.173033313268,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+779,"Nehra to Ahmed Shehzad, no run, dangerous from Ahmed Shehzad!",286,10,3,38.7124372854,0.173033313268,0.192122410467,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133045
+780,"Had he missed that, he was dead in front.",285,5,6,40.1191821214,0.0,0.0,0.0978863128266,0.0948461732291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+781,"Swinging in towards off and middle, he shuffled across and got bat on the flick, finds Yuvraj at square leg .",284,15,8,84.9372691348,0.0978863128266,0.0,0.0684892546905,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13158
+782,"Nehra to Sharjeel Khan, 1 run, he is on the back foot looking for anything short.",283,13,6,56.154618802,0.0684892546905,0.0948461732291,0.0,0.137650651546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+783,This isn't.,282,2,2,6.4631670127,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+784,"On a back of a length and cramping him up, he swivels and mistimes the pull to deep square leg .",281,11,11,73.2880563315,0.0,0.137650651546,0.115614978742,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+785,"Nehra to Sharjeel Khan, no run, pitched up outside off, Sharjeel Khan throws his bat on the square drive, but finds Ravi Jadeja at backward point.",280,22,9,109.47610866,0.115614978742,0.0,0.0927251290363,0.0900137994141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11364
+786,Good shot for no run .,279,4,2,18.9709813322,0.0927251290363,0.0,0.0395619937137,0.0556102469915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+787,"Nehra to Ahmed Shehzad, 1 run, back of a length on the stumps, Ahmed Shehzad nudges it in front of mid-on and takes an easy single .",278,20,10,89.8284012203,0.0395619937137,0.0900137994141,0.0962800583358,0.17585911774,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.146145
+788,"Nehra to Sharjeel Khan, 1 run, and immediately Sharjeel Khan swings.",277,12,2,41.1015316397,0.0962800583358,0.0556102469915,0.103215818928,0.168324047022,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+789,"It is on a back of a length around off, cramped the batsman for room but Sharjeel dragged the pull behind square.",276,13,11,84.4096686207,0.103215818928,0.17585911774,0.0185688471566,0.182889073136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119045
+790,Long leg runs across to fieldSharjeel Khan and Ahmed Shehzad are at the crease.,275,10,5,56.3367227895,0.0185688471566,0.168324047022,0.124472210005,0.0181017413713,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15625
+791,Sharjeel Khan is on strike.,274,4,2,19.2235613317,0.124472210005,0.182889073136,0.0450324662073,0.0685605761928,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.066665
+792,Nehra will open the attackThe Indian team is in a huddle as the Pakistani openers walk out.,273,10,8,77.328990116,0.0450324662073,0.0181017413713,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.119485
+793,Lots of pressure on both teams.,272,4,3,29.4766709891,0.0,0.0685605761928,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+794,Let's see how they handle it.,271,5,3,30.8328200614,0.0,0.0,0.0,0.0536033808069,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.060605
+795,Sharjeel will take strike and Nehra will bowl with the new ball.,270,8,5,49.6197705748,0.0,0.0,0.173975310386,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+796,Will it swing for him tonight?,269,3,4,27.8277644604,0.173975310386,0.0536033808069,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.05
+797,We'll know soon.,268,4,1,16.778951754,0.0,0.0,0.245922633334,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+798,Don't know why there is a delay but we haven't started as yet.,267,7,9,59.1474083737,0.245922633334,0.0,0.0,0.0379371066169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+799,Unnecessary!,266,2,0,7.27945907074,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+800,A widish slip for Nehra and we are ready to roll...Both the teams are walking out to the middle with kids in tow.,265,12,14,104.317668691,0.0,0.0379371066169,0.0578790164071,0.0245733124351,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131425
+801,Time for the national anthems.,264,4,2,22.839923236,0.0578790164071,0.0,0.150863762705,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+802,Time for some soul-stirring passion on display.,263,5,3,29.9422929398,0.150863762705,0.0245733124351,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04762
+803,First up is Pakistan's sung by Shafqat Amanat Ali.,262,8,3,47.8815027861,0.0,0.0,0.268488632689,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+804,Next is India's sung by the legendary Amitabh Bachchan.,261,8,3,46.854472968,0.268488632689,0.0,0.13613232766,0.0228007192875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+805,The crowd roar as one as the deep baritoned voice of Amitabh belts out the melodious song.,260,11,7,83.7854093048,0.13613232766,0.0,0.0493852127104,0.357083663315,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.105265
+806,"Sachin Tendulkar, the Ambanis are seen in the audience.",259,7,4,43.0105529167,0.0493852127104,0.0228007192875,0.0517911021134,0.0283342554394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.229165
+807,Again the crowd roar as the anthem ends.,258,5,4,37.7359465307,0.0517911021134,0.357083663315,0.0306055017304,0.0431654973906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117645
+808,What an atmosphere at the Eden today.,257,4,4,33.5556252143,0.0306055017304,0.0283342554394,0.0236152964375,0.0247086104957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.160415
+809,Would do anything to get a seat inside the stadiumSo Pakistan are going with four quickies - the same ploy that they used in the Asia Cup game against their arch-rivals.,256,18,14,132.310830571,0.0236152964375,0.0431654973906,0.119434597109,0.09421259666,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.14674
+810,India won the toss and opted to field in that game and horrid batting from Pakistan made the contest as good as lost before a ball was bowled in the second innings.,255,17,16,134.466973067,0.119434597109,0.0247086104957,0.121118563011,0.0448169832487,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.14516
+811,Yet Amir bowled a spell for the ages and threatened to pull off the improbable but the total was too less for anything miraculous to happen.,254,14,13,115.863689379,0.121118563011,0.09421259666,0.0,0.0262985695028,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14352
+812,So India are bowling first again.,253,4,3,27.5418592724,0.0,0.0448169832487,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.266665
+813,Will Pakistan do better with the bat tonight?,252,5,4,35.398829402,0.0,0.0262985695028,0.0,0.0316403493479,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.229165
+814,They should.,251,1,2,10.2381022379,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+815,"Let's seeTeams:Pakistan (Playing XI): Sharjeel Khan, Ahmed Shehzad, Mohammad Hafeez, Umar Akmal, Shoaib Malik, Sarfraz Ahmed(w), Shahid Afridi(c), Wahab Riaz, Mohammad Sami, Mohammad Amir, Mohammad IrfanIndia (Playing XI): Shikhar Dhawan, Rohit Sharma, Virat Kohli, Suresh Raina, Yuvraj Singh, MS Dhoni(w/c), Hardik Pandya, Ravindra Jadeja, Ravichandran Ashwin, Ashish Nehra, Jasprit BumrahAfridi: ""It's a good call to bowl first, because the pitch was covered, but now we have to put a decent total on the board.",250,104,14,372.779975297,0.0,0.0316403493479,0.0487580229879,0.0749015540517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12184
+816,Maybe there is something for the bowlers if you bowl in the right areas.,249,7,8,61.7286989045,0.0487580229879,0.0,0.0274652079803,0.0550156196296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.178055
+817,Shehzad and Hafeez are is good form and hopefully they can continue.,248,7,6,54.7870411238,0.0274652079803,0.0749015540517,0.0615001584536,0.0824429844752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+818,It's always great to play in India and cricket is like a religion here.,247,9,7,57.0083992745,0.0615001584536,0.0550156196296,0.126845914979,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+819,We are excited to play this game.,246,4,4,29.797830582,0.126845914979,0.0824429844752,0.138476445475,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
+820,"""Dhoni: ""We will bowl first.",245,7,2,23.4794224579,0.138476445475,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.142855
+821,"The wicket has been under the covers for quite some time, so it might be a bit sticky.",244,9,11,78.4058805687,0.0,0.0,0.101772660156,0.025340150786,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.12121
+822,It also gives us time to see how it behaves.,243,7,4,48.1282027725,0.101772660156,0.0,0.0,0.00853647255008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+823,We are playing with the same side.,242,3,5,29.8206797272,0.0,0.025340150786,0.0,0.0285965994387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+824,"Past doesn't really matter, but as far as cricket is concerned, you have to be at your best on that particular day.",241,13,13,108.39106541,0.0,0.00853647255008,0.0305186261509,0.060685650953,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07692
+825,The guys have faced enough fast bowlers all around the world.,240,8,4,55.316325691,0.0305186261509,0.0285965994387,0.211234487179,0.107737888717,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+826,"It will be a challenge for our top-order, they (Pakistan) have some world-class bowlers.",239,9,9,51.5938113491,0.211234487179,0.060685650953,0.0658503008474,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12195
+827,"""India have won the toss and have opted to fieldThe captains are walking out to the middle.",238,9,10,72.5869466048,0.0658503008474,0.107737888717,0.169701811225,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.119485
+828,We are just a minute away from the coin toss.,237,5,6,42.2605241006,0.169701811225,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.188145
+829,.,236,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+830,"6 Local Time,  .",235,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+831,"6 GMT,  .",234,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+832,6 IST: A long huddle for the Indians.,233,7,3,28.3999434991,0.0,0.0,0.0136215343089,0.0169276737231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12
+833,Team director Ravi Shastri does the pep talk.,232,7,2,48.2980010016,0.0136215343089,0.0,0.0117975084946,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+834,We are hearing that the toss will happen at  .,231,4,6,40.3444669147,0.0117975084946,0.0169276737231,0.203085327468,0.0657394180367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.115385
+835,0 and game will begin at  .,230,4,3,21.7762859695,0.203085327468,0.0,0.0983536841327,0.136803058881,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.064515
+836,"0 and it will be 18 overs per side.Now, it's the turn of CM, Mamata Banerjee.",229,13,7,66.8432984589,0.0983536841327,0.0657394180367,0.109861064958,0.00981289953479,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+837,"She thanks the ICC, BCCI and the CAB for the opportunity given to Kolkata and hopes that the ground hosts many more such games.Now Sachin Tendulkar, he greets the crowd in Bengali and hopes that there will be a fantastic game.",228,23,21,184.714766303,0.109861064958,0.136803058881,0.028241432874,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11151
+838,Also welcomes the other dignitaries present.,227,5,2,34.389927661,0.028241432874,0.00981289953479,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+839,.,226,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+840,"5 Local Time,  .",225,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+841,"5 GMT,  .",224,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+842,5 IST: Imran Khan is now speaking at the felicitation function.,223,9,4,49.9294307886,0.0,0.0,0.0844313604039,0.00756130491797,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.174965
+843,"He thanks Kolkata for the warm welcome, he hopes that there will be a great game and hopes that the result will be the same when he last played for Pakistan on this ground (Pakistan won).A temporary podium has been erected and a function has started over there, observes Prakash.",222,27,29,224.651805992,0.0844313604039,0.0,0.0743968124249,0.165697335153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.099075
+844,"He also notes that Sourav Ganguly and West Bengal CM, Mamata Banerjee, are gracing the programme.",221,14,5,89.5556917166,0.0743968124249,0.00756130491797,0.1376492047,0.00866473262923,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+845,The Pakistan team are also out for a warm-up session.,220,6,5,34.4344383991,0.1376492047,0.165697335153,0.0136967137383,0.00794776212651,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181315
+846,The podium has quite a star list.,219,5,3,33.7390828601,0.0136967137383,0.00866473262923,0.00811721205118,0.0250263129523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+847,"Wasim Akram, Waqar Younis and Imran Khan on one side, Virender Sehwag, Sunil Gavaskar and Sachin Tendulkar at the other side.",218,19,6,105.66590564,0.00811721205118,0.00794776212651,0.0145219638849,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153165
+848,The last named obviously got the biggest reception.,217,7,2,42.3534372011,0.0145219638849,0.0250263129523,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.127085
+849,.,216,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+850,"0 Local Time,  .",215,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+851,"0 GMT,  .",214,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+852,0 IST: The Indian players are out in the middle and practicing their football skills.,213,10,7,64.7051845747,0.0,0.0,0.0,0.0737589403482,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21212
+853,"Pakistan legend, Imran Khan, is seen having a chat with Shahid Afridi.",212,11,4,58.1475688458,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.169045
+854,He spoke to the team earlier on in the day.,211,5,6,40.0890733599,0.0,0.0737589403482,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21672
+855,.,210,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+856,"0 Local Time,  .",209,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+857,"0 GMT,  .",208,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+858,0 IST: More covers have been removed.,207,6,3,31.2759377021,0.0,0.0,0.0551037971122,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+859,We don't have any official confirmation about the exact starting time.,206,7,6,60.1858878077,0.0551037971122,0.0,0.0127418289931,0.00984161444885,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.109895
+860,They are rolling the surface now.,205,3,4,28.2292198024,0.0127418289931,0.0,0.0995687623613,0.0302522816201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+861,The Super soppers are still doing their work.,204,5,4,43.0480572194,0.0995687623613,0.00984161444885,0.0233664485737,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.115385
+862,The stumps have been placed and so has the Spider Cam.,203,5,7,48.3641325625,0.0233664485737,0.0302522816201,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12317
+863,.,202,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+864,"5 Local Time,  .",201,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+865,"5 GMT,  .",200,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+866,5 IST: Prakash has more here: 'The main cover is off the pitch.,199,10,6,49.770992958,0.0,0.0,0.0322630946135,0.0548443476905,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11602
+867,Only the Hessian remains.,198,3,2,21.4345477098,0.0322630946135,0.0,0.0,0.0191608097836,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+868,They are taking that off as well.',197,4,5,29.0106877642,0.0,0.0548443476905,0.222939825074,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+869,We are well past the scheduled toss time.,196,6,3,36.3809811592,0.222939825074,0.0191608097836,0.0,0.191391849723,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.16348
+870,.,195,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+871,"0 Local Time,  .",194,5,0,9.61906302945,0.0,0.191391849723,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+872,"0 GMT,  .",193,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+873,0 IST: Live pictures from the ground.,192,7,2,29.7018967118,0.0,0.0,0.0121017805124,0.110322855859,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12879
+874,The covers are being removed with Sourav Ganguly on hand to oversee operations.,191,8,6,65.2983195082,0.0121017805124,0.0,0.0850620800802,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+875,"The entire ground was under covers, the process should take a while, but we hope that there will be a full 20-over game.",190,12,14,92.7357271397,0.0850620800802,0.110322855859,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12332
+876,.,189,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+877,"5 Local Time,  .",188,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+878,"5 GMT,  .",187,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+879,5 IST: We will start losing overs if the match doesn't start by  .,186,10,6,60.7073460702,0.0,0.0,0.163302639776,0.0121718182837,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10238
+880,5 PM IST.,185,4,0,11.8508679404,0.163302639776,0.0,0.0,0.781128702419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+881,The cut-off time for a 5-over shootout is  .,184,5,4,19.2564042975,0.0,0.0121718182837,0.0,0.0677592216526,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.188145
+882,0 PM.,183,3,0,6.58631189018,0.0,0.781128702419,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+883,"More covers are being removed, the first of them to go is the ones near the straight boundary.",182,10,10,80.4581364591,0.0,0.0677592216526,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.153845
+884,.,181,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+885,"5 Local Time,  .",180,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+886,"5 GMT,  .",179,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+887,"5 IST: 'Rain is back', says Prakash.",178,10,1,23.6635842161,0.0,0.0,0.0,0.0279940919411,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.058825
+888,"It's just a steady drizzle, he adds.",177,6,4,31.4304662182,0.0,0.0,0.0,0.048901290586,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09007
+889,"The super sopper is doing its work, the groundstaff are trying to remove excess water from the covers.",176,11,9,92.5744756661,0.0,0.0279940919411,0.0460442978768,0.0855815962583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.128205
+890,The wait continues.. And now he says that the rain has stopped.,175,6,7,44.5482534177,0.0460442978768,0.048901290586,0.0338410193108,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+891,"Huge cheers as one layer of covers near the pitch area is being taken off.Waqar Younis, Pakistan's coach sounded bullish about the chances of his team getting past the India jinx in World Cup encounters.",174,27,11,173.72000477,0.0338410193108,0.0855815962583,0.0,0.0580053493938,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.179035
+892,11th time lucky?,173,4,0,17.6717119884,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+893,"Here's what he said: ""History change bhi hoti hai (history changes too)"".From the player zone: The pressure is certainly on India, a win - and they will be back in the hunt.",172,27,15,145.192488495,0.0,0.0580053493938,0.0582790571842,0.0556835404667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.140835
+894,"A loss though - and the hosts might be the first team to enter the elimination queue, a possibility that's terrifying for a proud nation of a billion supporters.",171,19,13,123.848844395,0.0582790571842,0.0,0.0637791236543,0.0925943108767,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14886
+895,Ravi Ashwin sounded cool and calm on the eve of the match.,170,8,5,56.1943599131,0.0637791236543,0.0556835404667,0.0238661612144,0.0315372094051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.20476
+896,"""It's not the first time it has happened to us.",169,7,6,39.3843468447,0.0238661612144,0.0925943108767,0.132453037458,0.0258904043936,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21978
+897,We have done it in the past.,168,3,5,26.421315435,0.132453037458,0.0315372094051,0.177410211522,0.207774475067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+898,I think we have got the wherewithal to comeback from that game (against New Zealand).,167,10,8,63.826134796,0.177410211522,0.0258904043936,0.172429359964,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.141805
+899,"That's what we have been looking forward to,"" he said.",166,7,7,42.8235399302,0.172429359964,0.207774475067,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+900,.,165,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+901,"0 Local Time,  .",164,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+902,"0 GMT,  .",163,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+903,0 IST: We have live pictures and I can see a thin drizzle.,162,9,6,52.4495727544,0.0,0.0,0.0,0.0579023821609,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.083335
+904,"As I said earlier, the entire ground has been covered.",161,7,5,46.2413684951,0.0,0.0,0.0255914296496,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+905,"The groundsmen are waiting for the rain to subside, before they can start the mopping up operations.",160,9,10,81.3180530357,0.0255914296496,0.0579023821609,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11905
+906,* Shahid Afridi will be playing his 83rd and (possibly his) last international match against India.,159,13,6,72.3009864512,0.0,0.0,0.035203193183,0.0842115874411,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.246955
+907,Only Sachin Tendulkar (87) has featured more often in India-Pak encounters.,158,10,4,54.9270992969,0.035203193183,0.0,0.145901554513,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.734845
+908,* India lost their only T20I they played in Kolkata by six wickets against England in  .,157,10,7,73.3087656237,0.145901554513,0.0842115874411,0.0,0.211837929674,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0.18132
+909,.,156,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+910,* Umar Gul (11 wickets) has taken the most in India-Pakistan encounters in T20Is.,155,12,5,62.3834127868,0.0,0.211837929674,0.0,0.431992441446,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.31731
+911,* Virat Kohli ( .,154,5,0,9.21181061077,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173615
+912,runs) has scored the most for India against Pakistan in T20Is and Hafeez ( .,153,9,7,53.9167880695,0.0,0.431992441446,0.169472482779,0.157903788338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.299245
+913,runs) the reverse.,152,4,1,12.9993179366,0.169472482779,0.0,0.0,0.115466340451,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+914,* Both India and Pakistan have four batsmen each with  .,151,6,5,39.7964929007,0.0,0.157903788338,0.01712810669,0.0833931668689,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.228145
+915,plus runs in T20Is and all of them are likely to feature in Saturday's match.,150,9,8,70.9525871355,0.01712810669,0.115466340451,0.0,0.171876234784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26815
+916,"This will be only the second time, 8 players with  .",149,6,6,38.4504505256,0.0,0.0833931668689,0.011989959409,0.0137681797021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.105265
+917,+ runs play in the same match after INDvPAK at Asia Cup last month.,148,10,5,65.2697953867,0.011989959409,0.171876234784,0.0361670711079,0.0285004233194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+918,* In the five World Cups across formats since Jan  .,147,9,2,46.9556253737,0.0361670711079,0.0137681797021,0.0327272959368,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.31731
+919,", India have not lost more than one game in a series.",146,7,6,46.9503389314,0.0327272959368,0.0285004233194,0.0818000329399,0.145005025947,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.257575
+920,* Pakistan have won all their four limited overs games (all four ODIs) against India at Kolkata.,145,13,7,78.5733184851,0.0818000329399,0.0,0.0746529692899,0.0688281302295,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.24393
+921,"* India and Pakistan have met each other 10 times in World Cups across formats with India winning nine and one ending in a tie.From the stats desk: So, what are the important stats going ahead of today's encounter?",144,28,15,179.237011742,0.0746529692899,0.145005025947,0.206670454703,0.0144572026824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23062
+922,"Here are a few from our stats editor, Deepu Narayanan.On the other hand, Pakistan have rarely exuded as much confidence as they have this time around.",143,15,14,123.269512211,0.206670454703,0.0688281302295,0.033204378982,0.0534058869205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.27597
+923,"Batting, their achilles heel, fired against Bangladesh and they racked up a  .",142,9,6,60.0184285202,0.033204378982,0.0144572026824,0.0756841206446,0.0828304230537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+924,"+ score, only for the second time in their history.",141,7,5,39.0361362839,0.0756841206446,0.0534058869205,0.113870226519,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.166665
+925,"Co-incidentally, both their  .",140,3,2,9.99196916832,0.113870226519,0.0828304230537,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+926,+ scores have come against Bangladesh.,139,5,2,27.2725128701,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.45
+927,There are positive vibes everywhere.,138,4,2,30.0205684058,0.0,0.0,0.112260305088,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09091
+928,"The Asia Cup debacle has long been forgotten, they are the cornered tigers and are hungry for success, they sense an opening, they know that the hosts are vulnerable.",137,18,15,143.571517737,0.112260305088,0.0,0.0347945624785,0.0892128778101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.085105
+929,It all sets up for a thrilling contest on the cards.The build-up: India v Pakistan isn't always a straightforward shoot-out though.,136,15,9,69.5501932015,0.0347945624785,0.0,0.033048821684,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.120835
+930,"The on-field battles take centrestage, the points are there to be won, small percentages create huge impact.",135,13,7,84.3759021208,0.033048821684,0.0892128778101,0.390825632082,0.0217282267395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.085715
+931,There are battles to be won or lost.,134,3,6,37.8626631408,0.390825632082,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0.076925
+932,Can Rohit Sharma and Shikhar Dhawan nullify the classy Mohammad Amir and the lanky Mohammad Irfan?,133,12,5,78.5436116411,0.0,0.0217282267395,0.0173405320707,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+933,"If so, India usually win most of the times.",132,6,5,42.3177482606,0.0173405320707,0.0,0.0,0.0976645727247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+934,But there's a cliche though.,131,4,3,20.8803569944,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08696
+935,"Dhawan has been hot and cold all season, Yuvraj Singh hasn't been his own self in recent times.",130,12,9,94.451037362,0.0,0.0976645727247,0.105461582306,0.0598087522982,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163705
+936,Hardik Pandya hasn't chipped in under pressure and skipper MS Dhoni finds himself muddled with uncertainities.,129,12,6,85.2777654937,0.105461582306,0.0,0.0174172762092,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16409
+937,"There's Virat Kohli still getting all the runs, Rohit Sharma - once in, rarely fails to deliver.",128,15,6,78.1457558072,0.0174172762092,0.0598087522982,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.183775
+938,But can India be so dependent on their top core?,127,5,6,47.7207365514,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.074075
+939,.,126,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+940,"0 Local Time,  .",125,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+941,"0 GMT,  .",124,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+942,0 IST: More from Prakash: 'There's an on and off drizzle here.,123,9,7,44.3036182949,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+943,Groundstaff have started their work near the pitch area.,122,7,3,47.0760152379,0.0,0.0,0.0,0.0114774037972,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+944,"Entire ground still under covers,' he says.",121,8,2,37.5653508648,0.0,0.0,0.15100418986,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+945,There's still a good 80 minutes to go for the toss.,120,8,5,46.8533368789,0.15100418986,0.0114774037972,0.0211254791146,0.011203677156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.13793
+946,"Hopefully, the skies would have cleared by then.Venue history: Remember, this match was supposed to be held in Dharamsala, but was later shifted to Kolkata on security grounds.",119,21,12,137.448019147,0.0211254791146,0.0,0.125767244065,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10526
+947,Which team will be most pleased with the change of venue?,118,5,7,53.2158745298,0.125767244065,0.011203677156,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+948,India?,117,2,0,3.72411100925,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14286
+949,Pakistan?,116,2,0,3.96527306607,0.0,0.0,0.339450999255,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+950,Pakistan won a Test here in  .,115,3,4,25.0196528144,0.339450999255,0.0,0.0608261814479,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.157895
+951,", India replied with kind in  .",114,5,2,24.3687059883,0.0608261814479,0.0,0.0,0.0448712739013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.181815
+952,.,113,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+953,The other five Tests have ended in a draw.,112,5,5,41.7257184589,0.0,0.0448712739013,0.0690427728456,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+954,"But when it comes to the 50-over format, Indian fans will not like this stat one bit, the hosts have never beaten Pakistan in four matches.",111,18,11,114.095022368,0.0690427728456,0.0,0.0776226667209,0.107331547036,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.23188
+955,Advantage Pakistan?,110,3,0,10.8392670287,0.0776226667209,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+956,Or will India have something to say?,109,4,4,30.9904453776,0.0,0.107331547036,0.278920188104,0.050384519593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.17361
+957,Or will the weather spoil everything?,108,4,3,32.6120710969,0.278920188104,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.076925
+958,"Wonder if both teams would have wished for this game to be played at its original venue, Dharamsala - where I am informed that there's no rain whatsoever.",107,16,15,135.857460949,0.0,0.050384519593,0.0,0.104976245959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.07143
+959,"Hold on, Prakash is back with good news.",106,7,3,37.1328188103,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+960,The rain has stopped completely.,105,4,2,24.0392556607,0.0,0.104976245959,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+961,.,104,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+962,"0 Local Time,  .",103,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+963,"0 GMT,  .",102,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+964,0 IST: Back to Eden Gardens and back to India-Pakistan men's match now.,101,12,4,46.3828457667,0.0,0.0,0.0,0.0713181993136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15625
+965,How are the preparations from both teams ahead of this massive encounter?,100,6,7,60.7193771069,0.0,0.0,0.0,0.0274601997191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15705
+966,While India do enjoy a  .,99,3,3,22.3043916835,0.0,0.0713181993136,0.0,0.0528042628202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+967,"winning record against their arch rivals, things haven't gone on smoothly for MS Dhoni and his men in this tournament so far.",98,15,10,110.248140294,0.0,0.0274601997191,0.0341961373047,0.0422209301957,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12348
+968,"Touted as the overwhelming favourites, India found themselves dumbfounded against Kane Williamson's New Zealand.",97,13,4,82.4616288751,0.0341961373047,0.0528042628202,0.167655359765,0.113618714442,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.117415
+969,"Spin is definitely India's strength, but on a surface that was crumbling, the home batsmen had no idea against New Zealand's trioka of tweakers.",96,18,11,116.475039926,0.167655359765,0.0422209301957,0.0774030008308,0.0530445629863,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.131055
+970,"Bundled out for just 79, their lowest score at home and the joint second lowest score ever, India's status as the top favourites took a severe beating.",95,21,10,139.026525125,0.0774030008308,0.113618714442,0.0227139740172,0.0696943781277,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11321
+971,"On the other hand, Pakistan are in the midst of a relaxed environment.",94,7,8,52.4093536193,0.0227139740172,0.0530445629863,0.0543022758128,0.0547173647658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+972,"They opened their campaign with an emphatic 55-run win over Bangladesh, a result that briefly put them on top of the pool.",93,13,11,101.950284624,0.0543022758128,0.0696943781277,0.081374501297,0.0247207394231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11628
+973,"Shahid Afridi was back in form and when their skipper fires, the team becomes a different entity altogether.As we wait for the rain to ease, here's some bad news filtering in for Bangladesh.",92,22,15,152.947397441,0.081374501297,0.0547173647658,0.0320354097141,0.101489049104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138945
+974,"Taskin Ahmed and Arafat Sunny, who were called for suspect actions, have been suspended with immediate effect.",91,13,7,97.2630099824,0.0320354097141,0.0247207394231,0.0372798581648,0.00768405343612,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07143
+975,That's a huge blow for Mashrafe Mortaza and his team.,90,7,5,44.7811948128,0.0372798581648,0.101489049104,0.0118495451269,0.0241292351281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.13889
+976,"Meanwhile, over in Delhi, the Indian women never quite got going and managed only 96 from their allotted 20 overs?",89,16,7,106.714367858,0.0118495451269,0.00768405343612,0.143781585191,0.00586762716006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15659
+977,"Can the Pakistani women do something that their male counterparts have never done until now?Weather Update: We are excited and ready to bring you every bit of action, but the rain gods have decided to have their part of the fun as well.",88,25,23,217.041344332,0.143781585191,0.0241292351281,0.0738631400093,0.0144014103309,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10818
+978,"Our man, Prakash Govindasreenivasan, has this update, which I am afraid - isn't the best.",87,12,8,68.3268399289,0.0738631400093,0.00586762716006,0.00866916670759,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.096775
+979,"'Steady drizzle getting heavier by the minute', he says.",86,9,3,41.4063468755,0.00866916670759,0.0144014103309,0.0490951879597,0.0117800817113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+980,He can also hear thunder.,85,4,2,27.9246027897,0.0490951879597,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.055555
+981,The entire ground is under covers and it's very murky.,84,6,6,44.3324021696,0.0,0.0117800817113,0.0154917193308,0.0362975469694,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+982,The floodlights have taken full effect.,83,5,2,29.4624167411,0.0154917193308,0.0,0.0426351994118,0.07149275241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.153845
+983,"Remember, the drainage at the Eden Gardens isn't the best.",82,8,5,42.9043863758,0.0426351994118,0.0362975469694,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2549
+984,"Fingers crossed, we will have a match tonight.",81,6,4,38.0698889571,0.0,0.07149275241,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.21672
+985,"As I type, Prakash chirps in to add that it has started to pour now.",80,8,9,65.7192619529,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.125
+986,.,79,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+987,"0 Local Time,  .",78,5,0,9.61906302945,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0625
+988,"0 GMT,  .",77,4,0,5.40765689384,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+989,0 IST:  .,76,4,0,5.2645560502,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05263
+990,", Sydney, Win.",75,5,0,12.2075428843,0.0,0.0,0.0,0.314274058106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.050005
+991,.,74,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+992,", Bengaluru, Win,  .",73,6,0,12.2075428843,0.0,0.314274058106,0.251511484564,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+993,", Old Trafford, Win.",72,6,0,18.7938547745,0.251511484564,0.0,0.0,0.251511484564,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+994,.,71,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+995,", Centurion, Win.",70,5,0,12.2075428843,0.0,0.251511484564,0.0,0.314274058106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+996,.,69,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+997,", Durban, Win.",68,5,0,12.2075428843,0.0,0.314274058106,0.0,0.314274058106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+998,.,67,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+999,", Johannesburg, Win.",66,5,0,12.2075428843,0.0,0.314274058106,0.0,0.326636379194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1000,.,65,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1001,", Mohali, Win.",64,5,0,11.8020777762,0.0,0.326636379194,0.0,0.326636379194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1002,.,63,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1003,", Colombo, Win.",62,5,0,12.2075428843,0.0,0.326636379194,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1004,.,61,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1005,", Dhaka.",60,3,0,6.87399396263,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1006,Win.,59,2,0,4.92808381358,0.0,0.0,0.0,0.560601514541,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1007,.,58,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1008,", Adelaide, Win.",57,5,0,12.2075428843,0.0,0.560601514541,0.10044824614,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1009,"Nine straightforward wins and one tie (which later resulted in a win through a bowl-out), India have the upper hand when it comes to World Cup ties against Pakistan.",56,21,12,128.527653008,0.10044824614,0.0,0.061810230102,0.0254170903018,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21809
+1010,"Be it the 50-over version or the T20 mode, this is one rivalry where the Indians hold the edge.",55,11,10,81.3081351971,0.061810230102,0.0,0.120742026009,0.219061746595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.14634
+1011,As the  .,54,1,2,5.68349122166,0.120742026009,0.0254170903018,0.150294072079,0.0758148872514,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.111115
+1012,"World T20 shifts focus to Kolkata, the past record comes to nothing as the two sub-continental giants get ready to renew their rivalry - one which is better than the Ashes rivalry between Australia and England, so reckons, India's premier spinner, Ravichandran Ashwin.",53,35,14,209.356375756,0.150294072079,0.219061746595,0.0748984725197,0.254986747347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138955
+1013,Hello and a warm welcome to one of the biggest pool games of the  .,52,8,7,57.6552716478,0.0748984725197,0.0758148872514,0.0866922715511,0.0370594524568,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173165
+1014,"World T20, it doesn't get any better than this, it is India up against Pakistan, a match which brings the economies of two countries to a grinding halt.Preview by Prakash Govindasreenivasan: 
+
+The uncertainty is over, the security is in place and the focus is squarely on the cricket to follow.",51,29,28,213.349557464,0.0866922715511,0.254986747347,0.124154486613,0.0911587437624,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15825
+1015,The dust has truly settled as India and Pakistan gear up to take on each other in yet another high-stakes World Cup clash at the Eden Gardens on Saturday (March 19).,50,21,13,144.422011894,0.124154486613,0.0370594524568,0.100785825589,0.203778788185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26878
+1016,"The stakes this time, however, will be a lot higher than expected.",49,9,6,56.2298939246,0.100785825589,0.0911587437624,0.0133918103443,0.0853147419324,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.10345
+1017,The contrasting starts to their respective World T20 campaigns is bound to have a major repercussion when the two take on each other.,48,12,12,109.029486175,0.0133918103443,0.203778788185,0.053259488969,0.010511864956,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+1018,"For India, beyond the bragging rights in such big tournaments, a win will be key to keep their campaign alive.",47,14,9,99.104223299,0.053259488969,0.0853147419324,0.0205096438808,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16216
+1019,A heavy defeat in the low-scorer against New Zealand gave them a Net Run Rate (NRR) of - .,46,14,7,72.8108564672,0.0205096438808,0.010511864956,0.0,0.14303872704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.176875
+1020,50.,45,2,0,6.58631189018,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06667
+1021,"If by the end of the Super 10 stage, three teams in the group are tied on points, NRR will have a say in the fate of these sides.",44,16,16,136.372398902,0.0,0.14303872704,0.163274385659,0.0753411640818,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.161665
+1022,"For Pakistan, a win would snap their unending misery against their rivals in World Cups but the bigger picture will be the fact that they would've secured two wins against the two Asian sides of their group and will proceed with an added advantage when they face New Zealand and Australia, both in Mohali.",43,32,26,266.641731475,0.163274385659,0.0,0.153342418547,0.0143098413531,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15722
+1023,"Form-wise, Shahid Afridi's men will need to carry a deep sense of self-belief that they are finally primed to break the elusive duck against their nemesis.",42,18,11,114.483743076,0.153342418547,0.0753411640818,0.0240313539083,0.0897014548496,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.180875
+1024,"India, on the other hand, have a lot to ponder over.",41,7,7,42.3527462636,0.0240313539083,0.0143098413531,0.0552152500816,0.0281298230734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.186365
+1025,"While Ravichandran Ashwin preferred to brush aside the defeat to New Zealand as a bad day in office, India desperately need to recoup their A game that helped them become Asia Cup champions less than a month ago.",40,26,14,191.773708982,0.0552152500816,0.0897014548496,0.0425643698282,0.0332293245605,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.106535
+1026,"Even in that tournament, the Indian batters, barring Virat Kohli, struggled to cope with the excessive pace of Mohammad Amir.",39,17,7,97.0826993426,0.0425643698282,0.0281298230734,0.176037918716,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.136365
+1027,"Even on a slow burner at Eden, Amir, as evidenced in his performance against Afghanistan, could crank up the pace.",38,15,9,97.125114531,0.176037918716,0.0332293245605,0.0,0.0513144414191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.133335
+1028,"When: India vs Pakistan, 19 March, Group B -  .",37,12,1,40.2800169393,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16
+1029,"0 PM IST
+
+Where: Eden Gardens, Kolkata
+
+What to expect: Kolkata is expected to be very warm, humid and partly cloudy on Saturday, with a minimum temperature of 26 degree Celsius.",36,25,12,154.554095526,0.0,0.0513144414191,0.0163875920063,0.016645235339,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138855
+1030,The wicket was a little on the slower side in the night game between Sri Lanka and Afghanistan but suited the batsmen a lot more.,35,13,13,102.956603663,0.0163875920063,0.0,0.153574742311,0.0652876269267,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.201665
+1031,"The wickets also aren't too generous towards spinners, like the Nagpur wicket, narrowing the tussle down to pure skill in the spin departments on either side.",34,20,10,127.407037169,0.153574742311,0.016645235339,0.0594322755044,0.0492877902384,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.14674
+1032,"Team News:
+
+India
+
+While pressure is a given in such encounters, Ashwin carried a sense of nonchalance into the pre-match press conference, stressing on the fact that the players are now used to such high-octane games.",33,23,17,155.928719258,0.0594322755044,0.0652876269267,0.049131591187,0.0610662102693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.118645
+1033,"In practice, the most notable sight was of Mohammed Shami steaming in and beating Virat Kohli's bat with pace on several occasions.",32,16,9,112.268159031,0.049131591187,0.0492877902384,0.203986572855,0.0259888396681,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.163925
+1034,Shami was one of the best bowlers at the  .,31,5,5,36.7295249511,0.203986572855,0.0610662102693,0.0950082597637,0.0431343610183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15111
+1035,World Cup but has since spent more time on the doctor's table than at the pitch.,30,10,8,75.3321340607,0.0950082597637,0.0259888396681,0.0113669333099,0.0140017702051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.145235
+1036,"An injury setback, a surgery and months of layoff later, the 26-year-old seems to be back to his original self.",29,14,9,90.312170966,0.0113669333099,0.0431343610183,0.0615884548038,0.0108867574294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.093025
+1037,It will be interesting to see if Dhoni is tempted to draft Shami in for the marquee clash.,28,9,10,82.3549140114,0.0615884548038,0.0140017702051,0.0134102903263,0.0789593772919,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.144585
+1038,"Pakistan
+
+Barring any late, freak injuries or illnesses, Pakistan are unlikely to tamper with a winning combination.",27,14,6,93.1581532585,0.0134102903263,0.0108867574294,0.0210249370259,0.0244862955874,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.088235
+1039,Ahmed Shehzad's excellent start to the tournament has given the team management a reason to revel in their decision to make a last-minute change to the squad.,26,17,12,109.54620812,0.0210249370259,0.0789593772919,0.0579125576156,0.0704656286783,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.138055
+1040,"Mohammad Hafeez and Shoaib Malik have also been in the runs in the two games (including warm-up against Sri Lanka), with Umar Akmal yet to get a real shot at taking his Asia Cup T20 form forward.",25,28,13,167.301269146,0.0579125576156,0.0244862955874,0.0364075467087,0.0352528969235,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.162695
+1041,"Among the bowlers, Imad Wasim's role could be crucial, given India's recent struggle against spin.",24,17,3,85.5506565048,0.0364075467087,0.0704656286783,0.035876620551,0.0421052072933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.114285
+1042,The Who's Who in attendance: An India-Pakistan encounter is never short of being a carnival.,23,9,9,62.2742629333,0.035876620551,0.0352528969235,0.0820893664667,0.0276362663424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.212005
+1043,"On Saturday, Eden Gardens will be graced by the presence of some of the best cricketers of yesteryears from either side of the border.",22,13,13,112.540795094,0.0820893664667,0.0421052072933,0.0978702083673,0.0883796711626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16414
+1044,"Four World Cup winners - Imran Khan, Sachin Tendulkar, Sunil Gavaskar and Virender Sehwag - will add to the sheen of the highly-anticipated contest.",21,21,6,105.845887225,0.0978702083673,0.0276362663424,0.0752690396484,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.160175
+1045,"Amitabh Bachchan, one of the biggest Bollywood actors in India, and Shafqat Amanat Ali Khan, a Pakistani classical singer, will render their voices for the two national anthems.",20,24,9,144.8607116,0.0752690396484,0.0883796711626,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.175385
+1046,"What they said:
+
+""History change bhi hoti hai.",19,9,2,47.7931865595,0.0,0.0,0.0,0.0527144180741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04
+1047,We are confident.,18,2,2,14.6098980536,0.0,0.0,0.439171786249,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11111
+1048,"Probably this time, we are extra confident, because they (India) can go out of the tournament also.",17,13,9,78.2270694337,0.439171786249,0.0527144180741,0.0,0.0875894703006,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1232
+1049,That's a plus for us.,16,4,3,19.1347869076,0.0,0.0,0.0,0.180854594257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.130435
+1050,"They will be under pressure.""",15,3,4,22.8805278156,0.0,0.0875894703006,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04545
+1051,"- Waqar Younis
+
+""I think, if ever there is an international team that can put it (big loss) behind and go forward, then it's us.",14,21,11,114.196580685,0.0,0.180854594257,0.209865378861,0.0626981184287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+1052,And it's not the first time it has happened to us.,13,6,7,41.5578604416,0.209865378861,0.0,0.130880673961,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.212005
+1053,"We have done it in the past.""",12,4,5,26.421315435,0.130880673961,0.0626981184287,0.0,0.109879625293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19643
+1054,"- Ravichandran Ashwin
+
+Did you know?",11,5,2,27.1609218047,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1055,- India and Pakistan have met each other 10 times in World Cups across formats with India winning nine and one ending in a tie.,10,17,9,113.660502558,0.0,0.109879625293,0.100101510459,0.344852548738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.322075
+1056,- Pakistan have won all their four limited-overs games (all four ODIs) against India at Kolkata.,9,12,7,66.0293033642,0.100101510459,0.0,0.0,0.0818000329399,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0.24393
+1057,- In the five World Cups across formats since Jan  .,8,9,2,46.9556253737,0.0,0.344852548738,0.0327272959368,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.31731
+1058,", India have not lost more than one game in a series.",7,7,6,46.9503389314,0.0327272959368,0.0818000329399,0.0,0.0917561858472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.257575
+1059,- Virat Kohli ( .,6,5,0,9.21181061077,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.173615
+1060,runs) has scored the most for India against Pakistan in T20Is and Hafeez ( .,5,9,7,53.9167880695,0.0,0.0917561858472,0.205691342368,0.159984953426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.299245
+1061,runs) has the reverse tally.,4,5,2,24.2623992121,0.205691342368,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15
+1062,- India lost their only T20I they played in Kolkata by six wickets against England in  .,3,10,7,73.3087656237,0.0,0.159984953426,0.0,0.0855426959186,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0.18132
+1063,.,2,1,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+1064,- Shahid Afridi will be playing his 83rd and probably his last international match against India.,1,11,6,71.3846957194,0.0,0.0855426959186,0.0376354546482,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.246955
+1065,Only Sachin Tendulkar (87) has featured more often in India-Pakistan encounters.,0,10,4,54.9270992969,0.0376354546482,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.867425

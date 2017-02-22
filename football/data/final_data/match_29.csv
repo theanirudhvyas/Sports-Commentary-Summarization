@@ -1,0 +1,198 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Evening everyone!,7.01pm,3,0,10.7847745922,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+1,"The fixtures continue to come thick and fast, and right here we will be focusing on the bottom half of the table as Crystal Palace and Swansea City go head to head at Selhurst Park.",7.01pm,21,16,132.423446852,0.0,0.0,0.121575676675,0.0178669861021,0,0.18506,0,0,0,0,0,0,0,0,0,0
+2,"It is a crucial game for both as the Eagles can move four points away the relegation zone with a win, while the Swans can go one point within safety if they come out on top on away turf.",7.01pm,22,19,145.756683113,0.121575676675,0.0,0.0718273195442,0.0420913632587,0,0.189015,0,1,0,0,0,0,0,0,0,0
+3,The managerial situation has dominated both clubs in recent weeks.,7.05pm,7,4,45.0224761299,0.0718273195442,0.0178669861021,0.0489262213127,0.0243194555987,0,0.078945,0,0,0,0,0,0,0,0,0,0
+4,"Alan Pardew was sacked by Palace last month and was swiftly replaced with Sam Allardyce, who has been out of work since losing his job as England manager in September after lasting just 67 days.",7.05pm,22,15,151.217960807,0.0489262213127,0.0420913632587,0.0737541832846,0.16592993276,0,0.096775,0,0,0,0,0,0,0,0,0,0
+5,Bob Bradley did not last much longer in charge of Swansea!,7.05pm,8,4,45.005705804,0.0737541832846,0.0243194555987,0.024611691601,0.0606281212261,0,0.105265,0,0,0,0,0,0,0,0,0,0
+6,"The 58-year-old became the first American to coach in the Premier League when he was hired in October, but less than three months later he was fired after losing seven, drawing two and winning just two during his spell.",7.05pm,24,18,155.2067669,0.024611691601,0.16592993276,0.0265742099917,0.106278232719,0,0.15619,0,1,0,0,1,0,0,0,0,0
+7,"Like Palace, Swansea moved quickly in finding a replacement.",7.10pm,9,2,34.997423209,0.0265742099917,0.0606281212261,0.0,0.0187596957107,0,0.119485,0,0,0,0,0,0,0,0,0,0
+8,"Earlier this evening, the Welsh outfit announced that Paul Clement has been appointed on a two-and-a-half-year contract.",7.10pm,12,7,65.4105490939,0.0,0.106278232719,0.0734536175718,0.0360212094559,0,0.081635,0,0,0,0,0,0,0,0,0,0
+9,Clement departs his role as Carlo Ancelotti's assistant at Bayern Munich in order to take on the job at the Liberty Stadium.,7.10pm,15,9,89.8741144377,0.0734536175718,0.0187596957107,0.0595849853671,0.0724488371181,0,0.14886,0,0,0,0,0,0,0,0,0,0
+10,"He will be in the stands watching the game tonight, but caretaker boss Alan Curtis will be the man in the dugout and will be responsible for selecting the team.",7.10pm,15,17,111.095343074,0.0595849853671,0.0360212094559,0.0436690831125,0.0441066371614,0,0.1915,0,0,0,0,0,0,0,0,0,0
+11,"Speaking of teams, let's bring you the lineups for both sides at Selhurst Park.",7.12pm,11,6,59.5471383606,0.0436690831125,0.0724488371181,0.0142459369582,0.0,0,0.12192,0,0,0,0,0,0,0,0,0,0
+12,We'll start with the hosts...,7.12pm,4,3,17.9065972597,0.0142459369582,0.0441066371614,0.0,0.0,0,0.1489,0,0,0,0,0,0,0,0,0,0
+13,"CRYSTAL PALACE XI: Hennessey; Kelly, Delaney, Tomkins, Ward; Ledley, Cabaye; Puncheon, Townsend, Zaha; BentekeSubs: Speroni, Flamini, Phillips, Mutch, Lee, Sako, Campbell",7.13pm,39,0,102.964014074,0.0,0.0,0.0450738084997,0.120298339154,0,0.04738,0,0,0,0,0,0,0,0,0,0
+14,"SWANSEA CITY XI: Fabianski; Naughton, Fernandez, Mawson, Taylor; Fulton, Ki, Cork; Routledge, Llorente, SigurdssonSubs: Nordfeldt, Rangel, van der Hoorn, Fer, Barrow, Dyer, Borja",7.14pm,41,0,111.663116575,0.0450738084997,0.0,0.0,0.0,0,0.04593,0,0,0,0,0,0,0,0,0,0
+15,"Allardyce has made two changes to the team that lost to Arsenal, with Damien Delaney back in defence after serving a suspension, while Joe Ledley comes into the midfield alongside Yohan Cabaye.",7.16pm,23,12,128.179969298,0.0,0.120298339154,0.116754754648,0.0704949882515,0,0.165045,0,0,0,1,0,0,0,0,0,0
+16,"Scott Dann and Mathieu Flamini are the two to miss out, with the former not in the squad at all.",7.16pm,10,12,74.651315594,0.116754754648,0.0,0.0550802365529,0.0862530484395,0,0.167575,0,0,0,0,0,0,0,0,0,0
+17,Wilfried Zaha starts tonight after being given special dispensation to play before joining up with Ivory Coast for the Africa Cup of Nations.,7.16pm,15,9,102.55670253,0.0550802365529,0.0704949882515,0.0517242642271,0.0775908222521,0,0.10909,0,0,0,0,0,0,0,0,0,0
+18,"Four changes have been made to the Swansea team that were beaten by Bournemouth, with Federico Fernandez coming into the defence to replace Jordi Amat.",7.21pm,16,11,100.714537379,0.0517242642271,0.0862530484395,0.0271942619243,0.0131991973255,0,0.14614,0,0,0,0,0,0,0,0,0,0
+19,"Jay Fulton and Jack Cork start in place of Leon Britton and Leroy Fer, while Wayne Routledge starts and Nathan Dyer drop to the bench.",7.21pm,19,8,108.859543823,0.0271942619243,0.0775908222521,0.00599207982262,0.0185396786942,0,0.15654,0,0,0,0,0,0,0,0,0,0
+20,"Fernando Llorente was a doubt after picking up a knock, but he makes the first XI tonight.",7.21pm,11,8,60.9524532171,0.00599207982262,0.0131991973255,0.0,0.0971137725525,0,0.16029,0,0,0,0,0,0,0,0,0,0
+21,"As we touched on, Swansea have a new man in charge!",7.24pm,7,6,35.2826247809,0.0,0.0185396786942,0.0613378635971,0.0,0,0.129595,0,0,0,0,0,0,0,0,0,0
+22,"There is no doubt that Clement is well respected in the game as he has had spells as number two with Chelsea, Paris Saint-Germain, Real Madrid and Bayern.",7.24pm,17,14,110.842768988,0.0613378635971,0.0971137725525,0.162211279578,0.0399800486216,0,0.15917,0,0,0,0,0,0,0,0,0,0
+23,There has only been one occasion where he has gone it alone and that was at Derby County.,7.24pm,7,12,75.704117421,0.162211279578,0.0,0.0756857006653,0.0543209923595,0,0.06,0,0,0,0,0,0,0,0,0,0
+24,"The 44-year-old only lasted eight months before he left in February 2016, winning 14 games, recording 12 draws and losing seven.© Getty Images",7.24pm,19,6,96.9295166452,0.0756857006653,0.0399800486216,0.0541983967611,0.0138020840049,0,0.07547,0,1,0,0,1,0,0,0,0,0
+25,Is he the right man for Swansea?,7.26pm,4,4,22.2024709181,0.0541983967611,0.0543209923595,0.125888368959,0.0143773820844,0,0.0625,0,0,0,0,0,0,0,0,0,0
+26,"Well, the club's objective is to climb out of the relegation zone.",7.26pm,9,6,44.4256457622,0.125888368959,0.0138020840049,0.0728745514586,0.140331995522,0,0.214915,0,0,0,0,0,0,0,0,0,0
+27,At the moment they sit four points adrift of safety after winning just three of their 19 fixtures.,7.26pm,11,8,72.5554024072,0.0728745514586,0.0143773820844,0.0145792440816,0.0740073218444,0,0.111825,0,1,0,0,0,0,0,0,0,0
+28,"It is by no means an easy job for Clement, and while he is vastly experienced in the game, he is quite the novice when it comes to being the main man in charge.",7.26pm,16,21,130.460655704,0.0145792440816,0.140331995522,0.10766016746,0.141279570998,0,0.1785,0,0,0,0,0,0,0,0,0,0
+29,"In truth, it would have helped Swansea to hire someone of Allardyce's ilk, who knows how to deal with the pressure of relegation and keep teams up in the top flight.",7.28pm,20,15,121.244577201,0.10766016746,0.0740073218444,0.104417064248,0.0305670817608,0,0.15314,0,0,0,0,0,0,0,0,0,0
+30,"That does not mean, of course, that Clement is not capable of saving Swansea's season, but perhaps the club's board are looking at Ancelotti's former right-hand man as the best option to guide the Welsh outfit back to the Premier League from the Championship.",7.28pm,31,20,166.638188899,0.104417064248,0.141279570998,0.0955933965592,0.132174590442,0,0.141365,0,0,0,0,0,0,0,0,0,0
+31,"If that's the case, then they are already resigned to being relegated, which doesn't inspire much optimism.",7.28pm,12,10,74.8070111608,0.0955933965592,0.0305670817608,0.0,0.0287043532597,0,0.072725,0,0,0,0,0,0,0,0,0,0
+32,"So, how big of a job does Clement have on his hands?",7.31pm,6,8,46.4992063271,0.0,0.132174590442,0.0557756665108,0.0,0,0.087945,0,0,0,0,0,0,0,0,0,0
+33,"Well, as mentioned, the club have only won three league games this season and they have gone through two managerial appointments.",7.31pm,14,10,83.5028085787,0.0557756665108,0.0287043532597,0.0174773482,0.115821334488,0,0.10204,1,0,0,0,0,0,0,0,0,0
+34,"Francesco Guidolin was sacked after losing 2-1 to Liverpool - a run which included one win, one draw and five defeats.",7.31pm,17,6,79.9556616759,0.0174773482,0.0,0.0,0.0,0,0.07863,0,1,0,0,1,0,0,0,0,0
+35,Bradley did not fair much better as he only had two wins on his record.,7.31pm,8,8,63.851031928,0.0,0.115821334488,0.0,0.0240114729111,0,0.086955,0,1,0,0,0,0,0,0,0,0
+36,"Under the American's leadership, the team picked up just eight points from a possible 36.",7.31pm,11,7,59.6135624311,0.0,0.0,0.0142246298726,0.0151253823405,0,0.12195,0,0,0,0,0,0,0,0,0,0
+37,"The triumphs came against tonight's opponents Palace (more of that later) and Sunderland, whom they defeated 3-0 on home soil.",7.34pm,16,9,79.761440555,0.0142246298726,0.0240114729111,0.133140627924,0.0106686941671,0,0.10204,0,0,0,0,0,0,0,0,0,0
+38,"Since that win, though, they have lost four on the trot and have conceded 13 goals in that time.",7.34pm,13,9,70.7990510437,0.133140627924,0.0151253823405,0.112234418927,0.268014268738,1,0.12861,0,1,0,1,0,0,0,0,0,0
+39,"In fact, 44 goals have been shipped past them this season so far, giving them the joint worst defence record in the division.",7.34pm,16,10,97.5912819459,0.112234418927,0.0106686941671,0.0285910792493,0.0,1,0.10229,0,0,0,0,0,0,0,0,0,0
+40,Hull City have also conceded that amount.,7.34pm,6,2,31.2622311172,0.0285910792493,0.268014268738,0.0,0.0,0,0.060835,0,0,0,0,0,0,0,0,0,0
+41,"On Boxing Day, caretaker boss Curtis oversaw his side lost 4-1 to West Ham United.",7.36pm,14,3,65.6083531781,0.0,0.0,0.012089504151,0.0343730633532,0,0.085105,0,0,0,1,0,0,0,0,0,0
+42,"After Andre Ayew's 13th-minute goal, Winston Reid, Michail Antonio and Andy Carroll added to the onslaught in the second half.",7.36pm,18,6,81.6101043847,0.012089504151,0.0,0.0972079644571,0.0353758099862,1,0.206685,0,1,0,0,0,0,0,0,0,0
+43,"The Swans got on the scoresheet through Fernando Llorente, but it was in the 89th minute - too late to inspire a dramatic comeback.",7.36pm,14,12,86.625174378,0.0972079644571,0.0343730633532,0.0993159807058,0.0301744808041,0,0.2225,0,0,0,0,0,0,0,0,0,0
+44,"Three days ago the Swans were in action again, but they were unable to bounce back from their previous loss as Bournemouth hit three goals past them at the Liberty Stadium.",7.38pm,19,14,126.379286482,0.0993159807058,0.0353758099862,0.0898906999199,0.0,1,0.134785,0,0,0,0,0,0,0,0,0,0
+45,"Considering that Palace are also battling against the drop, picking up three points tonight could be crucial for Swansea - not just for their league hopes, but for a much-needed morale boost.",7.38pm,21,14,117.956075045,0.0898906999199,0.0301744808041,0.0,0.15792295127,0,0.10667,0,0,0,0,0,0,0,0,0,0
+46,STATS!,7.40pm,2,0,5.59511985013,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+47,"In their last 10 league games, Swansea have kept just one clean sheet, and three or more goals have been scored against them in eight of those matches.",7.40pm,17,14,111.243037042,0.0,0.15792295127,0.0826837871509,0.0,1,0.109375,0,0,0,0,0,0,0,0,0,0
+48,"Also, they have never lost five top-flight games consecutively, so Swansea fans will be hoping that doesn't become reality tonight!",7.40pm,17,7,83.47655339,0.0826837871509,0.0,0.0,0.0267413125673,0,0.046155,0,0,0,1,0,0,0,0,0,0
+49,"Now, let's turn our attention to Palace.",7.42pm,7,3,29.9351078893,0.0,0.0,0.0,0.0,0,0.05714,0,0,0,0,0,0,0,0,0,0
+50,Somewhat surprisingly they find themselves just one point above relegation.,7.42pm,7,4,45.468200626,0.0,0.0267413125673,0.0368192977263,0.129868909482,0,0.17489,0,0,0,0,0,0,0,0,0,0
+51,"With the players that they have, the Eagles should never have been in this position.",7.42pm,6,11,52.7567113274,0.0368192977263,0.0,0.0590208651532,0.0847414203108,0,0.163925,0,0,0,0,0,0,1,0,0,0
+52,"For one reason or another, it's just not been working for them.",7.42pm,7,8,48.5281437735,0.0590208651532,0.129868909482,0.100414898367,0.0784593353626,0,0.04762,0,0,0,0,0,0,0,0,0,0
+53,They have won just four league games all season and picked up just two points from their last five matches.,7.42pm,11,10,78.0260295542,0.100414898367,0.0847414203108,0.136234343244,0.0,0,0.066665,1,0,0,0,0,0,0,0,0,0
+54,Allardyce has been in charge of the last two fixtures.,7.44pm,6,5,34.625512592,0.136234343244,0.0784593353626,0.0300207721256,0.0191670687519,0,0.10965,0,0,0,0,0,0,0,0,0,0
+55,It was a positive start to his opening game as Yohan Cabaye struck in the 26th minute to put Palace ahead away to Watford on Boxing Day.,7.44pm,17,11,102.047807473,0.0300207721256,0.0,0.0861522555981,0.129661633182,0,0.14957,0,0,0,0,0,0,0,0,0,0
+56,"However, the hosts responded 18 minutes from time when Troy Deeney converted from the penalty spot to restrict Palace to one point.",7.44pm,17,7,90.4221527386,0.0861522555981,0.0191670687519,0.07671734308,0.0500371897484,0,0.19338,0,0,0,0,0,1,0,0,0,0
+57,Next up was a tough trip to the Emirates for Palace.,7.44pm,6,6,38.5067639387,0.07671734308,0.129661633182,0.0405142064538,0.0282381706122,0,0.11628,0,0,0,0,0,0,0,0,0,0
+58,Arsenal needed to go on a run themselves after recently suffering back-to-back defeats.,7.44pm,9,5,49.1349326778,0.0405142064538,0.0500371897484,0.0762913912834,0.0,0,0.074625,0,0,0,0,0,0,0,0,0,0
+59,"The Eagles were unable to keep Arsene Wenger's men contained as Olivier Giroud scored a wonder goal from a scorpion kick, while Alex Iwobi doubled Arsenal's lead in the 56th minute.",7.44pm,25,10,128.611781382,0.0762913912834,0.0282381706122,0.0,0.0457933254613,1,0.159255,1,0,0,0,0,0,0,0,0,0
+60,TRANSFER WATCH!,7.48pm,3,0,10.7847745922,0.0,0.0,0.20229655547,0.0,0,0.022225,0,0,0,0,0,0,0,0,0,0
+61,"As we all know, the transfer window is open for business until the end of the month.",7.48pm,9,10,65.508341248,0.20229655547,0.0457933254613,0.098835171191,0.0221988306442,0,0.12681,0,1,0,0,0,0,0,0,0,0
+62,The majority of clubs battling relegation will want to get some deals done as long as they have the funds!,7.48pm,11,10,78.5867211171,0.098835171191,0.0,0.0269467889244,0.0358391296281,0,0.125905,0,0,0,0,0,0,0,0,0,0
+63,Allardyce recently claimed that he needs two players to help push his time away from the bottom three.,7.48pm,13,6,72.5552007062,0.0269467889244,0.0221988306442,0.0288517329585,0.0734361217065,0,0.141805,0,0,0,0,0,0,0,0,0,0
+64,Swansea's Modou Barrow is believed to be a target for the Eagles.,7.48pm,8,6,41.7575979667,0.0288517329585,0.0358391296281,0.00908391793863,0.0896445828229,0,0.09302,0,0,0,0,0,0,0,0,0,0
+65,Sky Sports News claim that the 24-year-old has a £5m release clause in his contract.,7.48pm,10,6,52.2321000333,0.00908391793863,0.0734361217065,0.0343071932153,0.0,0,0.07547,0,0,0,0,0,0,0,0,0,0
+66,"For Palace, though, perhaps they should be looking at defensive targets as they have the fourth-worst defence in the division having conceded 35 goals in 19 games.",7.48pm,17,13,101.121457135,0.0343071932153,0.0896445828229,0.0,0.141519572911,1,0.14418,0,0,0,0,0,0,0,0,0,0
+67,DID YOU KNOW?,7.49pm,2,2,14.7704565299,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+68,The Eagles have not kept a clean sheet in their last 20 away games in the Premier League.,7.49pm,11,8,63.6638879011,0.0,0.141519572911,0.184275999908,0.272048814532,0,0.11531,0,0,0,0,0,0,0,0,0,0
+69,The last time that they recorded a shutout was in December last year in a goalless draw with Bournemouth.,7.49pm,11,9,67.8265205935,0.184275999908,0.0,0.105843752765,0.00682987936716,1,0.09804,0,0,0,0,1,0,0,0,0,0
+70,"Also, their form at home has not been ideal as they have lost five of their last six league games at Selhurst Park.",7.49pm,14,11,90.6498899696,0.105843752765,0.272048814532,0.0368384437207,0.0936757783228,0,0.13731,0,0,0,1,0,0,0,0,0,0
+71,"Ahead of tonight's game, Allardyce told reporters: ""Swansea is a massive game for the nerves of our players.",7.52pm,16,7,67.2698253819,0.0368384437207,0.00682987936716,0.0947137051417,0.0,0,0.080645,0,0,0,0,0,0,0,0,0,0
+72,"They have to control their nerves on that day, because everybody expects us to win on the basis that Swansea are struggling.",7.52pm,12,12,85.1761610543,0.0947137051417,0.0936757783228,0.274249791517,0.0819036929584,0,0.100835,0,1,0,0,0,0,0,0,0,0
+73,"We are struggling, but they are struggling really badly.",7.52pm,6,5,37.1002478832,0.274249791517,0.0,0.0727084879646,0.0869472025081,0,0.04878,0,0,0,0,0,0,0,0,0,0
+74,"""When they have let goals in, they've conceded three or four.",7.52pm,9,6,41.0446363258,0.0727084879646,0.0819036929584,0.0,0.164100657958,1,0.08696,0,0,0,0,0,0,0,0,0,0
+75,People are expecting us to go out on Tuesday night and thrash Swansea which won't be the case.,7.52pm,12,8,69.4058453919,0.0,0.0869472025081,0.0160750352732,0.136617810363,0,0.08511,1,0,0,0,0,0,0,0,0,0
+76,"""We would like to beat them by more than one or two goals.",7.52pm,8,7,55.1810056914,0.0160750352732,0.164100657958,0.0589205391168,0.0,1,0.06383,0,0,0,0,0,0,0,0,0,0
+77,But we really have to hold our nerve on Tuesday and produce our best performance.,7.52pm,8,8,63.4388079684,0.0589205391168,0.136617810363,0.0,0.0375624886037,0,0.069765,0,0,0,0,0,0,0,0,0,0
+78,"""© Getty Images",7.52pm,4,0,10.3793094841,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+79,"HEAD TO HEAD: In November, Palace and Swansea were part of a dramatic fixture.",7.54pm,11,6,50.6665164168,0.0,0.0375624886037,0.0167091164218,0.0126030301523,0,0.121955,0,0,0,0,0,0,0,0,0,0
+80,"At the Liberty Stadium, Zaha put the Eagles ahead in the 19th minute, but the Swans responded through Gylfi Sigurdsson.",7.54pm,15,8,75.2561379748,0.0167091164218,0.0,0.170705344014,0.0244064623117,0,0.17989,0,0,0,0,0,0,0,0,0,0
+81,"At half time, it was all square at 1-1, but the second half was topsy turvy as Leroy Fer scored twice to put the hosts 3-1 up.",7.54pm,18,12,97.100827537,0.170705344014,0.0126030301523,0.0547660912293,0.0499511137871,0,0.19841,0,0,0,0,0,0,0,0,0,0
+82,The drama continued as James Tomkins pulled one back and an own goal from Cork levelled things up once again.,7.54pm,12,9,87.1870597027,0.0547660912293,0.0244064623117,0.0454150298517,0.0160975294573,1,0.1,0,0,0,0,0,0,0,0,0,0
+83,"Christian Benteke looked to have won the game for Palace when he netted in the 84th minute, but two goals from Llorente in the 91st and 93rd minute earned Swansea a remarkable triumph.",7.54pm,20,15,119.458479984,0.0454150298517,0.0499511137871,0.165030061353,0.226036682383,1,0.16724,1,0,0,0,0,0,0,0,0,0
+84,"Interestingly, the eight goals scored in that game matched the number that have been scored in the last six head to heads combined.",7.56pm,15,10,86.4514219633,0.165030061353,0.0160975294573,0.316643263907,0.0425940297686,1,0.15314,0,0,0,0,0,0,0,0,0,0
+85,It was only the second time that Swansea have scored five goals in a league fixture and just the third time that the Eagles have netted four away from home in the league.,7.56pm,17,17,110.837326167,0.316643263907,0.226036682383,0.167048796098,0.0,1,0.18506,0,0,0,0,0,0,0,0,0,0
+86,Both teams have made it out onto the pitch and we are minutes away from kickoff!,7.56pm,8,9,62.4862616445,0.167048796098,0.0425940297686,0.319118974861,0.0720560207501,0,0.09091,0,0,0,0,0,0,0,0,0,0
+87,KICKOFF!,1 min,2,0,5.18965474203,0.319118974861,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+88,We're underway at Selhurst Park!,1 min,5,2,20.5872713911,0.0,0.0720560207501,0.0,0.0,0,0.10378,0,0,0,0,0,0,0,0,0,0
+89,Paul Tierney is the referee for this one.,1 min,5,4,30.4490575535,0.0,0.0,0.0188203949003,0.0182018882023,0,0.09643,0,0,0,0,0,0,0,0,0,0
+90,"The Swans have settled well as they string plenty of passes together, seeing much more of the ball that their opponents in these early stages.",2 min,15,12,100.616376336,0.0188203949003,0.0,0.0189244802339,0.143772326219,0,0.233075,0,0,0,0,0,0,0,0,0,0
+91,At the moment its still all Swansea.,5 min,4,4,27.7631525491,0.0189244802339,0.0182018882023,0.013756295263,0.0153561664206,0,0.116015,0,0,0,0,0,0,0,0,0,0
+92,"They look comfortable on the ball, while Palace have struggled to find their rhythm.",5 min,9,7,52.6868645641,0.013756295263,0.143772326219,0.0924639548202,0.0,0,0.14524,0,0,0,0,0,0,0,0,0,0
+93,Perhaps the players are trying to impress their new manager!,5 min,7,4,40.2995229083,0.0924639548202,0.0153561664206,0.0,0.0175786117966,0,0.29532,0,0,0,0,0,0,0,0,0,0
+94,CHANCE!,6 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+95,"The first opportunity comes Swansea'a way as Routledge's cross finds Llorente who heads from inside the box, but his attempt drops wide.",6 min,18,7,85.1405412563,0.0,0.0175786117966,0.0619516859987,0.0502805951639,0,0.31863,0,0,0,0,0,0,0,0,0,0
+96,Swansea have started the better out of the two sides here.,8 min,6,6,38.3239366543,0.0619516859987,0.0,0.0,0.0,0,0.140525,0,0,0,0,0,0,0,0,0,0
+97,"Palace fans are in full voice, but they'll want to see more from their team.",8 min,10,8,57.6447028438,0.0,0.0502805951639,0.0805885470957,0.0,0,0.139535,0,0,0,0,0,0,0,0,0,0
+98,Allardyce's men are yet to get a stronghold on this game.,8 min,8,5,39.5350804241,0.0805885470957,0.0,0.0,0.0379758851285,0,0.110385,0,0,0,0,0,0,0,0,0,0
+99,Benteke has barely had a touch.,12 min,4,3,23.8324645243,0.0,0.0,0.0,0.0,0,0.049995,0,0,0,0,0,0,0,0,0,0
+100,"The former Liverpool man is up there on his own, not receiving much service.",12 min,8,8,57.6283621798,0.0,0.0379758851285,0.00868609943355,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+101,"For all of Swansea's possession, aside from Llorente's chance, they are yet to really trouble the keeper.",12 min,14,8,64.9453357067,0.00868609943355,0.0,0.0,0.138597425669,0,0.12245,0,0,0,0,0,0,0,0,0,0
+102,BOOKING!,15 min,2,0,4.90197266957,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+103,Llorente is the first to be cautioned.,15 min,4,4,24.6352485024,0.0,0.138597425669,0.0528984739516,0.0,0,0.08534,0,0,0,0,0,0,0,0,0,0
+104,The Spaniard brings down Townsend on the edge of the area.,15 min,6,6,38.6808457773,0.0528984739516,0.0,0.0,0.0692338115231,0,0.255265,0,0,0,0,0,0,0,0,0,0
+105,SAVE!,16 min,2,0,4.67882911826,0.0,0.0,0.0,1.0,0,0.03448,0,0,0,0,0,0,0,0,0,0
+106,"From the free kick, Cabaye's initial ball ricochets back to him and he delivers a shot towards the near post, but Fabianksi stops it from nestling into the net.",16 min,20,13,110.266038877,0.0,0.0692338115231,0.0,0.133801263702,0,0.210755,0,0,0,0,0,0,0,0,0,0
+107,SAVE!,17 min,2,0,4.67882911826,0.0,1.0,0.210515027985,0.0,0,0.03448,0,0,0,0,0,0,0,0,0,0
+108,"On the counter, Llorente plays in Cork, who tries to set himself up for a shot, but he takes too long to release it and Hennessey makes a comfortable save.",17 min,18,16,111.377267936,0.210515027985,0.133801263702,0.0,0.129683346381,0,0.25762,0,0,0,0,0,0,0,0,0,0
+109,CHANCE!,18 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+110,"From the resulting corner kick, Sigurdsson finds Ki, who fires a low shot, but he wastes the opportunity as the ball goes well wide.",18 min,19,9,92.7524312379,0.0,0.129683346381,0.0216926638649,0.0818875029111,0,0.21976,0,0,0,0,0,0,0,0,0,0
+111,Townsend uses his pace to get down the flank before curling inside.,20 min,8,5,51.0461457345,0.0216926638649,0.0,0.0845971181969,0.0149243463748,0,0.09881,0,0,0,0,0,0,0,0,0,0
+112,"The former Tottenham Hotspur man swings a cross into the box, but the move breaks down.",20 min,11,7,60.0371596114,0.0845971181969,0.0818875029111,0.0641586663662,0.0,0,0.22282,0,1,0,0,0,0,0,0,0,0
+113,"Palace are showing more promise now as we reach the halfway mark of the first half, but Fabianski has rarely been troubled.",21 min,13,11,88.8018790236,0.0641586663662,0.0149243463748,0.0,0.0239060923828,0,0.16413,0,1,0,0,0,0,0,0,0,0
+114,CHANCE!,27 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+115,Opportunity for Swansea as they get a free kick in a dangerous area.,27 min,8,6,40.7816599578,0.0,0.0239060923828,0.0,0.0618317555287,0,0.22327,0,0,0,0,0,0,0,0,0,0
+116,"Sigurdsson delivers it into the box to find Fernandez, who blazes a header over the bar.",27 min,10,8,57.7733439274,0.0,0.0,0.0473019935225,0.0234929197851,0,0.3083,0,0,0,0,0,0,0,0,1,0
+117,"Risky from Cabaye as he tackles Fulton, and he's lucky not to receive a yellow card for it.",29 min,11,10,67.0165977036,0.0473019935225,0.0618317555287,0.0,0.0202171040398,0,0.11309,0,0,0,0,0,0,0,0,0,0
+118,"Instead, the referee just gives him a warning.",29 min,6,4,31.3839178664,0.0,0.0234929197851,0.0107069875579,0.12656077515,0,0.078945,0,0,0,0,0,0,0,0,0,0
+119,"Swansea come again as Mawson sends a long ball over the top, which is chased down by Routledge.",32 min,11,9,69.1808482719,0.0107069875579,0.0202171040398,0.0367780826425,0.0,0,0.14583,0,0,0,0,0,0,0,0,0,0
+120,"It's not the best touch from him, though, as he fails to get decent contact on the shot.",32 min,12,10,67.0373403804,0.0367780826425,0.12656077515,0.0,0.0,0,0.169835,0,0,0,0,0,0,0,0,0,0
+121,PENALTY DENIED!,33 min,3,0,9.24432955121,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,1,0,0,0,0
+122,A let-off for Swansea!,33 min,3,2,5.25138510343,0.0,0.0,0.0,0.0,0,0.060605,0,0,0,0,0,0,0,0,0,0
+123,Fabianksi makes contact with Benteke in the box and the Palace striker goes down.,33 min,9,6,51.4860707208,0.0,0.0,0.0393958763753,0.038507726349,0,0.144045,0,0,0,0,0,0,0,0,0,0
+124,"It would have been given on another day, but the referee waves away the claims.",33 min,10,7,57.3154321849,0.0393958763753,0.0,0.0694470340788,0.0354172848839,0,0.165005,0,0,0,0,0,0,0,0,0,0
+125,It was poor from Swansea as the danger came from Hennessey's kick at the other end.,33 min,9,9,58.2882884365,0.0694470340788,0.038507726349,0.0745042534253,0.0957352696218,0,0.24754,0,0,0,0,0,0,0,0,0,0
+126,"Benteke looks in some discomfort as he clutches his shoulder, but after some treatment from the physio he seems well enough to continue.",36 min,13,12,95.4002404917,0.0745042534253,0.0354172848839,0.100604447216,0.110185067385,0,0.12037,0,0,0,0,0,0,0,0,0,0
+127,"Puncheon tries to make things happen for Palace, but it's an ambitious effort as he aims a volley from 30 yards out.",39 min,15,10,87.988790772,0.100604447216,0.0957352696218,0.0549327488087,0.0,0,0.12796,0,0,0,0,0,0,0,0,0,0
+128,He misses the target.,39 min,3,2,15.3325274911,0.0549327488087,0.110185067385,0.0,0.0,0,0.057145,0,0,0,0,0,0,0,0,0,0
+129,GOAL!,42 min,2,0,3.9856819377,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+130,PALACE 0-1 SWANSEA (MAWSON),42 min,6,0,9.2554161798,0.0,0.0,0.0776434206559,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+131,Swansea's pressure pay off as they take the lead at Selhurst Park!,42 min,9,5,46.7502618702,0.0776434206559,0.0,0.0418596339339,0.0309087996495,0,0.126325,0,0,0,0,0,0,0,0,0,0
+132,Sigurdsson makes it as he delivers a great ball into the box from a free kick.,42 min,9,8,51.404227412,0.0418596339339,0.0,0.192929862355,0.0524289447653,0,0.397235,0,0,0,0,0,0,0,0,0,0
+133,Mawson gets on the end of it and flicks the ball into the bottom corner with a header.,42 min,9,10,59.3966275727,0.192929862355,0.0309087996495,0.0393888294051,0.0331043963765,0,0.37451,0,0,0,0,0,0,0,0,1,0
+134,The failed penalty appeal will feel even more frustrating for Palace now as they need to come from a goal down in order to get something out of this game.,43 min,15,16,113.149612643,0.0393888294051,0.0524289447653,0.147607701521,0.0501474512588,1,0.172885,0,0,0,0,0,1,0,0,0,0
+135,Allardyce may need to switch things up in the break.,43 min,7,4,39.4130043348,0.147607701521,0.0331043963765,0.0,0.128163596771,0,0.16525,0,0,0,0,0,0,0,0,0,0
+136,HALF-TIME: PALACE 0-1 SWANSEA,45+1 min,5,0,5.16437372644,0.0,0.0501474512588,0.111405142505,0.0459045340669,0,0.09091,0,0,0,0,0,0,0,0,0,0
+137,The visitors have the edge as Swansea City enter the dressing room with a 1-0 lead over Crystal Palace at the break.,8.48pm,13,10,72.79895562,0.111405142505,0.128163596771,0.0959674301082,0.124872817939,0,0.229165,0,0,0,0,0,0,0,0,0,0
+138,Swansea's new manager Paul Clement is in the stands watching the action and he will be happy with what he's seen so far.,8.48pm,14,12,89.4779575286,0.0959674301082,0.0459045340669,0.0427587764301,0.0503492818197,0,0.228635,0,0,0,0,0,0,0,0,0,0
+139,"The visitors started the better side, stringing some decent passes together and creating goalscoring opportunities.",8.48pm,13,4,68.381541436,0.0427587764301,0.124872817939,0.0412653805978,0.0133012627458,1,0.117415,0,0,0,0,0,0,0,0,0,0
+140,Palace found their feet as the half went on and they were denied a penalty when goalkeeper Lukasz Fabianski brought down Christian Benteke in the box.,8.48pm,15,12,98.6603219323,0.0412653805978,0.0503492818197,0.0682241198433,0.155912637837,1,0.251725,0,0,0,0,0,1,0,0,0,0
+141,"With three minutes of time remaining, Alfie Mawson found the breakthrough with a header assisted by Gylfi Sigurdsson.",8.48pm,14,6,72.1084664087,0.0682241198433,0.0133012627458,0.0124705085791,0.0,0,0.231885,0,0,0,0,0,0,0,1,1,0
+142,Will Palace respond in the second half?,8.48pm,5,3,24.5582874613,0.0124705085791,0.155912637837,0.0,0.0,0,0.240805,0,0,0,0,0,0,0,0,0,0
+143,We'll return shortly to find out!,8.48pm,5,3,24.9967675756,0.0,0.0,0.0,0.0941316668961,0,0.082625,0,0,0,0,0,0,0,0,0,0
+144,RESTART!,45 min,2,0,5.59511985013,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+145,We're back underway at Selhurst Park!,45 min,6,2,24.390631772,0.0,0.0941316668961,0.150779060301,0.0,0,0.101665,0,0,0,0,0,0,0,0,0,0
+146,Can Palace get back in it?,45 min,4,3,20.3565060698,0.150779060301,0.0,0.0,0.0559794301276,0,0.09091,0,0,0,0,0,0,0,0,0,0
+147,Let's find out!,45 min,4,1,12.642224824,0.0,0.0,0.0,0.0,0,0.074995,0,0,0,0,0,0,0,0,0,0
+148,PALACE SUB: The hosts make a change at the break as Campbell comes on for Benteke.,46 min,11,7,55.3820384642,0.0,0.0559794301276,0.032653356675,0.104742255187,0,0.206705,0,0,0,0,0,0,0,0,0,0
+149,"Swansea have a spring in their step, as you'd expect.",48 min,7,6,34.8579889258,0.032653356675,0.0,0.060314912194,0.0352546691996,0,0.078945,0,0,0,0,0,0,0,0,0,0
+150,"They come out for the second half on the attack, looking to add to their lead.",48 min,9,9,56.4647615285,0.060314912194,0.104742255187,0.035539709079,0.0303085134718,0,0.28247,0,0,0,0,0,0,0,0,0,0
+151,PALACE SUB: Another change from Allardyce as Townsend makes way for Sako.,53 min,11,3,47.6515216832,0.035539709079,0.0352546691996,0.0,0.0,0,0.075,0,0,0,0,0,0,0,0,0,0
+152,Naughton charges down the pitch and cuts inside before before delivering a low ball into the danger area.,54 min,11,8,72.8076075857,0.0,0.0303085134718,0.0633501521839,0.0,0,0.174905,0,0,0,0,0,0,0,0,0,0
+153,"Sigurdsson tries to chase it down at the near post, but Hennessey gets there first.",54 min,10,7,59.1187840104,0.0633501521839,0.0,0.0,0.103044090384,0,0.09524,0,0,0,0,0,0,0,0,0,0
+154,CHANCE!,57 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+155,The visitors break as Sigurdsson is involved again.,57 min,5,4,31.2375149139,0.0,0.103044090384,0.0474214875767,0.0,0,0.100575,0,0,0,0,0,0,0,0,0,0
+156,"He plays in Llorente, who then feeds the ball in for Cork, but the midfielder's attempt from the edge of the box soars over the bar.",57 min,15,15,92.4557322636,0.0474214875767,0.0,0.0,0.0,0,0.516425,0,0,0,0,0,0,0,0,0,0
+157,SAVE!,59 min,2,0,4.67882911826,0.0,0.0,0.0,0.0,0,0.03448,0,0,0,0,0,0,0,0,0,0
+158,Allardyce's side get a free kick.,59 min,7,1,21.4608865598,0.0,0.0,0.0,0.0,0,0.146315,0,0,0,0,0,0,0,0,0,0
+159,"Sao aims for the far corner, but the keeper tracks the ball and pushes the ball away.",59 min,12,7,62.8450248717,0.0,0.0,0.0277369070777,0.0,0,0.20582,0,0,0,0,0,0,0,0,0,0
+160,"Palace are posing more of a threat now, with the wingers showcasing their pace, trying to cause Swansea problems.",60 min,13,9,73.6846551359,0.0277369070777,0.0,0.0,0.12609512009,0,0.152175,0,1,0,0,0,0,0,0,0,0
+161,CHANCE!,63 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+162,More pressure from Palace as Ledley gets on the end of Ward's cross into the box.,63 min,10,8,56.5551364732,0.0,0.12609512009,0.211715625674,0.171640022802,0,0.33877,0,0,0,0,0,0,0,0,0,0
+163,"Ledley thumps a shot at goal, but Mawson gets his body in the way.",63 min,10,6,50.718793909,0.211715625674,0.0,0.098908948388,0.0506317153825,1,0.20103,0,0,0,0,0,0,0,0,0,0
+164,Zaha darts past Mawson before edging into the box.,68 min,7,3,37.923278883,0.098908948388,0.171640022802,0.0127196283444,0.0,0,0.156615,0,0,0,0,0,0,0,0,0,0
+165,"He tried to cut the ball back to Campbell, but Swansea intercept.",68 min,9,5,43.4142272514,0.0127196283444,0.0506317153825,0.0,0.052639817648,0,0.1232,0,0,0,0,0,0,0,0,0,0
+166,CHANCE!,69 min,2,0,4.20882548901,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+167,"Sako tries his luck from the edge of the area after connecting with Delaney's header, but his attempt sails over the crossbar.",69 min,14,11,86.7811932813,0.0,0.052639817648,0.0225679246107,0.0,0,0.52769,0,0,0,0,0,0,0,0,1,0
+168,SWANSEA SUBS: Two quick changes from Swansea as Fer replaces Fulton and Taylor makes way for Rangel.,71 min,15,4,68.5088346416,0.0225679246107,0.0,0.0845007938293,0.0,0,0.08992,0,0,0,0,0,0,0,0,0,0
+169,It's all Palace now as they continue to pepper Swansea's goal.,75 min,8,6,38.7544691065,0.0845007938293,0.0,0.0826683917514,0.0,1,0.1,0,0,0,0,0,0,0,0,0,0
+170,Can they hold on?,75 min,2,3,15.5145231557,0.0826683917514,0.0,0.0,0.0,0,0.031245,0,0,0,0,0,0,0,0,0,0
+171,PENALTY DENIED!,77 min,3,0,9.24432955121,0.0,0.0,0.156822445595,0.0,0,0.027775,0,0,0,0,0,1,0,0,0,0
+172,Another penalty claim is waved away by the referee after Sako gets brought down by Rangel.,77 min,11,6,67.9451695518,0.156822445595,0.0,0.0,0.0,0,0.2425,0,0,0,0,0,1,0,0,0,0
+173,BOOKING!,77 min,2,0,4.90197266957,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+174,Kelly receives a yellow card for fouling Sigurdsson.,77 min,7,2,32.3734945235,0.0,0.0,0.0399424285881,0.0,0,0.052635,0,0,0,0,0,0,0,0,0,0
+175,SWANSEA SUB: It's the end of the afternoon for Routledge as Dyer comes on to replace him.,80 min,11,9,60.0077945496,0.0399424285881,0.0,0.0,0.0703206862227,0,0.185415,0,0,0,0,0,0,0,0,0,0
+176,GOAL!,83 min,2,0,3.9856819377,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+177,PALACE 1-1 SWANSEA (ZAHA),83 min,6,0,9.2554161798,0.0,0.0703206862227,0.0,0.356539645485,0,0.066665,0,0,0,0,0,0,0,0,0,0
+178,It was coming!,83 min,2,2,11.7598356438,0.0,0.0,0.0,0.106245210444,0,0.135715,0,0,0,0,0,0,0,0,0,0
+179,Palace have found an equaliser through Wilfried Zaha!,83 min,6,3,33.9388083325,0.0,0.356539645485,0.0,0.0769931309136,0,0.126315,0,0,0,0,0,0,0,0,0,0
+180,It's very easy on the eye too!,83 min,4,5,28.512180188,0.0,0.106245210444,0.072331054585,0.0,0,0.112745,0,0,0,0,0,0,0,0,0,0
+181,"Kelly delivers in a cross, which Zaha converts into the back of the net with a scissor kick on the volley.",83 min,12,11,71.0150011809,0.072331054585,0.0769931309136,0.0139081236268,0.0,0,0.402145,0,0,0,0,0,0,0,0,0,0
+182,"We haven't seen much attacking threat from Swansea in this half, but they are eager to snatch a winner as they send men forward.",87 min,15,12,90.7890752505,0.0139081236268,0.0,0.0,0.0511755582682,0,0.115385,0,1,0,0,0,0,0,0,0,0
+183,GOAL!,88 min,2,0,3.9856819377,0.0,0.0,0.0,0.0,1,0.02857,0,0,0,0,0,0,0,0,0,0
+184,PALACE 1-2 SWANSEA (RANGEL),88 min,6,0,9.50673060808,0.0,0.0511755582682,0.0747691669685,0.213405988957,0,0.08333,0,0,0,0,0,0,0,0,0,0
+185,"Wow, Swansea have scored what is sure to be the winner here!",88 min,7,7,46.6232029921,0.0747691669685,0.0,0.0488592019347,0.0348457100454,0,0.105075,0,1,0,0,0,0,0,0,0,0
+186,"Fer makes it happen as he plays in Rangel, who is running in behind.",88 min,9,7,54.6717111687,0.0488592019347,0.213405988957,0.0,0.0,0,0.12024,0,0,0,0,0,0,0,0,0,0
+187,The Spaniard then delivers a low shot into the back of the net.,88 min,7,7,43.3644598791,0.0,0.0348457100454,0.0,0.0862533716629,0,0.294055,0,0,0,0,0,0,0,0,0,0
+188,BOOKING!,90+2 min,2,0,4.90197266957,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+189,We're into five minutes of added time and Tomkins receives a yellow card for dissent.,90+2 min,11,6,58.6856341636,0.0,0.0862533716629,0.116070811443,0.0882754855726,0,0.137445,0,0,0,0,0,0,0,0,0,0
+190,FULL-TIME: PALACE 1-2 SWANSEA,90+5 min,5,0,5.16437372644,0.116070811443,0.0,0.0,0.0563638474265,0,0.08163,0,0,0,0,0,0,0,0,0,0
+191,"So, there we have it.",9.57pm,2,5,18.2214241013,0.0,0.0882754855726,0.0,0.0,0,0.03125,0,0,0,0,0,0,0,0,0,0
+192,Swansea get a much-needed win - only their fourth league triumph of the season.,9.57pm,10,5,41.4363932022,0.0,0.0563638474265,0.0175413113948,0.0514135120933,0,0.147595,0,1,0,0,0,0,0,0,0,0
+193,"Wilfried Zaha cancelled out Alfie Mawson's opener, but Angel Rangel found the winner in the 88th minute.",9.57pm,15,5,70.5559968587,0.0175413113948,0.0,0.047132661534,0.0589438136853,0,0.660255,0,1,0,0,0,0,0,0,0,0
+194,"The result moves the Swans to within one point of safety, while Palace remain just the one point above the relegation zone.",9.57pm,15,9,84.0947657035,0.047132661534,0.0514135120933,0.0718722699713,0.0,0,0.496925,0,0,0,0,0,0,0,0,0,0
+195,"Sam Allardyce is yet to win his first game in charge of the Eagles, but new Swansea manager Paul Clement will hope he can guide the team through a positive run after watching tonight's game from the stands.",9.57pm,25,16,142.297002032,0.0718722699713,0.0589438136853,0.0,0.0,0,0.16464,0,1,0,0,0,0,0,0,0,0
+196,"Thank you for joining us, and until next time, goodbye!",9.57pm,9,4,45.5345131409,0.0,0.0,0.0,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
