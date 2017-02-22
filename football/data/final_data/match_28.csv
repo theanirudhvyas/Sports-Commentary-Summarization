@@ -1,0 +1,154 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,"Hello, and welcome to Sports Mole's live coverage of the match in the Premier League between Stoke City and Watford.",7.01pm,15,8,71.7622617998,0.0,0.0,0.153020669256,0.0236722595353,0,0.233845,0,0,0,0,0,0,0,0,0,0
+1,"While some teams enjoyed some fine results over the Christmas period, the same cannot be said of Stoke City and Watford.",7.04pm,12,12,88.654430406,0.153020669256,0.0,0.0119448392552,0.0785481433046,0,0.154615,0,0,0,0,0,0,0,0,0,0
+2,"Both clubs appear relatively safe from any trouble with relegation this season but they have found wins hard to come by of late, with neither team emerging victorious for almost a month.",7.04pm,20,14,131.089119848,0.0119448392552,0.0236722595353,0.0640468557798,0.0507021615388,0,0.09589,0,1,0,0,0,0,0,0,0,0
+3,"They've also been conceding a hatful at the back so while neither side will be full of confidence heading into tonight's contest, at least we may see a few goals!",7.04pm,19,15,116.471159673,0.0640468557798,0.0785481433046,0.0592021867018,0.0929808032263,1,0.13776,0,0,0,0,0,0,0,0,0,0
+4,"Anyway, without further ado, let's take a look at the team news which is coming from the Bet365 Stadium.",7.06pm,15,8,72.2987778995,0.0592021867018,0.0507021615388,0.017362400565,0.0,0,0.131705,0,0,0,0,0,0,0,0,0,0
+5,"Given the minimal break they have had since their last fixture, i'd expect a few changes...",7.06pm,11,8,60.4253771013,0.017362400565,0.0929808032263,0.0,0.0979272629852,0,0.102905,0,0,0,0,0,0,0,0,0,0
+6,"STOKE CITY XI: Grant; Johnson, Shawcross, Martins Indi; Diouf, Allen, Adam, Pieters; Arnautovic; Crouch, Walters",7.07pm,26,0,65.0102464788,0.0,0.0,0.0750136542482,0.085571739994,0,0.10968,0,0,0,0,0,0,0,0,0,0
+7,"STOKE CITY SUBSTITUTES: Given; Bardsley, Whelan, Afellay, Imbula, Shaqiri, Bojan",7.08pm,17,0,46.5005277812,0.0750136542482,0.0979272629852,0.0,0.113157091471,0,0.074425,0,0,0,0,0,0,0,0,0,0
+8,"WATFORD XI: Gomes; Kaboul, Prodl, Kabasele, Britos; Doucoure, Guedioura, Behrami, Capoue, Holebas; Deeney",7.09pm,24,0,59.63830164,0.0,0.085571739994,0.0303724378432,0.0,0,0.037035,0,0,0,0,0,0,0,0,0,0
+9,"WATFORD SUBSTITUTES: Pantilimon, Cathcart, Sinclair, Ighalo, Mason, Folivi, Eleftheriou",7.10pm,16,0,42.6293582303,0.0303724378432,0.113157091471,0.0,0.0,0,0.112745,0,0,0,0,0,0,0,0,0,0
+10,Let's start with Stokes as boss Mark Hughes decides to make a number of alterations to his team.,7.15pm,13,7,69.071329765,0.0,0.0,0.100273851319,0.130216919065,0,0.17727,0,0,0,0,0,0,0,0,0,0
+11,"Marko Arnautovic comes into the team after serving a suspension, with Xherdan Shaqiri dropping down to the bench.",7.15pm,12,8,68.8377037251,0.100273851319,0.0,0.111733855776,0.0490627920486,0,0.14624,0,0,0,0,0,0,0,0,0,0
+12,"Ibrahim Affelay is another to move out of the team, with Jonathan Walters earning a recall.",7.15pm,11,7,60.1466467632,0.111733855776,0.130216919065,0.0,0.0500948100628,0,0.124085,0,0,0,0,0,0,0,0,0,0
+13,Peter Crouch keeps his place after netting his first Premier League goal in 18 months against Chelsea.,7.15pm,13,5,70.5979583635,0.0,0.0490627920486,0.0428335981481,0.0,1,0.189315,0,0,0,0,0,0,0,0,0,0
+14,"As for Watford, it comes as no surprise that Walter Mazzarri has made changes from the team which capitulated against Tottenham Hotspur.",7.20pm,13,11,88.5515078758,0.0428335981481,0.0500948100628,0.0931076996151,0.0,0,0.120835,0,0,0,0,0,0,0,0,0,0
+15,"Craig Cathcart is replaced by Kabasele, while Valon Behrami is recalled having recovered from the injury which kept him out of the team on New Year's Day.",7.20pm,17,13,115.084140378,0.0931076996151,0.0,0.0643426056838,0.083507229111,0,0.107805,0,0,0,0,0,0,0,0,0,0
+16,Troy Deeney is preferred to Odion Ighalo.,7.20pm,6,2,29.2741885469,0.0643426056838,0.0,0.0516797754275,0.0,0,0.147645,0,0,0,0,0,0,0,0,0,0
+17,Tonight's match is one of three that are taking place in the Premier League this evening.,7.23pm,11,7,56.7591367919,0.0516797754275,0.083507229111,0.0340123879564,0.0,0,0.148545,0,0,0,0,0,0,0,0,0,0
+18,"We also have live coverage of the games involving Bournemouth and Arsenal at the Vitality Stadium, as well as Crystal Palace's so-called six-pointer against Swansea City.",7.23pm,19,10,93.1475247062,0.0340123879564,0.0,0.0,0.0219185212549,0,0.13226,0,0,0,0,0,0,0,0,0,0
+19,HEAD TO HEAD!,7.27pm,3,1,11.9063000447,0.0,0.0,0.0158214724641,0.0,0,0.033335,0,0,0,0,0,0,0,0,0,0
+20,"Tonight's fixture represents just the 34th time in which these two teams have faced other in a competitive fixture, with Stoke winning 13 times in comparison to Watford emerging victorious on 14 occasions.",7.27pm,23,13,130.908535995,0.0158214724641,0.0219185212549,0.0997796020271,0.0737207133542,0,0.13846,0,1,0,0,0,0,0,0,0,0
+21,There's been just three games played in the Premier League and they have all came within the last 15 months.,7.27pm,12,10,75.6189647963,0.0997796020271,0.0,0.130846402586,0.035792710244,0,0.175385,0,0,0,0,0,0,0,0,0,0
+22,"Remarkably, each of those games have ended in triumphs for the away side...",7.27pm,8,7,51.11028721,0.130846402586,0.0737207133542,0.177800238806,0.00949808950688,0,0.093305,0,0,0,0,0,0,0,0,0,0
+23,That of course means that the match at Vicarage Road on November 26 ended in a win for Stoke.,7.31pm,11,9,68.7124396753,0.177800238806,0.035792710244,0.00803313548582,0.141284340263,0,0.15246,0,1,0,0,0,0,0,0,0,0
+24,The goal came via an unusual source with Watford goalkeeper Heurelho Gomes putting through his own net.,7.31pm,12,6,72.9235992328,0.00803313548582,0.00949808950688,0.0,0.0123512355008,1,0.133335,0,0,0,0,0,0,0,0,0,0
+25,Read our match report from that game by clicking here.,7.31pm,6,5,42.4099212003,0.0,0.141284340263,0.0826239341981,0.0516165961749,0,0.05263,0,0,0,0,0,0,0,0,0,0
+26,It's not often that Peter Crouch gets spoken about these days so I am going to take the chance to talk about the veteran forward here.,7.35pm,14,14,103.158193883,0.0826239341981,0.0123512355008,0.10575386523,0.0,0,0.118775,0,0,0,0,0,0,0,0,0,0
+27,"He has been linked with a switch away from Stoke during the last couple of transfer windows but Mark Hughes has insisted on keeping him, despite not using him all that often.",7.35pm,17,17,127.451740616,0.10575386523,0.0516165961749,0.1225675989,0.168250472462,0,0.116665,0,1,0,0,0,0,0,0,0,0
+28,"However, despite only playing a maximum of 65 minutes in any game this season before Christmas, he has since started both games against Liverpool and Chelsea, featured for all but six minutes of those matches and scored his first Premier League goal in over 18 months.",7.35pm,29,21,181.585274407,0.1225675989,0.0,0.0949503334088,0.280988430003,1,0.117225,0,0,0,0,0,0,0,0,0,0
+29,It's just as if Hughes is trying to ease all talk of a potential transfer early on in this window...,7.35pm,10,12,74.1134505326,0.0949503334088,0.168250472462,0.115698942879,0.0226857852019,0,0.104475,0,1,0,0,0,0,0,0,0,0
+30,"While Crouch has made just three starts and eight substitute appearances in the league this season, his opposite number tonight Troy Deeney has started all but two of his team's games this season, scoring four goals and contributing three assists.",7.39pm,29,15,162.178664089,0.115698942879,0.280988430003,0.0280973276055,0.117952706419,1,0.09817,0,0,0,0,0,0,0,0,0,0
+31,The former Walsall man would have hoped for a better return than that but he remains a hugely important figure for the Hornets at a time when they need to find a way of halting their slide down the table.,7.39pm,20,21,143.801968672,0.0280973276055,0.0226857852019,0.124209071725,0.108271749046,0,0.14846,0,0,0,0,0,0,0,0,0,0
+32,"The results from yesterday have resulted in Stoke falling to 15th place in the table but they remain just the one point behind Watford, who are three spots higher in 12th.",7.43pm,19,14,114.949896387,0.124209071725,0.117952706419,0.166429846075,0.0,0,0.162365,0,0,0,0,0,0,0,0,0,0
+33,"In Watford's case, a win in Staffordshire would be enough to move them back into the top half of the standings, while Stoke could potentially move level on points with the likes of Bournemouth and Southampton in 10th and 11th respectively if they can prevail in front of their own fans.",7.43pm,30,25,195.034184984,0.166429846075,0.108271749046,0.0,0.0137624815769,0,0.146055,0,1,0,0,0,0,0,0,0,0
+34,PREDICTION!,7.47pm,2,0,5.34380542185,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+35,"Difficult one to call, this.",7.47pm,5,2,19.8638817806,0.0,0.0137624815769,0.0304092531019,0.0437808624184,0,0.03125,0,0,0,0,0,0,0,0,0,0
+36,"While Stoke have home advantage and are marginal favourites, it remains to be seen how four-goal defeats to both Liverpool and Chelsea have affected their mindset, especially with that coming off the back of the Potters blowing a two-goal lead against 10-man Leicester City.",7.47pm,26,21,155.674577943,0.0304092531019,0.0,0.151808344896,0.0913686497186,1,0.147995,0,1,0,0,0,0,0,0,0,0
+37,They will fancy their chances of a result against a Watford team who shipped four goals to Spurs but we are going to go for the 1-1 draw.,7.47pm,14,15,95.1961991669,0.151808344896,0.0437808624184,0.0442589681428,0.0764445182563,1,0.15756,0,0,0,0,1,0,0,0,0,0
+38,The first game of the evening is already underway at the Vitality Stadium with Bournemouth and Arsenal still goalless in the early stages.,7.50pm,14,10,80.1415314527,0.0442589681428,0.0913686497186,0.0625346565862,0.165285121089,1,0.172885,0,0,0,0,0,0,0,0,0,0
+39,"After Liverpool only drew with Sunderland yesterday, the Gunners will be desperate to take advantage.",7.50pm,10,7,62.082735174,0.0625346565862,0.0764445182563,0.0138946087564,0.0233093873432,0,0.093025,0,0,0,0,0,0,0,0,0,0
+40,It's almost time for kickoff at the Bet365 Stadium.,7.56pm,7,4,32.0611229717,0.0138946087564,0.165285121089,0.0557871208701,0.0,0,0.079235,0,0,0,0,0,0,0,0,0,0
+41,The teams are making their way out to a warm reception but it's not quite a full house tonight.,7.56pm,11,10,68.4301891044,0.0557871208701,0.0233093873432,0.078488507317,0.0952679428287,0,0.17238,0,0,0,0,0,0,0,0,0,0
+42,We are underway.,1 min,2,2,11.6493896309,0.078488507317,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+43,It's been a quiet start at the Britannia Stadium with both teams appearing to be taking a look at each other in these early stages.,3 min,12,15,90.257610105,0.0,0.0952679428287,0.0,0.0,0,0.167815,0,0,0,0,0,0,0,0,0,0
+44,Stoke have tried a move down either flank but neither of them came off.,3 min,8,7,52.9855102978,0.0,0.0,0.0,0.0311479807391,0,0.072725,0,0,0,0,0,0,0,0,0,0
+45,LATEST!,6 min,2,0,4.93834031375,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+46,A quick update on the game at the Vitality Stadium and Bournemouth have taken a two-goal lead against Arsenal.,6 min,11,9,58.2806579402,0.0,0.0311479807391,0.0302016354824,0.0,1,0.116155,0,0,0,0,0,0,0,0,0,0
+47,It's been a remarkable start from the Cherries.,6 min,5,5,26.1206758254,0.0302016354824,0.0,0.0,0.144371971649,0,0.136685,0,0,0,0,0,0,0,0,0,0
+48,"Still 70 minutes to go in that one, though.",6 min,8,3,34.0940444978,0.0,0.0,0.0,0.018490252636,0,0.091595,0,0,0,0,0,0,0,0,0,0
+49,Stoke win a corner on the left and it's Adam who takes it.,7 min,8,7,39.8039444479,0.0,0.144371971649,0.142047654702,0.0402989091639,0,0.166665,0,1,0,0,0,0,0,0,0,0
+50,"His ball into the penalty is accurate, but it's floated and Crouch is unable to get any power on his header.",7 min,12,12,77.9926518822,0.142047654702,0.018490252636,0.132442786906,0.146612653377,0,0.198,0,0,0,0,0,1,0,0,1,0
+51,Stoke haven't created anything aside from that Crouch header but they are making all of the early running.,11 min,11,9,66.1290622681,0.132442786906,0.0402989091639,0.159444191503,0.00865817425865,0,0.095235,0,0,0,0,0,0,0,0,1,0
+52,They are looking to get Arnautovic into the game as early as possible.,11 min,7,7,47.5225601616,0.159444191503,0.146612653377,0.00981436521449,0.0,0,0.117815,0,0,0,0,0,0,0,0,0,0
+53,He has been badly missed in the games he has missed through suspension.,11 min,6,8,50.7301480267,0.00981436521449,0.00865817425865,0.0,0.071641449428,0,0.112145,0,0,0,0,0,0,0,0,0,0
+54,SHOT!,12 min,2,0,4.24519313319,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+55,"After a free kick from the right is cleared, Holebas tries his luck from 30 yards but he is never threatening Grant's goal.",12 min,16,10,87.6200109626,0.0,0.071641449428,0.0,0.0727211096373,1,0.116155,0,0,0,0,0,0,0,0,0,0
+56,CHANCE!,16 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+57,Stoke should be doing much better from here.,16 min,4,5,31.6377529686,0.0,0.0727211096373,0.0,0.0,0,0.08333,0,0,0,0,0,0,0,0,0,0
+58,"Allen plays in Arnautovic and despite being in shooting range, he tries to pass to Walters in the middle but the forward is muscled out of it and the Potters have to make do with a corner.",16 min,17,22,127.744146126,0.0,0.0,0.0,0.0608910157238,0,0.27126,0,0,0,0,0,0,0,0,0,0
+59,BOOKING!,19 min,2,0,5.34380542185,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+60,This is an easy decision for the referee.,19 min,4,5,29.4904002213,0.0,0.0608910157238,0.0267374980408,0.0521792254634,0,0.06209,0,0,0,0,0,0,0,0,0,0
+61,Holebas nut-megs Diouf and the Stoke player decides to rugby tackle him down to the ground.,19 min,10,7,55.4859067261,0.0267374980408,0.0,0.182284976499,0.0376308314992,0,0.12245,0,0,0,0,0,0,0,0,0,0
+62,Stoke have a chance to break when Arnautovic spots the run of Pieters down the left but the pass forces the wing-back wide and Watford are able to deal with the threat.,22 min,17,16,102.784915486,0.182284976499,0.0521792254634,0.0513328766847,0.206701703316,0,0.20308,0,1,0,0,0,0,0,0,0,0
+63,Still no real chances to speak of in this game.,22 min,6,5,37.5916577988,0.0513328766847,0.0376308314992,0.0378625060306,0.100638592507,0,0.138055,0,0,0,0,0,0,0,0,0,0
+64,"Moments ago, Watford had half a penalty appeal when Johnson appeared to handle the ball in the area but it would have been harsh on the right-back.",26 min,16,13,94.8970462943,0.0378625060306,0.206701703316,0.0825844024758,0.0,0,0.31411,0,0,0,0,0,1,0,0,0,0
+65,"That said, it's probably the most entertaining thing to happen in this match.",26 min,9,7,50.1001797478,0.0825844024758,0.100638592507,0.0,0.0303917271087,0,0.086955,0,0,0,0,0,0,0,0,0,0
+66,Both teams look desperately short of confidence.,26 min,6,2,30.5554530255,0.0,0.0,0.0,0.0,0,0.14885,0,0,0,0,0,0,0,0,0,0
+67,"Arnautovic glides past two players on the left flank but as he attempts to cut inside, he slipped over and the chance was lost.",30 min,15,11,93.9339968589,0.0,0.0303917271087,0.0,0.171473586873,0,0.200975,0,0,0,1,0,0,0,0,0,0
+68,That sums this game up.,30 min,3,3,18.9177380855,0.0,0.0,0.0,0.0,0,0.03846,0,0,0,0,0,0,0,0,0,0
+69,CHANCE!,31 min,2,0,3.55204595263,0.0,0.171473586873,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+70,"Better from Stoke as Pieters finds Crouch at the back post, and the tall forward forces Gomes into a save from around 12 yards out.",31 min,17,10,92.7944124648,0.0,0.0,0.0335934306723,0.0,0,0.167615,0,0,0,0,0,0,0,0,0,0
+71,Watford also have to react to clear the ball before Walters could convert the rebound.,31 min,10,6,53.6797247362,0.0335934306723,0.0,0.0,0.0,0,0.142855,0,0,0,0,0,0,0,0,0,0
+72,CHANCE!,33 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+73,What was Doucoure thinking?!,33 min,4,2,18.8494930431,0.0,0.0,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+74,Holebas finds him with a pin-point reverse pass and it appears that the summer signing only has to curl the ball into the far corner.,33 min,13,13,87.6467236524,0.0,0.0,0.0529051640783,0.0554439636801,0,0.24868,0,0,0,0,0,0,0,0,0,0
+75,"However, he opts to try to set up a teammate and Stoke are able to get a foot in.",33 min,11,10,63.8607801053,0.0529051640783,0.0,0.0178747861762,0.0347749293986,0,0.237525,0,0,0,0,0,0,0,0,0,0
+76,Stoke win a corner which is easily cleared but a high boot from Guedioura gives the Potters a free kick around 30 yards out.,37 min,16,9,85.8473357424,0.0178747861762,0.0554439636801,0.0443319823642,0.0,0,0.135385,0,1,0,0,0,0,0,0,0,0
+77,Arnautovic is taking an interest in this...,37 min,4,4,25.9871444328,0.0443319823642,0.0347749293986,0.0,0.0,0,0.05128,0,0,0,0,0,0,0,0,0,0
+78,What a waste.,38 min,2,2,9.77132011183,0.0,0.0,0.0,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+79,Stoke decide to play it short for Adam to float a ball into the box but it's easily cleared.,38 min,12,9,65.4883949406,0.0,0.0,0.0,0.0,0,0.20464,0,0,0,0,0,0,0,0,0,0
+80,Such a poor game this.,38 min,3,3,16.7928084885,0.0,0.0,0.0,0.0569457611392,0,0.052635,0,0,0,0,0,0,0,0,0,0
+81,SHOT!,41 min,2,0,4.24519313319,0.0,0.0,0.205052266955,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+82,"To his credit, Arnautovic is trying to take the game by the scruff of the neck but his final touch or shot have been appalling.",41 min,13,14,91.8445764017,0.205052266955,0.0569457611392,0.0936679446359,0.0264989198155,0,0.182765,0,0,0,0,0,0,0,0,0,0
+83,He cut inside on this occasion and should at least be testing Gomes but his effort goes about 10 yards over the bar.,41 min,12,12,93.2092694756,0.0936679446359,0.0,0.083456804614,0.0120956084012,0,0.10145,0,0,0,0,0,0,0,0,0,0
+84,There will be three minutes of added-on time.,45 min,5,4,25.5856397259,0.083456804614,0.0264989198155,0.0,0.0,0,0.16638,0,0,0,0,0,0,0,0,0,0
+85,The referee has got it is for us.,45 min,4,5,28.4137668393,0.0,0.0120956084012,0.114823434409,0.0537956029937,0,0.04651,0,0,0,0,0,0,0,0,0,0
+86,I think Arnautovic has taken it upon himself to try to make something happen.,45+2 min,9,6,53.9060176552,0.114823434409,0.0,0.0469653420219,0.0,0,0.064005,0,0,0,0,0,0,0,0,0,0
+87,He does well down the left before trying to find Crouch with a low ball into the middle but Prodl does superbly to clear behind for a corner.,45+2 min,14,15,100.360359307,0.0469653420219,0.0537956029937,0.0,0.0,0,0.191515,0,0,0,0,0,0,0,0,0,0
+88,GOAL!,45+3 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,1,0.03448,0,0,0,0,0,0,0,0,0,0
+89,Stoke City 1-0 Watford (Shawcross),45+3 min,7,0,13.0150332448,0.0,0.0,0.551647911094,0.0,0,0.163705,0,0,0,0,0,0,0,0,0,0
+90,HALF TIME: Stoke City 1-0 Watford,45+3 min,7,0,15.8739320169,0.551647911094,0.0,0.180422037752,0.0930358610179,0,0.133035,0,0,0,0,0,0,0,0,0,0
+91,What an end to the first half!,8.52pm,4,4,24.4686782986,0.180422037752,0.0,0.110924044316,0.0420902344871,0,0.12446,0,0,0,0,0,0,0,0,0,0
+92,"A corner is whipped in from the left by Adam and Shawcross, on the half-volley, fires the ball past Gomes from 12 yards.",8.52pm,15,11,74.2512526256,0.110924044316,0.0930358610179,0.0250735705604,0.0,0,0.302105,0,0,0,0,0,0,0,0,0,0
+93,I think the goalkeeper was unsighted to a certain extent but he should have done better with it.,8.52pm,8,11,62.3979350227,0.0250735705604,0.0420902344871,0.0,0.0,1,0.112905,0,0,0,0,0,0,0,0,0,0
+94,Mazzarri will be furious.,8.52pm,3,2,16.6930904603,0.0,0.0,0.0,0.0,0,0.099645,0,0,0,0,0,0,0,0,0,0
+95,Hughes less so.,8.52pm,3,1,13.6110481369,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+96,We are back underway at the Bet365 Stadium.,46 min,5,4,28.0359917233,0.0,0.0,0.0,0.0917467503164,0,0.0825,0,0,0,0,0,0,0,0,0,0
+97,SHOT!,47 min,2,0,4.24519313319,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+98,Mazzarri has evidently read the riot act at half time.,47 min,8,3,40.4006606671,0.0,0.0917467503164,0.102023948356,0.0,0,0.07143,0,0,0,0,0,0,0,0,0,0
+99,"Watford are straight onto the front foot and unlike in the first half, Doucoure decides to shoot when he has the opportunity and Grant needs to pull off a tremendous save.",47 min,19,14,115.952836099,0.102023948356,0.0,0.0,0.0505202721101,0,0.181345,0,0,0,0,0,0,0,0,0,0
+100,GOAL!,49 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,1,0.03448,0,0,0,0,0,0,0,0,0,0
+101,Stoke City 2-0 Watford (Crouch),49 min,7,0,12.3218860642,0.0,0.0505202721101,0.199578117569,0.128823402756,0,0.21931,0,0,0,0,0,0,0,0,0,0
+102,"Despite Watford's fast start, Stoke double their lead thanks to Crouch, who diverts the ball into the net with his knee after meeting Adam's cross.",49 min,21,9,98.4939555995,0.199578117569,0.0,0.0388976726668,0.0,0,0.427025,0,0,0,0,0,0,0,0,0,0
+103,It's a long way back for Watford but Stoke have blown leads recently so they are still in this game.,49 min,12,10,68.5722627558,0.0388976726668,0.128823402756,0.0,0.070886992884,0,0.161825,0,0,0,0,0,0,0,0,0,0
+104,LATEST!,53 min,2,0,4.93834031375,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+105,"In the game at the Vitality Stadium, Bournemouth currently hold a 3-1 lead over Arsenal.",53 min,11,6,47.4689967187,0.0,0.070886992884,0.0550511920181,0.137008899022,0,0.125905,0,0,0,0,0,0,0,0,0,0
+106,The Gunners have the momentum though after just pulling a goal back.,53 min,7,6,41.3767074261,0.0550511920181,0.0,0.0,0.0887751592772,1,0.125,0,0,0,0,0,0,0,0,0,0
+107,Swansea also lead 1-0 at Crystal Palace - what a win that would be!,53 min,10,5,45.415962022,0.0,0.137008899022,0.028175309302,0.182504981597,0,0.066665,0,1,0,0,0,0,0,0,0,0
+108,That second Stoke goal has resulted in Watford trying to throw caution to the wind and they are definitely causing more problems for the home defence than they did in the first half.,57 min,17,17,121.669071927,0.028175309302,0.0887751592772,0.0489351452532,0.156400102992,1,0.19119,0,1,0,0,0,0,0,0,0,0
+109,I should have added that Ighalo is also on after being introduced at the break.,57 min,6,10,53.0187977545,0.0489351452532,0.182504981597,0.0380676843463,0.0110820834287,0,0.117415,0,0,0,0,0,0,0,0,0,0
+110,"We are an hour through this game now and although Stoke lead, they have been second best over the last five minutes.",61 min,12,12,83.6663901426,0.0380676843463,0.156400102992,0.137027286198,0.146618625592,0,0.166665,0,0,0,0,0,0,0,0,0,0
+111,"The Watford players are still playing for Mazzarri, they just haven't defended very well in this game.",61 min,11,9,61.0874557084,0.137027286198,0.0110820834287,0.0595893770155,0.0334031290946,0,0.12,0,0,0,0,0,0,0,0,0,0
+112,This is an interesting one.,62 min,3,3,19.3938781513,0.0595893770155,0.146618625592,0.0902810975445,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+113,Shawcross clearly fouls Deeney on the edge of the box but the referee takes an age before giving the free kick.,62 min,13,9,80.6538249731,0.0902810975445,0.0334031290946,0.0,0.285639484721,0,0.146235,0,0,0,0,0,0,0,0,0,0
+114,Big chance here.,62 min,3,1,12.9868938278,0.0,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0
+115,It's Guedioura who takes the free kick but Diouf is able to deflect the ball over for a corner.,63 min,11,10,63.9708945235,0.0,0.285639484721,0.0685999152604,0.0183559037507,0,0.17238,0,0,0,0,0,0,0,0,0,0
+116,The resulting set piece from Holebas is headed clear.,63 min,7,3,36.402821561,0.0685999152604,0.0,0.0,0.0119194776424,0,0.083335,0,0,0,0,0,0,0,0,0,0
+117,Stoke are beginning to retreat further back towards their own box.,67 min,7,5,44.9743182521,0.0,0.0183559037507,0.0,0.0,0,0.076925,0,0,0,0,0,0,0,0,0,0
+118,It's a dangerous game when Watford have strikers like Deeney and Ighalo which can be found in the air.,67 min,11,10,69.4145558865,0.0,0.0119194776424,0.0,0.0442975842297,0,0.198385,0,0,0,0,0,0,0,0,0,0
+119,SUBSTITUTIONS!,68 min,2,0,5.34380542185,0.0,0.0,0.0,0.0,0,0.035715,0,0,0,0,0,0,0,0,0,0
+120,"A change for both sides, with Afellay replacing Diouf for Stoke and Sinclair coming on for Watford midfielder Guedioura.",68 min,13,8,69.9164124796,0.0,0.0442975842297,0.0,0.101993554142,0,0.13333,0,0,0,0,0,0,0,0,0,0
+121,SHOT!,71 min,2,0,4.24519313319,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+122,"Better from Stoke, who have been very much second best for the last 20 minutes.",71 min,10,7,56.5611593074,0.0,0.101993554142,0.0440575812967,0.0,0,0.162035,0,0,0,0,0,0,0,0,0,0
+123,Afellay attempted to mark his introduction with a volley from distance went wide of the target.,71 min,10,7,60.8049116322,0.0440575812967,0.0,0.0,0.0,0,0.29529,0,0,0,0,0,0,0,0,0,0
+124,CHANCE!,75 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+125,How haven't Stoke scored a third here?,75 min,5,4,24.5164192569,0.0,0.0,0.0,0.0,0,0.05714,0,0,0,0,0,0,0,0,0,0
+126,"The first opportunity falls to Crouch, who completely mis-times his header, but the ball falls to Walters from close range and he can't convert.",75 min,18,10,81.0000537048,0.0,0.0,0.0,0.0390769419501,0,0.26637,0,0,1,0,0,0,0,0,1,0
+127,Could that prove costly?,75 min,4,1,18.3794894139,0.0,0.0,0.0,0.0,0,0.01961,0,0,0,0,0,0,0,0,0,0
+128,Still 15 minutes to go here.,75 min,5,2,23.1014344033,0.0,0.0390769419501,0.0,0.0,0,0.06383,0,0,0,0,0,0,0,0,0,0
+129,CHANCE!,77 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+130,It very nearly did!,77 min,2,3,17.5040206765,0.0,0.0,0.0,0.0,0,0.02222,0,0,0,0,0,0,0,0,0,0
+131,Watford go back up the other end and Sinclair sees a header cleared off the line before Prodl fails to head in from close range.,77 min,15,11,94.7711227585,0.0,0.0,0.0690283790504,0.097830618325,0,0.448465,0,0,1,0,0,0,0,0,1,0
+132,The Hornets are still in this.,77 min,3,4,18.6104174849,0.0690283790504,0.0,0.0,0.0502585281326,0,0.054055,0,0,0,0,0,0,0,0,0,0
+133,Less than 10 minutes to go now.,81 min,5,3,28.7817120618,0.0,0.097830618325,0.0,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+134,Mazzarri has thrown on offensive-minded youngster Folivi in place of Prodl.,81 min,8,4,39.6666914921,0.0,0.0502585281326,0.0,0.0,0,0.06818,0,0,0,0,0,0,0,0,0,0
+135,CHANCE!,83 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+136,"Another opportunity for Stoke to guarantee the three points but again, they cannot take it.",83 min,9,9,60.1429452037,0.0,0.0,0.0529357250325,0.0,0,0.10714,0,0,0,0,0,0,0,0,0,0
+137,Walters was sent clear on goal but Gomes was on hand to make the intervention.,83 min,9,7,57.4988154221,0.0529357250325,0.0,0.0,0.0934287459164,1,0.22127,0,0,0,0,0,0,0,0,0,0
+138,CHANCE!,84 min,2,0,3.55204595263,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+139,"From the resulting corner, Shawcross fires just wide on the half-volley.",84 min,8,5,35.4246168178,0.0,0.0934287459164,0.0408526983366,0.0703555725048,0,0.25263,0,0,0,0,0,0,0,0,0,0
+140,Almost two for the centre-back.,84 min,4,2,13.0889522346,0.0408526983366,0.0,0.0278325584301,0.0777953941676,0,0.08605,0,0,0,0,0,0,0,0,0,0
+141,"Glenn Whelan has come on in place of Adam, who will be the man of the match in this game having set up both goals.",84 min,12,15,90.7032751423,0.0278325584301,0.0703555725048,0.0,0.0415493193526,1,0.136835,0,0,0,0,0,0,0,0,0,0
+142,Time is quickly running out for Watford.,89 min,5,3,26.1834767267,0.0,0.0777953941676,0.0,0.0,0,0.05882,0,0,0,0,0,0,0,0,0,0
+143,I think that burst from Stoke has put paid to their hopes.,89 min,7,6,43.0820175536,0.0,0.0415493193526,0.129185981523,0.0,0,0.05357,0,0,0,0,0,0,0,0,0,0
+144,They have put a lot into this second half without any reward.,89 min,7,6,45.0085587581,0.129185981523,0.0,0.0,0.0,0,0.09199,0,0,0,0,0,0,0,0,0,0
+145,There will be three minutes of added-on time.,90 min,5,4,25.5856397259,0.0,0.0,0.146746366294,0.113498707077,0,0.16638,0,0,0,0,0,0,0,0,0,0
+146,FULL TIME: Stoke City 2-0 Watford,90+3 min,7,0,16.7494007542,0.146746366294,0.0,0.363418231571,0.0807850134926,0,0.18714,0,0,0,0,0,0,0,0,0,0
+147,The full-time whistle goes at the Bet365 Stadium and Stoke have held on to record a 2-0 win over Watford.,10.00pm,12,9,58.6571040514,0.363418231571,0.113498707077,0.183621844577,0.0322315424023,0,0.247505,0,1,0,0,0,0,0,0,0,0
+148,The goals either side of half time did for the Hornets and they are now without a win in six games and fall to 14th in the table.,10.00pm,14,15,95.4755042396,0.183621844577,0.0807850134926,0.127598330733,0.0318675895403,1,0.174775,0,1,0,0,0,0,0,0,0,0
+149,"As for Stoke, they sit in 11th position.",10.00pm,6,4,30.1787768959,0.127598330733,0.0322315424023,0.0580688691171,0.0603850559295,0,0.10204,0,0,0,0,0,0,1,0,0,0
+150,That will be all from Sports Mole for this game.,10.01pm,4,7,35.7272756901,0.0580688691171,0.0318675895403,0.091178640637,0.0870899640289,0,0.08836,0,0,0,0,0,0,0,0,0,0
+151,Thank you for joining us this evening and we hope to see you tomorrow for the match between Tottenham Hotspur and Chelsea.,10.01pm,12,11,90.9096076319,0.091178640637,0.0603850559295,0.0905637121704,0.0,0,0.093305,0,0,0,0,0,0,0,0,0,0
+152,Goodbye for now.,10.01pm,2,2,12.5124358482,0.0905637121704,0.0870899640289,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0

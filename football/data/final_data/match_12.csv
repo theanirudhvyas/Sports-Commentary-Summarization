@@ -1,0 +1,208 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Evening all!,6.46pm,2,1,9.78470440151,0.0,0.0,0.0,0.0,0,0.022225,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live Champions League coverage continues from Scotland as Scottish champions Celtic welcome the Spanish champions Barcelona in Group C. The atmosphere has been building throughout the afternoon and there is sure to be some serious noise inside Celtic Park when the match kicks off in just under one hour.,6.46pm,33,20,197.641532912,0.0,0.0,0.100849286337,0.197443049348,0,0.17364,0,0,0,0,0,0,0,0,0,0
+2,Be sure to stick with us for what should be an enthralling night!,6.46pm,6,8,54.9640790966,0.100849286337,0.0,0.0810082241191,0.0,0,0.070175,0,0,0,0,0,0,0,0,0,0
+3,Tonight will be the 10th time that these two teams have clashed in the Champions League.,6.49pm,9,8,59.3276883189,0.0810082241191,0.197443049348,0.0665679932957,0.180569781052,0,0.142265,0,0,0,0,0,0,0,0,0,0
+4,"Barcelona have won seven of the previous nine, although Celtic's only victory did come in this stadium in November 2012, when they incredibly won 2-1 despite having just 15% of the possession.",6.49pm,21,16,124.544074074,0.0665679932957,0.0,0.109513939186,0.106913362771,0,0.141745,1,0,0,0,0,0,0,0,0,0
+5,That was some night in Glasgow and the hosts will be looking for a repeat in November 2016.,6.49pm,8,11,65.4792840163,0.109513939186,0.180569781052,0.0727794344364,0.107083923553,0,0.14624,0,0,0,0,0,0,0,0,0,0
+6,"Celtic were thumped 7-0 when they travelled to Barcelona in September, however, with Lionel Messi hitting a hat-trick in a match where Moussa Dembele missed a penalty for the visitors.",6.52pm,20,13,97.3512053069,0.0727794344364,0.106913362771,0.0727909564691,0.0437299305263,0,0.16477,0,0,0,0,0,1,0,0,0,0
+7,"It was a tough game for Celtic, but they always, always fancy their chances in this special stadium.© SilverHub",6.52pm,12,9,65.9629320739,0.0727909564691,0.107083923553,0.0110968323535,0.0238128388984,0,0.12857,0,0,0,0,0,0,0,0,0,0
+8,"Right, without further ado, let me bring you up-to-speed with the all-important team news from Celtic Park.",6.55pm,14,6,65.3730398428,0.0110968323535,0.0437299305263,0.0281725802175,0.033521158047,0,0.09091,0,0,0,0,0,0,0,0,0,0
+9,Both teams were in league action at the weekend – Celtic winning 1-0 at Kilmarnock and Barcelona drawing 0-0 at home to Malaga.,6.55pm,15,9,73.3331585813,0.0281725802175,0.0238128388984,0.0357234851458,0.0571124070058,0,0.26396,0,1,0,0,1,0,0,0,0,0
+10,These are the two XIs that will take to the field tonight...,6.55pm,6,7,42.741355681,0.0357234851458,0.033521158047,0.0,0.0785563893024,0,0.128605,0,0,0,0,0,0,0,0,0,0
+11,"TEAMS!CELTIC: Gordon; Lustig, Simunovic, Sviatchenko, Izaguirre; Sinclair, Brown, Armstrong, McGregor, Rogic; DembeleFCB: Ter Stegen; Roberto, Pique, Mascherano, Alba; Busquets, Gomes, Rakitic; Neymar, Suarez, Messi",6.58pm,48,0,113.048057288,0.0,0.0571124070058,0.116575609031,0.0480422341008,0,0.080645,0,0,0,0,0,0,0,0,0,0
+12,"Celtic boss Brendan Rodgers has made three changes from the team that beat Kilmarnock in the league at the weekend, with Jozo Simunovic, Tom Rogic and Emilio Izaguirre taking the places of Dedryck Boyata, Patrick Roberts and James Forrest.",7.02pm,30,13,159.158800823,0.116575609031,0.0785563893024,0.0916542138549,0.134987667923,0,0.32389,0,0,0,0,0,0,0,0,0,0
+13,"Meanwhile, in-demand Moussa Dembele, who has scored 14 times for Celtic this season, continues in the final third with support from Scott Sinclair.",7.02pm,19,8,86.2639351262,0.0916542138549,0.0480422341008,0.0642418793302,0.123753724179,0,0.27244,0,0,0,0,0,0,0,0,0,0
+14,"As for Barcelona, Lionel Messi returns to the XI after sitting out the goalless draw with Malaga at the weekend.",7.05pm,12,10,73.0375118084,0.0642418793302,0.134987667923,0.0873586473414,0.214185394938,1,0.35534,0,0,0,0,1,0,0,0,0,0
+15,"Luis Suarez also returns from a domestic suspension to start in the final third, while Andre Gomes is selected in midfield alongside Sergio Busquets and Ivan Rakitic.",7.05pm,20,9,110.736721903,0.0873586473414,0.123753724179,0.142458047412,0.0469200760457,0,0.18851,0,0,0,0,0,0,0,0,0,0
+16,Jordi Alba also returns to the left side of the defence after overcoming a hamstring problem.,7.05pm,11,6,61.807674099,0.142458047412,0.214185394938,0.0160641107884,0.0,0,0.158465,0,0,0,0,0,0,0,0,0,0
+17,"Aside from Andres Iniesta, who remains on the sidelines, it is arguably Barcelona's strongest XI.",7.05pm,13,6,64.1910400193,0.0160641107884,0.0469200760457,0.0307966037056,0.058561358102,0,0.132815,0,0,0,0,0,0,0,0,0,0
+18,Luis Enrique is taking no chances tonight.© SilverHub,7.05pm,6,2,31.3377955265,0.0307966037056,0.0,0.0,0.0,0,0.067695,0,0,0,0,0,0,0,0,0,0
+19,So there we have it.,7.08pm,1,5,18.8889928114,0.0,0.058561358102,0.123127873906,0.095979827712,0,0.022725,0,0,0,0,0,0,0,0,0,0
+20,The two teams are in and we are now just about 40 minutes from kickoff here.,7.08pm,6,11,59.4514076685,0.123127873906,0.0,0.141325894607,0.0403336793354,0,0.10169,0,0,0,0,0,0,0,0,0,0
+21,"Right, before we run through the facts and figures, let's discuss how things stand in Group C with two matches left to play.",7.08pm,18,9,93.5957865426,0.141325894607,0.095979827712,0.0613428547548,0.0680884445407,0,0.111505,0,0,0,0,0,0,0,0,0,0
+22,"Barcelona sit top on nine points, with Manchester City second with seven points - three points above third-place Borussia Monchengladbach, who lead bottom club Celtic by two points.",7.08pm,25,6,112.625854127,0.0613428547548,0.0403336793354,0.114597461664,0.0419947264355,0,0.11878,0,0,0,0,0,0,0,0,0,0
+23,"A win over Celtic would guarantee Barcelona's place in the round of 16, but they would go through regardless of their result if Monchengladbach fail to beat Man City.",7.12pm,20,12,108.064017469,0.114597461664,0.0680884445407,0.26878645504,0.107326356586,0,0.255155,0,1,0,0,0,0,0,0,0,0
+24,"As for Pep Guardiola's side, a point away to Gladbach tonight would be enough to advance into the next round, but they may well have to win both of their remaining games in order to beat Barcelona to top spot in the section.",7.12pm,27,20,156.797876512,0.26878645504,0.0419947264355,0.172292709146,0.0646293482463,0,0.221505,0,1,0,0,0,0,0,0,0,0
+25,"After opening with a 7-0 victory over Celtic, Barcelona won 2-1 against Gladbach in Germany to move onto six points in the section.",7.15pm,15,10,77.7948640077,0.172292709146,0.107326356586,0.0359499653349,0.111368948461,0,0.21354,1,0,0,0,0,0,0,0,0,0
+26,"They then thumped Man City 4-0 at Camp Nou, but lost 3-1 in the reverse game at the Etihad earlier this month.",7.15pm,15,9,81.8098393855,0.0359499653349,0.0646293482463,0.0627245100395,0.0405032865733,0,0.111905,0,0,0,1,0,0,0,0,0,0
+27,"As mentioned, three points tonight would see them make the round of 16 ahead of their final group match at home to Gladbach on December 6.© SilverHub",7.15pm,19,9,98.3381950166,0.0627245100395,0.111368948461,0.0816642745518,0.106228843488,0,0.28111,0,0,0,0,0,0,0,0,0,0
+28,"Barcelona, who have triumphed in 21 of their 27 Champions League games under Luis Enrique, have won the European Cup in four of the last 11 seasons.",7.18pm,18,12,105.778763277,0.0816642745518,0.0405032865733,0.171766560728,0.0736993743246,0,0.177365,1,0,0,0,0,0,0,0,0,0
+29,"No other team has won it more than twice during the same period, while the Catalan giants have reached at least the semi-finals of the competition in seven of the last nine campaigns, which is a stunning record at this level of football.",7.18pm,20,26,161.633105888,0.171766560728,0.106228843488,0.208331917778,0.105124767708,0,0.15459,1,0,0,0,0,0,0,0,0,0
+30,"It is not all plain-sailing in La Liga at the moment, however, with Barcelona entering this match off the back of a 0-0 draw at home to Malaga at the weekend.",7.22pm,17,17,98.0723305232,0.208331917778,0.0736993743246,0.0654250402861,0.0850393416303,0,0.230675,0,0,0,0,1,0,0,0,0,0
+31,"That result has left them four points behind leaders Real Madrid ahead of a difficult trip to Real Sociedad, who have won their last four games, this weekend.",7.22pm,20,11,116.73669872,0.0654250402861,0.105124767708,0.025257111675,0.0967638056745,0,0.13229,1,0,0,0,0,0,0,0,0,0
+32,Then comes the small matter of the first Clasico of the season on December 3.,7.22pm,9,7,53.7548377162,0.025257111675,0.0850393416303,0.0,0.0617922015515,0,0.12032,0,0,0,0,0,0,0,0,0,0
+33,🍀 Look who it is!,7.25pm,3,3,14.5563074164,0.0,0.0967638056745,0.0,0.0,0,0.036365,0,0,0,0,0,0,0,0,0,0
+34,Stan the man!,7.25pm,3,1,11.2293902228,0.0,0.0617922015515,0.0,0.136603105387,0,0.026315,0,0,0,0,0,0,0,0,0,0
+35,"👍 #UCL #CELFCB #COYBIG pic.twitter.com/FpExsNouzt— Celtic Football Club (@celticfc) November 23, 2016",7.25pm,19,0,50.4400219243,0.0,0.0,0.0111398644272,0.0,0,0.018865,0,0,0,0,0,0,0,0,0,0
+36,"As for Celtic, they need to beat Barcelona and Man City in their final two group matches to stand a chance of qualifying for the round of 16.",7.28pm,17,13,90.4988638125,0.0111398644272,0.136603105387,0.229356191698,0.114250956933,0,0.251605,0,0,0,0,0,0,0,0,0,0
+37,"They are actually only two points off third-place Gladbach, however, and it does appear that those two teams will battle for a spot in the next round of the Europa League.",7.28pm,18,16,112.217095313,0.229356191698,0.0,0.112528359968,0.0871583350492,0,0.18161,0,0,0,0,0,0,0,0,0,0
+38,A win for the hosts tonight could see them take control of third position in the section.,7.28pm,11,7,59.3423007169,0.112528359968,0.114250956933,0.0327742235238,0.0,0,0.165045,0,1,0,0,0,0,1,0,0,0
+39,Celtic recovered from that 7-0 mauling at Barcelona by sharing the points in a 3-3 draw with Man City on September 28.,7.32pm,14,9,72.6350393732,0.0327742235238,0.0871583350492,0.0582670966733,0.0257845835169,0,0.167855,0,0,0,0,1,0,0,0,0,0
+40,"A 2-0 home defeat to Gladbach, which was very damaging, followed, but they managed to draw 1-1 away to Gladbach last time out.",7.32pm,17,10,79.9483677441,0.0582670966733,0.0,0.0593882605484,0.0,0,0.124055,0,0,0,0,1,0,0,0,0,0
+41,"Worryingly, Celtic have conceded 13 times in their four Group C matches to date and they face Messi, Neymar and Suarez tonight.",7.32pm,18,7,80.5411179925,0.0593882605484,0.0257845835169,0.0294530266666,0.16674949523,0,0.1437,0,0,0,0,0,0,0,0,0,0
+42,"In terms of the Scottish Premiership, it has been all too easy for Celtic this season.",7.35pm,8,10,58.1853402462,0.0294530266666,0.0,0.0520913762554,0.162767458039,0,0.180485,0,0,0,0,0,0,0,0,0,0
+43,The champions have won 11 of their 12 fixtures to date and currently sit 10 points clear of second-place Aberdeen with a game in hand.,7.35pm,15,11,91.2833947849,0.0520913762554,0.16674949523,0.0575473030769,0.0767958185979,0,0.15017,1,0,0,0,0,0,0,0,0,0
+44,"To be blunt, Rodgers's side are far too good for the rest of the division.",7.35pm,10,8,56.8479111353,0.0575473030769,0.162767458039,0.0275153703522,0.0496780108872,0,0.148395,0,0,0,0,0,0,0,0,0,0
+45,"The Champions League, however, is a different story.",7.38pm,8,3,27.4090246638,0.0275153703522,0.0767958185979,0.0,0.149406842817,0,0.124185,0,0,0,0,0,0,0,0,0,0
+46,Celtic have actually lost nine of their last 12 games in this competition and are winless in their last seven.,7.38pm,12,9,74.563725685,0.0,0.0496780108872,0.289600016705,0.0,0,0.163105,0,1,0,1,0,0,0,0,0,0
+47,"Meanwhile, the Scottish outfit have failed to keep a clean sheet in their last 17 Champions League matches, which is their longest run without a shut-out in this competition.",7.38pm,20,12,106.556992579,0.289600016705,0.149406842817,0.0202433443205,0.0246825097139,0,0.14125,0,0,0,0,0,0,0,0,0,0
+48,"Right, kickoff is now just around five minutes away here!© SilverHub",7.38pm,10,4,45.9062176285,0.0202433443205,0.0,0.127708830321,0.0404932624966,0,0.064015,0,0,0,0,0,0,0,0,0,0
+49,Here we go then - both sets of players join us on the pitch ahead of kickoff in Glasgow.,7.42pm,11,9,75.027134845,0.127708830321,0.0246825097139,0.0580620817509,0.0,0,0.100415,0,0,0,0,0,0,0,0,0,0
+50,"Once the pre-match handshakes have been undertaken and the flags have been exchanged, we will be ready to get the first 45 minutes underway.",7.42pm,13,13,89.2599166592,0.0580620817509,0.0404932624966,0.0258932559396,0.0,0,0.12256,0,0,0,0,0,0,0,0,0,0
+51,You just sense that Celtic need to make a fast start to this game.,7.42pm,8,7,49.4591507865,0.0258932559396,0.0,0.0,0.0431302821095,0,0.097315,0,0,0,0,0,0,0,0,0,0
+52,KICKOFF!,0 min,2,0,4.72810016727,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+53,Good grief - the noise inside this stadium is quite something.,0 min,9,3,41.9079401204,0.0,0.0431302821095,0.0340834719603,0.0,0,0.037035,0,0,0,0,0,0,0,0,0,0
+54,It is also a bitter night in Scotland and Barcelona look a little chilly!,0 min,9,6,46.8883673624,0.0340834719603,0.0,0.0,0.0389713480407,0,0.10978,0,0,0,0,0,0,0,0,0,0
+55,"Right, Celtic kick things off on home soil...",0 min,8,2,34.1831644463,0.0,0.0,0.0,0.0569987797304,0,0.040815,0,0,0,0,0,0,0,0,0,0
+56,... Barcelona should win this match.,2 min,5,2,17.9363344354,0.0,0.0389713480407,0.261709739878,0.0,0,0.04348,0,1,0,0,0,0,0,0,0,0
+57,"But should has no place in football, not on nights like this.",2 min,6,8,47.983349883,0.261709739878,0.0569987797304,0.0,0.0695257568468,0,0.074075,0,0,0,0,0,0,0,0,0,0
+58,The atmosphere is just sensational and that will be the case right throughout the 90 minutes.,2 min,8,9,57.8149114325,0.0,0.0,0.050566216637,0.187855568096,0,0.1,0,0,0,0,0,0,0,0,0,0
+59,"Barcelona are attempting to play from the back early on, but Celtic are pushing very high up the field here.",2 min,11,11,72.1048459568,0.050566216637,0.0695257568468,0.0304785569216,0.112707743778,0,0.11163,0,0,0,0,0,0,0,0,0,0
+60,You just get the feeling that the first goal tonight - if there indeed is one - could be vital.,4 min,12,9,71.2447475366,0.0304785569216,0.187855568096,0.0153211827107,0.0146274885114,1,0.080365,0,0,0,0,0,0,0,0,0,0
+61,"Barcelona have already attempted to free Messi in a dangerous area, but Armstrong was on hand to make the challenge.",4 min,13,9,71.542273708,0.0153211827107,0.112707743778,0.0599622508333,0.140382277762,0,0.144925,0,0,0,0,0,0,0,0,0,0
+62,"Pass, pass, pass from Barcelona as they attempt to create some space in the final third.",4 min,12,7,57.6410556259,0.0599622508333,0.0146274885114,0.0129304223292,0.0214190141127,0,0.16839,0,0,0,0,0,0,0,0,0,0
+63,"Brown has just caught Busquets with a late challenge, but the referee did not look bothered and that was welcomed by the home supporters.",6 min,13,13,91.3274586805,0.0129304223292,0.140382277762,0.0,0.12565963913,0,0.18901,0,0,0,0,0,0,0,0,0,0
+64,Celtic have to make this game into a battle tonight.,6 min,6,5,30.8376965276,0.0,0.0214190141127,0.10024146374,0.0250143511345,0,0.09331,0,0,0,0,0,0,0,0,0,0
+65,"Good work from Sinclair as the Celtic winger drives down the left before combining with Rogic, but Pique is across to make the challenge and Barcelona can build from the back once again.",8 min,18,17,124.020988956,0.10024146374,0.12565963913,0.0681608336558,0.0,0,0.24848,0,1,0,0,0,0,0,0,0,0
+66,"No clear chances inside the opening eight minutes, but Celtic are certainly matching Barcelona here.",8 min,12,5,58.4747407905,0.0681608336558,0.0250143511345,0.0,0.105619037671,0,0.12903,0,0,0,0,0,0,0,0,0,0
+67,CHANCE!,10 min,2,0,3.44716632181,0.0,0.0,0.153755349608,1.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+68,"First real chance for the away side as Neymar finds Messi with a clever flick inside the Celtic box, but the Argentine's effort is blocked and Suarez cannot beat Sviatchenko in the air!",10 min,23,14,120.447034563,0.153755349608,0.105619037671,0.153755349608,0.256319338608,0,0.29124,0,0,0,0,0,0,0,0,0,0
+69,CHANCE!,11 min,2,0,3.44716632181,0.153755349608,1.0,0.209158209223,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+70,"Another super chance for Messi following a wonderful Busquets pass, but for once, the Argentine cannot control!",11 min,13,8,66.3764301783,0.209158209223,0.256319338608,0.0,0.129634593724,0,0.152465,1,1,0,0,0,0,0,0,0,0
+71,Celtic need to be very careful during this spell of pressure.,11 min,6,6,42.7806202873,0.0,0.0,0.0610961602564,0.0122936575307,0,0.0933,0,0,0,0,0,0,0,0,0,0
+72,"The match has just settled in the last couple of minutes as Barcelona continue to pass and probe, but Celtic are looking dangerous when they have the chance to break through Sinclair and Dembele.",14 min,18,18,114.056511313,0.0610961602564,0.129634593724,0.138514377918,0.156860015359,0,0.19816,0,0,0,0,0,0,0,0,0,0
+73,"Ter Stegen continues to take chances with his kicking and the German puts his team in trouble once again with a poor clearance, but Sinclair is just crowded out at the vital moment.",16 min,18,17,130.131412681,0.138514377918,0.0122936575307,0.100690085042,0.189427559846,0,0.18251,0,0,0,0,0,0,0,0,0,0
+74,"Armstrong then looks to drive inside, but Rakitic makes the clearance as Barcelona look for a quick break.",16 min,13,7,67.7592640132,0.100690085042,0.156860015359,0.150086577813,0.0509211539306,0,0.119405,0,0,0,0,0,0,0,0,0,0
+75,"Half-chance for Barcelona as Alba picks out Messi with a clever pass inside the Celtic box, but the Argentine sweeps his effort wide of the post.",17 min,17,11,85.4046787659,0.150086577813,0.189427559846,0.065869989116,0.0988709464984,0,0.35579,0,0,0,0,0,0,0,0,0,0
+76,Another warning sign for the home side here.,17 min,6,3,30.4077084924,0.065869989116,0.0509211539306,0.017646572965,0.0244329686481,0,0.064775,0,0,0,0,0,0,0,0,0,0
+77,Dembele is causing Pique all sorts of bother at the moment as the powerful striker continues to throw his weight around and that is shaping up to be a very interesting battle tonight.,19 min,17,17,125.872228188,0.017646572965,0.0988709464984,0.147596443724,0.0,0,0.22511,0,0,0,0,0,0,0,0,0,0
+78,Barcelona continue to pass and probe in the final third of the field as boos ring around this famous stadium.,19 min,13,8,71.725538498,0.147596443724,0.0244329686481,0.0,0.106842183594,0,0.25302,0,0,0,0,0,0,0,0,0,0
+79,CHANCE!,20 min,2,0,3.44716632181,0.0,0.0,0.168871094691,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+80,"Another chance for Barcelona as Alba delivers a cross into Rakitic and the midfielder's header drops towards Messi, but the ball flies wide of the post.",20 min,19,10,94.3043131341,0.168871094691,0.106842183594,0.0,0.10097207846,0,0.226985,0,0,0,0,0,0,0,0,1,0
+81,Should make contact!,20 min,3,1,14.1073394607,0.0,0.0,0.0,0.0,0,0.064775,0,0,0,0,0,0,0,0,0,0
+82,Celtic just need to be careful here as Barcelona continue to find space in the final third of the field.,22 min,11,10,64.0698400188,0.0,0.10097207846,0.0932788567646,0.0,0,0.299895,0,0,0,0,0,0,0,0,0,0
+83,Messi might have scored twice in the last few minutes and Celtic cannot gain a foot-hold here.,22 min,10,9,59.2999659176,0.0932788567646,0.0,0.0,0.0728237012513,0,0.17068,0,0,0,0,0,0,0,0,0,0
+84,BOOKING!,23 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+85,Sviatchenko (Celtic) is booked for a foul on Messi.,23 min,8,4,28.3511646739,0.0,0.0728237012513,0.0,0.294777863341,0,0.1,0,0,0,0,0,0,0,0,0,0
+86,GOAL!,24 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,1,0.02,0,0,0,0,0,0,0,0,0,0
+87,Celtic 0-1 Barcelona (Messi),24 min,6,0,7.17899754807,0.0,0.294777863341,0.15535961861,0.0,0,0.09643,0,0,0,0,0,0,0,0,0,0
+88,Barcelona make the breakthrough in the 24th minute of this match as Neymar delivers a super ball into Messi and the Argentine hammers home at the near post.,25 min,17,12,96.5605439786,0.15535961861,0.0,0.0206511056216,0.182164753042,0,0.37662,0,0,0,0,0,0,0,1,0,0
+89,"In truth, it had been coming!",25 min,4,4,23.6982185235,0.0206511056216,0.0,0.0238277319989,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+90,Celtic cannot really get anything going at the moment as Barcelona continue to pass and probe in the final third of the field.,27 min,14,11,82.3980525321,0.0238277319989,0.182164753042,0.0908329222297,0.0,0,0.30172,0,0,0,0,0,0,0,0,0,0
+91,"Dembele is causing problems when he has the chance to battle Pique, but the home side are just not seeing enough of the ball.",27 min,13,13,87.1759393982,0.0908329222297,0.0,0.0451244184502,0.243151305405,0,0.152465,0,0,0,0,0,0,0,0,0,0
+92,Messi has been absolutely magic so far tonight.,27 min,6,3,34.4705567057,0.0451244184502,0.0,0.0,0.0,0,0.04444,0,0,0,0,0,0,0,0,0,0
+93,"Celtic have the chance to threaten from a set piece, but the delivery is too long and Rogic fouls Rakitic when attempting to regain control of the ball.",30 min,16,14,101.355364586,0.0,0.243151305405,0.0574542173239,0.120075274059,0,0.17227,0,0,0,0,0,0,0,0,0,0
+94,"Some news from Germany - Gladbach lead Man City, which is not good news for Celtic in terms of a possible Europa League position.",30 min,17,9,88.9001393868,0.0574542173239,0.0,0.0587772692555,0.0621235049273,0,0.12237,0,0,0,0,0,0,1,0,0,0
+95,Little under 15 minutes of the first period remaining in Glasgow and Barcelona are in control of events courtesy of that wonderful Messi goal.,32 min,15,10,86.1171591081,0.0587772692555,0.120075274059,0.0485611239133,0.129375689082,1,0.132295,1,0,0,0,0,0,0,0,0,0
+96,"Challenges continue to fly in all over the park and the referee has been more than prepared to let the play flow, which is contributing to a super game!",32 min,14,17,106.815867757,0.0485611239133,0.0621235049273,0.0318536528037,0.0307789311747,0,0.164385,0,0,0,0,0,0,0,0,0,0
+97,Just a reminder that a win for Barcelona would see them book their spot in the round of 16 tonight.,34 min,11,10,65.4045800787,0.0318536528037,0.129375689082,0.247205786114,0.0423040223896,0,0.26507,0,1,0,0,0,0,0,0,0,0
+98,"Meanwhile, as things stand in the group, defeat for Celtic would see them exit Europe altogether.",34 min,14,5,63.5379572062,0.247205786114,0.0307789311747,0.0,0.0421022842091,0,0.10058,0,0,0,0,0,0,0,0,0,0
+99,They need Man City to answer back against Gladbach to boost their Europa League hopes!,34 min,11,5,62.2070585937,0.0,0.0423040223896,0.0321247549634,0.0,0,0.111635,0,0,0,0,0,0,0,0,0,0
+100,Not too much to report in terms of chances in the last few moments.,36 min,7,8,53.8217598856,0.0321247549634,0.0421022842091,0.093666970882,0.0163696256669,0,0.15531,0,0,0,0,0,0,0,0,0,0
+101,"Well, not since Messi scored.",36 min,6,1,22.0978183004,0.093666970882,0.0,0.0,0.0,0,0.066205,0,0,0,0,0,0,0,0,0,0
+102,"Celtic are doing their best to get something going, but they are really struggling here.",36 min,9,8,59.0268093728,0.0,0.0163696256669,0.0,0.0,0,0.09091,0,0,0,0,0,0,0,0,0,0
+103,"Indeed, the home side survive another dangerous moment when Neymar robbed Simunovic outside his own box.",36 min,14,4,69.8459811293,0.0,0.0,0.0,0.0548281713361,0,0.139445,0,0,0,0,0,0,0,0,0,0
+104,SAVE!,37 min,2,0,4.54577861047,0.0,0.0,0.196065029661,0.0,0,0.01724,0,0,0,0,0,0,0,0,0,0
+105,"Much, much better from Dembele as the Celtic forward creates some space inside the Barcelona box before having a go and Ter Stegen is forced to make the save.",37 min,19,12,108.015345424,0.196065029661,0.0548281713361,0.0465537861838,0.112035535117,0,0.186325,0,0,0,0,0,0,0,0,0,0
+106,"Little over five minutes of the first period remaining and it is so, so important that Celtic do not concede a second goal at this stage of events.",39 min,15,15,103.40917136,0.0465537861838,0.0,0.0319063221229,0.0,1,0.17789,0,0,0,0,0,0,0,0,0,0
+107,"Dembele once again has the chance to threaten the away side's defence, but Mascherano is across to deny the striker with a super sliding challenge.",39 min,16,12,89.4578681662,0.0319063221229,0.112035535117,0.0,0.0,0,0.16449,0,0,0,0,0,0,0,0,0,0
+108,SAVE!,41 min,2,0,4.54577861047,0.0,0.0,0.383154792324,0.0,0,0.01724,0,0,0,0,0,0,0,0,0,0
+109,Oh my word what a save!,41 min,4,3,26.4301950265,0.383154792324,0.0,0.0,0.0,0,0.03175,0,0,0,0,0,0,0,0,0,0
+110,Stunning from Gordon as the Celtic goalkeeper somehow keeps out a Suarez header from point-blank range!,41 min,11,6,58.0827413514,0.0,0.0,0.123563075128,0.0,1,0.28679,0,0,0,0,0,0,0,0,1,0
+111,It is exceptional from the stopper!,41 min,3,4,21.5276011012,0.123563075128,0.0,0.0,0.062126650009,0,0.07442,0,0,0,0,0,0,0,0,0,0
+112,BOOKING!,42 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+113,Alba (Barcelona) is booked for a late tackle on Sinclair.,42 min,9,4,33.0678361453,0.0,0.062126650009,0.0,0.0598457608503,0,0.11183,0,0,0,0,0,0,0,0,0,0
+114,"Celtic have struggled in this first period, but they are only one goal behind and that must be seen as a positive.",44 min,12,12,77.6417284234,0.0,0.0,0.186646654162,0.199542715062,1,0.123285,0,0,0,0,0,0,0,0,0,0
+115,"On another night, Messi would have scored three or four times in this first period.",44 min,12,5,57.0249533405,0.186646654162,0.0598457608503,0.14334050775,0.0,0,0.089285,0,0,0,0,0,0,0,0,0,0
+116,Just the one additional minute at the end of the first period.,45 min+1,7,6,40.7606810629,0.14334050775,0.199542715062,0.0,0.0,0,0.17339,0,0,0,0,0,0,0,0,0,0
+117,HALF-TIME: Celtic 0-1 Barcelona,45 min+2,5,0,4.20875529836,0.0,0.0,0.0,0.0615754216968,0,0.06383,0,0,0,0,0,0,0,0,0,0
+118,So there we have it.,8.33pm,1,5,18.8889928114,0.0,0.0,0.0,0.0501204915111,0,0.022725,0,0,0,0,0,0,0,0,0,0
+119,The referee brings the first period to a close with Barcelona leading Celtic 1-0 at the interval courtesy of a brilliant Messi finish in the 24th minute of action.,8.33pm,18,12,89.751148701,0.0,0.0615754216968,0.173524439458,0.0,0,0.26078,0,0,1,0,0,0,0,0,0,0
+120,"In truth, the visitors could have scored three or four in the first period, but Celtic remain in this European contest.",8.33pm,15,9,76.786366036,0.173524439458,0.0501204915111,0.0,0.114824621614,0,0.129565,0,0,0,0,0,0,0,0,0,0
+121,STATISTICS!,8.38pm,2,0,5.64439089914,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+122,"Barcelona have dominated the possession with 60%, while they have had six attempts - three of which were on target.",8.38pm,12,11,75.810320973,0.0,0.114824621614,0.165533426898,0.0287428397138,0,0.114285,0,0,0,0,0,0,0,0,0,0
+123,"Celtic, meanwhile, managed one attempt on target in the opening half of action.",8.38pm,12,4,49.7565397713,0.165533426898,0.0,0.159703102742,0.0,0,0.117815,0,0,0,0,0,0,0,0,0,0
+124,"One booking apiece, meanwhile, with Sviatchenko and Alba both receiving yellow cards.",8.38pm,12,3,54.1481039704,0.159703102742,0.0287428397138,0.0,0.128033212593,0,0.081635,0,0,0,0,0,0,0,0,0,0
+125,BENCH WATCH!,8.43pm,3,0,10.8833166902,0.0,0.0,0.147441622869,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+126,Celtic boss Brendan Rodgers has both Patrick Roberts and James Forrest on his bench tonight and it would not be a surprise to see either or both of those in the second period.,8.43pm,17,17,125.142039591,0.147441622869,0.128033212593,0.0537816699285,0.168358300984,0,0.209915,0,0,0,0,0,0,0,0,0,0
+127,"Barcelona, meanwhile, have forward options in the shape of Denis Suarez, Rafinha, Alcacer and Arda Turan.",8.43pm,16,5,65.9149352122,0.0537816699285,0.0,0.0,0.0,0,0.119235,0,0,0,0,0,0,0,0,0,0
+128,It will be interesting to see whether either manager makes a half-time alteration here.,8.43pm,9,6,52.4313869757,0.0,0.168358300984,0.0,0.0,0,0.060605,0,0,0,0,0,0,0,0,0,0
+129,RESTART!,46 min,2,0,5.64439089914,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+130,Barcelona resume the action in Scotland...,46 min,5,2,20.6910575541,0.0,0.0,0.0,0.023715929431,0,0.107325,0,0,0,0,0,0,0,0,0,0
+131,... CELTIC SUB!,47 min,4,0,6.45249989133,0.0,0.0,0.0,0.0942397311376,0,0.02439,0,0,0,0,0,0,0,0,0,0
+132,Forrest has replaced Sinclair at the interval.,47 min,5,3,27.4446156089,0.0,0.023715929431,0.0771865994921,0.0393696885153,0,0.138855,0,0,0,0,0,0,0,0,0,0
+133,"It has been a decent start to the second period from Celtic, with Dembele and Brown both having shots blocked inside the Celtic box.",48 min,14,12,82.5942852171,0.0771865994921,0.0942397311376,0.110511916663,0.0,0,0.16554,0,0,0,0,0,0,0,0,0,0
+134,"Down the other end, Messi had the chance to break away from the Celtic defence, only to be thwarted by Armstrong, who showed excellent strength against the Argentine.",48 min,17,15,107.076716526,0.110511916663,0.0393696885153,0.154089232573,0.0572298367928,0,0.20992,0,0,0,0,0,0,0,0,0,0
+135,CHANCE!,50 min,2,0,3.44716632181,0.154089232573,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+136,"McGregor finds all sorts of space outside the Barcelona box and looks to curl one towards the bottom corner, but it is a comfortable save for Ter Stegen.",50 min,19,11,105.971632834,0.0,0.0572298367928,0.022908123696,0.0,0,0.353205,0,0,0,0,0,0,0,0,0,0
+137,Had to do better!,50 min,2,3,16.3913549727,0.022908123696,0.0,0.0,0.0547623798381,0,0.064775,0,0,0,0,0,0,0,0,0,0
+138,"At 1-0, Celtic will always be in this match.",52 min,6,5,26.3445498742,0.0,0.0,0.0599798611932,0.0,0,0.10407,0,0,0,0,0,0,0,0,0,0
+139,"However, it would be very difficult to see the home side taking something if they were to concede a second goal.",52 min,13,10,77.1505094404,0.0599798611932,0.0547623798381,0.17591612367,0.0,1,0.14204,0,0,0,0,0,0,0,0,0,0
+140,It has been a positive start to the second period from the Scottish champions as they continue to deliver crosses into the Barcelona box.,52 min,12,13,79.7418040389,0.17591612367,0.0,0.0,0.0940933771847,0,0.187625,0,0,0,0,0,0,0,0,0,0
+141,CHANCE!,53 min,2,0,3.44716632181,0.0,0.0,0.172893363067,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+142,"Wonderful chance for the home side as Forrest delivers a super cross onto the head of Dembele, but his effort is straight at the Barcelona goalkeeper.",53 min,17,11,92.4342003506,0.172893363067,0.0940933771847,0.0,0.0445564316503,1,0.359635,1,0,0,0,0,0,0,0,0,0
+143,What a miss there!,53 min,2,3,14.9872625484,0.0,0.0,0.0,0.0,0,0.02564,0,0,0,0,0,0,0,0,0,0
+144,PENALTY BARCELONA!,54 min,3,0,6.87598350494,0.0,0.0445564316503,0.359208687462,0.0,0,0.05405,0,0,0,0,0,1,0,0,0,0
+145,Barcelona have a penalty as Izaguirre brings Suarez to the deck with a clumsy tackle!,55 min,9,7,48.9643157467,0.359208687462,0.0,0.0,0.0453371291045,0,0.283335,0,0,0,0,0,1,0,0,0,0
+146,GOAL!,55 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,1,0.02,0,0,0,0,0,0,0,0,0,0
+147,"Celtic 0-2 Barcelona (Messi, pen)",55 min,8,0,12.8233884472,0.0,0.0453371291045,0.193030792452,0.0267654953306,0,0.10638,0,0,0,0,0,0,0,0,0,0
+148,Messi goes down the middle and Barcelona have a 2-0 lead at Celtic Park!,56 min,9,6,42.0749608068,0.193030792452,0.0,0.112856868513,0.0639429093197,0,0.162365,0,0,0,0,0,0,0,0,0,0
+149,"Celtic might have scored twice in the early stages of the second period, but they are now 2-0 behind and have some serious work to do in the final 30 minutes of this match.",58 min,18,18,115.684345234,0.112856868513,0.0267654953306,0.0680133297168,0.0,0,0.19879,0,0,0,0,0,0,0,0,0,0
+150,"Barcelona again break through and Suarez hits the post, but the striker had moved into an offside position.",58 min,11,9,71.8350389945,0.0680133297168,0.0639429093197,0.0539915395413,0.0,0,0.130105,0,0,0,0,0,0,1,0,0,1
+151,"Neymar is a wonderful player, Suarez is a wonderful player.",61 min,8,4,32.9260630763,0.0539915395413,0.0,0.0,0.0,0,0.06,1,0,0,0,0,0,0,0,0,0
+152,"Busquets, Pique, Mascherano.",61 min,6,0,13.8886502597,0.0,0.0,0.0,0.0,0,0.021745,0,0,0,0,0,0,0,0,0,0
+153,They are all brilliant.,61 min,2,3,14.964238617,0.0,0.0,0.0,0.0,0,0.036365,0,0,0,0,0,0,0,0,0,0
+154,But where would Barcelona be without Messi?,61 min,5,3,24.9382977432,0.0,0.0,0.0727026179846,0.0,0,0.068965,0,0,0,0,0,0,0,0,0,0
+155,He is on another Champions League hat-trick tonight and it would take a brave man to bet against it happening in the final 30 minutes here.,61 min,15,12,89.6919394824,0.0727026179846,0.0,0.0429507309324,0.128450460934,0,0.133245,0,0,0,0,0,0,0,0,0,0
+156,The handbags are out as Neymar and Lustig clash in a wide position.,63 min,7,7,44.8522139078,0.0429507309324,0.0,0.0368745668794,0.0,0,0.162695,0,0,0,0,0,0,1,0,0,0
+157,"However, the referee is across to deal with the situation and it cools down without any further action needing to be taken here.",63 min,12,13,90.8368684176,0.0368745668794,0.128450460934,0.0,0.0280279166418,0,0.126985,0,0,0,0,0,0,0,0,0,0
+158,BOOKING!,63 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+159,Roberto (Barcelona) is booked for a late tackle on Forrest.,63 min,9,4,34.0486653983,0.0,0.0280279166418,0.0,0.0,0,0.09331,0,0,0,0,0,0,0,0,0,0
+160,CELTIC SUB!,64 min,3,0,6.45249989133,0.0,0.0,0.0739091999285,0.813223410009,0,0.02439,0,0,0,0,0,0,0,0,0,0
+161,Biton replaces Rogic in Celtic's second change of the match.,64 min,9,3,35.0650434138,0.0739091999285,0.0,0.0,0.196215932471,0,0.12192,0,0,0,0,0,0,0,0,0,0
+162,BARCELONA SUB!,66 min,3,0,6.53951126832,0.0,0.813223410009,0.0,0.0504146731101,0,0.027025,0,0,0,0,0,0,0,0,0,0
+163,Digne replaces Alba for the away side.,66 min,6,2,26.8222374992,0.0,0.196215932471,0.0120505721178,0.0152869119543,0,0.102885,0,0,0,0,0,0,0,0,0,0
+164,The home supporters continue to back their team with a brilliant atmosphere and Celtic are responding as they continue to chase down Barcelona.,68 min,13,11,78.0534758293,0.0120505721178,0.0504146731101,0.0399158945195,0.067568428438,0,0.215965,0,0,0,0,0,0,0,0,0,0
+165,"It is very tough at this point, however, especially with the visitors leading 2-0.",68 min,10,7,50.769706854,0.0399158945195,0.0152869119543,0.0786153747544,0.0,0,0.08995,0,0,0,0,0,0,0,0,0,0
+166,It is going to take somethings special to respond here.,68 min,6,5,39.1096836514,0.0786153747544,0.067568428438,0.0,0.0,0,0.065575,0,0,0,0,0,0,0,0,0,0
+167,CLOSE!,68 min,2,0,4.95124371858,0.0,0.0,0.0,0.0,0,0.022225,0,0,1,0,0,0,0,0,0,0
+168,Messi just fizzes a low strike wide of Gordon's post!,68 min,9,3,39.5110495407,0.0,0.0,0.0,0.0348284395813,0,0.10978,0,0,0,0,0,0,0,0,0,0
+169,"Barcelona have another shout for a penalty as Lustig looks to challenge Neymar, but the referee points for a corner.",70 min,13,9,65.2350664597,0.0,0.0,0.173488283661,0.0101023597672,0,0.13087,0,0,0,0,0,1,0,0,0,0
+170,I have certainly seen them given and that would have been the chance for Messi to complete yet another hat-trick.,70 min,11,10,67.1560376604,0.173488283661,0.0348284395813,0.00903257674463,0.0,0,0.08929,0,0,0,0,0,0,0,0,0,0
+171,I still fancy more goals in the final 20 minutes of this game.,70 min,8,6,46.770719016,0.00903257674463,0.0101023597672,0.0,0.0,1,0.124085,0,0,0,0,0,0,0,0,0,0
+172,BOOKINGS!,71 min,2,0,5.64439089914,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+173,Lustig (Celtic) and Neymar (Barcelona) are booked following a clash.,71 min,12,3,33.1670046907,0.0,0.0,0.0751469455613,0.0319062968056,0,0.087715,0,1,0,0,0,0,0,0,0,0
+174,CELTIC SUB!,72 min,3,0,6.45249989133,0.0751469455613,0.0,0.0766264881971,0.813223410009,0,0.02439,0,0,0,0,0,0,0,0,0,0
+175,Roberts for McGregor is Celtic's final change of the game.,72 min,8,4,33.9344263776,0.0766264881971,0.0319062968056,0.0,0.074993538893,0,0.12796,0,0,0,0,0,0,0,0,0,0
+176,BARCELONA SUB!,73 min,3,0,6.53951126832,0.0,0.813223410009,0.106608838298,0.0398653275511,0,0.027025,0,0,0,0,0,0,0,0,0,0
+177,Marlon replaces Pique for Barcelona.,73 min,5,1,18.9728742954,0.106608838298,0.074993538893,0.139012527424,0.0,0,0.072615,0,0,0,0,0,0,0,0,0,0
+178,"Marlon wins the ball against Forrest on the edge of the Barcelona box, but it was a lunging challenge from the Brazilian and the debutant is a little bit fortunate to get away with that.",75 min,18,19,120.994307821,0.139012527424,0.0398653275511,0.0840674957483,0.0398653275511,0,0.20319,0,1,0,0,0,0,0,0,0,0
+179,Very good pressure from Celtic in the last couple of minutes in Scotland.,76 min,8,6,44.6708110891,0.0840674957483,0.0,0.0,0.059886884186,0,0.18732,0,0,0,0,0,0,0,0,0,0
+180,BARCELONA SUB!,77 min,3,0,6.53951126832,0.0,0.0398653275511,0.088805260816,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+181,Turan replaces Neymar in Barcelona's third change.,77 min,8,1,26.846274077,0.088805260816,0.059886884186,0.0890740817204,0.0214816064687,0,0.088355,0,0,0,0,0,0,0,0,0,0
+182,Neymar angers the Celtic supporters by taking an age to leave the field here!,77 min,9,6,54.3889154734,0.0890740817204,0.0,0.0722907494288,0.0210098633696,0,0.13034,0,0,0,0,0,0,0,0,0,0
+183,Barcelona are really threatening on the counter-attack at the moment and Biton has to head behind after Messi broke away from the Celtic defence.,79 min,14,11,81.4090395518,0.0722907494288,0.0214816064687,0.0163016730763,0.0511143007064,0,0.17435,0,0,0,0,0,0,0,0,0,0
+184,Still more than 10 minutes to play in this match.,79 min,6,5,39.072376599,0.0163016730763,0.0210098633696,0.115096513932,0.0146221236394,0,0.09508,0,0,0,0,0,0,0,0,0,0
+185,"Celtic have been brilliant for long spells of this match, but they have just not had enough in the final third of the field.",82 min,11,15,79.9725771978,0.115096513932,0.0511143007064,0.19127683536,0.0,0,0.237965,0,0,0,0,0,0,0,0,0,0
+186,"Dembele has had opportunities, but the Frenchman has been unable to find the back of the net and as it stands, the Scottish champions are heading out of Europe.",82 min,15,17,106.170919488,0.19127683536,0.0146221236394,0.0,0.196195381819,0,0.19841,0,0,0,0,0,0,0,0,0,0
+187,POST!,84 min,2,0,4.25809653802,0.0,0.0,0.197290331127,0.0,0,0.023255,0,0,0,0,0,0,0,0,0,0
+188,"Messi sets up Suarez inside the Celtic box and the striker looks to fire home, only to find the outside of the post as Celtic survive another dangerous moment here!",84 min,20,12,105.350700613,0.197290331127,0.196195381819,0.146279899229,0.0686344539626,0,0.267795,0,0,0,0,0,0,0,0,0,0
+189,The Celtic supporters have been brilliant tonight and that remains the case in the latter stages as they continue to produce a stunning atmosphere.,86 min,13,12,82.3475886656,0.146279899229,0.0,0.0458530967938,0.0,0,0.204635,0,0,0,0,0,0,0,0,0,0
+190,They can be proud of their team here.,86 min,3,6,30.7033957722,0.0458530967938,0.0686344539626,0.0,0.0,0,0.084745,0,0,0,0,0,0,0,0,0,0
+191,BOOKING!,87 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+192,Armstrong (Celtic) is booked for a late tackle on Messi.,87 min,9,4,31.9806525525,0.0,0.0,0.0,0.0256830430853,0,0.09804,0,0,0,0,0,0,0,0,0,0
+193,"Just a reminder that Monchengladbach are currently holding Man City to a 1-1 draw, which means that Barcelona will secure their spot in the knockout round of the competition as group winners as things stand.",89 min,21,16,123.738464376,0.0,0.0,0.286789823263,0.0,0,0.24918,0,1,0,0,1,0,0,0,0,0
+194,It also means that Celtic are currently being eliminated from European competition.,89 min,8,5,49.9088532223,0.286789823263,0.0256830430853,0.0,0.0,0,0.101145,0,0,0,0,0,0,0,0,0,0
+195,BOOKING!,89 min,2,0,4.25809653802,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+196,Rakitic (Barcelona) is booked for a tug on Forrest.,89 min,8,4,29.3895581026,0.0,0.0,0.0,0.0,0,0.08,0,0,0,0,0,0,0,0,0,0
+197,The fourth official indicates that we will play an additional four minutes here.,90 min+1,8,6,55.0518420708,0.0,0.0,0.0510975725664,0.0721612345883,0,0.0625,0,0,0,0,0,0,0,0,0,0
+198,"Messi was bed-bound with a sickness bug at the weekend, but Celtic are the ones that have been left sick with the Argentine's performance tonight.",90 min+3,15,13,83.5720727644,0.0510975725664,0.0,0.0794885581134,0.0976096663358,0,0.171765,0,0,0,0,0,0,0,0,0,0
+199,He has been simply the best player here.,90 min+3,4,5,32.9391351578,0.0794885581134,0.0721612345883,0.0310545303311,0.0129576211202,0,0.046155,0,0,0,0,0,0,0,0,0,0
+200,"Dembele goes down just outside the Barcelona box, but the referee is not interested and it did appear that the striker had slipped.",90 min+4,12,13,84.2913840681,0.0310545303311,0.0976096663358,0.103536243798,0.0309879201004,0,0.20183,0,0,0,0,0,0,0,0,0,0
+201,No contact from Marlon and no decision from the referee.,90 min+4,5,6,39.2023560118,0.103536243798,0.0129576211202,0.0,0.0,0,0.09508,0,0,0,0,0,0,0,0,0,0
+202,FULL-TIME: Celtic 0-2 Barcelona,90 min+5,5,0,4.20875529836,0.0,0.0309879201004,0.0,0.0590523218424,0,0.085105,0,0,0,0,0,0,0,0,0,0
+203,So there we have it.,9.38pm,1,5,18.8889928114,0.0,0.0,0.0,0.0,0,0.022725,0,0,0,0,0,0,0,0,0,0
+204,The referee brings the second period to a close with Barcelona booking their spot in the next round of the Champions League courtesy of a 2-0 win over Celtic.,9.38pm,17,13,86.6055394011,0.0,0.0590523218424,0.0861764255489,0.0331457964605,0,0.470505,0,1,1,0,0,0,0,0,0,0
+205,"Barcelona are through as group winners, while Celtic will now finish in fourth position in the section.",9.38pm,10,9,62.8946128363,0.0861764255489,0.0,0.0,0.0,0,0.123565,0,1,0,0,0,0,1,0,0,0
+206,Thanks for joining Sports Mole for another entertaining night of European football!,9.38pm,10,3,53.137779383,0.0,0.0331457964605,0.0,0.0,0,0.04255,0,0,0,0,0,0,0,0,0,0

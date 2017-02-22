@@ -1,0 +1,172 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,"Hello, and welcome to Sports Mole's live coverage of the match in the Premier League between Tottenham Hotspur and Chelsea.",7.01pm,15,8,76.4859213365,0.0,0.0,0.0700020210856,0.153215623058,0,0.21693,0,0,0,0,0,0,0,0,0,0
+1,"After both clubs failed to control their players in a game at Stamford Bridge last season, this game has been built up into a grudge match.",7.04pm,15,13,99.4846780468,0.0700020210856,0.0,0.065154398438,0.0680688487412,0,0.1125,0,0,0,0,0,0,0,0,0,0
+2,"While the fixture has perhaps been over-hyped, there is no getting away from the fact that this London derby could prove to be a feisty affair and one that could have an impact on the Premier League title race.",7.04pm,21,20,147.76452619,0.065154398438,0.153215623058,0.162460321411,0.143448500418,0,0.157515,0,0,0,0,0,0,0,0,0,0
+3,Victory for Chelsea would give them an eight-point lead at the top of the standings so it's fair to say that all of their title rivals will be cheering on Spurs this evening.,7.04pm,17,18,118.274614147,0.162460321411,0.0680688487412,0.20065880135,0.213486064138,0,0.25649,0,0,0,0,0,0,0,0,0,0
+4,"That includes Spurs' North London rivals Arsenal, despite the fact that Spurs would move above both them and Manchester City into third place with three points at White Hart Lane.",7.07pm,23,10,126.338643556,0.20065880135,0.143448500418,0.120316832154,0.0366539138746,0,0.226885,0,0,0,0,0,0,0,0,0,0
+5,"That would potentially only prove to be a short-term issue for both clubs but if Chelsea can register a 14th successive triumph in the top flight, it's hard to see anyone being able to stop them during the second half of the campaign.",7.07pm,24,22,161.095283804,0.120316832154,0.213486064138,0.0206186632334,0.0478945583593,0,0.190155,0,0,0,0,0,0,0,0,0,0
+6,"Anyway, without further ado, let's crack on with the team news.",7.08pm,11,4,48.7100951464,0.0206186632334,0.0366539138746,0.0347728044744,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+7,Both managers had important decisions to make with as many as three players all becoming available again after suspension.,7.08pm,11,9,82.8295829867,0.0347728044744,0.0478945583593,0.0,0.0,0,0.05172,0,0,0,0,0,0,0,0,0,0
+8,"TOTTENHAM HOTSPUR XI: Lloris; Walker, Dier, Alderweireld, Vertonghen, Rose; Wanyama, Dembele, Eriksen, Dele; Kane",7.09pm,25,0,62.7152506264,0.0,0.0,0.125557401518,0.0906556194548,0,0.0825,0,0,0,0,0,0,0,0,0,0
+9,"TOTTENHAM HOTSPUR SUBSTITUTES: Vorm, Davies, Trippier, Wimmer, Sissoko, Winks, Son",7.11pm,17,0,49.3380935916,0.125557401518,0.0,0.0,0.111699448322,0,0.0677,0,1,0,0,0,0,0,0,0,0
+10,"CHELSEA XI: Courtois; Azpilicueta, Luiz, Cahill; Moses, Kante, Matic, Alonso; Pedro, Diego Costa, Hazard",7.12pm,25,0,61.720222654,0.0,0.0906556194548,0.0220888010835,0.0,0,0.109685,0,0,0,0,0,0,0,0,0,0
+11,"CHELSEA SUBSTITUTES: Begovic, Ivanovic, Zouma, Chalobah, Fabregas, Willian, Batshuayi",7.13pm,16,0,42.8401161411,0.0220888010835,0.111699448322,0.0,0.0,0,0.02439,0,0,0,0,0,0,0,0,0,0
+12,"First of all, let's take a look at the Spurs starting lineup with head coach Mauricio Pochettino making three changes to the team which thrashed Watford at the weekend.",7.17pm,21,11,113.270893161,0.0,0.0,0.0,0.0352999774459,0,0.130435,0,0,0,0,0,0,0,0,0,0
+13,"Kyle Walker and Jan Vertonghen - who were both serving bans - return, as does Mousa Dembele.",7.17pm,13,6,70.5013543929,0.0,0.0,0.0208036975566,0.105810941719,0,0.0625,0,0,0,0,0,0,0,0,0,0
+14,"Going out of the side are Keiran Trippier, Kevin Wimmer and Heung-Min Son.",7.17pm,10,5,48.8858177095,0.0208036975566,0.0352999774459,0.0220000981687,0.0206939750841,0,0.0928,0,0,0,0,0,0,0,0,0,0
+15,"As expected, Dele Alli and Harry Kane both start after netting doubles at Vicarage Road.",7.17pm,12,5,66.4940212077,0.0220000981687,0.105810941719,0.0672703154558,0.0694829317761,0,0.13978,0,0,0,0,0,0,0,0,0,0
+16,"As for Chelsea, boss Antonio Conte opts to recall Pedro after he missed the New Year's Eve win over Stoke City because of a one-match ban.",7.21pm,19,10,101.584847524,0.0672703154558,0.0206939750841,0.0516128963521,0.0640833847362,0,0.12226,0,1,0,0,0,0,0,0,0,0
+17,"He replaces Willian, who drops out of the team despite netting two goals against the Potters.",7.21pm,11,7,63.917064879,0.0516128963521,0.0694829317761,0.0738558202301,0.100776995695,1,0.10494,0,0,0,0,0,0,0,0,0,0
+18,The other change sees Nemanja Matic given the nod over Cesc Fabregas in the centre of midfield.,7.21pm,11,7,68.654733286,0.0738558202301,0.0640833847362,0.0676700098761,0.0,0,0.14352,0,0,0,0,0,0,0,0,0,0
+19,The rest of the team picks itself as Conte continues to make minimal alterations to his all-conquering side.,7.21pm,11,8,65.274141856,0.0676700098761,0.100776995695,0.0479403341509,0.0585678162841,0,0.135385,0,0,0,0,0,0,0,0,0,0
+20,HEAD TO HEAD!,7.25pm,3,1,10.7000814086,0.0479403341509,0.0,0.0185214329417,0.0173757502126,0,0.063405,0,0,0,0,0,0,0,0,0,0
+21,"Tonight's contest represents the 157th time in which these two teams have met in a competitive fixture, with Spurs winning 50 matches compared to the 66 triumphs for the Blues.",7.25pm,21,12,119.069651731,0.0185214329417,0.0585678162841,0.110616045604,0.0,0,0.14146,0,1,0,0,0,0,0,0,0,0
+22,"While there isn't all that much between the teams from an historical perspective, it's fair to say that Chelsea have dominated the last 15 meetings, with the West Londoners having only suffered one defeat.",7.25pm,21,18,135.078596141,0.110616045604,0.0173757502126,0.0,0.167484393657,0,0.12222,0,0,0,0,0,0,0,0,0,0
+23,STAT!,7.31pm,2,0,5.45434729625,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+24,"While there are 10 points separating the two teams in the table, both sides have lost the same amount of games this season with just two setbacks from 19 fixtures.",7.31pm,17,15,120.626468007,0.0,0.167484393657,0.0651773798899,0.153411191835,0,0.1129,0,0,0,1,0,0,0,0,0,0
+25,I'm sure whether that highlights Spurs' resolve or highlights their inability to make the most of their chances but it shows that they are not all that far away from the leaders.,7.31pm,16,19,118.707696009,0.0651773798899,0.0,0.11366099886,0.129395254651,0,0.16714,0,0,0,0,0,0,0,0,0,0
+26,"If they produce their best form this evening, they will have lost less games than Chelsea...",7.31pm,10,8,66.7414500572,0.11366099886,0.153411191835,0.0837766515066,0.06974846412,0,0.08613,0,0,0,1,0,0,0,0,0,0
+27,"Over the last few days, there has been talk of £50m bids from Real Madrid for Spurs midfielder Dele Alli and it comes as no surprise when he shows that he is capable of netting five games in three games.",7.35pm,22,20,154.346174949,0.0837766515066,0.129395254651,0.127760650593,0.0715355712741,0,0.137375,0,0,0,0,0,0,0,0,0,0
+28,The 20-year-old hasn't always been at his best this season but he has show his class in recent matches and still ranks as one of the club's most important players.,7.35pm,17,16,112.055524378,0.127760650593,0.06974846412,0.138443039305,0.0936143121576,0,0.143555,0,0,0,0,0,0,0,0,0,0
+29,Most of his goals have come away from home with just two being netted at White Hart Lane but he may benefit from the space left by Chelsea's 3-4-3 formation.,7.35pm,18,14,114.114584009,0.138443039305,0.0715355712741,0.0488796300463,0.0513257162218,1,0.19296,0,0,0,0,0,0,0,0,0,0
+30,A team is yet to find the best way to nullify that strategy but Spurs have the talent in the final third to discover flaws that currently remain hidden.,7.35pm,17,13,106.877432259,0.0488796300463,0.0936143121576,0.0498261045733,0.0777945621517,0,0.13283,0,0,0,0,0,0,0,0,0,0
+31,"Chelsea's key man is of course Diego Costa, who continues to contribute at a phenomenal rate this season.",7.39pm,14,7,69.2485198453,0.0498261045733,0.0513257162218,0.0103582708414,0.165958128108,0,0.11845,0,0,0,0,0,0,0,0,0,0
+32,"The Spanish international has 14 goals and five assists to his name from 18 outings, with the forward only missing the one game through suspension.",7.39pm,16,11,101.58284846,0.0103582708414,0.0777945621517,0.0677880372943,0.0,1,0.126915,0,0,0,0,0,0,0,0,0,0
+33,Conte is fortunate to have key men at his disposal for pretty much every position but there's no doubting that his team are a lot stronger for the presence of Costa.,7.39pm,17,16,119.401551898,0.0677880372943,0.165958128108,0.0354601309222,0.0481417794854,0,0.10909,0,0,0,0,0,0,1,0,0,0
+34,He is irreplaceable right now.,7.39pm,3,3,20.9313771775,0.0354601309222,0.0,0.0,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+35,It's been just six weeks since the teams last met with Stamford Bridge staging a 2-1 victory for Chelsea.,7.42pm,14,7,70.2352998467,0.0,0.0481417794854,0.0292290471256,0.0,0,0.14352,0,0,0,0,0,0,0,0,0,0
+36,Christian Eriksen had ended Chelsea's long run without conceding a goal but strikes from Pedro and Victor Moses earned Chelsea an impressive win.,7.42pm,19,6,93.0231755657,0.0292290471256,0.0,0.0,0.0966947259051,1,0.15373,0,1,0,0,0,0,0,0,0,0
+37,Take a look back at that game by clicking here.,7.42pm,6,5,38.0118024038,0.0,0.0,0.139802239575,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+38,Here's what Marcos Alonso had to say about Chelsea's transformation.,7.46pm,8,5,43.170499458,0.139802239575,0.0966947259051,0.0756262353069,0.0597411436345,0,0.086045,0,0,0,0,0,0,0,0,0,0
+39,It all sounds so simple but there has been something magical about how Conte has made a 3-4-3 formation so effective in a division such as the Premier League.,7.46pm,13,17,111.081448156,0.0756262353069,0.0,0.0309426270766,0.00855607711848,0,0.10701,0,0,0,0,0,0,0,0,0,0
+40,"These tactics have never really seemed an option but now, other coaches are following suit.MA: 'Teams defend as a block and that is what is making us wingames.",7.46pm,17,14,108.966744036,0.0309426270766,0.0597411436345,0.0467374636746,0.0,0,0.06024,0,1,0,0,0,0,0,0,0,0
+41,We have to keep our focus and give everything on the pitch.',7.46pm,7,7,48.0145506589,0.0467374636746,0.00855607711848,0.0,0.0,0,0.112145,0,0,0,0,0,0,0,0,0,0
+42,"#TOTCHE— Chelsea FC (@ChelseaFC) January 4, 2017",7.46pm,12,0,24.1362422653,0.0,0.0,0.0,0.0,0,0.02564,0,0,0,0,0,0,0,0,0,0
+43,PREDICTION!,7.50pm,2,0,5.04888218815,0.0,0.0,0.22802943224,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+44,We aren't going to be held responsible if we get our prediction wrong this evening because it really is too tight to call.,7.50pm,12,13,96.4713551288,0.22802943224,0.0,0.041159972217,0.129015321255,0,0.102905,0,0,0,0,0,0,0,0,0,0
+45,Some will suggest that it shouldn't be given Chelsea's form but Spurs are a club who can beat anyone on their day.,7.50pm,12,13,83.8719486353,0.041159972217,0.0,0.074614729628,0.0682688184841,0,0.115725,0,0,0,0,0,0,0,0,0,0
+46,We are expecting a tension-filled encounter with plenty of tackles and yellow cards but we think the game will end in a 1-1 draw.,7.50pm,13,12,78.9951704786,0.074614729628,0.129015321255,0.0105842257986,0.0168912292982,0,0.11282,0,0,0,0,1,0,0,0,0,0
+47,It's time for the two teams to make their way out at White Hart Lane.,7.56pm,10,7,51.5009931059,0.0105842257986,0.0682688184841,0.190911889117,0.0411349692548,0,0.178875,0,0,0,0,0,0,0,0,0,0
+48,Both Lloris and Cahill look focused as they prepare to lead their teams out to a red-hot atmosphere.,7.56pm,10,9,63.5237883329,0.190911889117,0.0168912292982,0.0,0.0343955069697,0,0.10959,0,0,0,0,0,0,0,0,0,0
+49,It's Spurs who get us underway in North London.,1 min,8,3,35.0513313015,0.0,0.0411349692548,0.0848341717964,0.081049034557,0,0.10988,0,0,0,0,0,0,0,0,0,0
+50,Spurs' first attempt at playing the ball around at the back sees Chelsea soon press them into the corner and it's take some clever play from Walker to win a throw-in.,3 min,21,13,108.133442481,0.0848341717964,0.0343955069697,0.0428335340429,0.0,0,0.20325,0,1,0,0,0,0,0,0,0,0
+51,Spurs have had a warning there.,3 min,3,4,19.2270500493,0.0428335340429,0.081049034557,0.0,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+52,CHANCE!,5 min,2,0,3.66258782703,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+53,"The first opportunity of the match falls to Chelsea and it's a good one, too.",5 min,10,8,46.0432689569,0.0,0.0,0.0630118672396,0.166440010471,0,0.18541,0,0,0,0,0,0,0,0,0,0
+54,Matic floats a ball over the Spurs defence and Vertonghen is playing Hazard onside.,5 min,10,5,51.213006023,0.0630118672396,0.0,0.011178774849,0.0688478541865,0,0.1909,0,0,0,0,0,0,0,0,0,0
+55,It falls invitingly for him in the penalty area but he drags his left-foot volley wide of Lloris's post.,5 min,12,9,67.5552532615,0.011178774849,0.166440010471,0.0,0.0824620947771,0,0.15058,0,0,0,0,0,1,0,0,0,0
+56,This is clever from Conte.,8 min,3,3,17.4050166529,0.0,0.0688478541865,0.0,0.0,0,0.027025,0,0,0,0,0,0,0,0,0,0
+57,He has obviously instructed his team to target long balls into the full-back areas in order to force Walker and Rose back.,8 min,14,9,82.2441666578,0.0,0.0824620947771,0.0904898956001,0.0945819032252,0,0.104245,0,0,0,0,0,0,0,0,0,0
+58,The pair are operating as wing-backs in a 3-4-3 formation but they are having to play as full-backs for now.,8 min,8,13,58.4741508632,0.0904898956001,0.0,0.0,0.0538622923512,0,0.115725,0,1,0,0,0,0,0,0,0,0
+59,Dembele wins possession and then Chelsea back off - not such a clever move.,10 min,9,6,52.478724808,0.0,0.0945819032252,0.0177995416261,0.0653025482383,0,0.071425,0,1,0,0,0,0,0,0,0,0
+60,The Belgian is allow to jink his way towards the penalty area before clipping the ball through to Kane but it's slightly over-hit and Courtois is able to claim.,10 min,17,14,104.526813946,0.0177995416261,0.0538622923512,0.171607016956,0.100924502823,0,0.17212,0,0,0,0,0,1,0,0,0,0
+61,It's been all Spurs over the past five minutes and they are starting to push back towards their own final third.,13 min,12,11,79.512269625,0.171607016956,0.0653025482383,0.232958512201,0.0636836008739,0,0.17141,0,0,0,0,0,0,0,0,0,0
+62,They are having to settle for probing for a clear opening but they are starting to control the pace of the contest.,13 min,9,14,77.8090218376,0.232958512201,0.100924502823,0.045159839354,0.0568681328536,0,0.164325,0,0,0,0,0,0,0,0,0,0
+63,Spurs win a free kick on the flank after Moses upends Rose and Eriksen's delivery almost finds the head of Alderweireld.,16 min,16,7,77.907985065,0.045159839354,0.0636836008739,0.0579881619074,0.0,0,0.201955,0,1,0,0,0,0,0,0,0,0
+64,"However, Luiz gets to the ball first and in all fairness, it's top-class defending from the Brazilian.",16 min,13,8,58.683919078,0.0579881619074,0.0568681328536,0.0,0.139903612738,0,0.115385,0,0,0,0,0,0,0,0,0,0
+65,BOOKING!,18 min,2,0,4.20158432776,0.0,0.0,0.259279018111,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+66,The first booking of the night goes to Pedro after he goes in late on Rose.,18 min,9,8,56.1439282362,0.259279018111,0.139903612738,0.085155688518,0.0318775442627,0,0.131705,0,0,0,0,0,0,0,0,0,0
+67,It's a definite yellow but it's a challenge which Pedro really doesn't need to make.,18 min,11,8,52.2026044321,0.085155688518,0.0,0.0,0.0,0,0.083335,0,0,0,0,0,0,0,0,0,0
+68,Nothing comes from the resulting free kick.,18 min,6,2,29.2011561738,0.0,0.0318775442627,0.0390833666223,0.0,0,0.15662,0,0,0,0,0,0,0,0,0,0
+69,"Aside from that Hazard chance, Chelsea have been a complete non-entity in attack.",21 min,9,6,41.6114692082,0.0390833666223,0.0,0.0,0.0,0,0.106385,0,0,0,0,0,0,0,0,0,0
+70,"It's all Spurs and while they are yet to create a clear-cut opportunity, you feel as though it is only a matter of time.",21 min,12,15,79.7495092256,0.0,0.0,0.0,0.0634101282785,0,0.1125,0,0,0,0,0,0,0,0,0,0
+71,SHOT!,22 min,2,0,3.95026989948,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+72,It's not the best of opportunities but Wanyama should be hitting the target.,22 min,7,8,47.9561603082,0.0,0.0634101282785,0.233678864051,0.0,0,0.12766,0,0,0,0,0,0,0,0,0,0
+73,The ball falls to him on the edge of the penalty area but he drags his half-volley wide of the target.,22 min,10,12,66.1158814043,0.233678864051,0.0,0.0,0.0,0,0.26282,0,0,0,0,0,1,0,0,0,0
+74,CHANCE!,23 min,2,0,3.66258782703,0.0,0.0,0.430604494304,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+75,"This time, it's definitely a chance.",23 min,6,3,18.394598697,0.430604494304,0.0,0.0,0.0,0,0.08252,0,0,0,0,0,0,0,0,0,0
+76,"Spurs win possession and Eriksen is able to accelerate forward but despite creating space for himself on the edge of the penalty area, he fired marginally wide of the far post.",23 min,20,13,116.262960281,0.0,0.0,0.0,0.0159170843473,0,0.238265,0,1,0,0,0,1,0,0,0,0
+77,SHOT!,25 min,2,0,3.95026989948,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+78,Alderweireld scythes down Costa around 30 yards from goal but somehow avoids a booking.,25 min,11,4,55.733695516,0.0,0.0159170843473,0.0868593938667,0.0237932301406,1,0.12344,0,0,0,0,0,0,0,0,0,0
+79,"Nevertheless, it gives Luiz a chance to shoot from distance but on this occasion, he sends his set piece a couple of yards over the crossbar.",25 min,16,13,95.3703255391,0.0868593938667,0.0,0.102200694358,0.0151105725905,0,0.17596,0,0,0,0,0,0,0,0,0,0
+80,No more chances to speak of but the pace of this game is picking up.,28 min,6,10,54.1204467441,0.102200694358,0.0237932301406,0.168580662676,0.138580910674,0,0.14674,0,0,0,0,0,0,0,0,0,0
+81,"There are a few more mistakes, a few more fouls, but we remain goalless.",28 min,7,10,53.0540399921,0.168580662676,0.0151105725905,0.165978555574,0.0179965700022,1,0.054055,0,0,0,0,0,0,0,0,0,0
+82,Conte looks the more agitated on the touchline but I think that's just his character.,28 min,8,9,53.9482919022,0.165978555574,0.138580910674,0.0666188285347,0.0,0,0.102565,0,0,0,0,0,0,0,0,0,0
+83,Moses is down after being taken out by Rose in the Chelsea penalty area but the referee does nothing.,31 min,9,11,71.3323278883,0.0666188285347,0.0179965700022,0.0,0.0669837322733,0,0.11845,0,0,0,0,0,1,0,0,0,0
+84,"Really, it should be a yellow card.",31 min,5,4,25.1817516695,0.0,0.0,0.0,0.0,0,0.050005,0,0,0,0,0,0,0,0,0,0
+85,That's a couple of times that Chelsea's haven't had the rub of the green.,31 min,9,9,44.4603047452,0.0,0.0669837322733,0.0676136721492,0.0503359401662,0,0.143725,0,0,0,0,0,0,0,0,0,0
+86,"Rose also picked up a knock during that coming-together but like Moses, he is fine to continue.",35 min,11,8,61.2367645444,0.0676136721492,0.0,0.0362924808941,0.0145732109411,0,0.09881,0,0,0,0,0,0,0,0,0,0
+87,This game is in danger of becoming a bit scrappy.,35 min,6,5,35.9865427639,0.0362924808941,0.0503359401662,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+88,Neither side have been able to create anything over the past 10 minutes.,35 min,9,5,52.6556488099,0.0,0.0145732109411,0.0,0.0169780241625,0,0.116155,0,0,0,0,0,0,0,0,0,0
+89,CHANCE!,36 min,2,0,3.66258782703,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+90,"On current form, Costa would be expecting to do better with this shot.",36 min,9,6,53.5383879596,0.0,0.0169780241625,0.0,0.0,0,0.086955,0,0,0,0,0,0,0,0,0,0
+91,Vertonghen got in the way of the ball but there was distinct lack of composure from the striker who blazed over from 20 yards.,36 min,12,13,89.1197575289,0.0,0.0,0.0,0.0881132484774,0,0.179895,0,0,0,0,0,0,0,0,0,0
+92,BOOKING!,38 min,2,0,4.20158432776,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+93,Eriksen takes advantage of a mistake from Cahill and the Chelsea skipper takes no chances and hauls down the Dane before he can get any closer to goal.,38 min,15,14,106.305947474,0.0,0.0881132484774,0.113783305824,0.0,1,0.12676,0,0,1,0,0,0,0,0,0,0
+94,There was plenty of cover so there was no danger of any further action.,38 min,5,10,59.7083410522,0.113783305824,0.0,0.0,0.0,0,0.086955,0,0,0,0,0,0,0,0,0,0
+95,CHANCE!,39 min,2,0,3.66258782703,0.0,0.0,0.196344855829,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+96,Rose's floated free kick finds Dier at the back post and he has the chance to get in a free header.,39 min,14,9,73.7848559295,0.196344855829,0.0,0.0358323904279,0.0,0,0.21685,0,0,0,0,0,0,0,0,1,0
+97,It's a decent connection but Courtois is able to make the fairly comfortable save.,39 min,10,6,50.5927201907,0.0358323904279,0.0,0.0,0.0190734030903,0,0.105265,0,0,0,0,0,0,0,0,0,0
+98,BOOKING!,40 min,2,0,4.20158432776,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+99,"Spurs finally have a man go into the referee's book after Wanyama dives in clumsily on Hazard, who was far too quick for the Kenyan.",40 min,16,12,98.9517753695,0.0,0.0190734030903,0.0628140796146,0.118894085434,0,0.156195,0,0,0,0,0,0,0,0,0,0
+100,Chelsea win their first corner of the match when a Hazard cross is needlessly turned behind by Rose.,43 min,12,7,67.4850729864,0.0628140796146,0.0,0.0959194103091,0.0251935845971,0,0.159265,0,1,0,0,0,0,0,0,0,0
+101,The Blues decide to play it short but Hazard's delivery goes straight into the hands of Lloris.,43 min,12,7,64.3337325644,0.0959194103091,0.118894085434,0.0256261068362,0.0,0,0.139285,0,0,0,0,0,0,0,0,0,0
+102,There will be two minutes of added-on time.,45 min,5,4,24.2707567315,0.0256261068362,0.0251935845971,0.0,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+103,GOAL!,45+1 min,2,0,3.84490938382,0.0,0.0,0.0,0.0,1,0.02273,0,0,0,0,0,0,0,0,0,0
+104,Tottenham Hotspur 1-0 Chelsea (Alli),45+1 min,7,0,14.2998683344,0.0,0.0,0.0,0.13156065215,0,0.147595,0,0,0,0,0,0,0,0,0,0
+105,What a time to score!,45+1 min,3,3,15.5635603734,0.0,0.0,0.022985441193,0.188628197257,0,0.06818,0,0,0,0,0,0,0,0,0,0
+106,Alli has barely had a kick all afternoon but he finds space inside the Chelsea penalty area to direct Eriksen's cross into the far corner with his head.,45+1 min,18,12,104.223160483,0.022985441193,0.13156065215,0.0308360844717,0.0317208964179,0,0.20913,0,0,0,0,0,1,0,0,0,0
+107,HALF TIME: Tottenham Hotspur 1-0 Chelsea,45+2 min,7,0,18.2390883977,0.0308360844717,0.188628197257,0.253369563186,0.0,0,0.127085,0,0,0,0,0,0,0,0,0,0
+108,"The half-time whistle goes at White Hart Lane and it's Spurs who lead, probably deservedly so, over Chelsea.",8.49pm,15,7,64.0571705449,0.253369563186,0.0317208964179,0.0455380337135,0.0,0,0.18388,0,0,0,0,0,0,0,0,0,0
+109,There hasn't been too many chances but Spurs have made most of the running.,8.49pm,7,9,51.8581685865,0.0455380337135,0.0,0.0,0.0319812639821,0,0.12955,0,0,0,0,0,0,0,0,0,0
+110,Big team talk coming up for Conte.,8.49pm,6,2,30.4209235841,0.0,0.0,0.0585641061965,0.0,0,0.050005,0,0,0,0,0,0,0,0,0,0
+111,The two teams are heading back out for the second half.,9.02pm,7,5,39.008685529,0.0585641061965,0.0319812639821,0.0545355747489,0.159112864716,0,0.144175,0,0,0,0,0,0,0,0,0,0
+112,I don't think we are going to be seeing any changes just yet.,9.02pm,7,8,51.0921954569,0.0545355747489,0.0,0.0576609891633,0.0,0,0.033895,0,0,0,0,0,0,0,0,0,0
+113,Chelsea are out much earlier than their hosts.,9.02pm,5,4,32.483585259,0.0576609891633,0.159112864716,0.050381074653,0.0,0,0.048785,0,0,0,0,0,0,0,0,0,0
+114,Chelsea get us back underway.,46 min,6,0,19.5468204363,0.050381074653,0.0,0.0,0.0542440543618,0,0.041665,0,0,0,0,0,0,0,0,0,0
+115,CHANCE!,48 min,2,0,3.66258782703,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+116,Brilliant start to this second half from Chelsea.,48 min,6,3,29.4975843929,0.0,0.0542440543618,0.0582604501071,0.0,0,0.076215,0,0,0,0,0,0,0,0,0,0
+117,"Moments after Costa forces a good save from Lloris from 20 yards, an Alonso delivery across the six-yard box evades everyone.",48 min,17,6,83.5236885606,0.0582604501071,0.0,0.0,0.0,0,0.165005,0,0,0,0,0,0,0,0,0,0
+118,CHANCE!,48 min,2,0,3.66258782703,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+119,Now Hazard misses a sitter.,48 min,4,2,18.7728667473,0.0,0.0,0.18462466505,0.0,0,0.045455,0,0,0,0,0,0,0,0,0,0
+120,"Well, not a sitter, but he should be scoring from four yards out.",48 min,8,8,48.9702434973,0.18462466505,0.0,0.0537532949477,0.0,0,0.15316,0,0,0,0,0,0,0,0,0,0
+121,Alonso's header finds the Belgian at the back post but he somehow directs his own header wide.,48 min,12,7,66.6860779448,0.0537532949477,0.0,0.0,0.0983285411919,0,0.160295,0,0,0,0,0,0,0,0,1,0
+122,SHOT!,51 min,2,0,3.95026989948,0.0,0.0,0.214837275718,1.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+123,Eriksen attempts to get Spurs back on the front foot with a shot from 25 yards but it's tame and straight at Courtois.,51 min,15,10,82.233663539,0.214837275718,0.0983285411919,0.214837275718,0.118480351938,0,0.213075,0,0,0,0,0,0,0,0,0,0
+124,SHOT!,53 min,2,0,3.95026989948,0.214837275718,1.0,0.238571848762,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+125,A prolonged period of possession from Chelsea ends with Matic drilling a shot high into the stands.,53 min,11,7,60.9992270231,0.238571848762,0.118480351938,0.0721152807939,0.0,0,0.12245,0,0,0,0,0,0,0,0,0,0
+126,He is capable from long range so he will be disappointed with that.,53 min,5,9,49.0464096262,0.0721152807939,0.0,0.0,0.0,0,0.1087,0,0,0,0,0,0,0,0,0,0
+127,GOAL!,54 min,2,0,3.84490938382,0.0,0.0,0.0,0.0,1,0.02273,0,0,0,0,0,0,0,0,0,0
+128,Tottenham Hotspur 2-0 Chelsea (Alli),54 min,7,0,14.2998683344,0.0,0.0,0.0654645716583,0.0,0,0.197625,0,0,0,0,0,0,0,0,0,0
+129,Is Chelsea's winning streak coming to an end?,54 min,7,3,30.4010525248,0.0654645716583,0.0,0.0,0.0,0,0.18507,0,1,0,0,0,0,0,0,0,0
+130,It looks like it.,54 min,3,2,14.9943751345,0.0,0.0,0.0,0.0,0,0.05173,0,0,0,0,0,0,0,0,0,0
+131,Spurs double their advantage through the same combination that brought their first goal.,54 min,8,6,53.3150207114,0.0,0.0,0.0201036298398,0.00959817585989,1,0.121915,0,0,0,0,0,0,0,0,0,0
+132,An Eriksen cross finds Alli at the back post and he is able to head home into the far corner from close range.,54 min,14,10,84.6403529091,0.0201036298398,0.0,0.0797684772897,0.0280401865137,0,0.299925,0,0,1,0,0,0,0,0,0,0
+133,It's difficult to see Chelsea coming back from this but we shouldn't write off a team who have won 13 games on the trot.,58 min,13,14,88.4502938976,0.0797684772897,0.00959817585989,0.0666830307421,0.146909882515,0,0.131705,1,0,0,0,0,0,0,0,0,0
+134,A victory may already be out of their reach but it only takes one Chelsea goal to create alarm bells in the Spurs defence.,58 min,14,11,87.2247276638,0.0666830307421,0.0280401865137,0.124210327792,0.0369707940475,1,0.15853,0,0,0,0,0,0,0,0,0,0
+135,I don't think it will be long before we see one of Fabregas or Willian.,61 min,8,9,57.1920911519,0.124210327792,0.146909882515,0.0,0.0622496938125,0,0.04286,0,0,0,0,0,0,0,0,0,0
+136,Chelsea need a spark.,61 min,4,1,12.5344004923,0.0,0.0369707940475,0.0,0.191116915271,0,0.055555,0,0,0,0,0,0,0,0,0,0
+137,Matic and Pedro will most likely make way at some stage.,61 min,7,5,45.2666028894,0.0,0.0622496938125,0.160850450474,0.0,0,0.06203,0,0,0,0,0,0,0,0,0,0
+138,It's Chelsea who need a goal but Spurs look the most likely to add to their tally rather than the Blues getting back into this.,65 min,14,13,87.948129472,0.160850450474,0.191116915271,0.0586787425461,0.0,1,0.27628,0,0,0,0,0,0,0,0,0,0
+139,They are spraying the ball around the pitch without much pressure from the visitors.,65 min,9,6,53.7668855891,0.0586787425461,0.0,0.0,0.0548604641962,0,0.109685,0,0,0,0,0,0,0,0,0,0
+140,SUBSTITUTION!,65 min,2,0,4.76120011569,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+141,Interesting change from Chelsea.,65 min,4,1,14.9323908932,0.0,0.0548604641962,0.0,0.204268803506,0,0.055555,0,0,0,0,0,0,0,0,0,0
+142,Willian is being introduced in place of Alonso.,65 min,5,4,31.7441364416,0.0,0.0,0.0526162242305,0.0,0,0.060605,0,0,0,0,0,0,0,0,0,0
+143,That change has resulted in Chelsea starting to press but a couple of timely interventions prevent Costa from netting what seemed like a certain goal.,69 min,16,10,93.6007854915,0.0526162242305,0.204268803506,0.0379937071063,0.146816769904,1,0.113925,0,0,0,0,0,0,0,0,0,0
+144,Less than 20 minutes to go now and I'm really surprised that we haven't seen Fabregas.,71 min,11,8,61.7823638682,0.0379937071063,0.0,0.0,0.0662905618145,0,0.06984,0,0,0,0,0,0,0,0,0,0
+145,He has contributed plenty of assists over the past couple of months.,71 min,7,6,46.161515485,0.0,0.146816769904,0.0983046457412,0.0,0,0.11472,0,0,0,0,0,0,0,0,0,0
+146,"There's also a case for Chelsea trying Batshuayi, who has been starved of minutes this season.",71 min,11,8,59.0833794517,0.0983046457412,0.0662905618145,0.0,0.0528446110241,0,0.09859,0,0,0,0,0,0,0,0,0,0
+147,SUBSTITUTION!,74 min,2,0,4.76120011569,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+148,Pochettino makes his first change of the match as he introduces Harry Winks for Dembele.,74 min,10,6,59.4887290585,0.0,0.0528446110241,0.0,0.043520949937,0,0.16848,0,1,0,0,0,0,0,0,0,0
+149,SHOT!,77 min,2,0,3.95026989948,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+150,Moses fouls Rose on the edge of the are and is probably lucky to escape a booking.,77 min,9,9,57.2996725962,0.0,0.043520949937,0.0501718863783,0.0,0,0.16587,0,0,0,0,0,0,0,0,0,0
+151,Eriksen decides to try his luck from 30 yards out but his curling effort goes just wide of the post.,77 min,12,9,78.423482855,0.0501718863783,0.0,0.0,0.173476870371,0,0.209765,0,0,0,0,0,0,0,0,0,0
+152,SUBSTITUTION!,79 min,2,0,4.76120011569,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+153,It's finally time for Fabregas to make his introduction to a chorus of boos due to his Arsenal connection.,79 min,12,9,68.7519072642,0.0,0.173476870371,0.148006767954,0.0696380441558,0,0.11628,0,0,0,0,0,0,0,0,0,0
+154,Kante is the man to make way.,79 min,5,3,24.4254988887,0.148006767954,0.0,0.0784536390206,0.0,0,0.050005,0,0,0,0,0,0,0,0,0,0
+155,Alli is down injured after kicking the boot of Matic when challenging for a high ball but I think he will be fine to continue.,83 min,12,14,90.2102193785,0.0784536390206,0.0696380441558,0.0423384916083,0.0,0,0.109375,0,0,0,0,0,0,0,0,0,0
+156,Still no more openings for Chelsea.,83 min,4,3,24.3568107162,0.0423384916083,0.0,0.0,0.0,0,0.051285,0,0,0,0,0,0,0,0,0,0
+157,They have surrendered their winning record pretty tamely tonight.,83 min,7,3,41.3611088437,0.0,0.0,0.0,0.0,0,0.148895,0,1,0,0,0,0,0,0,0,0
+158,SUBSTITUTIONS!,86 min,2,0,5.45434729625,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+159,Chelsea's final alteration sees Batshuayi replace Moses.,86 min,9,0,30.9505922956,0.0,0.0,0.161549357725,0.0,0,0.0709,0,0,0,0,0,0,0,0,0,0
+160,Pochettino also takes the opportunity to replace Alli with Sissoko.,86 min,8,3,39.9618622043,0.161549357725,0.0,0.0,0.0425796892915,0,0.085715,0,0,0,0,0,0,0,0,0,0
+161,CHANCE!,90 min,2,0,3.66258782703,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+162,One last throw of the dice from Chelsea sees the ball swung in for Luiz but the Brazilian heads over the bar from around 14 yards out.,90 min,16,12,98.3107832187,0.0,0.0425796892915,0.0193629910613,0.0297963846874,0,0.170685,0,0,0,0,0,0,0,0,0,0
+163,There will be four minutes of added-on time.,90+1 min,5,4,25.3693690202,0.0193629910613,0.0,0.131579825177,0.073395030189,0,0.0625,0,0,0,0,0,0,0,0,0,0
+164,FULL TIME: Tottenham Hotspur 2-0 Chelsea,90+4 min,7,0,18.5755606343,0.131579825177,0.0297963846874,0.301037638526,0.0,0,0.169045,0,0,0,0,0,0,0,0,0,0
+165,The full-time whistle goes at White Hart Lane and Chelsea have finally been beaten!,9.54pm,10,5,48.7463639247,0.301037638526,0.073395030189,0.00987630649433,0.0466291240318,0,0.202505,0,0,0,0,0,0,0,0,0,0
+166,"It's taken two goals from Dele Alli to not only end their 13-game winning run, but to move Spurs back into the title race.",9.54pm,17,10,85.824154944,0.00987630649433,0.0,0.130654879906,0.0293830851397,1,0.22628,0,1,0,0,0,0,0,0,0,0
+167,The North London outfit and their title rivals are rejoicing!,9.54pm,7,4,40.2897750162,0.130654879906,0.0466291240318,0.0,0.0322665506321,0,0.141635,0,0,0,0,0,0,0,0,0,0
+168,That will be all from Sports Mole for this match.,9.55pm,4,7,36.2586899087,0.0,0.0293830851397,0.21323929867,0.0975778177152,0,0.06977,0,0,0,0,0,0,0,0,0,0
+169,Thank you for joining us this season and we hope that you can stick around for all of the reaction from White Hart Lane.,9.55pm,12,13,95.9968093885,0.21323929867,0.0322665506321,0.104360437977,0.0,0,0.102885,0,0,0,0,0,0,0,0,0,0
+170,Goodbye for now.,9.55pm,2,2,12.584550276,0.104360437977,0.0975778177152,0.0,0.0,0,0.038465,0,0,0,0,0,0,0,0,0,0

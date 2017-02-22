@@ -1,0 +1,219 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Afternoon all!,2.16pm,2,1,8.01596952484,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live La Liga coverage continues from the Mestalla as Valencia welcome the champions Barcelona.,2.16pm,14,4,63.4211200507,0.0,0.0,0.0131134502442,0.0677747110131,0,0.178075,0,0,0,0,0,0,0,0,0,0
+2,"It has been a very difficult start to the campaign for Los Che, but they were victorious in Cesare Prandelli's first game in charge last weekend.",2.16pm,16,13,96.8562621206,0.0131134502442,0.0,0.118273985504,0.0398651684816,0,0.156755,0,0,0,0,0,0,0,0,0,0
+3,"As for Barcelona, they have already lost twice in the league this term, but three points here would temporarily take them top of the table.",2.16pm,16,12,91.287108413,0.118273985504,0.0677747110131,0.108996730388,0.0976173238087,0,0.153735,0,0,0,1,0,0,0,0,0,0
+4,Valencia have actually gone nine league games without a home win over Barcelona - suffering four defeats in the process.,2.19pm,16,5,74.0369384143,0.108996730388,0.0398651684816,0.10515289861,0.0794744138175,0,0.122805,0,1,0,0,0,0,0,0,0,0
+5,"In fact, not since March 2008 have Valencia beat Barcelona at the Mestalla and that was a 3-2 victory in the Copa del Rey.",2.19pm,15,11,83.0713984404,0.10515289861,0.0976173238087,0.262877042034,0.0,0,0.2407,0,0,0,0,0,0,0,0,0,0
+6,"The pair also met in the Copa del Rey last season, when Barcelona ran out 8-1 aggregate winners over then Gary Neville's team.",2.19pm,19,7,97.2283501196,0.262877042034,0.0794744138175,0.165158251972,0.108781837135,0,0.107805,0,1,0,0,0,0,0,0,0,0
+7,Sorry Gary!,2.19pm,3,0,10.9863839904,0.165158251972,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+8,"That said, despite a rotten home run against Barcelona, Valencia recorded a 2-1 victory at Camp Nou in the league last season.",2.22pm,18,7,75.706153859,0.0,0.108781837135,0.0474249602713,0.0130801553587,0,0.180885,0,0,0,0,0,0,0,0,0,0
+9,"If this match had taken place before the international break, confidence would have been very low with the home side.",2.22pm,12,10,75.8678403832,0.0474249602713,0.0,0.0866483491246,0.0441095726089,0,0.13678,0,0,0,0,0,0,0,0,0,0
+10,"However, Prandelli's introduction has certainly lifted the entire club and this could well be a very tricky afternoon for the champions.",2.22pm,15,9,81.0128276634,0.0866483491246,0.0130801553587,0.0121657468816,0.0770781085334,0,0.131425,0,0,0,0,0,0,0,0,0,0
+11,"Right, without further ado, let me bring you up-to-speed with the all-important team news.",2.25pm,12,5,56.2372657378,0.0121657468816,0.0441095726089,0.0114228887442,0.10867565743,0,0.10406,0,0,0,0,0,0,0,0,0,0
+12,"Valencia have had a free week to prepare for this match, but Barcelona were in Champions League action against Manchester City on Wednesday night, which brought a 4-0 win.",2.25pm,19,13,102.583643141,0.0114228887442,0.0770781085334,0.0387097996783,0.0,0,0.14286,0,1,0,0,0,0,0,0,0,0
+13,Let's have a look at the two XIs...© SilverHub,2.25pm,8,4,31.7243284285,0.0387097996783,0.10867565743,0.0,0.0611680922491,0,0.091995,0,0,0,0,0,0,0,0,0,0
+14,"TEAMS!VAL: Alves; Montoya, Garay, Mangala, Gaya; Perez, Suarez; Cancelo, Parejo, Nani; RodrigoFCB: Ter Stegen; Roberto, Umtiti, Mascherano, Digne; Gomes, Busquets, Iniesta; Neymar, Suarez, Messi",2.28pm,48,0,111.904785966,0.0,0.0,0.058317737551,0.0855529933376,0,0.081455,0,0,0,0,0,0,0,0,0,0
+15,"Valencia boss Prandelli has made two changes to the team that beat Sporting Gijon last weekend, with fit-again Nani taking the place of Santi Mina in a forward area, while Eliaquim Mangala returns to central defence in place of Aderllan Santos.",2.32pm,31,13,162.084505939,0.058317737551,0.0611680922491,0.139994791164,0.192415699798,0,0.15861,0,0,0,0,0,0,0,0,0,0
+16,"Mario Suarez, who scored twice against Sporting, continues in midfield alongside Enzo Perez, with Rodrigo once again selected as the lone forward.",2.32pm,18,8,98.5422996592,0.139994791164,0.0855529933376,0.0310532733671,0.0273126115397,0,0.119865,0,0,0,0,0,0,0,0,0,0
+17,"As for Barcelona, Luis Enrique has made three changes to the team that started the 4-0 win over Man City on Wednesday night.",2.35pm,16,9,84.0865416266,0.0310532733671,0.192415699798,0.0458550290201,0.0871753585765,0,0.129575,0,1,0,0,0,0,0,0,0,0
+18,"Gerard Pique and Jordi Alba miss out with ankle and hamstring injuries respectively, while Ivan Rakitic has dropped to the bench.",2.35pm,15,8,96.0662929855,0.0458550290201,0.0273126115397,0.055809722883,0.0,0,0.109775,0,0,0,0,0,0,0,0,0,0
+19,"In come Sergi Roberto, Lucas Digne and Andre Gomes, but there is no change up top as Lionel Messi, Luis Suarez and Neymar all start.",2.35pm,19,10,104.429500604,0.055809722883,0.0871753585765,0.0789287437981,0.0663563166827,0,0.10606,0,0,0,0,0,0,0,0,0,0
+20,So there we have it.,2.38pm,1,5,18.0067671144,0.0789287437981,0.0,0.108164399244,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+21,The two teams are in and we are now just about 35 minutes from kickoff on this warm afternoon in Valencia.,2.38pm,9,13,75.3569720781,0.108164399244,0.0663563166827,0.197081865796,0.0857299560905,0,0.11513,0,0,0,0,0,0,0,0,0,0
+22,"I shall speak about the home side and their start a little bit more in the build-up to kickoff, but let's start with Barcelona, who will enter this match off the back of a 4-0 win over Man City in the group stage of the Champions League on Wednesday night.© SilverHub",2.38pm,29,25,168.973952772,0.197081865796,0.0,0.127903732588,0.154723167177,0,0.21166,0,1,0,0,0,0,0,0,0,0
+23,"It was actually quite a strange and underwhelming performance from Barcelona during the European affair, but a hat-trick from Messi and late Neymar effort saw the home side record a 4-0 win.",2.42pm,21,13,107.170305464,0.127903732588,0.0857299560905,0.0424070491507,0.105612874684,0,0.14776,0,1,0,0,0,0,0,0,0,0
+24,"That success followed a 4-0 victory over Deportivo La Coruna in the league last weekend, which kept Enrique's side within touching distance of the top three after eight matches of the campaign.",2.42pm,24,11,123.247055872,0.0424070491507,0.154723167177,0.195560171343,0.124467071908,0,0.15246,0,0,0,0,0,0,0,0,0,0
+25,"It seems quite incredible to say at this stage of the campaign, but champions Barcelona are indeed down in fourth position in the La Liga table having won five, drawn one and lost two of their eight league games this season.",2.45pm,26,18,157.306695729,0.195560171343,0.105612874684,0.168314985407,0.14149918582,0,0.214425,1,0,0,1,1,0,1,0,0,0
+26,"They are just two points behind the leaders Atletico Madrid, however, and three points this afternoon would take them to the top of the table, for at least the next 24 hours.",2.45pm,22,14,122.524111359,0.168314985407,0.124467071908,0.017457204304,0.1151555616,0,0.291195,0,0,0,0,0,0,0,0,0,0
+27,"Barcelona have actually scored 27 times in their last seven league games away from home – recording six wins in the process, which is some record.",2.48pm,19,9,101.871567783,0.017457204304,0.14149918582,0.152018498349,0.0369740192222,0,0.12121,0,1,0,0,0,0,0,0,0,0
+28,"That said, a total of 16 points from their opening eight league games represents their worst start to a season since the 2005-06 campaign.",2.48pm,17,9,84.1638082573,0.152018498349,0.1151555616,0.1605556053,0.119219528657,0,0.107145,0,0,0,0,0,0,0,0,0,0
+29,It would be fair to say that the champions are still waiting to find their rhythm this season.© SilverHub,2.48pm,10,9,68.606657743,0.1605556053,0.0369740192222,0.0910641119754,0.0297490277518,0,0.109375,0,0,0,0,0,0,0,0,0,0
+30,"In terms of what is ahead for Barcelona, they will host struggling Granada in their next league match on October 29, before travelling to Man City in the Champions League on November 1.",2.52pm,21,15,125.060734893,0.0910641119754,0.119219528657,0.0501687882954,0.120764567728,0,0.25947,0,0,0,0,0,0,0,0,0,0
+31,Then comes a difficult trip to an impressive and improving Sevilla before another international break.,2.52pm,10,6,65.0455379398,0.0501687882954,0.0297490277518,0.0,0.0,0,0.08772,0,0,0,0,0,0,0,0,0,0
+32,The first Clasico of the season will take place at Camp Nou on December 4.,2.52pm,10,6,54.6171797943,0.0,0.120764567728,0.105928770447,0.0170311496401,0,0.15083,0,0,0,0,0,0,0,0,0,0
+33,That will soon roll around!,2.52pm,4,2,23.3119837034,0.105928770447,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0
+34,"Valencia, meanwhile, have made their worst start to a La Liga term since the 1990-2000 campaign.",2.55pm,14,5,54.6768774305,0.0,0.0170311496401,0.235366447282,0.105037509911,0,0.118445,0,0,0,0,0,0,0,0,0,0
+35,"What's more, with just three points won at home from four matches, Los Che are experiencing their worst start to a league season at the Mestalla since the 1997-98 campaign, which is a real concern.",2.55pm,23,17,125.745061494,0.235366447282,0.0,0.129233380685,0.225969651999,0,0.1494,1,0,0,0,0,0,0,0,0,0
+36,"Indeed, the former Spanish champions will enter this match down in 14th position in the table having won three and lost five of their eight league games this term.",2.58pm,18,13,114.534055274,0.129233380685,0.105037509911,0.0716650725706,0.149332508073,0,0.114705,1,0,0,1,0,0,1,0,0,0
+37,"They are actually just two points outside of the relegation zone, but just three points from the top seven.",2.58pm,12,9,73.2299379054,0.0716650725706,0.225969651999,0.0641879972711,0.0957573875392,0,0.34554,0,0,0,0,0,0,0,0,0,0
+38,"It is still too early in the season to be seriously addressing the state of the league table though, especially the bottom half.",2.58pm,14,11,84.1403615652,0.0641879972711,0.149332508073,0.0618050795045,0.0415889727843,0,0.16782,0,0,0,0,0,0,0,0,0,0
+39,📷 The players are at Mestalla.,3.02pm,4,3,16.0918420133,0.0618050795045,0.0957573875392,0.0268204619607,0.0,0,0.14049,0,0,0,0,0,0,0,0,0,0
+40,Let's get behind the team #ValenciaBarça!,3.02pm,8,1,20.6732316707,0.0268204619607,0.0415889727843,0.0,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+41,Amunt!,3.02pm,2,0,5.69592454926,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+42,"pic.twitter.com/QORK3LCS5j— Valencia CF English (@valenciacf_en) October 22, 2016",3.02pm,12,0,34.7298082883,0.0,0.0,0.0129903384651,0.0,0,0.044445,0,0,0,0,0,0,0,0,0,0
+43,"Valencia relieved Pako Ayestaran of his duties towards the end of last month after a disastrous start to the season, and former Italy boss Prandelli has been tasked to improve matters.",3.05pm,21,12,124.4541454,0.0129903384651,0.0,0.153429808375,0.0229157980659,0,0.138945,0,0,0,0,0,0,0,0,0,0
+44,The 59-year-old made the perfect start to his tenure last weekend – a 2-1 victory away to Sporting Gijon.,3.05pm,14,6,58.65554812,0.153429808375,0.0,0.0183147339636,0.0400820369667,0,0.1,0,0,0,0,0,0,0,0,0,0
+45,"A disappointing 2015-16 campaign saw Valencia finish down in 12th position in the table, which was their lowest finish since 1988, when they ended the campaign in 14th.",3.08pm,19,12,107.238218568,0.0183147339636,0.0229157980659,0.0414628809456,0.00642874615046,0,0.13551,0,0,0,0,0,0,1,0,0,0
+46,"Champions as recent as 2004, Los Che finished fourth in the 2014-15 season, but it has been a difficult last 12 months or so.",3.08pm,16,11,90.5883111798,0.0414628809456,0.0400820369667,0.0257073855291,0.0720507525795,0,0.13011,0,0,0,0,0,0,0,0,0,0
+47,"A corner may have been turned though and a positive result this afternoon would lead them nicely into fixtures against Deportivo La Coruna, Celta Vigo and Granada, before a trip to impressive Sevilla towards the end of November.",3.12pm,26,15,155.001758566,0.0257073855291,0.00642874615046,0.0096131019824,0.0611226160787,0,0.14166,0,0,0,0,0,0,0,0,0,0
+48,"Indeed, the league table could take a very different shape over the next three or four weeks.",3.12pm,13,6,66.5932377363,0.0096131019824,0.0720507525795,0.0413506396303,0.0,0,0.08333,0,0,0,0,0,0,0,0,0,0
+49,"Right, kickoff at the Mestalla is now just around the corner!",3.12pm,7,6,39.3682736937,0.0413506396303,0.0611226160787,0.0,0.375641414595,0,0.103775,0,0,0,0,0,0,0,0,0,0
+50,"TEAMS!VAL: Alves; Montoya, Garay, Mangala, Gaya; Perez, Suarez; Cancelo, Parejo, Nani; RodrigoFCB: Ter Stegen; Roberto, Umtiti, Mascherano, Digne; Gomes, Busquets, Iniesta; Neymar, Suarez, Messi",3.14pm,48,0,111.904785966,0.0,0.0,0.0,0.0,0,0.081455,0,0,0,0,0,0,0,0,0,0
+51,KICKOFF!,0 min,2,0,4.77963381738,0.0,0.375641414595,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+52,Barcelona kick things off at the Mestalla...,0 min,5,3,25.3242068625,0.0,0.0,0.0146379788393,0.0667870661082,0,0.135395,0,0,0,0,0,0,0,0,0,0
+53,... it must be said that there is a wonderful atmosphere inside the stadium this afternoon.,2 min,9,8,54.7961981783,0.0146379788393,0.0,0.0,0.00952679390278,0,0.08995,1,0,0,0,0,0,0,0,0,0
+54,"A win takes Barcelona top, but Valencia will feel much better about themselves after last weekend's 2-1 win at Sporting Gijon.",2 min,17,7,80.5005187112,0.0,0.0667870661082,0.0,0.0985370034051,0,0.107805,0,1,0,0,0,0,0,0,0,0
+55,Rodrigo has already given the home fans something to cheer with a forward run.,2 min,10,5,53.9294929479,0.0,0.00952679390278,0.0124563674994,0.110285212882,0,0.13282,0,0,0,0,0,0,0,0,0,0
+56,"Bright football from Valencia as Gaya takes the ball away from Mascherano before feeding Nani, who delivers a dangerous cross into the Barcelona box, but Digne makes a smart clearance.",3 min,22,11,116.349576935,0.0124563674994,0.0985370034051,0.0957826176207,0.0229307664334,0,0.214785,0,0,0,0,0,0,0,0,0,0
+57,"Just a few signs that Barcelona are getting to grips with this match as they enjoy a sustained period of possession, but Valencia look very dangerous when they have the chance to break forward.",5 min,17,19,120.698250957,0.0957826176207,0.110285212882,0.0683344235412,0.173172281442,0,0.17141,0,0,0,0,0,0,0,0,0,0
+58,You just get the feeling that the first goal here - if there indeed is one - could be vital.,5 min,11,10,69.0489257102,0.0683344235412,0.0229307664334,0.052295872168,0.0277444176346,1,0.09001,0,0,0,0,0,0,0,0,0,0
+59,"Neither side has created a clear chance in the opening seven minutes of this match, but it is a very open contest, with both teams prepared to commit players in the final third of the field.",7 min,21,18,124.52701458,0.052295872168,0.173172281442,0.00972912207745,0.0904068819582,0,0.32779,0,0,0,0,0,0,0,0,0,0
+60,"That said, we are yet to see too much from Messi, who hit a wonderful hat-trick against Man City on Wednesday night.",7 min,15,10,84.411744368,0.00972912207745,0.0277444176346,0.0342098645636,0.0,0,0.09375,1,0,0,0,0,0,0,0,0,0
+61,Montoya and Gaya continue to raid forward for Valencia and both full-backs are capable of delivering good quality into the box.,9 min,13,9,77.1486439667,0.0342098645636,0.0904068819582,0.0177629165259,0.0463939824899,0,0.110385,0,0,0,0,0,0,0,0,0,0
+62,"The noise level rises as the home side force a corner, but the danger is cleared when Roberto heads clear.",9 min,14,8,76.9032801862,0.0177629165259,0.0,0.0714273357347,0.064507443079,0,0.205175,0,0,0,0,0,0,0,0,0,0
+63,The away side are coming under some pressure here.,9 min,5,5,36.4861857051,0.0714273357347,0.0463939824899,0.00746871567077,0.160085450535,0,0.08333,0,0,0,0,0,0,0,0,0,0
+64,"Neymar shows quite wonderful feet in a wide position as he drives past four Valencia players before attempting to create space for a shot, but Mangala is across to make the challenge.",10 min,22,12,125.47707696,0.00746871567077,0.064507443079,0.0542809375678,0.0802773541447,0,0.135515,1,0,0,0,0,0,1,0,0,0
+65,"There are some very late tackles arriving at the moment, which is adding to the atmosphere at the Mestalla.",10 min,9,12,68.9171815336,0.0542809375678,0.160085450535,0.0977526462196,0.0402395719843,0,0.11724,0,0,0,0,0,0,0,0,0,0
+66,Enrique is going absolutely bonkers on the touchline here as Iniesta is chopped to the ground by Perez.,12 min,10,9,72.4625725084,0.0977526462196,0.0802773541447,0.0887806177574,0.0,0,0.12,0,0,0,0,0,0,0,0,0,0
+67,It was rash from the Argentine and Iniesta might not be able to continue in this match.,12 min,8,10,63.0440264628,0.0887806177574,0.0402395719843,0.0,0.147924905666,0,0.142855,0,0,0,0,0,0,0,0,0,0
+68,Good grief.,13 min,3,0,10.4755583666,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+69,The stretcher is out and Iniesta is almost in tears on the pitch.,13 min,6,8,46.9043756845,0.0,0.147924905666,0.0,0.0,0,0.133335,0,0,0,0,0,0,0,0,0,0
+70,Bad scenes.,13 min,3,0,10.9863839904,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+71,BARCELONA SUB!,14 min,3,0,6.81199672051,0.0,0.0,0.113300152172,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+72,Rakitic replaces Iniesta for Barcelona.,14 min,5,1,18.2571986247,0.113300152172,0.0,0.0,0.0,0,0.080415,0,0,0,0,0,0,0,0,0,0
+73,"Neither side has created a chance of note inside the opening 16 minutes of this match, but it is a very open and entertaining match.",16 min,15,12,84.7078348378,0.0,0.0,0.0158175084628,0.0,0,0.15246,0,0,0,0,0,0,0,0,0,0
+74,I suspect that the first yellow card will soon arrive at the Mestalla.,16 min,8,6,48.310073962,0.0158175084628,0.0,0.0,0.0,0,0.09964,0,0,0,0,0,0,0,0,0,0
+75,BOOKING!,17 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+76,Garay (Valencia) is booked for a poor challenge on Suarez.,17 min,9,4,32.6470714627,0.0,0.0,0.0,0.0734441654763,0,0.11628,0,0,0,0,0,0,0,0,0,0
+77,Barcelona have a free kick in a dangerous position here...,18 min,6,5,29.8596929695,0.0,0.0,0.267013208798,0.0490538143844,0,0.10507,0,0,0,0,0,0,1,0,0,0
+78,... the free kick is played short and Valencia clear their lines once again.,18 min,9,6,51.9701704738,0.267013208798,0.0734441654763,0.087049094665,0.0332588387559,0,0.072095,0,0,0,0,0,0,0,0,0,0
+79,"Andre Gomes is the latest player to be chopped to the ground and Barcelona are not best pleased with the referee in this match, that is for sure.",20 min,14,16,99.1824946684,0.087049094665,0.0490538143844,0.0617746528251,0.0478337399319,0,0.204195,0,0,0,0,0,0,0,0,0,0
+80,I have just taken a second look at that Iniesta challenge and the midfielder's knee buckled under Perez's tackle.,20 min,13,9,71.611398296,0.0617746528251,0.0332588387559,0.0,0.040991104759,0,0.09434,0,0,0,0,0,0,0,0,0,0
+81,It was tough to watch.,20 min,3,3,19.7686736204,0.0,0.0478337399319,0.123062149666,0.0,0,0.066205,0,0,0,0,0,0,0,0,0,0
+82,It is pretty clear that Prandelli has sent Valencia out to be physical this afternoon and their approach is making it very difficult for Barcelona to play their football.,22 min,14,16,107.452325682,0.123062149666,0.040991104759,0.0690287276918,0.0663858943518,0,0.12957,0,0,0,0,0,0,0,0,0,0
+83,We are now 22 minutes into this match and neither side has had a shot on target.,22 min,8,10,61.1489782286,0.0690287276918,0.0,0.0986008055854,0.0,0,0.10507,0,0,0,0,0,0,0,0,0,0
+84,Not even a half-chance to report in this match.,22 min,5,5,24.2950348063,0.0986008055854,0.0663858943518,0.0,0.0,0,0.123325,0,0,0,0,0,0,0,0,0,0
+85,GOAL!,22 min,2,0,3.82412237235,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+86,Valencia 0-1 Barcelona (Messi),22 min,6,0,8.00533767255,0.0,0.0,0.251812511005,0.0,0,0.06977,0,0,0,0,0,0,0,0,0,0
+87,Barcelona make the breakthrough with the first chance of this match as Messi finds the bottom corner with a strike from inside the Valencia box.,23 min,15,11,80.2570426589,0.251812511005,0.0,0.0929623627996,0.0,0,0.34325,0,0,0,0,0,0,0,1,0,0
+88,"The home side called for offside due to Suarez's position, which appeared to block the goalkeeper, but the referee pointed to the centre circle!",23 min,18,10,89.0057523644,0.0929623627996,0.0,0.0,0.028651496421,1,0.318375,0,0,0,0,0,0,1,0,0,1
+89,BOOKING!,25 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+90,Busquets (Barcelona) is booked for a late challenge on Parejo.,25 min,9,4,33.2088826412,0.0,0.028651496421,0.0285812880229,0.0,0,0.14067,0,0,0,0,0,0,0,0,0,0
+91,"Half-chance for the home side as Cancelo drives down the right before delivering a dangerous cross towards Rodrigo, but the forward just cannot make contact.",27 min,16,12,94.1147991832,0.0285812880229,0.0,0.0338490466083,0.184995209841,0,0.52991,0,0,0,0,0,0,0,0,0,0
+92,Very lively game at the moment!,27 min,4,3,22.2828438294,0.0338490466083,0.0,0.0431405689541,0.107381108085,0,0.07631,0,0,0,0,0,0,0,0,0,0
+93,"Half-chance for Barcelona this time as Rakitic finds Suarez with a through pass, but the striker's effort from the edge of the box was always moving wide of the post.",29 min,18,15,100.84899107,0.0431405689541,0.184995209841,0.140653115241,0.149940251566,0,0.223265,0,0,0,0,0,0,0,0,0,0
+94,"There was hardly a chance to report in the early stages, but this game continues to open up as both teams commit men forward.",29 min,14,12,91.5114928429,0.140653115241,0.107381108085,0.139447267648,0.12777136403,0,0.198865,0,0,0,0,0,0,0,0,0,0
+95,"I would be surprised if we had seen the last of the goals in this match due to the nature of the contest, which has seen both teams attack with pace and purpose.",32 min,16,19,118.172585121,0.139447267648,0.149940251566,0.0985042246566,0.0,1,0.178495,0,0,0,0,0,0,0,0,0,0
+96,"Barcelona lead, but there was real controversy over the opener due to Suarez standing offside when Messi found the bottom corner.",32 min,15,8,83.839887044,0.0985042246566,0.12777136403,0.0,0.0604328048762,0,0.324165,0,0,0,0,0,0,0,0,0,1
+97,SAVE!,33 min,2,0,4.30963018814,0.0,0.0,0.304679796582,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+98,Smart save from Alves to keep out a near-post Messi strike.,33 min,8,4,35.5194879982,0.304679796582,0.0604328048762,0.0,0.0776427688332,0,0.220355,0,0,0,0,0,0,0,0,0,0
+99,"Penalty shout for the home side as Rodrigo goes down inside the box, but the referee is not interested.",33 min,12,9,69.0324599193,0.0,0.0,0.0311500024763,0.0,0,0.208745,0,0,0,0,0,1,0,0,0,0
+100,It was a meaty challenge from Umtiti to say the least.,33 min,6,6,38.2491350641,0.0311500024763,0.0776427688332,0.0,0.0560207759304,0,0.163925,0,0,0,0,0,0,0,0,0,0
+101,I have certainly seen them given!,33 min,4,3,22.9457393084,0.0,0.0,0.0,0.11122695871,0,0.02703,0,0,0,0,0,0,0,0,0,0
+102,"Little over 10 minutes of the first period remaining and as it stands, Barcelona are going top of the table.",35 min,13,9,73.0376436682,0.0,0.0560207759304,0.115074257174,0.03954916945,0,0.215335,0,0,0,0,0,0,0,0,0,0
+103,Still a lot of football to be played this afternoon though and I would be astounded if we had seen the last of the goals.,35 min,12,14,85.21767401,0.115074257174,0.11122695871,0.0357221076395,0.0,1,0.14886,0,0,0,0,0,0,0,0,0,0
+104,The referee is not popular with either team at the moment.,35 min,6,6,39.8415606905,0.0357221076395,0.03954916945,0.0,0.0207632293258,0,0.101315,0,0,0,0,0,0,0,0,0,0
+105,SAVE!,37 min,2,0,4.30963018814,0.0,0.0,0.253811922697,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+106,Another brilliant save from Alves as the Valencia goalkeeper keeps out a close-range effort from Suarez.,37 min,11,6,53.5536623393,0.253811922697,0.0207632293258,0.00999671350173,0.0545471595766,1,0.376555,0,0,1,0,0,0,0,0,0,0
+107,It looked for all the world that Barcelona would be taking a 2-0 lead!,37 min,8,7,44.2971093143,0.00999671350173,0.0,0.0098314304121,0.0,0,0.123445,0,0,0,0,0,0,0,0,0,0
+108,Valencia have an injury problem of their own here as Gaya hits the deck and stays there.,38 min,8,10,67.5543770491,0.0098314304121,0.0545471595766,0.0617639923477,0.159261141707,0,0.10406,0,0,0,0,0,0,0,0,0,0
+109,VALENCIA SUB!,38 min,3,0,6.94333272257,0.0617639923477,0.0,0.121782483963,0.0,0,0.032255,0,0,0,0,0,0,0,0,0,0
+110,Abdennour replaces Gaya for Valencia.,38 min,5,1,18.842789899,0.121782483963,0.159261141707,0.0,0.0298648647659,0,0.052635,0,0,0,0,0,0,0,0,0,0
+111,SAVE!,39 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+112,Alves is at it again as the Valencia stopper keeps out Suarez from close range after the striker attempted to squeeze the ball past the Brazilian.,39 min,14,13,97.0677162595,0.0,0.0298648647659,0.0933036810332,0.21894059379,0,0.42184,0,0,1,0,0,0,0,0,0,0
+113,The hosts need the break!,39 min,4,2,18.2059799561,0.0933036810332,0.0,0.0859226168968,0.0719472102855,0,0.08605,0,0,0,0,0,0,0,0,0,0
+114,It is all Barcelona at the moment as they continue to carve out openings in the final third of the field.,42 min,9,13,71.6127020559,0.0859226168968,0.21894059379,0.118274167826,0.111171962348,0,0.27742,0,0,0,0,0,0,0,0,0,0
+115,"Valencia actually contained the visitors in the opening 20 minutes, but it has been a different story since the opening goal went in.",42 min,15,10,82.4135626199,0.118274167826,0.0719472102855,0.025861862025,0.0660103281065,1,0.15726,0,0,0,0,0,0,0,0,0,0
+116,The referee is also struggling to keep hold of this match.,42 min,7,5,40.1790632085,0.025861862025,0.111171962348,0.0437374438103,0.0306339495309,0,0.126315,0,0,0,0,0,0,0,0,0,0
+117,"Nani provides some welcome relief for the home side as he carries the ball down the right before winning a throw, which at least allows Valencia's defence to move up the field.",44 min,20,15,125.229976691,0.0437374438103,0.0660103281065,0.0729959853473,0.0,0,0.224205,0,1,0,0,0,0,0,0,0,0
+118,It has been a very difficult last 15 minutes or so for Prandelli's side and they need the interval to reorganise.,44 min,11,12,75.4847902493,0.0729959853473,0.0306339495309,0.0,0.05118415803,0,0.14113,0,0,0,0,0,0,0,0,0,0
+119,SAVE!,45 min,2,0,4.30963018814,0.0,0.0,0.221922918665,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+120,"It is Ter Stegen's turn to make a smart save as the Barcelona goalkeeper keeps out Parejo, who had danced into the Barcelona box.",45 min,16,11,86.7955768731,0.221922918665,0.05118415803,0.114931725018,0.0949752096736,1,0.24512,0,0,0,0,0,0,0,0,0,0
+121,The Spaniard just had to score there!,45 min,3,5,25.3690346639,0.114931725018,0.0,0.0417494339649,0.0,0,0.10291,0,0,0,0,0,0,0,0,0,0
+122,We are into the first of two additional minutes at the end of the first period.,45 min+1,8,9,53.6643457477,0.0417494339649,0.0949752096736,0.0427453185821,0.0,0,0.217335,0,0,0,0,0,0,0,0,0,0
+123,Neymar sends an over-head kick wide of Alves's post and that should be that for this half!,45 min+2,10,9,61.3547008722,0.0427453185821,0.0,0.160190289914,0.0,0,0.08197,0,0,0,0,0,0,0,0,0,0
+124,HALF-TIME: Valencia 0-1 Barcelona,45 min+3,5,0,4.5607049219,0.160190289914,0.0,0.0,0.0313157236509,0,0.08108,0,0,0,0,0,0,0,0,0,0
+125,So there we have it.,4.02pm,1,5,18.0067671144,0.0,0.0,0.0,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+126,"The referee brings the first period to a close with Barcelona leading 1-0 courtesy of a 22nd-minute strike from Messi, but that does not even begin to tell the story.",4.02pm,18,14,99.3044748369,0.0,0.0313157236509,0.0840384126048,0.199241002869,0,0.222745,0,0,1,0,0,0,0,0,0,0
+127,"Messi's goal was very controversial due to Suarez, who was offside, blocking the view of Valencia goalkeeper Alves.",4.02pm,15,7,69.6632201085,0.0840384126048,0.0,0.0988923654758,0.0,1,0.572465,0,0,0,0,0,0,0,0,0,1
+128,"Both teams had chances to add to the scoring in a pulsating final 15 minutes of the first period, but Barcelona take a one-goal lead into the break.",4.02pm,17,13,91.2769430551,0.0988923654758,0.199241002869,0.0,0.0,1,0.254335,0,0,0,0,0,0,0,0,0,0
+129,It has been sensational entertainment here!,4.02pm,3,4,24.7912536164,0.0,0.0,0.0,0.0,0,0.033335,0,0,0,0,0,0,0,0,0,0
+130,STATISTICS!,4.07pm,2,0,5.69592454926,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+131,"Barcelona have dominated the possession with 72%, while they have had six attempts - four of which were on target.",4.07pm,12,11,76.2801355731,0.0,0.0,0.23333421696,0.0526518745683,0,0.12,0,0,0,0,0,0,0,0,0,0
+132,"Valencia, meanwhile, only hit the target with one of their two attempts in the opening 45 minutes.",4.07pm,13,7,65.6547092921,0.23333421696,0.0,0.0359884975293,0.0,0,0.19768,0,0,0,0,0,0,0,0,0,0
+133,"It has been an intense game in terms of challenges and three players have entered the referee's book - Garay (17 min), Alves (23 min) and Busquets (25 min).",4.07pm,28,10,120.988746608,0.0359884975293,0.0526518745683,0.0,0.0623900657582,0,0.1029,0,0,0,0,0,0,0,0,0,0
+134,BENCH WATCH!,4.12pm,3,0,10.2932368098,0.0,0.0,0.0,0.138592627872,0,0.0,0,0,0,0,0,0,0,0,0,0
+135,"Both teams have already been forced into one change this afternoon - Rakitic taking the place of Iniesta, who was stretched off, and Abdennour replacing Gaya, who also went off injured.",4.12pm,22,13,128.250896719,0.0,0.0623900657582,0.0727415019735,0.00359376984518,0,0.11111,0,0,0,0,0,0,0,0,0,0
+136,"Valencia boss Prandelli still has the likes of Fede, Munir El-Haddadi and Mina on his bench this afternoon, while Alcacer, Denis Suarez and Aleix Vidal are all available for the visitors.",4.12pm,22,13,120.00477913,0.0727415019735,0.138592627872,0.0163831665203,0.0,0,0.229165,0,0,0,0,0,0,0,0,0,0
+137,"At the break Barça lead Valencia 1-0 in Mestalla thanks to a goal from Leo Messi (22') #FCBlive #ValenciaFCB pic.twitter.com/IDTkmxwtku— FC Barcelona (@FCBarcelona) October 22, 2016",4.17pm,29,6,90.9020829163,0.0163831665203,0.00359376984518,0.0,0.0285589808934,1,0.14536,0,0,0,0,0,0,0,0,0,0
+138,RESTART!,46 min,2,0,5.69592454926,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+139,Valencia resume the action on home soil...,46 min,6,2,26.8970999044,0.0,0.0285589808934,0.0969846628685,0.138563423588,0,0.075,0,0,0,0,0,0,0,0,0,0
+140,... VALENCIA SUB!,46 min,4,0,6.94333272257,0.0969846628685,0.0,0.0836061981651,0.0923075816651,0,0.032255,0,0,0,0,0,0,0,0,0,0
+141,"Munir is on for Valencia, with the Spaniard taking the place of Montoya.",46 min,8,7,42.6538710811,0.0836061981651,0.138563423588,0.309382071245,0.0,0,0.12766,0,0,0,0,0,0,0,0,0,0
+142,"Munir is, of course, on loan at Valencia from Barcelona.",46 min,8,5,34.3416709734,0.309382071245,0.0923075816651,0.0,0.0,0,0.1829,0,0,0,0,0,0,0,0,0,0
+143,He could hurt his parent club here!,46 min,5,3,32.4294185859,0.0,0.0,0.0,0.0,0,0.12446,0,0,0,0,0,0,0,0,0,0
+144,BOOKING!,47 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+145,Digne (Valencia) is booked for a heavy challenge on Munir.,47 min,9,4,33.6687227102,0.0,0.0,0.0345005702088,0.0666375585318,0,0.11628,0,0,0,0,0,0,0,0,0,0
+146,You just get the feeling that the next goal this afternoon - if there indeed is one - could be decisive.,49 min,12,10,72.6370011264,0.0345005702088,0.0,0.110503255075,0.0331471197718,1,0.083335,0,0,0,0,0,0,0,0,0,0
+147,"If Barcelona can find a second, it would be very, very difficult for Valencia to respond.",49 min,10,9,56.1646956781,0.110503255075,0.0666375585318,0.0714007456533,0.0,0,0.11531,0,0,0,0,0,0,0,0,0,0
+148,"However, an equaliser would completely change this match.",49 min,8,2,35.3372502263,0.0714007456533,0.0331471197718,0.0,0.0,0,0.075,0,0,0,0,0,0,0,0,0,0
+149,The home side are on the front foot at the moment.,49 min,6,6,34.3958185088,0.0,0.0,0.0,0.10311338654,0,0.14167,0,0,0,0,0,0,0,0,0,0
+150,POST!,50 min,2,0,4.44316158076,0.0,0.0,0.195244332684,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+151,"Barcelona come close to a second as Rakitic sends the ball towards the bottom corner after Alves had pushed a Neymar strike into his path, but the Croatian hits the post!",50 min,20,13,112.988428573,0.195244332684,0.10311338654,0.0,0.0813062704088,0,0.358095,0,0,1,0,0,0,0,0,0,0
+152,BOOKING!,51 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+153,Neymar (Barcelona) is booked for a barge on Munir.,51 min,8,4,28.5723496674,0.0,0.0813062704088,0.0,0.402591749952,0,0.14405,0,0,0,0,0,0,0,0,0,0
+154,GOAL!,52 min,2,0,3.82412237235,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+155,Valencia 1-1 Barcelona (Munir),52 min,6,0,8.75255207438,0.0,0.402591749952,0.0,0.262010352417,0,0.076925,0,0,0,0,0,0,0,0,0,0
+156,It just had to be!,53 min,1,5,15.7678551162,0.0,0.0,0.0,0.0583450952736,0,0.108275,0,0,0,0,0,0,0,0,0,0
+157,"Munir, against his parent club, equalises for the home side!",53 min,9,4,38.3795052237,0.0,0.262010352417,0.0368839705521,0.102900202069,0,0.161255,0,0,0,0,0,0,0,0,0,0
+158,It is a super finish as well as the Spaniard finds the bottom corner from the edge of the box with a driven strike!,53 min,12,13,80.6455754926,0.0368839705521,0.0583450952736,0.0676111487095,0.0420426134603,0,0.330705,0,0,0,0,0,0,0,0,0,0
+159,Andre Gomes has had a difficult afternoon for Barcelona and it was the midfielder that had his pocket picked in the build-up to Valencia's leveller.,55 min,13,14,81.1611638114,0.0676111487095,0.102900202069,0.0912408122932,0.0,0,0.192955,0,0,0,0,0,0,0,0,0,0
+160,"Munir did not celebrate against his parent club, but he has done some serious damage and the home side are very much on the front foot now.",55 min,14,15,110.420375574,0.0912408122932,0.0420426134603,0.0,0.0,0,0.148655,0,0,0,0,0,0,0,0,0,0
+161,GOAL!,56 min,2,0,3.82412237235,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+162,Valencia 2-1 Barcelona (Rodrigo),56 min,6,0,8.87033511004,0.0,0.0,0.0,0.114744737646,0,0.06977,0,0,0,0,0,0,0,0,0,0
+163,Oh my word!,57 min,3,1,15.2960141785,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+164,Valencia turn the game around!,57 min,5,1,18.4627618666,0.0,0.114744737646,0.0259064745675,0.0259674944536,0,0.066205,0,0,0,0,0,0,0,0,0,0
+165,The home side take a 2-1 lead at the Mestalla as Rodrigo finds a route past Ter Stegen after meeting a quite wonderful pass from Nani!,57 min,18,9,89.197036567,0.0259064745675,0.0,0.0441334822327,0.012540800722,0,0.29405,1,0,0,0,0,0,0,0,0,0
+166,Barcelona are heading for their third league defeat of the season as things stand and would indeed remain in fourth position in the table.,60 min,15,10,89.429173655,0.0441334822327,0.0259674944536,0.0881111342949,0.0487952172185,0,0.18559,0,0,0,0,0,0,1,0,0,0
+167,"Still more than 30 minutes to play, however, and I would be surprised if we had seen the last of goals.",60 min,13,11,79.3315890974,0.0881111342949,0.012540800722,0.0419336962585,0.0,1,0.11111,0,0,0,0,0,0,0,0,0,0
+168,"Messi, Neymar and Suarez have been quiet since the break.",60 min,8,4,35.687970843,0.0419336962585,0.0487952172185,0.0,0.209104684624,0,0.116155,0,0,0,0,0,0,0,0,0,0
+169,GOAL!,62 min,2,0,3.82412237235,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+170,Valencia 2-2 Barcelona (Suarez),62 min,6,0,7.95404437817,0.0,0.209104684624,0.182278299337,0.0,0,0.076925,0,0,0,0,0,0,0,0,0,0
+171,Barcelona answer back at the Mestalla as Suarez hammers home from close range after Alves had kept out a header from Rakitic.,63 min,14,9,82.6413821547,0.182278299337,0.0,0.055141945543,0.00471826839659,0,0.525135,0,0,1,0,0,0,0,0,1,0
+172,Alves really needed his defenders to react in that moment!,63 min,7,4,41.749052849,0.055141945543,0.0,0.046381359143,0.201132160824,0,0.08163,0,0,0,0,0,0,0,0,0,0
+173,You just get the feeling that there are more goals in this match and there is still plenty of time - more than 25 minutes when you include injury time.,66 min,14,17,115.108080019,0.046381359143,0.00471826839659,0.0784522078631,0.0,1,0.111505,0,0,0,0,0,0,0,0,0,0
+174,"Barcelona are really taking chances at the moment, but Valencia look dangerous when they break forward.",66 min,12,6,59.2120934948,0.0784522078631,0.201132160824,0.16474288676,0.171384514767,0,0.12083,0,0,0,0,0,0,0,0,0,0
+175,It has been a really good game.,66 min,4,4,23.7414314919,0.16474288676,0.0,0.0938206927087,0.0,0,0.064515,0,0,0,0,0,0,0,0,0,0
+176,"Not too much to report in terms of chances in the last few moments, but Barcelona are currently enjoying possession of the football, which is not good news for Valencia, who are very deep!",68 min,19,19,127.095587386,0.0938206927087,0.171384514767,0.0,0.0766951380736,0,0.138945,0,0,0,0,0,0,0,0,0,0
+177,BOOKING!,70 min,2,0,4.30963018814,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+178,Suarez (Valencia) is booked for a foul on Neymar.,70 min,8,4,27.9051779733,0.0,0.0766951380736,0.0,0.103603850497,0,0.11905,0,0,0,0,0,0,0,0,0,0
+179,"Messi whips the resulting free kick towards the top corner, but his effort was always wide.",72 min,13,5,64.722085121,0.0,0.0,0.0,0.0273208708828,0,0.13619,0,0,0,0,0,0,0,0,0,0
+180,VALENCIA SUB!,72 min,3,0,6.94333272257,0.0,0.103603850497,0.0,0.802466502333,0,0.032255,0,0,0,0,0,0,0,0,0,0
+181,Mina replaces Rodrigo for the home side.,72 min,6,2,24.7853941853,0.0,0.0273208708828,0.0,0.311557607972,0,0.13241,0,0,0,0,0,0,0,0,0,0
+182,BARCELONA SUB!,72 min,3,0,6.81199672051,0.0,0.802466502333,0.0991899350989,0.0,0,0.030305,0,0,0,0,0,0,0,0,0,0
+183,Denis Suarez replaces Gomes for Barcelona.,72 min,6,1,22.7491503696,0.0991899350989,0.311557607972,0.0,0.111180262903,0,0.083335,0,0,0,0,0,0,0,0,0,0
+184,BOOKING!,74 min,2,0,4.30963018814,0.0,0.0,0.0,1.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+185,Messi (Barcelona) is booked for a late challenge on Abdennour.,74 min,9,4,31.8738815745,0.0,0.111180262903,0.0,0.325350761636,0,0.14067,0,0,0,0,0,0,0,0,0,0
+186,BOOKING!,75 min,2,0,4.30963018814,0.0,1.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+187,Perez (Valencia) is booked for a poor tackle on Neymar.,75 min,9,4,33.8399944308,0.0,0.325350761636,0.0426370686874,0.0,0,0.11628,0,0,0,0,0,0,0,0,0,0
+188,My word it has been a busy last few minutes for the referee.,77 min,6,8,45.741798304,0.0426370686874,0.0,0.0,0.022373453255,0,0.13668,0,0,0,0,0,0,0,0,0,0
+189,"Not much to report in terms of chances, but both teams have picked up a number of bookings.",77 min,10,10,67.1009248204,0.0,0.0,0.0,0.154607059791,0,0.12245,0,0,0,0,0,0,0,0,0,0
+190,Still 2-2 at the Mestalla here.,77 min,4,3,15.9601641894,0.0,0.022373453255,0.0886678689388,0.226149003383,0,0.135395,0,0,0,0,0,0,0,0,0,0
+191,"Pressure from Barcelona as they continue to pass and probe in the final third of the field, but Valencia are not giving much away at the moment as they lock down their back four.",80 min,18,18,123.919039469,0.0886678689388,0.154607059791,0.0291521852315,0.0,0,0.228855,0,0,0,0,0,0,0,0,0,0
+192,Still more than 10 minutes though and you suspect that late opportunities will still arrive in this match.,80 min,11,8,74.8388217313,0.0291521852315,0.226149003383,0.0,0.0548797353935,0,0.13226,0,0,0,0,0,0,0,0,0,0
+193,CHANCE!,82 min,2,0,3.99117645702,0.0,0.0,0.0,0.0,0,0.03125,0,0,0,0,0,0,0,0,0,0
+194,"Nani almost becomes the hero in this match after breaking through on the Barcelona goal, but the experienced Portuguese can only fire his effort wide of the post!",82 min,16,14,110.148120777,0.0,0.0548797353935,0.102027239711,0.0,1,0.27416,0,0,0,0,0,0,0,0,0,0
+195,"Alves tips a Suarez header over the crossbar as the pressure continues from Barcelona, who have been the better team in the last 15 minutes or so.",84 min,15,14,95.5184180028,0.102027239711,0.0,0.0,0.123805686868,0,0.19027,0,0,0,0,0,0,0,0,1,0
+196,Still time for someone to find a winner here.,84 min,6,4,33.1251001157,0.0,0.0,0.0324130895324,0.020394463821,0,0.074995,0,1,0,0,0,0,0,0,0,0
+197,"Valencia have the chance to threaten from a corner and Mangala swings his boot at the ball inside the Barcelona box, but the away side manage to clear their lines following some nervy moments!",86 min,21,15,123.853000606,0.0324130895324,0.123805686868,0.0983943188423,0.0667168234065,0,0.29524,0,1,0,0,0,0,0,0,0,0
+198,"In truth, neither side deserves to lose this match, especially not Valencia, who have given so much in the second period.",89 min,16,9,80.9209231635,0.0983943188423,0.020394463821,0.00922517561572,0.0196182242054,0,0.17426,0,0,1,0,0,0,0,0,0,0
+199,There is still time though and Barcelona are on the front foot here.,89 min,7,7,45.4208645653,0.00922517561572,0.0667168234065,0.0871099193876,0.158754994102,0,0.09259,0,0,0,0,0,0,0,0,0,0
+200,We are into the first of two additional minutes at the Mestalla.,90 min+1,6,7,40.2094651617,0.0871099193876,0.0196182242054,0.0,0.0,0,0.148655,0,0,0,0,0,0,0,0,0,0
+201,Time is running out for Barcelona as Valencia clear their lines once again.,90 min+2,7,7,48.9052452562,0.0,0.158754994102,0.0679693133542,0.0,0,0.10968,0,0,0,0,0,0,0,0,0,0
+202,PENALTY BARCELONA!,90 min+2,3,0,6.81199672051,0.0679693133542,0.0,0.0,0.288386843631,0,0.05,0,0,0,0,0,1,0,0,0,0
+203,OH MY WORD!,90 min+3,3,1,15.2960141785,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+204,Barcelona have a penalty in the final minute of stoppage time as Abdennour brings Suarez to the deck with a rash challenge.,90 min+3,13,10,73.9822644277,0.0,0.288386843631,0.0250635963358,0.0,0,0.272445,0,0,0,0,0,1,0,0,0,0
+205,What an incredible end to this match.,90 min+3,4,4,27.0704765975,0.0250635963358,0.0,0.0,0.0,0,0.10291,0,0,0,0,0,0,0,0,0,0
+206,GOAL!,90 min+4,2,0,3.82412237235,0.0,0.0,0.0,0.0,1,0.03333,0,0,0,0,0,0,0,0,0,0
+207,"Valencia 2-3 Barcelona (Messi, pen)",90 min+4,8,0,13.7012622218,0.0,0.0,0.0,0.175039239041,0,0.113635,0,0,0,0,0,0,0,0,0,0
+208,Just incredible.,90 min+4,2,1,8.33549220314,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+209,Messi nets the penalty and surely wins the game for Barcelona.,90 min+4,8,4,39.1036056141,0.0,0.175039239041,0.0263297508814,0.0,0,0.253075,0,1,0,0,0,1,0,0,0,0
+210,Something has been thrown towards Neymar during the celebrations!,90 min+5,6,4,38.5406052531,0.0263297508814,0.0,0.0,0.0464292666216,0,0.074795,0,0,0,0,0,0,0,0,0,0
+211,Absolute scenes here.,90 min+5,3,1,14.7363983906,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+212,"It has all calmed down and Barcelona have surely, surely won this match.",90 min+6,7,8,49.2815860723,0.0,0.0464292666216,0.0407089301068,0.0,0,0.06383,1,0,0,0,0,0,0,0,0,0
+213,FULL-TIME: Valencia 2-3 Barcelona,90 min+6,5,0,4.5607049219,0.0407089301068,0.0,0.0,0.0780828460273,0,0.090905,0,0,0,0,0,0,0,0,0,0
+214,Just incredible.,5.10pm,2,1,8.33549220314,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+215,Barcelona rise to the top of La Liga as a 94th-minute penalty from Messi secures all the points against Valencia.,5.10pm,12,9,63.7245769394,0.0,0.0780828460273,0.0381515549297,0.0594940733523,0,0.27616,0,0,0,0,0,1,0,0,0,0
+216,"It is cruel on the home side, who gave so much to this match.",5.10pm,8,8,48.4992232658,0.0381515549297,0.0,0.163596122494,0.0,0,0.114685,0,0,0,0,0,0,0,0,0,0
+217,"That is just about it from me here, but be sure to look out for the match report, which is incoming!",5.10pm,8,16,75.3443358541,0.163596122494,0.0594940733523,0.0,0.0,0,0.109875,0,0,0,0,0,0,0,0,0,0

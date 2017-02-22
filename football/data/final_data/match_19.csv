@@ -1,0 +1,204 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Afternoon all!,2.16pm,2,1,7.66642668811,0.0,0.0,0.0,0.250057049981,0,0.038465,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live La Liga coverage continues from Camp Nou as the champions Barcelona welcome Deportivo La Coruna.,2.16pm,17,3,74.5542871826,0.0,0.0,0.0167632808691,0.125937570882,0,0.20514,0,0,0,0,0,0,0,0,0,0
+2,"It has been a patchy start to the season for the Catalan giants, but they would temporarily rise into second spot in the table behind Sevilla with all three points this afternoon.",2.16pm,18,16,113.903743555,0.0167632808691,0.250057049981,0.0,0.0634908376512,0,0.16072,0,0,0,0,0,0,0,0,0,0
+3,"Deportivo, however, have drawn their last two league matches at Camp Nou.",2.16pm,12,3,43.7097702395,0.0,0.125937570882,0.240816946667,0.175018123456,0,0.12408,0,0,0,0,1,0,0,0,0,0
+4,"Barcelona have won eight of their last 12 league meetings with Deportivo, remaining unbeaten in the process.",2.19pm,12,7,63.2290475895,0.240816946667,0.0634908376512,0.0662166557823,0.294967283197,0,0.13106,1,0,0,0,0,0,0,0,0,0
+5,"Last season, the Spanish giants recorded an 8-0 victory in La Coruna, but they were actually held to a 2-2 draw at Camp Nou by the Galician side.",2.19pm,20,11,99.3961471355,0.0662166557823,0.175018123456,0.140816141227,0.0342610385909,0,0.188495,0,0,0,0,1,0,0,0,0,0
+6,"In fact, the two sides have played out a 2-2 draw in their last two league meetings in this stadium.",2.19pm,13,9,68.2605280808,0.140816141227,0.294967283197,0.11507738231,0.0817447447272,0,0.131055,0,0,0,0,1,0,0,0,0,0
+7,Three in a row?,2.19pm,3,2,11.8202662603,0.11507738231,0.0342610385909,0.0,0.0,0,0.07632,0,0,0,0,0,0,0,0,0,0
+8,Stay tuned to find out.,2.19pm,4,2,22.6922343623,0.0,0.0817447447272,0.0227997978192,0.0260068928331,0,0.055555,0,0,0,0,0,0,0,0,0,0
+9,"Right, without further ado, let me bring you up-to-speed with the all-important team news from Camp Nou.",2.22pm,14,6,66.4487542379,0.0227997978192,0.0,0.0201713912201,0.0,0,0.07273,0,0,0,0,0,0,0,0,0,0
+10,Has Lionel Messi made the bench for Barcelona after returning to training earlier this week following a groin problem?,2.22pm,13,7,71.8380888133,0.0201713912201,0.0260068928331,0.0702592920494,0.0,0,0.283255,0,1,0,0,0,0,0,0,0,0
+11,Luis Suarez - is he included after international action?,2.22pm,7,3,32.7733191711,0.0702592920494,0.0,0.0,0.0431855746119,0,0.067695,0,0,0,0,0,0,0,0,0,0
+12,Let's have a look!,2.22pm,4,2,12.4928918052,0.0,0.0,0.0,0.0,0,0.060005,0,0,0,0,0,0,0,0,0,0
+13,"TEAMS!FCB: Ter Stegen; Digne, Mascherano, Pique, Mathieu; Rakitic, Busquets, Rafinha; Neymar, Suarez, ArdaDEPOR: Lux; Laure, Albentosa, Sidnei, Navarro; Borges, Mosquera, Guilherme; Gama, Andone, Colak",2.25pm,48,0,114.761398347,0.0,0.0431855746119,0.0,0.0889448386716,0,0.0625,0,0,0,0,0,0,0,0,0,0
+14,"As expected, Messi is on the bench for Barcelona this afternoon after recovering from a groin problem, which has seen the Argentine miss the last three weeks.",2.28pm,17,13,94.8086048007,0.0,0.0,0.0580752936171,0.135339222565,0,0.419775,0,0,0,0,0,0,0,0,0,0
+15,"Suarez is included in the XI despite returning late from international duty, while Lucas Digne and Jeremy Mathieu are handed starts due to the absences of Sergi Roberto and Jordi Alba.",2.28pm,22,11,130.446611466,0.0580752936171,0.0889448386716,0.102935959104,0.170339977353,0,0.132795,0,0,0,0,0,0,0,0,0,0
+16,"Andres Iniesta, meanwhile, starts on the bench.© SilverHub",2.28pm,8,2,29.7774227984,0.102935959104,0.135339222565,0.0968142546611,0.116570464785,0,0.176875,0,0,0,0,0,0,0,0,0,0
+17,"As for Deportivo, Joselu and Juanfran are both unavailable due to knee problems, but Laure and Guilherme are both drafted into the XI after starting on the bench against Sporting Gijon last time out.",2.32pm,20,17,135.254986144,0.0968142546611,0.170339977353,0.0901644043873,0.0,0,0.19563,0,0,0,0,0,0,0,0,0,0
+18,"Florin Andone will once again lead the line with support from Bruno Gama and Emre Colak, but recent signing Ryan Babel, formerly on Liverpool, is again named on the bench by head coach Gaizka Garitano.",2.32pm,25,14,156.724262554,0.0901644043873,0.116570464785,0.0,0.0759676238271,0,0.179625,0,0,0,0,0,0,0,0,0,0
+19,So there we have it.,2.35pm,1,5,18.5881017937,0.0,0.0,0.124803102632,0.0328192444897,0,0.026315,0,0,0,0,0,0,0,0,0,0
+20,The two teams are in and we are now just about 40 minutes from kickoff on this mild afternoon in Barcelona.,2.35pm,9,13,75.6797537984,0.124803102632,0.0759676238271,0.0991263647851,0.186026708736,0,0.12069,0,0,0,0,0,0,0,0,0,0
+21,"I shall speak about the away side a little bit later, but let's start with Barcelona, who have made an indifferent start to the new campaign, but would rise above Real Madrid and Atletico Madrid into second position in the table with all three points here.",2.35pm,31,20,172.879295169,0.0991263647851,0.0328192444897,0.0885603236027,0.0235373008598,0,0.262805,0,0,0,0,0,0,1,0,0,0
+22,"Indeed, Sevilla are currently the leaders in Spain's top flight after beating Leganes 3-2 in Madrid earlier this afternoon.",2.35pm,16,6,73.8600094609,0.0885603236027,0.186026708736,0.023663565442,0.186711920786,0,0.07576,0,0,0,0,0,0,0,0,0,0
+23,"Barcelona's record from seven league matches this season reads won four, drawn one and lost two.",2.38pm,15,4,63.883181435,0.023663565442,0.0235373008598,0.137221974556,0.026021220666,0,0.10781,1,0,0,1,1,0,0,0,0,0
+24,"They have 13 points, which currently sees them occupy fourth spot in the table – two points behind Real Madrid and Atletico Madrid, who are both unbeaten this season but have dropped points in three of their seven fixtures.",2.38pm,26,16,151.162139392,0.137221974556,0.186711920786,0.176417411845,0.120827529729,0,0.14547,0,0,0,0,0,0,0,0,0,0
+25,"Atletico host Granada this afternoon, while Real Madrid travel to Real Betis tonight.© SilverHub",2.38pm,12,3,53.4962457861,0.176417411845,0.026021220666,0.0,0.0381126223153,0,0.08534,0,0,0,0,0,0,0,0,0,0
+26,"The champions Barcelona have actually now lost five league games in 2016, which is one more than in the whole of 2015.",2.42pm,13,11,82.8695687511,0.0,0.120827529729,0.0774473605278,0.141931253004,0,0.138055,0,0,0,1,0,0,0,0,0,0
+27,"Indeed, with 13 points after seven matches, this is Barcelona's worst start to a league season since the 2005-06 campaign.",2.42pm,17,7,69.242956209,0.0774473605278,0.0381126223153,0.0606734998272,0.0794040563014,0,0.156865,0,0,0,0,0,0,0,0,0,0
+28,"They have beaten Real Betis, Athletic Bilbao, Leganes and Sporting Gijon in the league, but lost at home to Alaves and away to Celta Vigo.",2.42pm,19,10,93.8724901194,0.0606734998272,0.141931253004,0.291175159809,0.143356900252,0,0.24123,0,0,0,1,0,0,0,0,0,0
+29,The shock home defeat to Alaves came after the last international break and they will enter this match off the back of a 4-3 defeat at Celta Vigo on October 2.,2.45pm,18,14,105.807779394,0.291175159809,0.0794040563014,0.239323410598,0.0315873332248,0,0.153845,0,0,0,0,0,0,0,0,0,0
+30,"They actually trailed 3-0 and 4-1 against Celta, before eventually falling one goal short as they suffered another defeat.",2.45pm,15,6,74.910897628,0.239323410598,0.143356900252,0.068580923222,0.0,1,0.082525,0,0,0,0,0,0,0,0,0,0
+31,It is so important that Luis Enrique's side return to winning ways against Deportivo this afternoon.,2.45pm,11,7,64.5769468858,0.068580923222,0.0315873332248,0.0503488714629,0.0154583110717,0,0.150285,0,1,0,0,0,0,0,0,0,0
+32,"It has not been all bad, however, with the Spanish giants recording two wins from their two Champions League group matches this term.",2.48pm,16,10,93.1453504271,0.0503488714629,0.0,0.0764452772802,0.0992917964282,0,0.15615,0,1,0,0,0,0,0,0,0,0
+33,"They thumped Celtic 7-0 at Camp Nou, before recording a 2-1 victory away to Borussia Monchengladbach towards the end of last month.",2.48pm,17,7,77.9409454184,0.0764452772802,0.0154583110717,0.0543799170786,0.144630193945,0,0.1313,0,0,0,0,0,0,0,0,0,0
+34,"As it stands, they top the section ahead of their home game with Manchester City next week.© SilverHub",2.48pm,12,7,65.7455429286,0.0543799170786,0.0992917964282,0.194601375476,0.214446616839,0,0.11111,0,0,0,0,0,0,0,0,0,0
+35,"In terms of what is ahead for Barcelona, as mentioned, they will welcome Pep Guardiola's Man City to Camp Nou in the Champions League on Wednesday night, before travelling to struggling Valencia in the league next weekend.",2.52pm,26,16,140.996693323,0.194601375476,0.144630193945,0.326738690609,0.117488862409,0,0.574515,0,0,0,0,0,0,0,0,0,0
+36,"Then comes a home league game against Granada on October 29, before starting next month with a trip to Man City in the Champions League.",2.52pm,17,10,93.0910194672,0.326738690609,0.214446616839,0.0667270300052,0.0833882222567,0,0.26068,0,0,0,0,0,0,0,0,0,0
+37,"As for Deportivo, a record of two wins, two draws and three defeats from their seven league matches this season has brought them eight points and left them down in 13th position in the table.",2.55pm,22,16,130.509081903,0.0667270300052,0.117488862409,0.0990538365371,0.122429235174,0,0.139285,0,1,0,0,1,0,1,0,0,0
+38,"They have actually only scored five league goals this season, but have only conceded six times, which is up there with the best defensive records in the division at this stage of the campaign.",2.55pm,18,19,132.893951392,0.0990538365371,0.0833882222567,0.209877850577,0.130160985962,1,0.13776,0,0,0,0,0,0,0,0,0,0
+39,"Deportivo have actually only won one of their last 15 away league matches, although nine of those finished level.",2.58pm,14,7,79.2455445027,0.209877850577,0.122429235174,0.173174900392,0.124348091419,0,0.09375,1,0,0,0,0,0,0,0,0,0
+40,They were the draw specialists in La Liga last season – incredibly sharing the spoils in 18 of their 38 league matches.,2.58pm,15,8,84.3873017141,0.173174900392,0.130160985962,0.14619411168,0.129111860591,0,0.11111,0,0,0,0,1,0,0,0,0,0
+41,"They finished down in 15th position in the table, but only the top four lost fewer games than Depor during the whole season.",2.58pm,14,11,91.9192399787,0.14619411168,0.124348091419,0.0366135881905,0.0,0,0.13895,0,0,0,1,0,0,1,0,0,0
+42,They would certainly take a draw here!© AFP,2.58pm,7,3,31.8439609353,0.0366135881905,0.129111860591,0.0,0.0316252101158,0,0.04546,0,0,0,0,1,0,0,0,0,0
+43,"Gaizka Garitano's side opened their league campaign with a 2-1 win at home to Eibar, before drawing 0-0 away to Real Betis on August 28.",3.02pm,20,8,91.1089883052,0.0,0.0,0.0506382283429,0.0,0,0.1232,0,1,0,0,1,0,0,0,0,0
+44,"They then went winless across four games with Athletic Bilbao, Deportivo Alaves, Leganes and Atletico Madrid, but will enter this match off the back of a 2-1 victory over Sporting Gijon before the international break.",3.02pm,25,14,132.990112355,0.0506382283429,0.0316252101158,0.0,0.10424895245,0,0.158605,0,1,0,0,0,0,0,0,0,0
+45,Not long until kickoff now!,3.02pm,3,3,24.8667675284,0.0,0.0,0.0,0.0,0,0.02222,0,0,0,0,0,0,0,0,0,0
+46,"Deportivo lost a lot of goals when they sold Lucas Perez to Arsenal in the summer transfer window, but some of the money was reinvested when they brought in Florin Andone, Raul Albentosa and Przemyslaw Tyton, but they are lacking an out-and-out scorer, which is never good news.",3.05pm,31,22,195.249207978,0.0,0.10424895245,0.0872209197042,0.0,1,0.15266,0,1,0,1,0,0,0,0,0,0
+47,"If Depor are to enjoy a successful campaign, they will once again have to be strong at the back.",3.05pm,8,13,70.8770098954,0.0872209197042,0.0,0.0,0.0,0,0.131705,0,0,0,0,0,0,0,0,0,0
+48,Toca quentar.,3.08pm,3,0,11.2499456266,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+49,"En media hora no Camp Nou: #BarçaDépor #DaleDÉ pic.twitter.com/nuZFyKjjvV— RC Deportivo (@RCDeportivo) October 15, 2016",3.08pm,21,1,56.6029344339,0.0,0.0,0.0,0.0,0,0.06203,0,0,0,0,0,0,0,0,0,0
+50,"TEAMS!FCB: Ter Stegen; Digne, Mascherano, Pique, Mathieu; Rakitic, Busquets, Rafinha; Neymar, Suarez, ArdaDEPOR: Lux; Laure, Albentosa, Sidnei, Navarro; Borges, Mosquera, Guilherme; Gama, Andone, Colak",3.12pm,48,0,114.761398347,0.0,0.0,0.0,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+51,KICKOFF!,0 min,2,0,4.93182563272,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+52,Barcelona kick things off on home soil...,0 min,6,2,28.0801895027,0.0,0.0,0.0261613967324,0.0,0,0.06818,0,0,0,0,0,0,0,0,0,0
+53,... just a reminder that three points for Barcelona would see them rise above Atletico and Real Madrid into second spot in the table.,2 min,15,10,80.6877538976,0.0261613967324,0.0,0.0348577285672,0.0,0,0.252675,0,0,0,0,0,0,0,0,0,0
+54,The leaders at the moment?,2 min,3,3,15.0112690187,0.0348577285672,0.0,0.100739783452,0.173938823443,0,0.057145,0,0,0,0,0,0,0,0,0,0
+55,"Sevilla, who won 3-2 at Leganes earlier this afternoon.",2 min,7,4,32.0261047693,0.100739783452,0.0,0.0560626747939,0.0763893719214,0,0.03636,1,0,0,0,0,0,0,0,0,0
+56,"As expected, the home side are in control of the early possession at Camp Nou.",2 min,10,7,49.7779064104,0.0560626747939,0.173938823443,0.0959142946668,0.272291719981,0,0.248805,0,0,0,0,0,0,0,0,0,0
+57,"It appears that Barcelona are playing with three centre-backs this afternoon - Pique, Mascherano and Mathieu - while Digne and Rafinha are operating in the two wing-back positions.",4 min,19,11,89.2775225504,0.0959142946668,0.0763893719214,0.0418766966457,0.0420523530104,0,0.147945,0,1,0,0,0,0,1,0,0,0
+58,Not too much to report in the early exchanges aside from Barcelona possession as they switch the ball across the field.,4 min,12,10,77.707634405,0.0418766966457,0.272291719981,0.0665929845307,0.085864549603,0,0.198385,0,0,0,0,0,0,0,0,0,0
+59,"First sign of life from Deportivo as Navarro breaks into a wide position before delivering a cross towards Andone, but Pique does enough to clear the danger.",6 min,18,11,103.179173903,0.0665929845307,0.0420523530104,0.0292834222234,0.025859256611,0,0.135135,0,0,0,0,0,0,1,0,0,0
+60,There will be space down the wings for the visitors due to Barcelona's formation.,6 min,8,8,52.6874520858,0.0292834222234,0.085864549603,0.0,0.0,0,0.12963,0,1,0,0,0,0,0,0,0,0
+61,We have not seen too much from Neymar or Suarez so far!,6 min,6,7,48.6803085943,0.0,0.025859256611,0.0,0.135271056706,0,0.06341,0,0,0,0,0,0,0,0,0,0
+62,CROSSBAR!,7 min,2,0,4.93182563272,0.0,0.0,0.231045476349,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+63,"Wonderful chance for Barcelona to take the lead as Neymar meets a super cross from Rafinha, but his effort smashes the crossbar and Suarez heads over from close range!",7 min,19,12,105.263892523,0.231045476349,0.135271056706,0.23786457953,0.0355889402578,0,0.32665,1,0,1,0,0,0,0,0,0,0
+64,"Half-chance for the away side this time as Colak strikes one from distance, but his effort was always moving wide of the post.",9 min,15,10,80.1006481753,0.23786457953,0.0,0.0648070704711,0.104455447112,0,0.270465,0,0,0,0,0,0,0,0,0,0
+65,The match has opened up in the last couple of minutes here.,9 min,6,7,40.1612868989,0.0648070704711,0.0355889402578,0.127052399253,0.0465732770193,0,0.16809,0,0,0,0,0,0,0,0,0,0
+66,You just get the feeling that the first goal - if there indeed is one - will be all-important in this match.,11 min,11,12,70.3448670865,0.127052399253,0.104455447112,0.0320264799965,0.0373647237771,1,0.103445,0,0,0,0,0,0,0,0,0,0
+67,"Barcelona are dominating the possession, but Deportivo are threatening when they have the chance to counter-attack.",11 min,9,9,49.445670037,0.0320264799965,0.0465732770193,0.16907834311,0.11009066057,0,0.161665,0,0,0,0,0,0,0,0,0,0
+68,They are not giving the home side any respect at the moment here.,11 min,6,8,46.8061924509,0.16907834311,0.0373647237771,0.0441221841683,0.0,0,0.13241,0,0,0,0,0,0,0,0,0,0
+69,Barcelona have a free kick just outside the Depor box as Laure brings Neymar to the deck...,12 min,11,7,57.4128487365,0.0441221841683,0.11009066057,0.0,0.266103057534,0,0.27943,0,0,0,0,0,0,0,0,0,0
+70,... Sidnei has somehow ended up in a heap in a wide position.,13 min,8,6,41.5237497633,0.0,0.0,0.0,0.0,0,0.08511,0,0,0,0,0,0,1,0,0,0
+71,Free kick delayed for a moment!,13 min,5,2,21.0959979617,0.0,0.266103057534,0.0,0.345725213475,0,0.112745,0,0,0,0,0,0,0,0,0,0
+72,CLOSE!,14 min,2,0,4.23867845216,0.0,0.0,0.0,0.0,0,0.032255,0,0,1,0,0,0,0,0,0,0
+73,Neymar's free kick flies just over the crossbar!,14 min,7,3,32.173869531,0.0,0.345725213475,0.0168681567565,0.0261443362602,0,0.18087,0,0,0,0,0,0,0,0,0,0
+74,"Deportivo continue to cause problems on the counter-attack here as Colak breaks away from two challenges before delivering towards Andone, but Pique is again on hand to make the challenge.",16 min,19,13,111.69358393,0.0168681567565,0.0,0.121425621901,0.147001597027,0,0.18901,0,0,0,0,0,0,0,0,0,0
+75,"Barcelona have had the two best chances of this match, but the visitors are a real threat here.",16 min,10,10,59.1674836978,0.121425621901,0.0261443362602,0.0212249658387,0.0754442038871,0,0.197675,0,0,0,0,0,0,0,0,0,0
+76,Another half-chance for the away side as Andone fires wide from a narrowing angle.,17 min,10,5,44.2836005968,0.0212249658387,0.147001597027,0.149827426109,0.0439216381278,0,0.16848,0,1,0,0,0,0,0,0,0,0
+77,"Pass, pass, pass from Barcelona as they look to work space inside the Deportivo box, but it is all quite comfortable as Rakitic fires into the arms of Lux from distance.",20 min,21,14,114.350848915,0.149827426109,0.0754442038871,0.0473857330749,0.0,0,0.209875,0,0,0,0,0,0,0,0,0,0
+78,Just a reminder that three points for the Catalan giants would move them into second position in the table behind Sevilla.,20 min,13,9,75.3779408233,0.0473857330749,0.0439216381278,0.0,0.0,0,0.157015,0,0,0,0,0,0,1,0,0,0
+79,GOAL!,21 min,2,0,4.01553490085,0.0,0.0,0.0,0.0,1,0.02632,0,0,0,0,0,0,0,0,0,0
+80,Barcelona 1-0 Deportivo (Rafinha),21 min,6,0,8.45776660262,0.0,0.0,0.161435508937,0.0961255732228,0,0.060005,0,0,0,0,0,0,0,0,0,0
+81,"Barcelona make the breakthrough in the 21st minute of this match as Suarez feeds a lovely pass into Rafinha and the Brazilian international picks out the far corner with a low, controlled strike.",22 min,21,14,120.443802156,0.161435508937,0.0,0.0591402021565,0.117888195,0,0.67068,0,0,0,0,0,0,0,1,0,0
+82,Deportivo need to be really careful that they do not concede another in the next couple of minutes as Barcelona look to secure what could be a killer second goal.,25 min,17,14,113.28220819,0.0591402021565,0.0961255732228,0.08798421463,0.102147357284,1,0.195235,0,0,0,0,0,0,0,0,0,0
+83,The home side are full of beans at the moment as they switch the ball across the pitch and Neymar is starting to work his magic here.,25 min,14,14,95.2923480923,0.08798421463,0.117888195,0.174532975842,0.0326196755267,0,0.204195,0,0,0,0,0,0,0,0,0,0
+84,Just a reminder that Lionel Messi is on the bench for the home side this afternoon and we should see the Argentine at some point as he attempts to build fitness ahead of next week's Champions League clash with Man City.,27 min,23,20,149.423852562,0.174532975842,0.102147357284,0.0198713048178,0.149967590605,0,0.20096,0,0,0,0,0,0,0,0,0,0
+85,Perhaps the final 20 minutes if Barcelona have things sewn up!,27 min,8,4,45.203120262,0.0198713048178,0.0326196755267,0.0258598537982,0.0657221738152,0,0.11472,0,0,0,0,0,0,0,0,0,0
+86,"Rafinha is full of it at the moment as he continues to show magical feet inside the Deportivo box, but the visitors manage to survive the latest wave of pressure as Rakitic fires over from a wide angle.",29 min,22,18,138.913090474,0.0258598537982,0.149967590605,0.0692694455447,0.0,0,0.16216,0,0,0,0,0,0,0,0,0,0
+87,Still more than 15 minutes of the first period remaining in this La Liga contest at Camp Nou.,29 min,12,7,69.1886247145,0.0692694455447,0.0657221738152,0.0,0.0101345071108,0,0.160295,0,0,0,0,0,0,0,0,0,0
+88,DEPOR SUB!,29 min,3,0,8.89857036941,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+89,Sidnei limps off the field to be replaced by Arribas.,29 min,6,5,41.9128587147,0.0,0.0101345071108,0.0291491676029,0.0120204177302,0,0.18333,0,0,0,0,0,0,0,0,0,0
+90,"Andone meets a dangerous corner inside the Barcelona box, but the striker's effort was always moving wide of the post.",30 min,16,7,71.0445986589,0.0291491676029,0.0,0.0282754278153,0.0336705741656,0,0.24359,0,0,0,0,0,0,0,0,0,0
+91,Slightly better from Deportivo in the last 60 seconds or so here.,30 min,7,6,46.6315730983,0.0282754278153,0.0120204177302,0.0257536617623,0.0166766278726,0,0.11275,0,0,0,0,0,0,0,0,0,0
+92,"When Turan made the move to Barcelona, I am not sure that he would have seen himself playing as a right wing-back in this team.",33 min,13,14,87.1209873798,0.0257536617623,0.0336705741656,0.10221165375,0.112502530439,0,0.136365,0,1,0,0,0,0,0,0,0,0
+93,"Well, that is the case this afternoon.",33 min,5,4,24.6124636793,0.10221165375,0.0166766278726,0.0416069737249,0.0299129231605,0,0.064515,0,0,0,0,0,0,0,0,0,0
+94,"In fairness, the Turkish international has been up and down the right in the opening 33 minutes.",33 min,9,10,62.8472358853,0.0416069737249,0.112502530439,0.141366882309,0.128692555298,0,0.20458,0,0,0,0,0,0,0,0,0,0
+95,He has the legs!,33 min,2,3,14.7697713803,0.141366882309,0.0299129231605,0.051934506245,0.0395300537801,0,0.035715,0,0,0,0,0,0,0,0,0,0
+96,Anywhere will do for Deportivo at the moment as Barcelona continue to pass and probe in the final third of the field.,35 min,11,12,73.4662406867,0.051934506245,0.128692555298,0.073485161522,0.0,0,0.23639,0,0,0,0,0,0,0,0,0,0
+97,You just get the feeling that the visitors cannot afford to concede a second.,35 min,7,9,54.8322682493,0.073485161522,0.0395300537801,0.0,0.0,0,0.11395,0,0,0,0,0,0,0,0,0,0
+98,GOAL!,36 min,2,0,4.01553490085,0.0,0.0,0.0,0.0,1,0.02632,0,0,0,0,0,0,0,0,0,0
+99,Barcelona 2-0 Deportivo (Rafinha),36 min,6,0,8.45776660262,0.0,0.0,0.163009629685,0.0,0,0.060005,0,0,0,0,0,0,0,0,0,0
+100,Barcelona have their second of the match and it is also Rafinha's second as the midfielder fires home from close range after Lux had kept out Pique's close-range header.,37 min,19,13,101.386738553,0.163009629685,0.0,0.0,0.088663384516,0,0.39804,0,0,1,0,0,0,0,0,1,0
+101,"Right place, right time!",37 min,6,0,19.1632323926,0.0,0.0,0.0,0.0,0,0.01961,0,0,0,0,0,0,0,0,0,0
+102,Little over five minutes of the first period remaining and the home supporters are in good voice at the moment.,40 min,12,9,71.5629992355,0.0,0.088663384516,0.127441083939,0.0701503850171,0,0.195165,0,0,0,0,0,0,0,0,0,0
+103,"In truth, it is going to be very difficult for Deportivo to respond in the second period.",40 min,9,10,59.1175540223,0.127441083939,0.0,0.15896324617,0.0679161153659,0,0.22272,0,0,0,0,0,0,0,0,0,0
+104,There is more bad news for Deportivo with Messi and Iniesta sure to see second-half minutes here.,40 min,10,8,59.1834705716,0.15896324617,0.0701503850171,0.0810201739663,0.121556916733,0,0.12024,0,0,0,0,0,0,0,0,0,0
+105,"Half-chance for the home side as Suarez turns away from two defenders before attempting to pick out the bottom corner, but his effort was always wide of the post.",42 min,18,13,102.53476337,0.0810201739663,0.0679161153659,0.0,0.0,0,0.26182,0,0,0,0,0,0,0,0,0,0
+106,Still 2-0 Barcelona here.,42 min,4,1,10.2689441577,0.0,0.121556916733,0.0,0.173656734693,0,0.039995,0,0,0,0,0,0,0,0,0,0
+107,GOAL!,43 min,2,0,4.01553490085,0.0,0.0,0.0,0.0,1,0.02632,0,0,0,0,0,0,0,0,0,0
+108,Barcelona 3-0 Deportivo (Suarez),43 min,6,0,8.13234420218,0.0,0.173656734693,0.122906193146,0.0,0,0.060005,0,0,0,0,0,0,0,0,0,0
+109,It is too easy for Barcelona.,44 min,3,4,20.2626324916,0.122906193146,0.0,0.0,0.0,0,0.116015,0,0,0,0,0,0,0,0,0,0
+110,"Game, set and match.",44 min,5,1,15.7228142978,0.0,0.0,0.0,0.0585927500398,0,0.048775,0,0,0,0,0,0,0,0,0,0
+111,"Of course, Suarez gets his name on the scoresheet as he collects a cute pass from Neymar before firing under Lux from close range.",44 min,15,11,96.4425455034,0.0,0.0,0.0,0.00603544851483,0,0.269545,0,0,1,0,0,0,0,0,0,0
+112,Just a reminder that both Atletico and Real Madrid are in action tonight.,45 min+1,7,7,45.0444409434,0.0,0.0585927500398,0.273438904818,0.154048450509,0,0.139155,0,0,0,0,0,0,0,0,0,0
+113,"Atletico will host Granada, while Real Madrid, who have drawn their last three in the league, travel to Real Betis.",45 min+1,16,8,76.2244137433,0.273438904818,0.00603544851483,0.0296256723182,0.0149300734649,0,0.16587,0,0,0,0,1,0,0,0,0,0
+114,"Barcelona are heading second at the moment, but could well find themselves back in fourth at the end of tonight.",45 min+1,13,9,74.1137207308,0.0296256723182,0.154048450509,0.0302528904422,0.100714063205,0,0.135595,0,0,0,0,0,0,0,0,0,0
+115,"Suarez just misses the post with a volley from inside the box, before sending a free kick fizzing wide.",45 min+1,13,8,67.2807324978,0.0302528904422,0.0149300734649,0.0576001149445,0.0,0,0.24837,0,0,0,0,0,0,0,0,0,0
+116,Suarez could have completed his hat-trick in the last 60 seconds or so here!,45 min+1,8,7,50.3777750654,0.0576001149445,0.100714063205,0.0,0.179756226112,0,0.11253,0,0,0,0,0,0,0,0,0,0
+117,HALF-TIME: Barcelona 3-0 Deportivo,45 min+2,5,0,4.70459596623,0.0,0.0,0.0,0.0912776535044,0,0.058825,0,0,0,0,0,0,0,0,0,0
+118,So there we have it.,4.03pm,1,5,18.5881017937,0.0,0.179756226112,0.0,0.0616828905139,0,0.026315,0,0,0,0,0,0,0,0,0,0
+119,The referee brings the first period to a close with Barcelona leading Deportivo 3-0 courtesy of a double from Rafinha and strike from Suarez.,4.03pm,15,10,75.3163381563,0.0,0.0912776535044,0.0260915368612,0.0,0,0.194625,0,0,1,0,0,0,0,0,0,0
+120,"In truth, it has been very, very comfortable for the home side, who as things stand are heading into second spot in the table.",4.03pm,14,14,87.1430236181,0.0260915368612,0.0616828905139,0.0,0.0127865343302,0,0.21402,0,0,0,0,0,0,0,0,0,0
+121,STATISTICS!,4.08pm,2,0,5.62497281328,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+122,"Barcelona have dominated the possession with 67%, while they have had 13 attempts - four of which were on target.",4.08pm,12,11,75.0834799578,0.0,0.0127865343302,0.226970063101,0.00751108416495,0,0.11531,0,0,0,0,0,0,0,0,0,0
+123,"Deportivo, meanwhile, had four first-half attempts without testing Ter Stegen.",4.08pm,12,1,41.4064467779,0.226970063101,0.0,0.0,0.0,0,0.12879,0,0,0,0,0,0,0,0,0,0
+124,"No yellow cards to report and in truth, it has been a pretty easy game for the referee.",4.08pm,10,10,66.8435411903,0.0,0.00751108416495,0.0,0.123165745721,0,0.12281,0,0,0,0,0,0,0,0,0,0
+125,BENCH WATCH!,4.13pm,3,0,9.64050771413,0.0,0.0,0.121463674804,0.128333876411,0,0.025645,0,0,0,0,0,0,0,0,0,0
+126,"As mentioned, Messi is on the bench for Barcelona this afternoon and it would not be a surprise to see the Argentine handed some minutes in the second period.",4.13pm,15,16,94.5726649555,0.121463674804,0.123165745721,0.0940598993294,0.0324953601594,0,0.22526,0,0,0,0,0,0,0,0,0,0
+127,"Andres Iniesta, Andre Gomes, Denis Suarez and Paco Alcacer are also on a talent-filled bench.",4.13pm,14,4,57.4662141972,0.0940598993294,0.128333876411,0.0,0.0138152001377,0,0.11183,0,0,0,0,0,0,0,0,0,0
+128,"Deportivo, meanwhile, have already been forced to replace Sidnei with Arribas, but Ryan Babel is an attacking option.",4.13pm,15,7,77.0379776452,0.0,0.0324953601594,0.0,0.0,0,0.131255,0,0,0,0,0,0,0,0,0,0
+129,"Barça lead Depor 3-0 at the break - Rafinha (2) and Luis Suárez the scorers so far at Camp Nou #FCBlive #FCBDepor pic.twitter.com/SkoKSN6Ze5— FC Barcelona (@FCBarcelona) October 15, 2016",4.18pm,31,6,95.1708773828,0.0,0.0138152001377,0.0,0.198234212978,0,0.114585,0,0,0,0,0,0,0,0,0,0
+130,RESTART!,46 min,2,0,5.62497281328,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+131,Deportivo resume the action at Camp Nou...,46 min,6,2,24.1246146898,0.0,0.198234212978,0.0,0.0233633614033,0,0.11692,0,0,0,0,0,0,0,0,0,0
+132,... BARCELONA SUB!,46 min,4,0,6.62988682809,0.0,0.0,0.0,0.0,0,0.032255,0,0,0,0,0,0,0,0,0,0
+133,Paco Alcacer replaces Suarez for the home side.,46 min,7,2,28.2377279658,0.0,0.0233633614033,0.112150220967,0.157456860251,0,0.12445,0,0,0,0,0,0,0,0,0,0
+134,No surprises there - Suarez returned late from international duty and is needed for the Man City clash!,46 min,12,7,69.3543084695,0.112150220967,0.0,0.0783219117061,0.0,0,0.092595,0,0,0,0,0,0,0,0,0,0
+135,Alcacer is yet to score for Barcelona following his summer arrival from Valencia.,47 min,9,5,53.2115607075,0.0783219117061,0.157456860251,0.022138011431,0.018669057725,0,0.144045,0,1,0,0,0,0,0,0,0,0
+136,"This afternoon, he should get some chances to end that run.",47 min,7,6,45.5833799841,0.022138011431,0.0,0.0205159098852,0.0960860454165,0,0.080835,0,0,0,0,0,0,0,0,0,0
+137,"Messi has just been sent to warm-up, meanwhile, which sends the home supporters into a frenzy.",47 min,11,8,55.190802073,0.0205159098852,0.018669057725,0.0810296775771,0.0433454200922,0,0.11321,0,0,0,0,0,0,0,0,0,0
+138,I am sure that Deportivo are thrilled to see Messi.,47 min,6,5,34.402427229,0.0810296775771,0.0960860454165,0.0551698664798,0.0,0,0.08696,0,0,0,0,0,0,0,0,0,0
+139,Not too much from Deportivo in the early stages of the second period as Barcelona continue to control the possession.,49 min,11,10,66.8445843056,0.0551698664798,0.0433454200922,0.0674821899795,0.134194703134,0,0.29301,0,0,0,0,0,0,0,0,0,0
+140,"In truth, this game was done and dusted when the third goal went in.",49 min,9,7,54.5030480647,0.0674821899795,0.0,0.0326054632169,0.0881258930301,1,0.12245,0,0,0,0,0,0,0,0,0,0
+141,"Another half-chance for the home side as Alcacer feeds Neymar inside the box, but the Brazilian's effort is deflected wide of the post.",51 min,17,9,74.0341354718,0.0326054632169,0.134194703134,0.0,0.188698221326,0,0.27956,0,0,0,0,0,0,0,0,0,0
+142,Deportivo could really do without a hiding in this match.,51 min,7,4,36.390184488,0.0,0.0881258930301,0.0,0.0,0,0.088235,0,0,0,0,0,0,0,0,0,0
+143,Messi continues to go through his warm-up on the side of the pitch and the home supporters cannot wait for the Argentine to enter.,52 min,12,14,84.8352430585,0.0,0.188698221326,0.0336480600699,0.0,0,0.214225,0,0,0,0,0,0,0,0,0,0
+144,I am predicting around the 65-minute mark here.,52 min,5,4,26.8306472231,0.0336480600699,0.0,0.0,0.0,0,0.0825,0,0,0,0,0,0,0,0,0,0
+145,BOOKING!,52 min,2,0,4.93182563272,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+146,Mosquera (Deportivo) is booked for a foul on Neymar.,52 min,8,4,30.0278436843,0.0,0.0,0.0488800511888,0.0,0,0.183775,0,0,0,0,0,0,0,0,0,0
+147,Messi has stripped off and is about to enter the action!,54 min,5,7,39.9095792355,0.0488800511888,0.0,0.0,0.11568201642,0,0.10417,0,0,0,0,0,0,0,0,0,0
+148,BARCELONA SUB!,55 min,3,0,6.62988682809,0.0,0.0,0.0,0.775365568135,0,0.032255,0,0,0,0,0,0,0,0,0,0
+149,Messi replaces Busquets for the home side.,55 min,6,2,23.5237688273,0.0,0.11568201642,0.0,0.421127451978,0,0.12763,0,0,0,0,0,0,0,0,0,0
+150,DEPORTIVO SUB!,56 min,3,0,6.81912882773,0.0,0.775365568135,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+151,Babel replaces Colak for the away side here.,56 min,6,3,28.7873628648,0.0,0.421127451978,0.0,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+152,GOAL!,58 min,2,0,4.01553490085,0.0,0.0,0.0,0.0,1,0.02632,0,0,0,0,0,0,0,0,0,0
+153,Barcelona 4-0 Deportivo (Messi),58 min,6,0,8.07827698091,0.0,0.0,0.0,0.280790505445,0,0.120835,0,0,0,0,0,0,0,0,0,0
+154,Of course!,59 min,2,1,7.33792262114,0.0,0.0,0.641668747513,0.0,0,0.031245,0,0,0,0,0,0,0,0,0,0
+155,Of course Messi scores!,59 min,4,1,16.3365764491,0.641668747513,0.280790505445,0.0582919029712,0.0,0,0.074995,0,0,0,0,0,0,0,0,0,0
+156,It is four for Barcelona and it would be fair to say that it is a popular goal as Messi fires into the top corner after breaking into the Deportivo box.,59 min,15,17,106.42968657,0.0582919029712,0.0,0.0,0.0961658816069,1,0.240185,0,0,0,0,0,0,0,0,0,0
+157,BOOKING!,60 min,2,0,4.93182563272,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+158,Andone (Deportivo) is booked for a late challenge on Mascherano.,60 min,9,4,34.6675328942,0.0,0.0961658816069,0.0711859857958,0.0623099950358,0,0.11765,0,0,0,0,0,0,0,0,0,0
+159,You have to feel for Deportivo as they continue to defend their own box.,62 min,6,9,50.8121080395,0.0711859857958,0.0,0.0500444276841,0.0815110854753,0,0.112535,0,0,0,0,0,0,0,0,0,0
+160,Another half-chance comes for the home side as Pique meets a cross from Digne and his header is just too high.,62 min,12,10,71.2479433116,0.0500444276841,0.0623099950358,0.0,0.0291840658188,0,0.14754,0,0,0,0,0,0,0,0,1,0
+161,DEPORTIVO SUB!,64 min,3,0,6.81912882773,0.0,0.0815110854753,0.0907417090442,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+162,Gama is replaced by Luisinho in Deportivo's final change.,64 min,8,3,37.7644062679,0.0907417090442,0.0291840658188,0.0,0.0,0,0.077695,0,0,0,0,0,0,0,0,0,0
+163,RED CARD!,65 min,3,0,10.4390154104,0.0,0.0,0.0,0.0,0,0.11859,0,0,0,0,0,0,0,0,0,0
+164,LAURE!,65 min,2,0,4.23867845216,0.0,0.0,0.255992804377,0.0,0,0.040005,0,0,0,0,0,0,0,0,0,0
+165,Deportivo are reduced to 10 men as Laure throws his arm into the face of Neymar!,66 min,10,7,62.3833172794,0.255992804377,0.0,0.0274362039872,0.391532615748,0,0.154615,0,0,0,0,0,0,0,0,0,0
+166,"This has been a very, very tough game for Deportivo.",68 min,5,7,33.5133998956,0.0274362039872,0.0,0.0267491747035,0.0,0,0.119485,0,0,0,0,0,0,0,0,0,0
+167,"However, there can be no excuses for Laure, who simply threw his arm into the face of Neymar.",68 min,11,10,75.8572531503,0.0267491747035,0.391532615748,0.0,0.0269136752186,0,0.13034,0,0,0,0,0,0,0,0,0,0
+168,It was a poor action and deserved a red card.,68 min,6,5,36.1719157711,0.0,0.0,0.0268945152625,0.0,0,0.178305,0,0,0,0,0,0,0,0,0,0
+169,Still more than 20 minutes remaining at Camp Nou and Barcelona are in the mood for more goals.,68 min,10,9,67.0558384127,0.0268945152625,0.0269136752186,0.0580471744133,0.048768747775,1,0.12802,0,0,0,0,0,0,0,0,0,0
+170,BARCELONA SUB!,69 min,3,0,6.62988682809,0.0580471744133,0.0,0.0,0.0,0,0.032255,0,0,0,0,0,0,0,0,0,0
+171,Denis Suarez replaces Rafinha for the home side.,69 min,7,2,27.6186887574,0.0,0.048768747775,0.0,0.0593280839917,0,0.12445,0,0,0,0,0,0,0,0,0,0
+172,CHANCE!,70 min,2,0,4.01553490085,0.0,0.0,0.216239681027,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+173,"Super chance for Barcelona as Digne steers a cross back into the Deportivo box, but Turan can only fire wide of the post.",70 min,15,10,81.9507729359,0.216239681027,0.0593280839917,0.0,0.216239681027,0,0.230255,0,0,0,0,0,0,0,0,0,0
+174,This could have been six or seven here.,70 min,4,5,31.8319487548,0.0,0.0,0.0,0.0,0,0.048785,0,0,0,0,0,0,0,0,0,0
+175,POST!,71 min,2,0,4.01553490085,0.0,0.216239681027,0.213741868725,0.0,0,0.02941,0,0,0,0,0,0,0,0,0,0
+176,"Alcacer heads towards the bottom corner after meeting a cross from Messi, but Lux tips the ball onto the post.",71 min,15,7,76.1063925582,0.213741868725,0.0,0.066505196382,0.114827436435,0,0.23907,0,0,0,0,0,0,0,0,0,0
+177,It is a quite wonderful save from the goalkeeper!,71 min,5,5,31.9058880502,0.066505196382,0.0,0.0608572690096,0.054227746621,1,0.106725,1,0,0,0,0,0,0,0,0,0
+178,"Messi tumbles inside the penalty box and the home side want a penalty, but the referee is not interested.",73 min,13,8,67.0717733087,0.0608572690096,0.114827436435,0.051707812726,0.0441508264291,0,0.213845,0,0,0,0,0,1,0,0,0,0
+179,The pressure is relentless though as Deportivo just look to hold on here.,73 min,7,7,47.997386487,0.051707812726,0.054227746621,0.00713663553158,0.142075281387,0,0.10978,0,0,0,0,0,0,0,0,0,0
+180,"Little over 15 minutes of action remaining at Camp Nou and this has been a very impressive performance from Barcelona, who are moving into second spot in the table above Atletico Madrid and Real Madrid.",75 min,20,17,126.609851396,0.00713663553158,0.0441508264291,0.103494701826,0.142069834783,0,0.302565,0,0,0,0,0,0,0,0,0,0
+181,Sevilla are still the leaders though after their 3-2 win over Leganes this afternoon.,75 min,9,6,51.2493299034,0.103494701826,0.142075281387,0.075324483289,0.0477863259273,0,0.05769,0,1,0,0,0,0,0,0,0,0
+182,Just a reminder that Barcelona have Manchester City at home in the Champions League next Wednesday and the English club have had a very tough game at home to Everton in the Premier League this afternoon.,77 min,19,18,121.962261222,0.075324483289,0.142069834783,0.170481245978,0.118009795313,0,0.24811,0,0,0,0,0,0,0,0,0,0
+183,"Barcelona, on the other hand, have been in second gear in this match.",77 min,8,8,44.6475503637,0.170481245978,0.0477863259273,0.150025949597,0.0,0,0.119045,0,0,0,0,0,0,0,0,0,0
+184,"Not an awful lot to report in terms of chances in the last few minutes, but it is still all Barcelona in terms of possession as they pass and probe in the final third.",80 min,17,19,122.657178749,0.150025949597,0.118009795313,0.0,0.218093876645,0,0.304765,0,0,0,0,0,0,0,0,0,0
+185,Deportivo cannot wait for full-time.,80 min,4,3,19.1960249078,0.0,0.0,0.0249126481612,0.044304769844,0,0.095085,0,0,0,0,0,0,0,0,0,0
+186,"It is almost like a training match at the moment as Deportivo camp outside their own box and attempt to keep out Barcelona, who have eight players involved in the final third of the field.",82 min,20,17,128.109844904,0.0249126481612,0.218093876645,0.0484060195488,0.0964395392851,0,0.187395,0,0,0,0,0,0,0,0,0,0
+187,Messi has another effort deflected over as Barcelona continue to search for a fifth.,84 min,9,6,50.0831180853,0.0484060195488,0.044304769844,0.0719985638412,0.0582591337665,0,0.21125,0,0,0,0,0,0,0,0,0,0
+188,"Eventually the ball ends up in the back of the net, but Mathieu's effort is ruled offside!",84 min,12,8,64.1738687024,0.0719985638412,0.0964395392851,0.0216801183523,0.05663154939,0,0.295235,0,0,0,0,0,0,0,0,0,1
+189,Barcelona have a free kick in a dangerous area as Arribas fells Neymar...,86 min,9,5,43.944492174,0.0216801183523,0.0582591337665,0.0,0.0,0,0.165065,0,0,0,0,0,0,0,0,0,0
+190,... Messi curls the resulting set piece straight into the stands!,88 min,9,3,42.7642616943,0.0,0.05663154939,0.0205851850268,0.0,0,0.10968,0,0,0,0,0,0,0,0,0,0
+191,I should not think that the referee will play too much added time here.,90 min,7,8,55.1133949774,0.0205851850268,0.0,0.0,0.0,0,0.055555,0,0,0,0,0,0,0,0,0,0
+192,BOOKING!,90 min+1,2,0,4.93182563272,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+193,Messi (Barcelona) is booked for dissent.,90 min+1,7,2,21.3743168619,0.0,0.0,0.0,0.0,0,0.116015,0,0,0,0,0,0,0,0,0,0
+194,Just the two minutes of added time at the end of this match.,90 min+1,7,7,42.276032086,0.0,0.0,0.0,0.0835314854929,0,0.131425,0,0,0,0,0,0,0,0,0,0
+195,MISS!,90 min+2,2,0,4.93182563272,0.0,0.0,0.328226674363,0.0,0,0.032255,0,0,0,0,0,0,0,0,0,0
+196,Some miss from Alcacer as he turns wide of the post from close range!,90 min+2,8,7,52.1356766318,0.328226674363,0.0835314854929,0.0,0.0,0,0.182555,0,0,1,0,0,0,0,0,0,0
+197,FULL-TIME: Barcelona 4-0 Deportivo,90 min+3,5,0,4.70459596623,0.0,0.0,0.0,0.077135084287,0,0.09884,0,0,0,0,0,0,0,0,0,0
+198,So there we have it.,5.08pm,1,5,18.5881017937,0.0,0.0,0.0,0.0,0,0.026315,0,0,0,0,0,0,0,0,0,0
+199,The referee brings the second period to a close with Barcelona running out 4-0 winners over Deportivo at Camp Nou to move into second position in La Liga.,5.08pm,18,11,93.7618917741,0.0,0.077135084287,0.0601490124955,0.0282152094626,0,0.31381,0,1,1,0,0,0,1,0,0,0
+200,That will lead them nicely into next week's Champions League clash with Pep Guardiola's Manchester City.,5.08pm,14,5,69.555205369,0.0601490124955,0.0,0.0378816259329,0.0,0,0.28132,0,0,0,0,0,0,0,0,0,0
+201,Just a reminder that I shall also be covering Real Madrid's trip to Real Betis tonight.,5.08pm,12,6,59.1757762315,0.0378816259329,0.0282152094626,0.0,0.0,0,0.081185,0,0,0,0,0,0,0,0,0,0
+202,See you then!,5.08pm,2,2,13.8303960021,0.0,0.0,0.0,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0

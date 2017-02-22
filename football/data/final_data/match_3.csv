@@ -1,0 +1,213 @@
+,text,time,len,len_stop,tfidf,sim_p,sim_pp,sim_n,sim_nn,goal,score,won,win,lose,lost,draw,penalty,position,breakthrough,header,offside
+0,Evening all!,6.46pm,2,1,9.83221257352,0.0,0.0,0.0,0.0,0,0.025005,0,0,0,0,0,0,0,0,0,0
+1,Sports Mole's live La Liga coverage continues from the newly-named Estadio de la Ceramica and it is a real cracker of an affair as an exciting Villarreal team welcome the Spanish champions Barcelona.,6.46pm,24,11,124.159456264,0.0,0.0,0.11306898036,0.0145321670991,0,0.19634,0,0,0,0,0,0,0,0,0,0
+2,Both of these sides are in need of the points as they chase their own goals this season and that should make for an enthralling game of football.,6.46pm,11,18,104.545466916,0.11306898036,0.0,0.0406545533487,0.104678826079,1,0.13957,0,0,0,0,0,0,0,0,0,0
+3,Be sure to stay tuned for the action!,6.46pm,5,4,29.8696986241,0.0406545533487,0.0145321670991,0.0767641872877,0.00866225162992,0,0.111115,0,0,0,0,0,0,0,0,0,0
+4,Tonight will be the 20th meeting between these two teams in all competitions.,6.49pm,7,7,55.1010319578,0.0767641872877,0.104678826079,0.040791787863,0.0824836185489,0,0.11182,0,0,0,0,0,0,0,0,0,0
+5,"Villarreal have recorded five wins against Barcelona, but the last of those was way back in October 2007, when they ran out 3-1 victors in this very stadium.",6.49pm,17,14,105.777824608,0.040791787863,0.00866225162992,0.0732700667358,0.297379173622,0,0.149255,0,1,0,0,0,0,0,0,0,0
+6,"Since then, they have faced Barcelona on eight occasions and suffered six defeats, which will be a worry for the Yellow Submarine ahead of the match.",6.49pm,16,13,95.3144240586,0.0732700667358,0.0824836185489,0.142540505355,0.0323588797788,0,0.16072,0,0,0,0,0,0,0,0,0,0
+7,"Barcelona have won on six of their last seven visits to this stadium, but the points were shared in a 2-2 draw when they clashed in the league last season.",6.52pm,16,16,102.239882871,0.142540505355,0.297379173622,0.192759071211,0.0537407986703,0,0.220765,1,0,0,0,1,0,0,0,0,0
+8,"Villarreal's home form this term is among the best in the division, but no team in La Liga has collected more away points than Barcelona this season.",6.52pm,18,12,101.14588974,0.192759071211,0.0323588797788,0.0983709389761,0.108688536731,0,0.192035,0,0,0,0,0,0,0,0,0,0
+9,It has just been announced that Villarreal's stadium will no longer be known as El Madrigal.,6.55pm,9,9,64.7499329577,0.0983709389761,0.0537407986703,0.0691570153009,0.0544538783594,0,0.257295,0,0,0,0,0,0,0,0,0,0
+10,The name has been changed to the Estadio de la Ceramica and there is currently a press conference taking place detailing the reasons for the change.,6.55pm,15,12,101.770349693,0.0691570153009,0.108688536731,0.0810047871736,0.0616405569984,0,0.28377,0,0,0,0,0,0,0,0,0,0
+11,"Part of the club's official statement reads: ""The Ceramic Tile Stadium is a symbol that represents and identifies the province of Castellon, becoming a proud ambassador of one of the best products in our region and a showcase of the extraordinary properties of its materials.",6.55pm,29,21,174.774612346,0.0810047871736,0.0544538783594,0.0,0.0,0,0.134235,0,0,0,0,0,0,0,0,0,0
+12,"""¿Recordáis 🤔 cómo era nuestro estadio hace no tanto tiempo?",6.55pm,11,1,43.0425747882,0.0,0.0616405569984,0.0,0.0,0,0.040815,0,0,0,0,0,0,0,0,0,0
+13,"¡Vaya cambio, groguets 😱!",6.55pm,6,0,11.3362899703,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+14,"Bienvenidos, al nuevo #EstadioDeLaCerámica 💛💛!",6.55pm,8,0,22.6725799406,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+15,"pic.twitter.com/LguSX79j7I— Villarreal CF (@VillarrealCF) January 8, 2017",6.55pm,11,0,23.3300896317,0.0,0.0,0.0,0.0137642178695,0,0.037035,0,0,0,0,0,0,0,0,0,0
+16,"Right, without further ado, let me bring you up-to-speed with the all-important team news for tonight's match.",6.58pm,15,6,66.4482970063,0.0,0.0,0.00833757385864,0.0,0,0.10288,0,0,0,0,0,0,0,0,0,0
+17,Both sides were in Copa del Rey action during the week – Villarreal losing 3-1 at Real Sociedad in the first leg of their last-16 clash and Barcelona suffering a 2-1 loss at Athletic Bilbao.,6.58pm,23,13,119.735979516,0.00833757385864,0.0137642178695,0.00895771814479,0.0702485545627,0,0.331935,0,0,0,0,0,0,0,0,0,0
+18,"TEAMS!VILLARREAL: Asenjo; Mario, Musacchio, Ruiz, Costa; Dos Santos, Trigueros, Bruno, Soriano; Sansone, PatoBARCELONA: Ter Stegen; Roberto, Pique, Mascherano, Digne; Iniesta, Busquets, Gomes; Neymar, Suarez, Messi",7.02pm,49,0,117.900827542,0.00895771814479,0.0,0.126273494114,0.0336593825073,0,0.064935,0,0,0,0,0,0,0,0,0,0
+19,"Villarreal boss Fran Escriba has recalled Jaume Costa, Bruno and Victor Ruiz to his starting XI tonight, but there are no changes in the final third as Alexandre Pato continues alongside Nicola Sansone, who has six league goals this season, Roberto Soldado remains on the sidelines for the Yellow Submarine, while Cedric Bakambu is on international duty for Congo at the African Cup of Nations.",7.05pm,46,25,271.099343008,0.126273494114,0.0702485545627,0.128799507832,0.147085690283,1,0.18606,0,0,0,0,0,0,0,0,0,0
+20,"As for Barcelona, Lucas Digne has been preferred to Jordi Alba at left-back, while Ivan Rakitic has been left out of the squad altogether following an indifferent run of form.",7.08pm,19,14,120.594387159,0.128799507832,0.0336593825073,0.0680289349306,0.0,0,0.27839,0,1,0,0,0,0,0,0,0,0
+21,"Andre Gomes joins Andres Iniesta and Sergio Busquets in the middle of the park, while it is Neymar, Lionel Messi and Luis Suarez in the final third.",7.08pm,19,11,101.028660855,0.0680289349306,0.147085690283,0.0726508230257,0.0512289733708,0,0.23279,0,0,0,0,0,0,0,0,0,0
+22,"A strong bench includes Denis Suarez, Arda Turan and Rafinha.© SilverHub",7.08pm,10,2,41.3544398968,0.0726508230257,0.0,0.0,0.019019293382,0,0.105075,0,0,0,0,0,0,0,0,0,0
+23,So there we have it.,7.12pm,1,5,17.5227920931,0.0,0.0512289733708,0.0977829397518,0.0,0,0.025,0,0,0,0,0,0,0,0,0,0
+24,The two teams are in and we are now just about 30 minutes from kickoff on this mild evening in Villarreal.,7.12pm,9,13,77.0372253869,0.0977829397518,0.019019293382,0.073798059552,0.0930479194984,0,0.15936,0,0,0,0,0,0,0,0,0,0
+25,"I shall speak about the home side a little bit later, but let's start with Barcelona, who will enter this match six points behind division leaders Real Madrid after Los Blancos returned to league action with a comfortable 5-0 victory over Granada on Saturday afternoon.",7.12pm,34,15,177.69000175,0.073798059552,0.0,0.0530787695986,0.248822350017,0,0.147255,0,0,0,0,0,0,0,0,0,0
+26,"Ten wins, four draws and two defeats have brought Barcelona 34 La Liga points this season.",7.15pm,15,3,67.321888671,0.0530787695986,0.0930479194984,0.148004794281,0.0483123824882,0,0.11845,0,1,0,0,1,0,0,0,0,0
+27,"They entered this weekend's fixtures three points behind Real Madrid at the summit, but have since fallen six points behind Zinedine Zidane's side, who are still unbeaten this season.",7.15pm,25,9,120.971925147,0.148004794281,0.248822350017,0.110281693226,0.220055146372,0,0.15246,0,0,0,0,0,0,0,0,0,0
+28,It is no exaggeration so say that defeat here could well end their challenge when considering that Real Madrid would have the chance to move nine points ahead with their game in hand against Valencia.,7.15pm,20,16,142.80958872,0.110281693226,0.0483123824882,0.18787434684,0.0859167122311,0,0.17269,0,0,0,0,0,0,0,0,0,0
+29,"Barcelona have not lost a competitive match since a 3-1 defeat at Manchester City in the Champions League on November 1, but they have actually drawn three of their last five league matches – sharing the points with Malaga, Real Sociedad and Real Madrid between November 19 and December 3.",7.18pm,35,18,176.785471754,0.18787434684,0.220055146372,0.04122782616,0.150229314139,0,0.18191,0,0,0,1,1,0,0,0,0,0
+30,That particular run has now made almost every game must-win for the champions.© SilverHub,7.18pm,9,5,52.3599570079,0.04122782616,0.0859167122311,0.00473407240198,0.0,0,0.09804,0,1,0,0,0,0,0,0,0,0
+31,"Luis Enrique's side will enter this match off the back of successive league wins, however, with a 3-0 success at Osasuna on December 10 followed by a 4-1 victory over Catalan rivals Espanyol last time out.",7.22pm,27,13,136.564932235,0.00473407240198,0.150229314139,0.0836158190061,0.0421074156424,0,0.127905,0,1,0,0,0,0,0,0,0,0
+32,"Barcelona have some work to do this season, but any team with Lionel Messi, Luis Suarez and Neymar stands a chance.",7.22pm,14,10,76.2394423044,0.0836158190061,0.0,0.0,0.0190362545889,0,0.129565,0,0,0,0,0,0,0,0,0,0
+33,Tonight though is a very big football match for the champions.,7.22pm,7,5,37.398676543,0.0,0.0421074156424,0.0707780248204,0.00912692558177,0,0.11472,0,0,0,0,0,0,0,0,0,0
+34,"In terms of what is ahead for Barcelona, they will welcome Athletic Bilbao to Camp Nou on Wednesday for the second leg of their last-16 Copa del Rey clash - trailing 2-1 from the first leg at San Mames on Thursday night - before hosting Las Palmas in the league next weekend.",7.25pm,34,20,191.03014065,0.0707780248204,0.0190362545889,0.122305228846,0.21247445033,0,0.594185,0,0,0,0,0,0,0,0,0,0
+35,"They will then travel to Eibar on January 22, before ending the month with a trip to Real Betis.",7.25pm,11,10,73.88808983,0.122305228846,0.00912692558177,0.130703969556,0.0902020713641,0,0.191665,0,0,0,0,0,0,0,0,0,0
+36,"Next month will also see the return of the Champions League and Barcelona have the small matter of a two-legged knockout tie against Ligue 1 giants Paris Saint-Germain, with the first leg to come in France on February 14.",7.28pm,26,15,138.301762294,0.130703969556,0.21247445033,0.168361529963,0.210601988787,0,0.17605,0,0,0,0,0,0,0,0,0,0
+37,"They fell short in the Champions League last season, but will fancy their chances of overcoming PSG and sending out a statement to the rest of the competition.© SilverHub",7.28pm,16,14,100.573854011,0.168361529963,0.0902020713641,0.110731709705,0.164108117957,0,0.184925,0,0,0,0,0,0,0,0,0,0
+38,"As for Villarreal, the Yellow Submarine also have European football to think about next month as they prepare to take on Roma in the Europa League.",7.32pm,16,12,97.0610233403,0.110731709705,0.210601988787,0.186177826215,0.0413545897663,0,0.16413,0,0,0,0,0,0,0,0,0,0
+39,"European success would be huge for the club this season, but their main focus is the league and they have been excellent to watch so far this term.",7.32pm,15,15,105.751757502,0.186177826215,0.164108117957,0.0104845525557,0.232796353885,0,0.13684,0,0,0,0,0,0,0,0,0,0
+40,"Indeed, a total of 29 points from 16 matches has left them in fifth position in the table.",7.32pm,12,8,72.0089707595,0.0104845525557,0.0413545897663,0.0575875807259,0.13037529805,0,0.209765,0,0,0,0,0,0,1,0,0,0
+41,Only Barcelona (2) and Real Madrid (0) have suffered fewer league defeats than Villarreal (3) this season and Fran Escriba's team have been very impressive on home soil this term – winning six of their eight matches and only losing once.,7.35pm,33,16,148.658013309,0.0575875807259,0.232796353885,0.0575944220236,0.073191418773,0,0.126915,0,1,0,0,0,0,0,0,0,0
+42,"What's more, Villarreal have the best defensive record in the division so far – conceding just 11 times in their 16 fixtures.",7.35pm,15,10,85.4436101736,0.0575944220236,0.13037529805,0.0,0.150635226138,0,0.421835,0,0,0,0,0,0,0,0,0,0
+43,"They are a very, very tough nut to crack.",7.35pm,5,6,32.9513118282,0.0,0.073191418773,0.048115594723,0.0394535512797,0,0.04762,0,0,0,0,0,0,0,0,0,0
+44,"In terms of what is ahead for Villarreal, they will welcome Real Sociedad to El Madrigal for the second leg of their Copa del Rey last-16 clash on Wednesday night - trailing 3-1 from the first leg last week - before travelling to Deportivo La Coruna in the league then next weekend.",7.38pm,34,20,187.128639749,0.048115594723,0.150635226138,0.153137932302,0.116016727178,0,0.417355,0,0,0,0,0,0,0,0,0,0
+45,"They will then welcome Valencia, before ending the month with a home match against struggling Granada.© Getty Images",7.38pm,11,8,68.2623620213,0.153137932302,0.0394535512797,0.00495776173065,0.0314668202509,0,0.09884,0,0,0,0,0,0,0,0,0,0
+46,"Since returning to the top flight of Spanish football in 2013, Villarreal have finished sixth, sixth and fourth in their three La Liga campaigns.",7.42pm,19,8,99.3072420741,0.00495776173065,0.116016727178,0.0397227623371,0.0509617281225,0,0.145705,0,0,0,0,0,0,0,0,0,0
+47,"It does appear that Real Madrid and Barcelona will battle for the title this season, which leaves an interesting battle between the likes of Sevilla, Villarreal, Atletico Madrid, Real Sociedad and Athletic Bilbao for the final two Champions League positions.",7.42pm,29,16,157.998079822,0.0397227623371,0.0314668202509,0.0693921307056,0.0478546579566,0,0.15107,0,0,0,0,0,0,1,0,0,0
+48,Here we go then - both sets of players have joined us on the pitch for the first period of action.,7.44pm,11,11,77.1948983323,0.0693921307056,0.0509617281225,0.0782031815693,0.0760631118567,0,0.150635,0,0,0,0,0,0,0,0,0,0
+49,The pre-match handshakes have been undertaken and the flags have been exchanged.,7.44pm,6,7,41.0900376952,0.0782031815693,0.0478546579566,0.0291662114968,0.0281607336564,0,0.100835,0,0,0,0,0,0,0,0,0,0
+50,You just get the feeling that the first goal tonight - if there indeed is one - could be crucial.,7.44pm,12,9,70.8349176507,0.0291662114968,0.0760631118567,0.0265926925258,0.0,1,0.101885,0,0,0,0,0,0,0,0,0,0
+51,Stay tuned for the action!,7.44pm,4,2,18.923217957,0.0265926925258,0.0281607336564,0.0,0.0,0,0.074425,0,0,0,0,0,0,0,0,0,0
+52,KICKOFF!,0 min,2,0,5.26267987704,0.0,0.0,0.0,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+53,Villarreal kick things off on home soil...,0 min,6,2,28.2033111442,0.0,0.0,0.0,0.0222398371733,0,0.06667,0,0,0,0,0,0,0,0,0,0
+54,... it must be said that there is a wonderful atmosphere inside the stadium tonight.,2 min,9,7,49.5096807037,0.0,0.0,0.0142555397224,0.130281457329,0,0.079235,1,0,0,0,0,0,0,0,0,0
+55,"Barcelona will expect to dominate the ball here, but Villarreal are a very exciting team to watch and will fancy their chances of upsetting the away side's back four.",2 min,18,14,100.000238684,0.0142555397224,0.0222398371733,0.0800735154104,0.0485022711345,0,0.13022,0,0,0,0,0,0,0,0,0,0
+56,It should be a very interesting game of football.,2 min,4,6,30.3193349505,0.0800735154104,0.130281457329,0.0613895917233,0.0,0,0.078435,0,0,0,0,0,0,0,0,0,0
+57,"Just a reminder that Rakitic has not made Barcelona's 18-man squad tonight, which has led to suggestions that the Croatian could be on his way out of Camp Nou this month.",4 min,18,16,116.203661195,0.0613895917233,0.0485022711345,0.135204219473,0.107900946232,0,0.12857,0,0,0,0,0,0,0,0,0,0
+58,That is one to watch.,4 min,3,3,16.4323846885,0.135204219473,0.0,0.0757384737462,0.246754636306,0,0.047615,0,0,0,0,0,0,0,0,0,0
+59,"But anyway, back to the acton on the field and it has been a fairly open start to the fixture.",4 min,10,12,68.9016859676,0.0757384737462,0.107900946232,0.10547083329,0.175194243081,0,0.140845,0,0,0,0,0,0,0,0,0,0
+60,"Iniesta hits one from distance, but it is comfortable for Asenjo to catch.",4 min,9,6,49.4457207189,0.10547083329,0.246754636306,0.210647806945,0.040045903176,0,0.205815,0,0,0,0,0,0,0,0,0,0
+61,"Iniesta fires a pass into Roberto and the Barcelona right-back looks to deliver first time, but Asenjo is once again on hand to claim.",6 min,15,11,83.3268369527,0.210647806945,0.175194243081,0.014588251649,0.075039109381,0,0.16839,0,0,0,0,0,0,0,0,0,0
+62,Decent spell of pressure from the away side in the last couple of minutes.,6 min,9,6,49.358398372,0.014588251649,0.040045903176,0.0348103952629,0.0727243285529,0,0.143725,0,0,0,0,0,0,0,0,0,0
+63,"It comes to an end, however, when Suarez pulls Costa to the ground inside the Villarreal box.",6 min,13,7,62.8365952319,0.0348103952629,0.075039109381,0.0498653291884,0.0443751605449,0,0.20584,0,0,0,0,0,0,0,0,0,0
+64,"Pass, pass, pass from Barcelona as they look to work space in the final third.",8 min,12,6,53.0522753578,0.0498653291884,0.0727243285529,0.0615850899373,0.230988906372,0,0.174265,0,0,0,0,0,0,0,0,0,0
+65,But Villarreal have danced this dance before and there is a reason why they have the best defence in the league this season.,8 min,9,15,76.6738301164,0.0615850899373,0.0443751605449,0.0695730076404,0.0,0,0.181435,0,0,0,0,0,0,0,0,0,0
+66,It is going to be very difficult for the away side to pass and probe in tight positions here.,8 min,9,11,67.9503241363,0.0695730076404,0.230988906372,0.0,0.134963456697,0,0.14352,0,0,0,0,0,0,1,0,0,0
+67,SAVE!,8 min,2,0,4.28185062403,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+68,Asenjo is out to deny Neymar after a wonderful pass from Messi had released the Brazilian.,8 min,9,8,57.14356515,0.0,0.134963456697,0.0300885462426,0.0,0,0.22716,1,0,0,0,0,0,0,0,0,0
+69,Barcelona are moving the ball very quickly in the final third at the moment.,8 min,8,7,46.1369633897,0.0300885462426,0.0,0.0,0.111520787242,0,0.17887,0,0,0,0,0,0,0,0,0,0
+70,CHANCE!,10 min,2,0,4.16406758837,0.0,0.0,0.184189989935,1.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+71,"Super chance for the home side this time as Costa finds Dos Santos with a wonderful cross, but the Mexican midfielder lifts his effort over the crossbar at the far post!",10 min,20,13,114.659565959,0.184189989935,0.111520787242,0.184189989935,0.272529998669,0,0.33566,1,0,0,0,0,0,0,0,0,0
+72,CHANCE!,12 min,2,0,4.16406758837,0.184189989935,1.0,0.164660689849,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+73,"Another chance for the home side as Pato delivers a sensational pass into the Barcelona box, but Digne comes from nowhere to make a quite incredible challenge and prevent Dos Santos from sliding the ball home.",12 min,25,13,133.50175514,0.164660689849,0.272529998669,0.0830109168739,0.190618346856,0,0.341215,0,0,0,0,0,0,0,0,0,0
+74,It was absolutely wonderful from the left-back.,12 min,4,4,21.0484374006,0.0830109168739,0.0,0.0409826747457,0.0618356388624,0,0.11472,1,0,0,0,0,0,0,0,0,0
+75,Luis Enrique has a long glance at his watch as another through pass from Messi comes close to finding Suarez.,14 min,13,8,78.6433867445,0.0409826747457,0.190618346856,0.0474457086065,0.0,0,0.11395,0,0,1,0,0,0,0,0,0,0
+76,"It has been a very entertaining opening 14 minutes to this match, with both teams showing their threat in the final third of the field.",14 min,13,14,88.5048565324,0.0474457086065,0.0618356388624,0.107354431895,0.167238419656,0,0.194625,0,1,0,0,0,0,0,0,0,0
+77,You fancy that the opening goal will soon arrive.,14 min,6,4,37.5802679451,0.107354431895,0.0,0.0493802858396,0.0,1,0.0625,0,0,0,0,0,0,0,0,0,0
+78,The referee has allowed a couple of late challenges to go unpunished in this match and it will be interesting to see what the official deems as a tackle worthy of a yellow card.,16 min,17,18,118.618226801,0.0493802858396,0.167238419656,0.0856825737451,0.167435639869,0,0.169425,0,0,0,0,0,0,0,0,0,0
+79,Not one as of yet.,16 min,3,3,18.0780256496,0.0856825737451,0.0,0.164977345709,0.0305377378213,0,0.07143,0,0,0,0,0,0,0,0,0,0
+80,"Barcelona are dominating the ball at the moment as they continue to pass and probe, and it will not come as a surprise to learn that Iniesta is enjoying plenty of the ball.",19 min,16,19,110.110990346,0.164977345709,0.167435639869,0.111769802932,0.130811547399,0,0.17227,0,0,0,0,0,0,0,0,0,0
+81,He is such a wonderful player for this football club and they will eventually have the very difficult task of replacing him.,19 min,9,14,83.2803115347,0.111769802932,0.0305377378213,0.0397611619887,0.0,0,0.082195,1,0,0,0,0,0,0,0,0,0
+82,"Gomes snaps up the loose ball and hits one from distance, but his effort is too high.",19 min,11,8,69.2744971437,0.0397611619887,0.130811547399,0.0,0.0500126667364,0,0.101695,0,0,0,0,0,0,0,0,0,0
+83,SAVE!,20 min,2,0,4.28185062403,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+84,Ter Stegen has to get down and keep out a strike from Sansone after the number 18 had moved clear of the Barcelona defence.,20 min,13,12,92.0335194177,0.0,0.0500126667364,0.0221537945881,0.290981559174,0,0.18324,0,0,0,0,0,0,0,0,0,0
+85,Villarreal are causing plenty of problems here.,20 min,5,3,27.610721693,0.0221537945881,0.0,0.0,0.0,0,0.04545,0,0,0,0,0,0,0,0,0,0
+86,"Sansone has another go from distance, but Ter Stegen is comfortable making the save.",22 min,11,5,55.9172487146,0.0,0.290981559174,0.0331909253024,0.0188761158781,0,0.15531,0,0,0,0,0,0,0,0,0,0
+87,"Still no bookings in this match, but we must be getting close as Busquets brings Trigueros to the deck with a late challenge.",24 min,14,11,87.0063099563,0.0331909253024,0.0,0.0957691813726,0.227893167186,0,0.184485,0,0,1,0,0,0,0,0,0,0
+88,I suspect that the next late tackle will bring the game's first card!,24 min,10,5,47.0973577239,0.0957691813726,0.0188761158781,0.0,0.0335787733064,0,0.1825,0,0,0,0,0,0,0,0,0,0
+89,CLOSE!,25 min,2,0,4.41538201665,0.0,0.227893167186,0.0,0.0,0,0.02703,0,0,1,0,0,0,0,0,0,0
+90,"Neymar cuts inside and fires one towards the top corner, but his effort is just wide of the post.",25 min,13,8,71.5288031649,0.0,0.0335787733064,0.120836860924,0.0,0,0.2021,0,0,0,0,0,0,0,0,0,0
+91,Neymar and Messi look the two most likely for the visitors at the moment.,25 min,8,7,48.472996046,0.120836860924,0.0,0.0727430734285,0.0225751657213,0,0.178075,0,0,0,0,0,0,0,0,0,0
+92,"Under normal circumstances, a point at Villarreal would be considered a decent result for Barcelona.",27 min,11,6,55.6039914475,0.0727430734285,0.0,0.161232518984,0.0,0,0.12566,0,0,0,0,0,0,0,0,0,0
+93,"However, as it stands, they would be five points behind the leaders Real Madrid, who would also have a game in hand.",27 min,17,9,82.1798199986,0.161232518984,0.0225751657213,0.117769530304,0.0147743003274,0,0.42807,0,0,0,0,0,0,0,0,0,0
+94,Eight points is an awful long way behind such a strong team.,27 min,9,4,49.2938521466,0.117769530304,0.0,0.0141108775454,0.0,0,0.10345,0,0,0,0,0,0,0,0,0,0
+95,"Some news regarding Rakitic...BREAKING: Ivan Rakitic's camp insist ""there's absolutely nothing"" in reports the MF's omission by #Barca is due to a proposed move to #MCFC.— footballespana (@footballespana_) January 8, 2017",28 min,36,9,137.726485474,0.0141108775454,0.0147743003274,0.0526387831183,0.0437103289962,0,0.083335,0,0,0,0,0,0,0,0,0,0
+96,It must be said that the opening 30 minutes of this football match have absolutely flown past.,30 min,11,7,65.7057510028,0.0526387831183,0.0,0.147139969457,0.0405368667757,0,0.12796,0,0,0,0,0,0,0,0,0,0
+97,"Barcelona have shaded it overall, but Villarreal have had some super chances and probably should be on the scoresheet at this stage.",30 min,11,13,81.1091708817,0.147139969457,0.0437103289962,0.0579882992416,0.0584532202423,0,0.120365,0,0,0,0,0,0,0,0,0,0
+98,It has been just as competitive and entertaining as expected.,30 min,4,7,37.5035932116,0.0579882992416,0.0405368667757,0.0,0.157908443351,0,0.074075,0,0,0,0,0,0,0,0,0,0
+99,"Pato goes down inside the Barcelona box under pressure from Mascherano, but the referee is not interested.",32 min,11,8,62.5872364079,0.0,0.0584532202423,0.0,0.0213299052047,0,0.24359,0,0,0,0,0,0,0,0,0,0
+100,It would have been a very harsh call.,32 min,4,5,28.9672956481,0.0,0.157908443351,0.0,0.0,0,0.066665,0,0,0,0,0,0,0,0,0,0
+101,Still goalless with 32 minutes on the clock here.,32 min,6,4,35.228627682,0.0,0.0213299052047,0.0868644023262,0.067025575821,1,0.086055,0,0,0,0,0,0,0,0,0,0
+102,"Digne breaks forward for the visitors and looks to pick out Suarez with a deep cross, but Ruiz is on hand to make the clearance.",34 min,15,12,91.5012380295,0.0868644023262,0.0,0.0901190407241,0.0464896819495,0,0.212305,0,0,0,0,0,0,0,0,0,0
+103,Barcelona are just turning on the style at the moment as they continue to find space in the final third.,34 min,10,11,68.415219135,0.0901190407241,0.067025575821,0.0658797628828,0.0917930788742,0,0.165555,0,0,0,0,0,0,0,0,0,0
+104,"Villarreal, meanwhile, remain a threat on the counter-attack here.",34 min,8,4,26.1949228047,0.0658797628828,0.0464896819495,0.0453271948807,0.0649622868173,0,0.228145,0,0,0,0,0,0,0,0,0,0
+105,Super defending from Spain international Mario as the Villarreal right-back challenges Neymar when the Brazilian was looking to slide the ball home.,35 min,15,8,81.1203432341,0.0453271948807,0.0917930788742,0.0266122547495,0.0656541710015,0,0.25172,0,0,0,0,0,0,0,0,0,0
+106,Still goalless with 35 minutes on the clock.,35 min,6,3,31.7005488604,0.0266122547495,0.0649622868173,0.0720350776013,0.0,1,0.08795,0,0,0,0,0,0,0,0,0,0
+107,"Not an awful lot to report in terms of chances in the last few minutes, but Barcelona are very much in control of the possession as they continue to pass and probe.",38 min,16,18,113.272623351,0.0720350776013,0.0656541710015,0.185653745367,0.105316423524,0,0.17478,0,0,0,0,0,0,0,0,0,0
+108,"Villarreal are not too interested in slow build-up, however, as they look to go from back to front as fast as physically possible here.",38 min,15,12,89.0384593679,0.185653745367,0.0,0.0248831492667,0.177509787843,0,0.129035,0,0,0,0,0,0,0,0,0,0
+109,"Neymar drives along the edge of the Villarreal box, but after a couple of challenges, the Brazilian is knocked off-balance and the home side can resume the action from the dead-ball line.",40 min,20,15,102.803791441,0.0248831492667,0.105316423524,0.057934465676,0.0,0,0.224945,0,0,0,0,0,0,0,0,0,0
+110,Not an awful lot to report in terms of chances as we approach the interval here.,42 min,8,9,60.4959550062,0.057934465676,0.177509787843,0.0,0.0465200212789,0,0.130345,0,0,0,0,0,0,0,0,0,0
+111,SAVE!,43 min,2,0,4.28185062403,0.0,0.0,0.284766074577,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+112,Super save from Asenjo as the Villarreal stopper pushes a Messi header over the crossbar.,43 min,10,6,52.3063816059,0.284766074577,0.0465200212789,0.0749784599714,0.220557849606,0,0.20829,0,0,0,0,0,0,0,0,1,0
+113,Villarreal are just holding on a touch as we approach the half-time break.,43 min,7,7,40.6330782267,0.0749784599714,0.0,0.0310665260482,0.434796634273,0,0.13538,0,0,0,0,0,0,0,0,0,0
+114,Another smart save from Asenjo as he keeps out Suarez's low strike.,45 min,10,4,51.9482463527,0.0310665260482,0.220557849606,0.0,0.0,0,0.147645,0,0,0,0,0,0,0,0,0,0
+115,HALF-TIME: Villarreal 0-0 Barcelona,45 min+1,5,0,4.60288807846,0.0,0.434796634273,0.0,0.0,0,0.13355,0,0,0,0,0,0,0,0,0,0
+116,So there we have it.,8.31pm,1,5,17.5227920931,0.0,0.0,0.0,0.146573612858,0,0.025,0,0,0,0,0,0,0,0,0,0
+117,The referee brings the first period to a close with the two teams level at the newly-named Estadio de la Ceramica.,8.31pm,14,8,69.6765034044,0.0,0.0,0.0420181143701,0.0,0,0.25288,0,0,1,0,0,0,0,0,0,0
+118,"Barcelona have shaded it in terms of possession and chances created, but Villarreal have also had plenty of good moments in the final third of the field.",8.31pm,16,13,95.3219728692,0.0420181143701,0.146573612858,0.0,0.256085515783,0,0.18559,0,0,0,0,0,0,0,0,0,0
+119,STATISTICS!,8.36pm,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+120,"Barcelona have dominated the possession with 70%, while they have had 10 attempts - four of which were on target.",8.36pm,12,11,75.3496406428,0.0,0.256085515783,0.313146543399,0.0,0,0.11531,0,0,0,0,0,0,0,0,0,0
+121,"Villarreal, meanwhile, hit the target with two of their four attempts in the opening 45 minutes.",8.36pm,13,6,60.8077650433,0.313146543399,0.0,0.0,0.0,0,0.18541,0,0,0,0,0,0,0,0,0,0
+122,There has not been a single yellow card despite some tasty challenges here.,8.36pm,7,7,53.708991402,0.0,0.0,0.0,0.0,0,0.102385,0,0,0,0,0,0,0,0,0,0
+123,BENCH WATCH!,8.41pm,3,0,9.13906539296,0.0,0.0,0.155297461575,0.170046320458,0,0.0,0,0,0,0,0,0,0,0,0,0
+124,"Barcelona have a number of attacking options on their bench tonight, with Rafinha, Alcacer, Denis Suarez and Turan all capable of making an impact.",8.41pm,18,10,94.5321765659,0.155297461575,0.0,0.110590595361,0.072582102998,0,0.112905,0,0,0,0,0,0,0,0,0,0
+125,"As for Villarreal, head coach Escriba has the likes of Castillejo, N'Diaye and Rukavina on a fairly defence-minded bench.",8.41pm,14,8,61.7581351204,0.110590595361,0.170046320458,0.0170162757169,0.0,0,0.12069,0,0,0,0,0,0,0,0,0,0
+126,5 - Five out of Barcelona's last six La Liga games have ended 0-0 at half time.,8.46pm,15,4,55.8489139544,0.0170162757169,0.072582102998,0.0,0.0,0,0.263985,0,0,0,0,0,0,0,0,0,0
+127,Obstacle.,8.46pm,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+128,"pic.twitter.com/ivoDPN9iia— OptaJose (@OptaJose) January 8, 2017",8.46pm,10,0,21.0631420282,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+129,RESTART!,46 min,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+130,Barcelona resume the action in the second period...,46 min,6,3,25.8212245159,0.0,0.0,0.0264900434958,0.263919209459,0,0.18388,0,0,0,0,0,0,0,0,0,0
+131,"... no changes from either side at the break, which is not too much of a surprise.",47 min,9,10,58.3877952733,0.0264900434958,0.0,0.00747578089762,0.0225717096252,0,0.102045,0,0,0,0,0,0,0,0,0,0
+132,"However, I suspect that both managers will already have alterations in mind as the second period develops here.",47 min,11,9,70.6019722252,0.00747578089762,0.263919209459,0.0640075287066,0.190636438907,0,0.14921,0,0,0,0,0,0,0,0,0,0
+133,You just get the feeling that Villarreal will need to score tonight if they are to stand a chance of securing a positive result.,49 min,12,13,87.6369729371,0.0640075287066,0.0225717096252,0.0696423117619,0.0,0,0.131705,0,0,0,0,0,0,0,0,0,0
+134,I really fancy Barcelona to find the back of the net in this second period.,49 min,9,7,48.099976416,0.0696423117619,0.190636438907,0.0,0.0722748323297,0,0.21183,0,0,0,0,0,0,0,0,0,0
+135,GOAL!,50 min,2,0,4.41538201665,0.0,0.0,0.0,0.0,1,0.025645,0,0,0,0,0,0,0,0,0,0
+136,Villarreal 1-0 Barcelona (Sansone),50 min,6,0,8.88473870249,0.0,0.0722748323297,0.186559943894,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+137,"Villarreal make the breakthrough in the 50th minute of this match as the home side launch a fast counter-attack and Pato slides a super pass into Sansone, who finds the bottom corner!",51 min,21,13,110.208928027,0.186559943894,0.0,0.0484535486328,0.0611150848083,0,0.391345,0,0,0,0,0,0,0,1,0,0
+138,Pique is not moving freely at the moment and that is definitely one to keep an eye on over the next few minutes.,53 min,11,13,87.0050505192,0.0484535486328,0.0,0.0642271151753,0.0,0,0.12162,0,0,0,0,0,0,0,0,0,0
+139,Barcelona cannot afford to take any chances at this stage of the contest.,53 min,7,8,52.9437943398,0.0642271151753,0.0611150848083,0.0242086646231,0.0,0,0.159265,0,0,0,0,0,0,0,0,0,0
+140,Barcelona have a free kick in a dangerous position as Trigueros flies into a tackle with Neymar...,53 min,10,8,55.2839362233,0.0242086646231,0.0,0.0,0.189140167109,0,0.186615,0,0,0,0,0,0,1,0,0,0
+141,... SAVE!,54 min,3,0,4.28185062403,0.0,0.0,0.0,0.0,0,0.027775,0,0,0,0,0,0,0,0,0,0
+142,"Barcelona take a quick free kick and Neymar is released inside the Villarreal box, but his effort is straight at the goalkeeper.",54 min,15,9,75.3396560616,0.0,0.189140167109,0.0,0.0893546236512,1,0.222715,0,0,0,0,0,0,0,0,0,0
+143,We have a proper game on our hands here.,54 min,4,6,33.6437774229,0.0,0.0,0.0,0.033153177796,0,0.11472,0,0,0,0,0,0,0,0,0,0
+144,You just wonder whether Luis Enrique is considering changes at this stage of the match.,56 min,9,7,58.4451375276,0.0,0.0893546236512,0.0660400012666,0.0469528688084,0,0.133555,1,0,0,0,0,0,0,0,0,0
+145,"Andre Gomes is offering little from midfield at the moment, and Rafinha and Denis Suarez are both options on the bench.",56 min,13,10,78.6031862299,0.0660400012666,0.033153177796,0.0606559420667,0.0774275007794,0,0.121925,0,0,0,0,0,0,0,0,0,0
+146,Still a lot of football to be played before tonight is said and done.,56 min,8,7,50.7790595876,0.0606559420667,0.0469528688084,0.0171183704187,0.0,0,0.09884,0,0,0,0,0,0,0,0,0,0
+147,"Messi fights to meet the ball inside the Villarreal box following a quick counter-attack, but the home side survive what was a very dangerous moment.",58 min,17,10,83.6231818841,0.0171183704187,0.0774275007794,0.0,0.0641040027748,0,0.24018,0,1,0,0,0,0,0,0,0,0
+148,Yellow shirts were caught upfield!,58 min,5,1,26.0381398328,0.0,0.0,0.0,0.0,0,0.02381,0,0,0,0,0,0,0,0,0,0
+149,Good grief that is calm from Costa as he takes the ball on his chest under pressure from Andre Gomes at the far post.,61 min,13,12,94.6671942968,0.0,0.0641040027748,0.13037618557,0.0419458809287,0,0.17021,0,0,0,0,0,0,0,0,0,0
+150,Little under 30 minutes of normal time remaining at this newly-named stadium and Villarreal still lead courtesy of that super finish from Sansone in the 49th minute.,61 min,18,10,102.752686178,0.13037618557,0.0,0.061283171416,0.00709337724662,0,0.16073,0,0,0,0,0,0,0,0,0,0
+151,It is really not difficult to see why Villarreal have the best defensive record in the league this season.,63 min,10,10,67.2701463585,0.061283171416,0.0419458809287,0.0192918129709,0.0306382482065,0,0.229985,0,0,0,0,0,0,0,0,0,0
+152,They are just so well-drilled all over the park.,63 min,3,7,29.578513921,0.0192918129709,0.00709337724662,0.0675898036339,0.0,0,0.0625,0,0,0,0,0,0,0,0,0,0
+153,We are entering the period of the match where Barcelona boss Luis Enrique will be considering changes.,63 min,10,8,64.4610383694,0.0675898036339,0.0306382482065,0.0,0.0372805453972,0,0.165695,0,0,0,0,0,0,0,0,0,0
+154,Something needs to change here.,63 min,4,2,21.5830660563,0.0,0.0,0.0,0.0533326410395,0,0.052635,0,0,0,0,0,0,0,0,0,0
+155,Super defending from Victor Ruiz once again as the Villarreal centre-back wins a throw inside his own half after holding off the challenge of Neymar and Messi.,64 min,15,13,97.6550151624,0.0,0.0372805453972,0.0,0.147040519385,0,0.170205,0,1,0,0,0,0,0,0,0,0
+156,Denis Suarez is about to enter...,64 min,4,3,22.6013049616,0.0,0.0533326410395,0.046772752505,0.0467874336365,0,0.094155,0,0,0,0,0,0,0,0,0,0
+157,"Neymar goes down inside the Villarreal box, but the referee is not interested.",65 min,9,6,44.8444644322,0.046772752505,0.147040519385,0.0703530284286,0.0,0,0.36583,0,0,0,0,0,0,0,0,0,0
+158,"Pato looks to race away from Mascherano as Villarreal break once again, but the Argentine does well to make the challenge and Barcelona can launch a counter-attack of their own here.",66 min,16,17,109.8767263,0.0703530284286,0.0467874336365,0.0464821581478,0.0161761343319,0,0.169565,0,0,0,0,0,0,0,0,0,0
+159,BARCELONA SUB!,68 min,3,0,6.90547317146,0.0464821581478,0.0,0.0,0.0,0,0.02857,0,0,0,0,0,0,0,0,0,0
+160,Denis Suarez replaces Andre Gomes for the visitors.,68 min,7,2,31.1037935255,0.0,0.0161761343319,0.0145616594,0.0,0,0.112145,0,0,0,0,0,0,0,0,0,0
+161,Iniesta misses the post with a long-range strike.,69 min,6,3,23.6874947303,0.0145616594,0.0,0.0,0.0,0,0.340475,0,0,0,0,0,0,0,0,0,0
+162,BOOKING!,70 min,2,0,4.97499780459,0.0,0.0,0.0,0.0,0,0.02632,0,0,0,0,0,0,0,0,0,0
+163,Costa (Villarreal) is booked for a pull on Suarez.,70 min,8,4,28.2348129576,0.0,0.0,0.0,0.0,0,0.175895,0,0,0,0,0,0,0,0,0,0
+164,Mascherano's header from a Messi free kick flies harmlessly wide of the post.,71 min,11,4,48.0986416686,0.0,0.0,0.0,0.0,0,0.206685,0,0,0,0,0,0,0,0,1,0
+165,BARCELONA SUB!,72 min,3,0,6.90547317146,0.0,0.0,0.112101223178,0.0739522807641,0,0.02857,0,0,0,0,0,0,0,0,0,0
+166,Turan replaces Digne for Barcelona here.,72 min,5,2,22.5327121701,0.112101223178,0.0,0.0400137041367,0.0,0,0.096425,0,0,0,0,0,0,0,0,0,0
+167,Messi has one deflected over the crossbar and Barcelona actually want a penalty!,73 min,9,5,47.2107234469,0.0400137041367,0.0739522807641,0.0314759897286,0.0,0,0.141675,0,0,0,0,0,1,0,0,0,0
+168,Ohhh... Bruno put his arm on the ball and that should have been a spot kick!,73 min,9,9,60.3283232589,0.0314759897286,0.0,0.0,0.0213879420825,0,0.156405,0,0,0,0,0,0,0,0,0,0
+169,POST!,73 min,2,0,4.16406758837,0.0,0.0,0.344115167065,0.0,0,0.02703,0,0,0,0,0,0,0,0,0,0
+170,Messi curls one against the post from inside the box!,73 min,7,4,35.5603970581,0.344115167065,0.0213879420825,0.0211237445254,0.022415404883,0,0.15462,0,0,0,0,0,0,0,0,0,0
+171,"I am not entirely sure how Barcelona are still behind in this match, but that is the case.",75 min,9,11,64.3924188974,0.0211237445254,0.0,0.0373506700673,0.107755613947,0,0.10714,0,0,0,0,0,0,0,0,0,0
+172,Villarreal hold onto their lead as we approach the final stages of this contest.,75 min,9,6,54.9124215152,0.0373506700673,0.022415404883,0.119350038906,0.0,0,0.31154,0,0,0,0,0,0,0,0,0,0
+173,"Villarreal want a penalty of their own as Mascherano makes a block, but the referee is not interested.",75 min,10,10,60.9581733062,0.119350038906,0.107755613947,0.0,0.0322618708359,0,0.29434,0,0,0,0,0,1,0,0,0,0
+174,CHANCES!,75 min,2,0,4.16406758837,0.0,0.0,0.0,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+175,Asenjo keeps out Suarez's effort and Neymar then over-head kicks the ball over the crossbar as Barcelona come close twice in quick succession.,75 min,17,8,85.8854797518,0.0,0.0322618708359,0.0,0.0,0,0.191515,0,0,1,0,0,0,0,0,0,0
+176,Wow!,75 min,2,0,5.66814498515,0.0,0.0,0.0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0
+177,VILLARREAL SUB!,76 min,3,0,6.83648029997,0.0,0.0,0.0,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+178,Castillejo replaces Pato for the home side.,76 min,6,2,25.8568620054,0.0,0.0,0.0,0.0982442375293,0,0.122535,0,0,0,0,0,0,0,0,0,0
+179,BOOKING!,78 min,2,0,4.97499780459,0.0,0.0,0.0,0.0,0,0.02632,0,0,0,0,0,0,0,0,0,0
+180,Roberto (Barcelona) is booked as the referee blows for a Villarreal free kick when Barcelona called for another handball.,78 min,15,7,66.6424296613,0.0,0.0982442375293,0.112688595816,0.146059600331,0,0.162695,0,0,0,0,0,0,0,0,0,0
+181,Roberto was the loudest voice there.,78 min,4,3,25.573564879,0.112688595816,0.0,0.0841804726042,0.00829380756111,0,0.07262,0,0,0,0,0,0,0,0,0,0
+182,You do get the feeling that there is another goal in this match as Barcelona continue to commit players forward.,81 min,11,10,75.8088284358,0.0841804726042,0.146059600331,0.0175208301135,0.136902336564,1,0.123445,0,0,0,0,0,0,0,0,0,0
+183,"Villarreal are so deep and surely Messi, or Neymar, or Suarez are going to pull something out the bag when their team needs it most.",81 min,15,13,101.814672739,0.0175208301135,0.00829380756111,0.0,0.122930813464,0,0.129575,0,0,0,0,0,0,0,0,0,0
+184,Barcelona just cannot lose this match.,81 min,4,4,26.2236341327,0.0,0.136902336564,0.0309312562987,0.0,0,0.090905,0,0,1,0,0,0,0,0,0,0
+185,It is almost like a training game at the moment as Villarreal sit deep and attempt to contain Barcelona's attack.,83 min,14,8,73.0594863366,0.0309312562987,0.122930813464,0.07033631602,0.0,0,0.14957,0,0,0,0,0,0,0,0,0,0
+186,Neymar eventually whips a cross into the box and Asenjo is up to claim.,83 min,8,7,50.2412218716,0.07033631602,0.0,0.0,0.0406341304619,0,0.15538,0,0,0,0,0,0,0,0,0,0
+187,BOOKING!,83 min,2,0,4.97499780459,0.0,0.0,0.0,0.0,0,0.02632,0,0,0,0,0,0,0,0,0,0
+188,Pique (Barcelona) is booked for dissent.,83 min,7,2,23.1811234568,0.0,0.0406341304619,0.0,0.0794544622461,0,0.10395,0,0,0,0,0,0,0,0,0,0
+189,VILLARREAL SUB!,84 min,3,0,6.83648029997,0.0,0.0,0.104156969788,0.0,0,0.05263,0,0,0,0,0,0,0,0,0,0
+190,Rodrigo replaces Soriano for Villarreal.,84 min,5,1,20.5450783894,0.104156969788,0.0794544622461,0.0,0.0,0,0.048785,0,0,0,0,0,0,0,0,0,0
+191,CHANCE!,84 min,2,0,4.16406758837,0.0,0.0,0.0,0.0,0,0.025645,0,0,0,0,0,0,0,0,0,0
+192,Turan heads a Neymar cross wide of the post.,84 min,7,3,31.5291728743,0.0,0.0,0.0107068028971,0.0,0,0.36279,0,0,0,0,0,0,0,0,0,0
+193,Stoppage in play at the moment as Musacchio receives some treatment on a wrist problem.,86 min,9,7,59.5150133802,0.0107068028971,0.0,0.0,0.149296212563,0,0.09731,0,0,0,0,0,0,0,0,0,0
+194,VILLARREAL SUB!,87 min,3,0,6.83648029997,0.0,0.0,0.0,0.0413728143499,0,0.05263,0,0,0,0,0,0,0,0,0,0
+195,Alvaro replaces Musacchio for the home side.,87 min,6,2,26.8219429014,0.0,0.149296212563,0.0243766192797,0.0170786323193,0,0.122535,0,0,0,0,0,0,0,0,0,0
+196,"Iniesta asks just a little bit too much from Roberto and the right-back can only poke the ball out of play, which gives Villarreal a goal-kick in the very final moments of this league match.",89 min,19,18,117.332930946,0.0243766192797,0.0413728143499,0.142089898122,0.181322360452,1,0.163285,0,0,0,0,0,0,0,0,0,0
+197,Messi wins a free kick just outside the Villarreal box...,89 min,8,3,33.1235504179,0.142089898122,0.0170786323193,0.0,0.303547451352,0,0.13437,0,1,0,0,0,0,0,0,0,0
+198,... GOAL!,90 min,3,0,4.41538201665,0.0,0.181322360452,0.0,0.0,1,0.025645,0,0,0,0,0,0,0,0,0,0
+199,Villarreal 1-1 Barcelona (Messi),90 min,6,0,7.96844797062,0.0,0.303547451352,0.135572441311,0.163535262419,0,0.065215,0,0,0,0,0,0,0,0,0,0
+200,It is absolutely different class from Messi as the Argentine picks out the top corner with a wonderful free kick.,90 min+1,12,9,73.1851028527,0.135572441311,0.0,0.230054178357,0.0193666567814,0,0.302075,1,0,0,0,0,0,0,0,0,0
+201,Only Messi could find the top corner under this sort of pressure.,90 min+1,8,5,49.0011996171,0.230054178357,0.163535262419,0.039182266039,0.0,0,0.18628,0,0,0,0,0,0,0,0,0,0
+202,We are into the second of four additional minutes here.,90 min+2,5,6,37.0961423484,0.039182266039,0.0193666567814,0.0,0.0,0,0.106385,0,0,0,0,0,0,0,0,0,0
+203,SENT OFF!,90 min+4,2,1,10.2376776816,0.0,0.0,0.0,0.0,0,0.022225,0,0,0,0,0,0,0,0,0,0
+204,COSTA!,90 min+4,2,0,4.16406758837,0.0,0.0,0.247633626696,0.0,0,0.02632,0,0,0,0,0,0,0,0,0,0
+205,Villarreal are reduced to 10 men as Costa is handed his second yellow for a lunge on Messi.,90 min+4,11,8,66.022476097,0.247633626696,0.0,0.0397215588807,0.0,0,0.349575,0,0,0,0,0,0,0,0,0,0
+206,FULL-TIME: Villarreal 1-1 Barcelona,90 min+5,5,0,4.60288807846,0.0397215588807,0.0,0.0,0.0921233244319,0,0.068185,0,0,0,0,0,0,0,0,0,0
+207,So there we have it.,9.35pm,1,5,17.5227920931,0.0,0.0,0.0,0.0527406715965,0,0.025,0,0,0,0,0,0,0,0,0,0
+208,The referee brings this incredible match to a close with Villarreal and Barcelona sharing the points in a 1-1 draw.,9.35pm,12,9,56.9240540063,0.0,0.0921233244319,0.0921152482636,0.0182654152037,0,0.17303,0,0,1,0,1,0,0,0,0,0
+209,"It appeared that Villarreal would collect a vital three points, but Messi had other ideas as he levelled with a stunning late free kick.",9.35pm,16,10,95.0786476498,0.0921152482636,0.0527406715965,0.0,0.0,0,0.21478,0,0,0,0,0,0,0,0,0,0
+210,Thanks for joining Sports Mole for the live action once again.,9.35pm,7,5,47.6213479813,0.0,0.0182654152037,0.0,0.0,0,0.08605,0,0,0,0,0,0,0,0,0,0
+211,Until next time!,9.35pm,3,1,14.0087026819,0.0,0.0,0.0,0.0,0,0.051285,0,0,0,0,0,0,0,0,0,0
